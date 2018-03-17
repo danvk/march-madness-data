@@ -14,6 +14,7 @@ def dict_to_array(d):
     return [d[k] for k in sorted(d.keys())]
 
 
+# The seeds in the first round are optional.
 DEFAULTS16 = [
     ('RD1-seed01', '1'),
     ('RD1-seed02', '16'),
@@ -34,11 +35,16 @@ DEFAULTS16 = [
 ]
 
 
+def clear_style(text):
+    """Remove ''' and '' from text."""
+    return re.sub(r"''+", '', text)
+
+
 def extract_template(template):
     # round # --> game # --> 0 or 1 --> {team|score|seed} --> value
     rounds = defaultdict(lambda: defaultdict(lambda: [{}, {}]))
     pairs = [
-        (str(p.name), p.value.strip_code().strip())
+        (str(p.name), clear_style(p.value.strip_code().strip()))
         for p in template.params
     ]
     if template.name.matches('16TeamBracket'):
@@ -59,7 +65,7 @@ def extract_template(template):
 
 
 def extract_bracket(source):
-    wikicode = mwparserfromhell.parse(source)
+    wikicode = mwparserfromhell.parse(source, skip_style_tags=True)
     templates = wikicode.filter_templates()
     brackets = [
         t

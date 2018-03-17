@@ -2,37 +2,9 @@
 """What's the highest sum of seeds ever in an NCAA game?"""
 
 import json
-import re
 import sys
 
-
-SEED_RE = re.compile(r'(\d+)')
-
-
-def all_games(bracket):
-    return [
-        game
-        for region in bracket
-        for rnd in region
-        for game in rnd
-    ]
-
-
-def extract_seed(seed):
-    """Sometimes a seed is something like MW1. This extracts the 1."""
-    m = SEED_RE.search(seed)
-    assert m, seed
-    return int(m.group(1))
-
-
-def sum_for_game(game):
-    return extract_seed(game[0]['seed']) + extract_seed(game[1]['seed'])
-
-
-def extract_year(path):
-    m = re.search(r'(\d\d\d\d)', path)
-    assert m, path
-    return int(m.group(1))
+from utils import all_games, extract_seed, extract_year, sum_for_game
 
 
 def format_result(game_path):
@@ -51,8 +23,6 @@ def main():
     game_paths = []
     for path in sys.argv[1:]:
         bracket = json.load(open(path))
-        for game in all_games(bracket):
-            sum_for_game(game)
         game_paths += [(game, path) for game in all_games(bracket)]
     ordered_games = sorted(game_paths, key=lambda gp: -sum_for_game(gp[0]))
     for game_path in ordered_games[:30]:
