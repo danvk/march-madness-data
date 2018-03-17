@@ -1,0 +1,1229 @@
+{{see also|2006 NCAA Men's Division I Basketball Championship Game}}
+{{Use mdy dates|date=May 2012}}
+{{Infobox NCAA Basketball Tournament |
+| Year=2006
+| Image=2006 Men s Final Four.svg
+| ImageSize=150px
+| Caption=2006 Final Four logo
+| Teams=65
+| FinalFourArena=[[RCA Dome]]
+| FinalFourCity=[[Indianapolis]], Indiana
+| Champions=[[Florida Gators men's basketball|Florida]]
+| TitleCount=1st
+| ChampGameCount=2nd
+| ChampFFCount=3rd
+| RunnerUp=[[UCLA Bruins men's basketball|UCLA]]
+| GameCount=13th
+| RunnerFFCount=16th
+| Semifinal1=[[George Mason Patriots men's basketball|George Mason]]
+| FinalFourCount=1st
+| Semifinal2=[[LSU Tigers basketball|LSU]]
+| FinalFourCount2=4th
+| Coach=[[Billy Donovan]]
+| CoachCount=1st
+| MOP=[[Joakim Noah]]
+| MOPTeam=Florida
+| Attendance=70,254
+| TopScorer=[[Glen Davis (basketball)|Glen Davis]]
+| TopScorerTeam=LSU
+| TopScorer2=Joakim Noah
+| TopScorer2Team=Florida
+| Points=97
+}}
+
+The '''2006 NCAA Division I Men's Basketball Tournament''' involved 65 teams playing in a [[single-elimination tournament]] to determine the national champion of men's NCAA Division I [[college basketball]] as a culmination of the [[2005–06 NCAA Division I men's basketball season|2005–06 basketball season]]. It began on March 14, 2006, and concluded on April 3 at the [[RCA Dome]] in [[Indianapolis|Indianapolis, Indiana]].
+
+None of the Tournament's top seeds advanced to the Final Four, the first time since [[1980 NCAA Men's Division I Basketball Tournament|1980]] that this occurred. For the second time in history, a team seeded 11th advanced to the Final Four as [[2005–06 George Mason Patriots men's basketball team|George Mason]] of the [[Colonial Athletic Association]] won the Washington, D.C. region. They were joined by Atlanta region winner [[2005–06 LSU Tigers basketball team|LSU]] (who was the first team to advance to the Final Four as an 11-seed in [[1986 NCAA Division I Men's Basketball Tournament|1986]]), Oakland region winner [[2005–06 UCLA Bruins men's basketball team|UCLA]], who had not made the Final Four since they won the National Championship in [[1995 NCAA Division I Men's Basketball Tournament|1995]], and Minneapolis region winner [[2005–06 Florida Gators men's basketball team|Florida]], who had not made the Final Four since their [[1999–2000 Florida Gators men's basketball team|runner-up finish]] in [[2000 NCAA Division I Men's Basketball Tournament|2000]] also in Indianapolis.
+
+Florida won their first ever national basketball championship by defeating UCLA 73–57 in the final game. Florida's [[Joakim Noah]] was named the [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]] of the NCAA Tournament.
+
+George Mason's run was one of several upsets by lower-seeded teams in the tournament. For the second consecutive year, a No. 14 seed beat a No. 3 seed as [[Northwestern State Demons basketball|Northwestern State]] defeated [[2005–06 Iowa Hawkeyes men's basketball team|Iowa]]. No. 13 seed [[2005–06 Bradley Braves men's basketball team|Bradley]] also defeated No. 4 seed [[2005–06 Kansas Jayhawks men's basketball team|Kansas]] and advanced to the Sweet Sixteen by defeating No. 5-seeded [[Pittsburgh Panthers men's basketball|Pittsburgh]] in the Second Round. Two No. 12 seeds won as well, as [[Montana Grizzlies basketball|Montana]] and [[2005–06 Texas A&M Aggies men's basketball team|Texas A&M]] both won their respective First Round matchups. For the second straight year, [[Milwaukee Panthers men's basketball|Milwaukee]] won as a double-digit seed, this time as the No. 11-seeded Panthers defeated [[Oklahoma Sooners men's basketball|Oklahoma]] in the First Round.
+
+==Tournament procedure and locations==
+{{details|NCAA Men's Division I Basketball Championship#Tournament format}}
+
+{{Location map+|USA|width=450|float=right|caption=2006 first and second rounds (note: the play-in game was held in Dayton, Ohio)|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.715738|lon_deg=-117.161084|position=right|background=#FFFFFF|label=San Diego|link=Cox Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.760779|lon_deg=-111.891047|position=left|background=#FFFFFF|label=Salt Lake City|link=Jon M. Huntsman Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.780262|lon_deg=-96.800978|position=right|background=#FFFFFF|label=Dallas|link=American Airlines Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.687532|lon_deg=-83.234103|position=left|background=#FFFFFF|label=Auburn Hills|link=The Palace of Auburn Hills}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.758948|lon_deg=-84.191607|position=bottom|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=30.332184|lon_deg=-81.655651|position=left|background=#FFFFFF|label=Jacksonville|link=Jacksonville Veterans Memorial Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.072635|lon_deg=-79.791975|position=left|background=#FFFFFF|label=Greensboro|link=Greensboro Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.952584|lon_deg=-75.165222|position=left|background=#FFFFFF|label=Philadelphia|link=Wachovia Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2006 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=37.804364|lon_deg=-122.271114|position=bottom|background=#FFFFFF|label=Oakland|link=Oakland Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=44.983334|lon_deg=-93.266670|position=bottom|background=#FFFFFF|label=Minneapolis|link=Hubert H. Humphrey Metrodome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=left|background=#FFFFFF|label=Atlanta|link=Georgia Dome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.907192|lon_deg=-77.036871|position=bottom|background=#FFFFFF|label=Washington, D.C.|link=Capital One Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=left|background=#FFFFFF|label=Indianapolis|link=RCA Dome}}
+}}
+
+A total of 65 teams were selected to participate in the tournament. Of that total, 31 of the teams earned automatic bids by winning their [[List of NCAA conferences|conference]] tournaments. [[Penn Quakers men's basketball|Penn]] earned an automatic bid by winning the regular-season title of the [[Ivy League]], which did not conduct a conference tournament. The remaining 34 teams were granted "at-large" bids, which are extended by the NCAA Selection Committee.
+
+The initial game on March 14 officially named the [[NCAA Men's Division I Basketball Opening Round|Opening Round game]], but popularly called the "play-in game", had [[Monmouth Hawks men's basketball|Monmouth]], winner of the [[2006 Northeast Conference Men's Basketball Tournament|Northeast Conference Tournament]], facing [[Hampton Pirates men's basketball|Hampton]], who won the [[MEAC Men's Basketball Tournament|Mid-Eastern Athletic Conference Tournament]], for a chance to play top seed [[2005–06 Villanova Wildcats men's basketball team|Villanova]] in the First Round of the Tournament. Monmouth defeated Hampton, 71–49, to advance to play Villanova.
+
+All teams were seeded from 1 to 16 within their regions. The [[NCAA basketball tournament selection process|Selection Committee]] seeded the entire field from 1 to 65. In a practice used since [[2004 NCAA Division I Men's Basketball Tournament|2004]], the ranking of the four top seeds against each other would determine the pairings in the Final Four. The top overall seed would be seeded to play the fourth overall seed in the national semifinals, should both teams advance that far. In 2006, these rankings were as follows: No. 1 [[Duke University|Duke]], No. 2 [[University of Connecticut|Connecticut]], No. 3 [[Villanova University|Villanova]], and No. 4 [[University of Memphis|Memphis]].<ref>[http://www.newsday.com/sports/uconn-nova-no-1-seeds-1.649881 UConn, 'Nova No. 1 seeds]</ref>
+
+The first and second-round games were played at the following sites:
+*March 16/18:
+:[[Viejas Arena|Cox Arena]], [[San Diego|San Diego, California]] (Host: [[San Diego State University]])
+:[[Greensboro Coliseum Complex|Greensboro Coliseum]], [[Greensboro, North Carolina]] (Host: [[Atlantic Coast Conference]])
+:[[Jacksonville Veterans Memorial Arena]], [[Jacksonville, Florida]] (Host: [[Jacksonville University]])
+:[[Jon M. Huntsman Center]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
+*March 17/19:
+:[[American Airlines Center]], [[Dallas|Dallas, Texas]] (Host: [[Big 12 Conference]])
+:[[The Palace of Auburn Hills]], [[Auburn Hills, Michigan]] (Host: [[Oakland University]])
+:[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+:[[Wells Fargo Center (Philadelphia)|Wachovia Center]], [[Philadelphia|Philadelphia, Pennsylvania]] (Host: [[Atlantic 10 Conference]])
+
+The four regionals were officially named after the four host cities, a practice which also began in 2004. However, in [[2007 NCAA Division I Men's Basketball Tournament|2007]], the NCAA returned to naming regionals by their geographic location. The 2006 regionals were: 
+*March 23/25:
+:'''Atlanta Regional''', [[Georgia Dome]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Institute of Technology]])
+:'''Oakland Regional''', [[Oracle Arena|Oakland Arena]], [[Oakland, California]] (Host: [[University of San Francisco]])
+*March 24/26:
+:'''Minneapolis Regional''', [[Hubert H. Humphrey Metrodome]], [[Minneapolis|Minneapolis, Minnesota]] (Host: [[University of Minnesota Twin Cities|University of Minnesota]])
+:'''Washington, D.C. Regional''', [[Capital One Arena|Verizon Center]], [[Washington, D.C.]] (Host: [[Georgetown University]])
+
+Each regional winner advanced to the Final Four, held on April 1 and 3 at the [[RCA Dome]] in [[Indianapolis|Indianapolis, Indiana]], hosted by [[Butler University]] and the [[Horizon League]]. This was the fourth and final time the RCA Dome would host the Final Four before moving to [[Lucas Oil Stadium]]. For the first time, the tournament came to Jacksonville, Florida, playing games at the Jacksonville Veterans Memorial Arena. This marked the sixth city and fifth metropolitan area in the state of Florida to host games. The 2006 tournament also marked the final tournament games held at the Huntsman Center and Oakland (now Oracle) Arena. Tournament games have moved to downtown Salt Lake City and the [[Vivint Smart Home Arena]] since, to take advantage of more amenities there as opposed to the campus of the [[University of Utah]]. As for Oakland, there are currently no games scheduled in the near future, with 2022 scheduled to host games at the new [[Chase Center (arena)|Chase Center]] in downtown [[San Francisco]]. As the [[Golden State Warriors]] will also be moving to the Chase Center once it opens, it is unclear what will happen to the Oracle Arena once their primary tenant moves out.
+
+==Qualifying teams==
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | Atlanta Regional
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type
+|-
+|No. 1
+| [[2005–06 Duke Blue Devils men's basketball team|Duke]]
+| [[Atlantic Coast Conference|ACC]] 
+| [[Mike Krzyzewski]] 
+| 30–3
+| [[2006 ACC Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 2
+| [[2005–06 Texas Longhorns men's basketball team|Texas]]
+| [[Big 12]]
+| [[Rick Barnes]] 
+| 27–6
+| At-Large Bid
+|-
+|No. 3
+| [[2005–06 Iowa Hawkeyes men's basketball team|Iowa]]
+| [[Big Ten]]
+| [[Steve Alford]]
+| 25–8
+| [[2006 Big Ten Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 4
+| [[LSU Tigers basketball|LSU]]
+| [[Southeastern Conference|SEC]]
+| [[John Brady (basketball coach)|John Brady]]
+| 23–8
+| At-Large Bid
+|-
+|No. 5
+| [[2005–06 Syracuse Orange men's basketball team|Syracuse]]
+| [[Big East Conference|Big East]]
+| [[Jim Boeheim]]
+| 23–11
+| [[2006 Big East Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 6
+| [[West Virginia Mountaineers men's basketball|West Virginia]]
+| [[Big East Conference|Big East]]
+| [[John Beilein]]
+| 20–10
+| At-Large Bid
+|-
+|No. 7
+| [[California Golden Bears men's basketball|California]]
+| [[Pac-10]]
+| [[Ben Braun]]
+| 20–10
+| At-Large Bid
+|-
+|No. 8
+| [[George Washington Colonials men's basketball|George Washington]]
+| [[Atlantic 10]]
+| [[Karl Hobbs]]
+| 26–2
+| At-Large Bid
+|-
+|No. 9
+| [[UNC Wilmington Seahawks|UNC Wilmington]]
+| [[Colonial Athletic Association|CAA]]
+| [[Brad Brownell]]
+| 25–7
+| Tournament Champion
+|-
+|No. 10
+| [[NC State Wolfpack men's basketball|North Carolina State]]
+| [[Atlantic Coast Conference|ACC]]
+| [[Herb Sendek]]
+| 21–9
+| At-Large Bid
+|-
+|No. 11
+| [[Southern Illinois Salukis men's basketball|Southern Illinois]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| [[Chris Lowery]]
+| 22–10
+| Tournament Champion
+|-
+|No. 12
+| [[Texas A&M Aggies men's basketball|Texas A&M]]
+| [[Big 12]]
+| [[Billy Gillispie]]
+| 21–8
+| At-Large Bid
+|-
+|No. 13
+| [[Iona Gaels men's basketball|Iona]]
+| [[Metro Atlantic Athletic Conference|MAAC]]
+| [[Jeff Ruland]]
+| 23–7
+| Tournament Champion
+|-
+|No. 14
+| [[Northwestern State Demons basketball|Northwestern State]]
+| [[Southland Conference|Southland]]
+| [[Mike McConathy]]
+| 25–7
+| Tournament Champion
+|-
+|No. 15
+| [[Penn Quakers men's basketball|Pennsylvania]]
+| [[Ivy League|Ivy]]
+| [[Fran Dunphy]]
+| 20–8
+| Regular Season Champion
+|-
+|No. 16
+| [[Southern Jaguars basketball|Southern]]
+| [[Southwestern Athletic Conference|SWAC]]
+| [[Rob Spivery]]
+| 19–12
+| Tournament Champion
+|}
+
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" |Oakland Regional
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|No. 1
+| [[2005–06 Memphis Tigers men's basketball team|Memphis]]
+| [[Conference USA|C-USA]]
+| [[John Calipari]]
+| 30–3
+| Tournament Champion
+|-
+|No. 2
+| [[2005–06 UCLA Bruins men's basketball team|UCLA]]
+| [[Pac-10]]
+| [[Ben Howland]]
+| 27–6
+| [[2006 Pacific-10 Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 3
+| [[2005–06 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+| [[West Coast Conference|WCC]]
+| [[Mark Few]]
+| 27–3
+| Tournament Champion
+|-
+|No. 4
+| [[2005–06 Kansas Jayhawks men's basketball team|Kansas]]
+| [[Big 12]]
+| [[Bill Self]]
+| 25–7 
+| [[2006 Big 12 Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 5
+| [[Pittsburgh Panthers men's basketball|Pittsburgh]]
+| [[Big East Conference|Big East]]
+| [[Jamie Dixon]]
+| 24–7
+| At-Large Bid
+|-
+|No. 6
+| [[2005–06 Indiana Hoosiers men's basketball team|Indiana]]
+| [[Big Ten]]
+| [[Mike Davis (basketball coach)|Mike Davis]]
+| 18–11
+| At-Large Bid
+|-
+|No. 7
+| [[Marquette Golden Eagles men's basketball|Marquette]]
+| [[Big East Conference|Big East]]
+| [[Tom Crean (basketball)|Tom Crean]]
+| 20–10
+| At-Large Bid
+|-
+|No. 8
+| [[Arkansas Razorbacks basketball|Arkansas]]
+| [[Southeastern Conference|SEC]]
+| [[Stan Heath]]
+| 22–9
+| At-Large Bid
+|-
+|No. 9
+| [[Bucknell Bison men's basketball|Bucknell]]
+| [[Patriot League|Patriot]]
+| [[Pat Flannery]]
+| 26–4
+| Tournament Champion
+|-
+|No. 10
+| [[Alabama Crimson Tide men's basketball|Alabama]]
+| [[Southeastern Conference|SEC]]
+| [[Mark Gottfried]]
+| 17–12
+| At-Large Bid
+|-
+|No. 11
+| [[San Diego State Aztecs men's basketball|San Diego State]]
+| [[Mountain West]]
+| [[Steve Fisher]]
+| 24–8
+| Tournament Champion
+|-
+|No. 12
+| [[Kent State Golden Flashes men's basketball|Kent State]]
+| [[Mid-American Conference|Mid-American]]
+| [[Jim Christian]]
+| 25–8
+| Tournament Champion
+|-
+|No. 13
+| [[Bradley Braves men's basketball|Bradley]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| [[Jim Les]]
+| 20–10
+| At-Large Bid
+|-
+|No. 14
+| [[Xavier Musketeers men's basketball|Xavier]]
+| [[Atlantic 10]]
+| [[Sean Miller]]
+| 21–10
+| Tournament Champion
+|-
+|No. 15
+| [[Belmont Bruins men's basketball|Belmont]]
+| [[Atlantic Sun Conference|Atlantic Sun]]
+| [[Rick Byrd]]
+| 20–10
+| Tournament Champion
+|-
+|No. 16
+| [[Oral Roberts Golden Eagles men's basketball|Oral Roberts]]
+| [[The Summit League|Mid-Continent]]
+| [[Scott Sutton]]
+| 21–11
+| Tournament Champion
+|}
+
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | Washington, D.C. Regional
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type
+|-
+|No. 1
+| [[2005–06 Connecticut Huskies men's basketball team|Connecticut]]
+| [[Big East Conference|Big East]]
+| [[Jim Calhoun]]
+|27–3
+|At-Large Bid
+|-
+|No. 2
+| [[Tennessee Volunteers basketball|Tennessee]]
+| [[Southeastern Conference|SEC]]
+| [[Bruce Pearl]]
+|21–7
+|At-Large Bid
+|-
+|No. 3
+| [[2005–06 North Carolina Tar Heels men's basketball team|North Carolina]]
+| [[Atlantic Coast Conference|ACC]]
+| [[Roy Williams (coach)|Roy Williams]]
+|23–8
+|At-Large Bid
+|-
+|No. 4
+| [[2005–06 Illinois Fighting Illini men's basketball team|Illinois]]
+| [[Big Ten]]
+| [[Bruce Weber (basketball)|Bruce Weber]]
+|25–6
+|At-Large Bid
+|-
+|No. 5
+| [[Washington Huskies men's basketball|Washington]]
+| [[Pac-10]]
+| [[Lorenzo Romar]]
+|24–6
+|At-Large Bid
+|-
+|No. 6
+| [[2005–06 Michigan State Spartans men's basketball team|Michigan State]]
+| [[Big Ten]]
+| [[Tom Izzo]]
+|22–11
+|At-Large Bid
+|-
+|No. 7
+| [[Wichita State Shockers men's basketball|Wichita State]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| [[Mark Turgeon]]
+|24–8
+|At-Large Bid
+|-
+|No. 8
+| [[Kentucky Wildcats men's basketball team|Kentucky]]
+| [[Southeastern Conference|SEC]]
+| [[Tubby Smith]]
+|21–12
+|At-Large Bid
+|-
+|No. 9
+| [[UAB Blazers men's basketball|UAB]]
+| [[Conference USA|C-USA]]
+| [[Mike Anderson (basketball)|Mike Anderson]]
+|24–6
+|At-Large Bid
+|-
+|No. 10
+| [[Seton Hall Pirates men's basketball|Seton Hall]]
+| [[Big East Conference|Big East]]
+| [[Louis Orr]]
+|18–11
+|At-Large Bid
+|-
+|No. 11
+| [[2005-06 George Mason Patriots men's basketball team|George Mason]]
+| [[Colonial Athletic Association|CAA]]
+| [[Jim Larranaga]]
+|25–7
+|At-Large Bid
+|-
+|No. 12
+| [[Utah State Aggies men's basketball|Utah State]]
+| [[Western Athletic Conference|WAC]]
+| [[Stew Morrill]]
+|23–8
+|At-Large Bid
+|-
+|No. 13
+| [[Air Force Falcons men's basketball|Air Force]]
+| [[Mountain West]]
+| [[Jeff Bzdelik]]
+|24–6
+|At-Large Bid
+|-
+|No. 14
+| [[Murray State Racers men's basketball|Murray State]]
+| [[Ohio Valley Conference|Ohio Valley]]
+| [[Mick Cronin (basketball coach)|Mick Cronin]]
+|24–6
+|[[2006 Ohio Valley Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 15
+| [[Winthrop Eagles men's basketball|Winthrop]]
+| [[Big South]]
+| [[Gregg Marshall]]
+|23–7
+|Tournament Champion
+|-
+|No. 16
+| [[Albany Great Danes men's basketball|Albany]]
+| [[America East Conference|America East]]
+| [[Will Brown (basketball coach)|Will Brown]]
+|21–10
+|Tournament Champion
+|}
+
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | Minneapolis Regional
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Coach 
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|No. 1
+| [[2005–06 Villanova Wildcats men's basketball team|Villanova]]
+| [[Big East Conference|Big East]]
+| [[Jay Wright (coach)|Jay Wright]]
+| 25–4
+| At-Large Bid
+|-
+|No. 2
+| [[2005–06 Ohio State Buckeyes men's basketball team|Ohio State]]
+| [[Big Ten]]
+| [[Thad Matta]]
+| 25–5
+| At-Large Bid
+|-
+|No. 3
+| [[2005–06 Florida Gators men's basketball team|Florida]]
+| [[Southeastern Conference|SEC]]
+| [[Billy Donovan]]
+| 27–6
+| [[2006 SEC Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 4
+| [[Boston College Eagles men's basketball|Boston College]]
+| [[Atlantic Coast Conference|ACC]]
+| [[Al Skinner]]
+| 26–7
+| At-Large Bid
+|-
+|No. 5
+| [[Nevada Wolf Pack men's basketball|Nevada]]
+| [[Western Athletic Conference|WAC]]
+| [[Mark Fox (basketball)|Mark Fox]]
+| 27–5
+| Tournament Champion
+|-
+|No. 6
+| [[Oklahoma Sooners men's basketball|Oklahoma]]
+| [[Big 12]]
+| [[Kelvin Sampson]]
+| 20–8
+| At-Large Bid
+|-
+|No. 7
+| [[2005–06 Georgetown Hoyas men's basketball team|Georgetown]]
+| [[Big East Conference|Big East]]
+| [[John Thompson III]]
+| 21–9
+| At-Large Bid
+|-
+|No. 8
+| [[2005–06 Arizona Wildcats men's basketball team|Arizona]]
+| [[Pac-10]]
+| [[Lute Olson]]
+| 19–12
+| At-Large Bid
+|-
+|No. 9
+| [[2005–06 Wisconsin Badgers men's basketball team|Wisconsin]]
+| [[Big Ten]]
+| [[Bo Ryan]]
+| 19–11
+| At-Large Bid
+|-
+|No. 10
+| [[Northern Iowa Panthers men's basketball|Northern Iowa]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| [[Greg McDermott]]
+| 23–9
+| At-Large Bid
+|-
+|No. 11
+| [[Milwaukee Panthers men's basketball|UW-Milwaukee]]
+| [[Horizon League|Horizon]]
+| [[Rob Jeter]]
+| 21–8
+| Tournament Champion
+|-
+|No. 12
+| [[Montana Grizzlies basketball|Montana]]
+| [[Big Sky Conference|Big Sky]]
+| [[Larry Krystkowiak]]
+| 23–6
+| Tournament Champion
+|-
+|No. 13
+| [[Pacific Tigers men's basketball|Pacific]]
+| [[Big West]]
+| [[Bob Thomason]]
+| 24–7
+| Tournament Champion
+|-
+|No. 14
+| [[South Alabama Jaguars men's basketball|South Alabama]]
+| [[Sun Belt Conference|Sun Belt]]
+| [[John Pelphrey]]
+| 24–6
+| Tournament Champion
+|-
+|No. 15
+| [[Davidson Wildcats men's basketball|Davidson]]
+| [[Southern Conference|Southern]]
+| [[Bob McKillop]]
+| 18–10
+| Tournament Champion
+|-
+|No. 16*
+| [[Monmouth Hawks men's basketball|Monmouth]]
+| [[Northeast Conference|Northeast]]
+| [[Dave Calloway]]
+| 18–14
+| Tournament Champion
+|-
+|No. 16*
+| [[Hampton Pirates men's basketball|Hampton]]
+| [[Mid-Eastern Athletic Conference|MEAC]]
+| [[Bobby Collins (basketball)|Bobby Collins]]
+| 16–15
+| Tournament Champion
+|}
+<nowiki>*</nowiki><small>Opening Round participants</small>
+
+==Bids by conference==
+{| class="wikitable"
+|-
+! colspan="5" style="background:#ffdead;" | Bids by Conference
+|-
+!style="background: #e3e3e3;"|Bids
+!style="background: #e3e3e3;"|Conference(s)
+|-
+|8
+| [[Big East Conference|Big East]]
+|-
+|6
+| [[Southeastern Conference|SEC]], [[Big Ten]]
+|-
+|4
+| [[Atlantic Coast Conference|ACC]], [[Big 12]], [[Pac-10]], [[Missouri Valley Conference|Missouri Valley]]
+|-
+|2
+| [[Atlantic 10]], [[Colonial Athletic Association|CAA]], [[Conference USA|C-USA]], [[Mountain West]], [[Western Athletic Conference|WAC]]
+|-
+|1
+| 19 others
+|}
+
+==Bracket==
+(*) – Number of asterisks denotes number of overtimes.
+
+===Opening Round game – Dayton, Ohio===
+Winner advances to Minneapolis Regional vs. No. 1 Villanova.
+
+{{2TeamBracket | RD1=Play-In Game<br/>March 13
+| RD1-seed1=16
+| RD1-team1= '''[[Monmouth Hawks men's basketball|Monmouth]]'''
+| RD1-score1=71
+| RD1-seed2=16
+| RD1-team2= [[Hampton Pirates men's basketball|Hampton]]
+| RD1-score2=49
+}}
+
+===Atlanta Regional===
+{{16TeamBracket |
+| subgroup1='''[[Greensboro Coliseum|Greensboro]]'''
+| subgroup2='''[[Jacksonville Veterans Memorial Arena|Jacksonville]]'''
+| subgroup3='''[[The Palace of Auburn Hills|Auburn Hills]]'''
+| subgroup4='''[[American Airlines Center|Dallas]]'''
+| RD1-team01='''[[Duke Blue Devils men's basketball|Duke]]'''
+| RD1-team02=[[Southern University|Southern]]
+| RD1-score01='''70'''
+| RD1-score02=54
+| RD1-team03='''[[The George Washington University|George Washington]]'''
+| RD1-team04=[[University of North Carolina Wilmington|UNC-Wilmington]]
+| RD1-score03='''88*'''
+| RD1-score04=85
+| RD1-team05=[[Syracuse Orange|Syracuse]]
+| RD1-team06='''[[Texas A&M Aggies men's basketball|Texas A&M]]'''
+| RD1-score05=58
+| RD1-score06='''66'''
+| RD1-team07='''[[LSU Tigers basketball|LSU]]'''
+| RD1-team08=[[Iona College (New York)|Iona]]
+| RD1-score07='''80'''
+| RD1-score08=64
+| RD1-team09='''[[West Virginia Mountaineers|West Virginia]]'''
+| RD1-team10=[[Southern Illinois University Carbondale|Southern Illinois]]
+| RD1-score09='''64'''
+| RD1-score10=46
+| RD1-team11=[[Iowa Hawkeyes|Iowa]]
+| RD1-team12='''[[Northwestern State University|Northwestern State]]'''
+| RD1-score11=63
+| RD1-score12='''64'''
+| RD1-team13=[[California Golden Bears|California]]
+| RD1-team14='''[[NC State Wolfpack basketball|North Carolina State]]'''
+| RD1-score13=52
+| RD1-score14='''58'''
+| RD1-team15='''[[Texas Longhorns men's basketball|Texas]]'''
+| RD1-team16=[[Pennsylvania Quakers men's basketball|Pennsylvania]]
+| RD1-score15='''60'''
+| RD1-score16=52
+| RD2-seed01=1
+| RD2-team01='''Duke'''
+| RD2-seed02=8
+| RD2-team02=George Washington
+| RD2-score01='''74'''
+| RD2-score02=61
+| RD2-seed03=12
+| RD2-team03=Texas A&M
+| RD2-seed04=4
+| RD2-team04='''LSU'''
+| RD2-score03=57
+| RD2-score04='''58'''
+| RD2-seed05=6
+| RD2-team05='''West Virginia'''
+| RD2-seed06=14
+| RD2-team06=Northwestern State
+| RD2-score05='''67'''
+| RD2-score06=54
+| RD2-seed07=10
+| RD2-team07=North Carolina State
+| RD2-seed08=2
+| RD2-team08='''Texas'''
+| RD2-score07=54
+| RD2-score08='''75'''
+| RD3-seed01=1
+| RD3-team01=Duke
+| RD3-seed02=4
+| RD3-team02='''LSU'''
+| RD3-score01=54
+| RD3-score02='''62'''
+| RD3-seed03=6
+| RD3-team03=West Virginia
+| RD3-seed04=2
+| RD3-team04='''Texas'''
+| RD3-score03=71
+| RD3-score04='''74'''
+| RD4-seed01=4
+| RD4-team01='''LSU'''
+| RD4-seed02=2
+| RD4-team02=Texas
+| RD4-score01='''70*'''
+| RD4-score02=60
+}}
+
+===Oakland Regional===
+{{16TeamBracket |
+| subgroup1='''[[American Airlines Center|Dallas]]'''
+| subgroup2='''[[The Palace of Auburn Hills|Auburn Hills]]'''
+| subgroup3='''[[Delta Center|Salt Lake City]]'''
+| subgroup4='''[[Cox Arena|San Diego]]'''
+| RD1-team01='''[[Memphis Tigers men's basketball|Memphis]]'''
+| RD1-team02=[[Oral Roberts Golden Eagles basketball|Oral Roberts]]
+| RD1-score01='''94'''
+| RD1-score02=78
+| RD1-team03=[[Arkansas Razorbacks|Arkansas]]
+| RD1-team04='''[[Bucknell University|Bucknell]]'''
+| RD1-score03=55
+| RD1-score04='''59'''
+| RD1-team05='''[[Pittsburgh Panthers men's basketball|Pittsburgh]]'''
+| RD1-team06=[[Kent State Golden Flashes men's basketball|Kent State]]
+| RD1-score05='''79'''
+| RD1-score06=64
+| RD1-team07=[[Kansas Jayhawks men's basketball|Kansas]]
+| RD1-team08='''[[Bradley University|Bradley]]'''
+| RD1-score07=73
+| RD1-score08='''77'''
+| RD1-team09='''[[Indiana Hoosiers|Indiana]]'''
+| RD1-team10=[[San Diego State University|San Diego State]]
+| RD1-score09='''87'''
+| RD1-score10=83
+| RD1-team11='''[[Gonzaga Bulldogs|Gonzaga]]'''
+| RD1-team12=[[Xavier University (Cincinnati)|Xavier]]
+| RD1-score11='''79'''
+| RD1-score12=75
+| RD1-team13=[[Marquette Golden Eagles|Marquette]]
+| RD1-team14='''[[Alabama Crimson Tide basketball|Alabama]]'''
+| RD1-score13=85
+| RD1-score14='''90'''
+| RD1-team15='''[[UCLA Bruins men's basketball|UCLA]]'''
+| RD1-team16=[[Belmont University|Belmont]]
+| RD1-score15='''78'''
+| RD1-score16=44
+| RD2-seed01=1
+| RD2-team01='''Memphis'''
+| RD2-seed02=9
+| RD2-team02=Bucknell
+| RD2-score01='''72'''
+| RD2-score02=56
+| RD2-seed03=5
+| RD2-team03=Pittsburgh
+| RD2-seed04=13
+| RD2-team04='''Bradley'''
+| RD2-score03=66
+| RD2-score04='''72'''
+| RD2-seed05=6
+| RD2-team05=Indiana
+| RD2-seed06=3
+| RD2-team06='''Gonzaga'''
+| RD2-score05=80
+| RD2-score06='''90'''
+| RD2-seed07=10
+| RD2-team07=Alabama
+| RD2-seed08=2
+| RD2-team08='''UCLA'''
+| RD2-score07=59
+| RD2-score08='''62'''
+| RD3-seed01=1
+| RD3-team01='''Memphis'''
+| RD3-seed02=13
+| RD3-team02=Bradley
+| RD3-score01='''80'''
+| RD3-score02=64
+| RD3-seed03=3
+| RD3-team03=Gonzaga
+| RD3-seed04=2
+| RD3-team04='''UCLA'''
+| RD3-score03=71
+| RD3-score04='''73'''
+| RD4-seed01=1
+| RD4-team01=Memphis
+| RD4-seed02=2
+| RD4-team02='''UCLA'''
+| RD4-score01=45
+| RD4-score02='''50'''
+}}
+
+===Minneapolis Regional===
+{{16TeamBracket |
+| subgroup1='''[[Wachovia Center|Philadelphia]]'''
+| subgroup2='''[[Delta Center|Salt Lake City]]'''
+| subgroup3='''[[Jacksonville Veterans Memorial Arena|Jacksonville]]'''
+| subgroup4='''[[University of Dayton Arena|Dayton]]'''
+| RD1-team01='''[[Villanova Wildcats|Villanova]]'''
+| RD1-team02=[[Monmouth University|Monmouth]]
+| RD1-score01='''58'''
+| RD1-score02=45
+| RD1-team03='''[[Arizona Wildcats|Arizona]]'''
+| RD1-team04=[[Wisconsin Badgers|Wisconsin]]
+| RD1-score03='''94'''
+| RD1-score04=75
+| RD1-team05=[[University of Nevada, Reno|Nevada]]
+| RD1-team06='''[[University of Montana – Missoula|Montana]]'''
+| RD1-score05=79
+| RD1-score06='''87'''
+| RD1-team07='''[[Boston College Eagles basketball|Boston College]]'''
+| RD1-team08=[[University of the Pacific (United States)|Pacific]]
+| RD1-score07='''88**'''
+| RD1-score08=76
+| RD1-team09=[[Oklahoma Sooners|Oklahoma]]
+| RD1-team10='''[[UW–Milwaukee Panthers|UW–Milwaukee]]'''
+| RD1-score09=74
+| RD1-score10='''82'''
+| RD1-team11='''[[Florida Gators|Florida]]'''
+| RD1-team12=[[University of South Alabama|South Alabama]]
+| RD1-score11='''76'''
+| RD1-score12=50
+| RD1-team13='''[[2005-06 Georgetown Hoyas men's basketball team|Georgetown]]'''
+| RD1-team14=[[Northern Iowa Panthers|Northern Iowa]]
+| RD1-score13='''54'''
+| RD1-score14=49
+| RD1-team15='''[[Ohio State Buckeyes|Ohio State]]'''
+| RD1-team16=[[Davidson College|Davidson]]
+| RD1-score15='''70'''
+| RD1-score16=62
+| RD2-seed01=1
+| RD2-team01='''Villanova'''
+| RD2-seed02=8
+| RD2-team02=Arizona
+| RD2-score01='''82'''
+| RD2-score02=78
+| RD2-seed03=12
+| RD2-team03=Montana
+| RD2-seed04=4
+| RD2-team04='''Boston College'''
+| RD2-score03=56
+| RD2-score04='''69'''
+| RD2-seed05=11
+| RD2-team05=UW–Milwaukee
+| RD2-seed06=3
+| RD2-team06='''Florida'''
+| RD2-score05=60
+| RD2-score06='''82'''
+| RD2-seed07=7
+| RD2-team07='''Georgetown'''
+| RD2-seed08=2
+| RD2-team08=Ohio State
+| RD2-score07='''70'''
+| RD2-score08=52
+| RD3-seed01=1
+| RD3-team01='''Villanova'''
+| RD3-seed02=4
+| RD3-team02=Boston College
+| RD3-score01='''60*'''
+| RD3-score02=59
+| RD3-seed03=3
+| RD3-team03='''Florida'''
+| RD3-seed04=7
+| RD3-team04=Georgetown
+| RD3-score03='''57'''
+| RD3-score04=53
+| RD4-seed01=1
+| RD4-team01=Villanova
+| RD4-seed02=3
+| RD4-team02='''Florida'''
+| RD4-score01=62
+| RD4-score02='''75'''
+}}
+
+===Washington, D.C. Regional===
+{{16TeamBracket |
+| subgroup1='''[[Wachovia Center|Philadelphia]]'''
+| subgroup2='''[[Cox Arena|San Diego]]'''
+| subgroup3='''[[University of Dayton Arena|Dayton]]'''
+| subgroup4='''[[Greensboro Coliseum|Greensboro]]'''
+| RD1-team01='''[[2005–06 Connecticut Huskies men's basketball team|Connecticut]]'''
+| RD1-team02=[[Albany Great Danes men's basketball|Albany]]
+| RD1-score01='''72'''
+| RD1-score02=59
+| RD1-team03='''[[Kentucky Wildcats|Kentucky]]'''
+| RD1-team04=[[UAB Blazers|UAB]]
+| RD1-score03='''69'''
+| RD1-score04=64
+| RD1-team05='''[[Washington Huskies|Washington]]'''
+| RD1-team06=[[Utah State University|Utah State]]
+| RD1-score05='''75'''
+| RD1-score06=61
+| RD1-team07='''[[Illinois Fighting Illini|Illinois]]'''
+| RD1-team08=[[United States Air Force Academy|Air Force]]
+| RD1-score07='''78'''
+| RD1-score08=69
+| RD1-team09=[[Michigan State Spartans|Michigan State]]
+| RD1-team10='''[[George Mason University|George Mason]]'''
+| RD1-score09=65
+| RD1-score10='''75'''
+| RD1-team11='''[[North Carolina Tar Heels men's basketball|North Carolina]]'''
+| RD1-team12=[[Murray State University|Murray State]]
+| RD1-score11='''69'''
+| RD1-score12=65
+| RD1-team13='''[[Wichita State University|Wichita State]]'''
+| RD1-team14=[[Seton Hall University|Seton Hall]]
+| RD1-score13='''86'''
+| RD1-score14=66
+| RD1-team15='''[[University of Tennessee|Tennessee]]'''
+| RD1-team16=[[Winthrop University|Winthrop]]
+| RD1-score15='''63'''
+| RD1-score16=61
+| RD2-seed01=1
+| RD2-team01='''Connecticut'''
+| RD2-seed02=8
+| RD2-team02=Kentucky
+| RD2-score01=87
+| RD2-score02=83
+| RD2-seed03=5
+| RD2-team03='''Washington'''
+| RD2-seed04=4
+| RD2-team04=Illinois
+| RD2-score03='''67'''
+| RD2-score04=64
+| RD2-seed05=11
+| RD2-team05='''George Mason'''
+| RD2-seed06=3
+| RD2-team06=North Carolina
+| RD2-score05='''65'''
+| RD2-score06=60
+| RD2-seed07=7
+| RD2-team07='''Wichita State'''
+| RD2-seed08=2
+| RD2-team08=Tennessee
+| RD2-score07='''80'''
+| RD2-score08=73
+| RD3-seed01=1
+| RD3-team01='''Connecticut'''
+| RD3-seed02=5
+| RD3-team02=Washington
+| RD3-score01='''98*'''
+| RD3-score02=92
+| RD3-seed03=11
+| RD3-team03='''George Mason'''
+| RD3-seed04=7
+| RD3-team04=Wichita State
+| RD3-score03='''63'''
+| RD3-score04=55
+| RD4-seed01=1
+| RD4-team01=Connecticut
+| RD4-seed02=11
+| RD4-team02='''George Mason'''
+| RD4-score01=84
+| RD4-score02='''86*'''
+}}
+
+===Final Four – Indianapolis, Indiana===
+[[File:Final 4 Nationals 1.jpg|thumb|[[RCA Dome]] during the Final Four]]
+{{4TeamBracket | RD1=National Semifinals
+| RD2=[[2006 NCAA Men's Division I Basketball Championship Game|National Championship Game]]
+| RD1-seed1=AT4
+| RD1-team1=LSU
+| RD1-score1=45
+| RD1-seed2=OA2
+| RD1-team2='''UCLA'''
+| RD1-score2='''59'''
+| RD1-seed3=MI3
+| RD1-team3='''Florida'''
+| RD1-score3='''73'''
+| RD1-seed4=WA11
+| RD1-team4=George Mason
+| RD1-score4=58
+| RD2-seed1=OA2
+| RD2-team1=UCLA
+| RD2-score1=57
+| RD2-seed2=MI3
+| RD2-team2='''Florida'''
+| RD2-score2='''73'''
+}}
+
+==Record by conference==
+{|class="wikitable sortable"
+|-
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|# of Bids
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Win %
+!style="background: #e3e3e3;"|R32
+!style="background: #e3e3e3;"|S16
+!style="background: #e3e3e3;"|E8
+!style="background: #e3e3e3;"|F4
+!style="background: #e3e3e3;"|CG
+|- style="text-align:center;"
+|align="left"| [[Big East Conference|Big East]]
+| 8
+| 11–8
+| .579
+| 5
+| 4
+| 2
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Southeastern Conference|SEC]]
+| 6
+| 13–5
+| .722
+| 5
+| 2
+| 2
+| 2
+| 1
+|- style="text-align:center;"
+|align="left"| [[Big Ten]]
+| 6
+| 3–6
+| .333
+| 3
+| –
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Atlantic Coast Conference|ACC]]
+| 4
+| 6–4
+| .600
+| 4
+| 2
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Big 12]]
+| 4
+| 4–4
+| .500
+| 2
+| 1
+| 1
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Pac-10]]
+| 4
+| 8–4
+| .667
+| 3
+| 2
+| 1
+| 1
+| 1
+|- style="text-align:center;"
+|align="left"| [[Missouri Valley Conference|Missouri Valley]]
+| 4
+| 4–4
+| .500
+| 2
+| 2
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Atlantic 10]]
+| 2
+| 1–2
+| .333
+| 1
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Colonial Athletic Association|CAA]]
+| 2
+| 4–2
+| .667
+| 1
+| 1
+| 1
+| 1
+| <span style="display:none">0</span>–
+|- style="text-align:center;"
+|align="left"| [[Conference USA|C–USA]]
+| 2
+| 3–2
+| .600
+| 1
+| 1
+| 1
+| <span style="display:none">0</span>–
+| –
+|- style="text-align:center;"
+|align="left"| [[Mountain West Conference|MWC]]
+| 2
+| 0–2
+| .000
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Western Athletic Conference|WAC]]
+| 2
+| 0–2
+| .000
+| <span style="display:none">0</span>–
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Southland Conference]]
+| 1
+| 1–1
+| .500
+| 1
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[West Coast Conference|WCC]]
+| 1
+| 2–1
+| .667
+| 1
+| 1
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Patriot League]]
+| 1
+| 1–1
+| .500
+| 1
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Horizon League]]
+| 1
+| 1–1
+| .500
+| 1
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Big Sky Conference]]
+| 1
+| 1–1
+| .500
+| 1
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- style="text-align:center;"
+|align="left"| [[Northeast Conference]]
+| 1
+| 1–1*
+| .500
+| –
+| –
+| –
+| –
+| –
+|}
+
+<nowiki>*</nowiki>[[Monmouth University]] won the Opening Round game.
+
+The [[America East Conference|America East]], [[Atlantic Sun Conference|Atlantic Sun]], [[Big South Conference|Big South]], [[Big West Conference|Big West]], [[Ivy League|Ivy]], [[Metro Atlantic Athletic Conference|MAAC]], [[Mid-American Conference|MAC]], [[Mid–Eastern Athletic Conference|MEAC]], [[Ohio Valley Conference|Ohio Valley]], [[Southern Conference|SoCon]], [[Southwestern Athletic Conference|SWAC]], [[The Summit League|Mid-Continent]], and [[Sun Belt Conference|Sun Belt]] conferences all went 0–1.
+
+The columns R32, S16, E8, F4, and CG respectively stand for the Round of 32, Sweet Sixteen, Elite Eight, Final Four, and Championship Game.
+
+==Announcers==
+*[[Jim Nantz]] and [[Billy Packer]] – First & Second Round at Philadelphia, Pennsylvania; Minneapolis Regional at the Hubert H. Humphrey Metrodome; Final Four at Indianapolis, Indiana
+*[[Dick Enberg]] and [[Jay Bilas]] – First & Second Round at San Diego, California; Atlanta Regional at the Georgia Dome
+*[[Verne Lundquist]] and [[Bill Raftery]] – First & Second Round at Auburn Hills, Michigan; Washington, D.C. Regional at the Verizon Center
+*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Len Elmore]] – First & Second Round at Dayton, Ohio; Oakland Regional at the Oakland Arena
+*[[Kevin Harlan]] and [[Dan Bonner]] – First & Second Round at Greensboro, North Carolina
+*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Salt Lake City, Utah
+*[[Craig Bolerjack]] and [[Bob Wenzel]] – First & Second Round at Dallas, Texas
+*[[Tim Brando]], [[Stephen Bardo]], and [[Mike Gminski]] – First & Second Round at Jacksonville, Florida
+
+[[Greg Gumbel]] once again served as the studio host, joined by analysts [[Clark Kellogg]] and [[Seth Davis]].
+
+==See also==
+* [[2006 NCAA Division II Men's Basketball Tournament]]
+* [[2006 NCAA Division III Men's Basketball Tournament]]
+* [[2006 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|2006 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|2006 NCAA Division III Women's Basketball Tournament]]
+* [[2006 National Invitation Tournament]]
+* [[2006 Women's National Invitation Tournament]]
+* [[2006 NAIA Division I Men's Basketball Tournament]]
+* [[2006 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2006 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2006 NAIA Division II Women's Basketball Tournament]]
+
+==Notes==
+*The futures of two of this year's Final Four teams would be polar opposites of the other two in 2007. Both [[2006–07 George Mason Patriots men's basketball team|George Mason]] and LSU would fail to receive a bid to either the [[2007 NCAA Division I Men's Basketball Tournament|NCAA Tournament]] or the [[2007 National Invitation Tournament|NIT]], while both [[2006–07 Florida Gators men's basketball team|Florida]] and [[2006–07 UCLA Bruins men's basketball team|UCLA]] would return to the Final Four (the two teams would have a rematch, this time in the semifinals, with the same result, a Florida victory).
+* George Mason became the first team from a "mid-major" conference to reach the Final Four since [[1990–91 UNLV Runnin' Rebels basketball team|UNLV]]'s loss to [[1990–91 Duke Blue Devils men's basketball team|Duke]] in [[1991 NCAA Division I Men's Basketball Tournament|1991]].
+* This was the second of three Final Fours to feature no No. 1 seeds ([[1980 NCAA Men's Division I Basketball Tournament|1980]] and [[2011 NCAA Men's Division I Basketball Tournament|2011]] being the others).
+* Duke was the last team before Florida to win back-to-back titles, and like Florida, they won their first of the two in Indianapolis at the RCA Dome.
+
+==References==
+{{reflist}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2006 Florida Gators men's basketball navbox}}
+
+{{DEFAULTSORT:2006 Ncaa Men's Division I Basketball Tournament}}
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:2005–06 NCAA Division I men's basketball season|Ncaa]]
+[[Category:Basketball in the Dallas–Fort Worth metroplex|NCAA]]
+[[Category:Basketball in Indianapolis|NCAA]]

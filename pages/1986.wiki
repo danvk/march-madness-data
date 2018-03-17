@@ -1,0 +1,708 @@
+{{see also|1986 NCAA Division I Men's Basketball Championship Game}}
+{{Infobox NCAA Basketball Tournament |
+| Year=1986
+| Image=
+| ImageSize=
+| Caption=
+| Teams=64
+| FinalFourArena=[[Reunion Arena]]
+| FinalFourCity=[[Dallas|Dallas, Texas]]
+| Champions=[[1985–86 Louisville Cardinals men's basketball team|Louisville]]
+| TitleCount=2nd
+| ChampGameCount=2nd
+| ChampFFCount=7th
+| RunnerUp=[[1985–86 Duke Blue Devils men's basketball team|Duke]]
+| GameCount=3rd
+| RunnerFFCount=5th
+| Semifinal1=[[1985–86 Kansas Jayhawks men's basketball team|Kansas]]
+| FinalFourCount=7th
+| Semifinal2=[[1985–86 LSU Tigers basketball team|LSU]]
+| FinalFourCount2=3rd
+| Coach=[[Denny Crum]]
+| CoachCount=2nd
+| MOP=[[Pervis Ellison]]
+| MOPTeam=Louisville
+| Attendance=499,704
+| TopScorer=[[Johnny Dawkins]]
+| TopScorerTeam=Duke
+| Points=153
+}}
+
+The '''1986 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 13, 1986, and ended with the [[1986 NCAA Men's Division I Basketball Championship Game|championship game]] on March 31 in [[Dallas, Texas]]. A total of 63 games were played.
+
+[[1985–86 Louisville Cardinals men's basketball team|Louisville]], coached by [[Denny Crum]], won the national title with a 72–69 victory in the final game over [[Duke Blue Devils men's basketball|Duke]], coached by [[Mike Krzyzewski]]. [[Pervis Ellison]] of [[Louisville Cardinals men's basketball|Louisville]] was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].  Louisville became the first team from outside a power conference to win the championship since the expansion to 64 teams, and remains one of only two teams to do so (the other team was UNLV in 1990).
+
+The 1986 NCAA Men's Basketball Championship Tournament was the first tournament to use a [[shot clock]] limiting the amount of time for any one offensive possession by a team prior to taking a shot at the basket.  Beginning with the 1986 tournament, the [[shot clock]] was set at 45 seconds, which it would remain until being shortened to 35 seconds beginning in the [[1994 NCAA Men's Division I Basketball Tournament]], and further shortened to 30 seconds (the same as NCAA women's basketball) starting with the [[2016 NCAA Men's Division I Basketball Tournament]]. The 1986 tournament was also the last to not feature the [[Three-point field goal|three-point shot]].
+
+[[1985–86 LSU Tigers basketball team|LSU]]'s 1985–86 team is tied for the lowest-seeded team (#11) to ever make the [[Final Four]] (with [[George Mason University|George Mason]]'s 2005–2006 team and [[Virginia Commonwealth University|VCU]]'s 2010–2011 team). As of 2016, they are the only team in tournament history to beat the top 3 seeds from their region. LSU began its run to the Final Four by winning two games on [[Pete Maravich Assembly Center|its home court]], leading to a change two years later which prohibited teams from playing NCAA tournament games on a court which they have played four or more games in the regular season. [[Cleveland State University]] became the first #14 seed to reach the Sweet Sixteen, losing to their fellow underdog, Navy, by a single point. This was also the first year in which two #14 seeds reached the second round in the same year, as [[University of Arkansas at Little Rock|Arkansas-Little Rock]] beat #3-seed Notre Dame; however, they lost their second-round game in overtime.  Both feats have only occurred one other time. [[University of Tennessee at Chattanooga|Chattanooga]] reached the Sweet Sixteen as a 14-seed in 1997, and [[Old Dominion University|Old Dominion]] and [[Weber State University|Weber State]] both reached the second round as 14-seeds in 1995.
+
+Every regional final featured a #1 or #2 seed playing a team seeded #6 or lower. The lone #1 seed to not reach the Elite Eight, St. John's (West), was knocked out in the second round by #8 Auburn, which lost to #2 Louisville in the regional final.
+
+It can be argued that these upsets by the 14-seeds launched the NCAA Tournament's reputation for having unknown teams surprise well-known basketball powers, and both happened on the same day. Indiana's stunning loss would be part of the climax in the best-selling book [[A Season On The Brink]].
+
+Another story of the tournament was when [[United States Naval Academy|Navy]] reached the Elite 8 thanks to stunning performances by [[David Robinson (basketball)|David Robinson]].
+This tournament had no Pac 10,now Pac 12, teams advance beyond the round of 64, this would not occur again until 2018.
+
+==Locations==
+
+{{Location map+|USA|width=450|float=right|caption=1986 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=30.458283|lon_deg=-91.140320|position=right|background=#FFFFFF|label=Baton Rouge|link=Pete Maravich Assembly Center|LSU Assembly Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.758948|lon_deg=-84.191607|position=bottom|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.227087|lon_deg=-80.843127|position=bottom|background=#FFFFFF|label=Charlotte|link=Bojangles' Coliseum|Charlotte Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.048122|lon_deg=-76.147424|position=top|background=#FFFFFF|label=Syracuse|link=Carrier Dome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.072635|lon_deg=-79.791975|position=right|background=#FFFFFF|label=Greensboro|link=Greensboro Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=44.976154|lon_deg=-93.267431|position=left|background=#FFFFFF|label=Minneapolis|link=Hubert H. Humphrey Metrodome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.770050|lon_deg=-118.193739|position=bottom|background=#FFFFFF|label=Long Beach|link=Long Beach Convention and Entertainment Center|Long Beach Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.223000|lon_deg=-111.973830|position=top|background=#FFFFFF|label=Ogden|link=Dee Events Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=1986 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=29.760427|lon_deg=-95.369803|position=right|background=#FFFFFF|label=Houston|link=Lakewood Church Central Campus|The Summit}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=bottom|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.099727|lon_deg=-94.578567|position=top|background=#FFFFFF|label=Kansas City|link=Kemper Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.952584|lon_deg=-74.097086|position=bottom|background=#FFFFFF|label=E. Rutherford|link=Izod Center|Meadowlands Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=32.780262|lon_deg=-96.800978|position=bottom|background=#FFFFFF|label=Dallas|link=Reunion Arena}}
+}}
+
+
+===First & Second Rounds===
+{| class="wikitable"
+! Region !! Site !! Venue
+|-
+! rowspan="2" | East
+|[[Greensboro, North Carolina]]
+|[[Greensboro Coliseum Complex|Greensboro Coliseum]]
+|-
+|[[Syracuse, New York]]
+|[[Carrier Dome]]
+|-
+! rowspan="2" | Midwest
+|[[Dayton, Ohio]]
+|[[UD Arena|University of Dayton Arena]]
+|-
+|[[Minneapolis|Minneapolis, Minnesota]]
+|[[Hubert H. Humphrey Metrodome]]
+|-
+! rowspan="2" | Southeast
+|[[Baton Rouge, Louisiana]]
+|[[Pete Maravich Assembly Center|LSU Assembly Center]]
+|-
+|[[Charlotte, North Carolina]]
+|[[Bojangles' Coliseum|Charlotte Coliseum]]
+|-
+! rowspan="2" | West
+|[[Long Beach, California]]
+|[[Long Beach Convention and Entertainment Center|Long Beach Arena]]
+|-
+|[[Ogden, Utah]]
+|[[Dee Events Center]]
+|}
+
+===Regional Sites and Final Four===
+{| class="wikitable"
+! Region !! Site !! Venue
+|-
+| '''East''' 
+|[[East Rutherford, New Jersey]]
+|[[Meadowlands Arena|Brendan Byrne Arena]]
+|-
+| '''Midwest'''
+|[[Kansas City, Missouri]]
+|[[Kemper Arena]]
+|-
+| '''Southeast'''
+|[[Atlanta|Atlanta, Georgia]]
+|[[Omni Coliseum]]
+|-
+| '''West'''
+|[[Houston|Houston, Texas]]
+|[[Lakewood Church Central Campus|The Summit]]
+|-
+| '''Final Four'''
+|[[Dallas|Dallas, Texas]]
+|[[Reunion Arena]]
+|}
+
+Dallas became the 22nd host city, and Reunion Arena the 24th host venue, for the Final Four. While the city itself has not hosted another Final Four, the Dallas-Fort Worth Metroplex would host again in 2014 at [[AT&T Stadium]]. Three of the four venues used for regional sites, and all four host cities, were Final Four host cities; only The Summit did not host a Final Four (all Final Fours in Houston have been at either the [[Astrodome]] or [[NRG Stadium]]). This also marked the first time that domed stadiums were used in the opening rounds, with Syracuse's Carrier Dome and the Metrodome in Minneapolis hosting games. The Metrodome and the Long Beach Arena were the only new venues this year. While the city of Long Beach itself had not hosted games before, it is part of the Los Angeles metropolitan area which has hosted multiple times. Since 1986, every tournament has included at least one domed stadium, something that had only happened five times beforehand (1971 and 1981-84).
+
+==Teams==
+{| class=wikitable
+! Region !! Seed !! Team !! Coach !! Finished !! Final opponent !! Score
+|-
+! colspan=7 | West
+|-
+| West || 1|| [[1985–86 St. John's Redmen basketball team|St. John's]] || [[Lou Carnesecca]] || Round of 32||8 [[1985–86 Auburn Tigers men's basketball team|Auburn]]||L 81–65
+|-
+| West || 2|| [[1985–86 Louisville Cardinals men's basketball team|Louisville]] || [[Denny Crum]] || '''Champion'''||1 [[1985–86 Duke Blue Devils men's basketball team|Duke]]||W 72–69
+|-
+| West || 3|| [[North Carolina Tar Heels men's basketball|North Carolina]] || [[Dean Smith]] || Sweet Sixteen||2 [[1985–86 Louisville Cardinals men's basketball team|Louisville]]||L 94–79
+|-
+| West || 4|| [[UNLV Runnin' Rebels basketball|UNLV]] || [[Jerry Tarkanian]] || Sweet Sixteen||8 [[1985–86 Auburn Tigers men's basketball team|Auburn]]||L 70–63
+|-
+| West || 5|| [[1985–86 Maryland Terrapins men's basketball team|Maryland]] || [[Lefty Driesell]] || Round of 32||4 [[UNLV Runnin' Rebels basketball|UNLV]]||L 70–64
+|-
+| West || 6|| [[UAB Blazers men's basketball|UAB]] || [[Gene Bartow]] || Round of 32||3 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 77–59
+|-
+| West || 7|| [[1985–86 Bradley Braves men's basketball team|Bradley]] || [[Dick Versace]] || Round of 32||2 [[1985–86 Louisville Cardinals men's basketball team|Louisville]]||L 82–68
+|-
+| West || 8|| [[1985–86 Auburn Tigers men's basketball team|Auburn]] || [[Sonny Smith]] || Regional Runner-up||2 [[1985–86 Louisville Cardinals men's basketball team|Louisville]]||L 84–76
+|-
+| West || 9|| [[Arizona Wildcats men's basketball|Arizona]] || [[Lute Olson]] || Round of 64||8 [[1985–86 Auburn Tigers men's basketball team|Auburn]]||L 73–63
+|-
+| West || 10|| [[UTEP Miners men's basketball|UTEP]] || [[Don Haskins]] || Round of 64||7 [[1985–86 Bradley Braves men's basketball team|Bradley]]||L 83–65
+|-
+| West || 11|| [[Missouri Tigers men's basketball|Missouri]] || [[Norm Stewart]] || Round of 64||6 [[UAB Blazers men's basketball|UAB]]||L 66–64
+|-
+| West || 12|| [[Pepperdine Waves men's basketball|Pepperdine]] || [[Jim Harrick]] || Round of 64||5 [[1985–86 Maryland Terrapins men's basketball team|Maryland]]||L 69–64
+|-
+| West || 13|| [[Louisiana–Monroe Warhawks men's basketball|Northeast Louisiana]] || [[Mike Vining]] || Round of 64||4 [[UNLV Runnin' Rebels basketball|UNLV]]||L 74–51
+|-
+| West || 14|| [[Utah Utes men's basketball|Utah]] || [[Lynn Archibald]] || Round of 64||3 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 84–72
+|-
+| West || 15|| [[1985–86 Drexel Dragons men's basketball team|Drexel]] || [[Eddie Burke (basketball)|Eddie Burke]] || Round of 64||2 [[1985–86 Louisville Cardinals men's basketball team|Louisville]]||L 93–73
+|-
+| West || 16|| [[Montana State Bobcats men's basketball|Montana State]] || [[Stu Starner]] || Round of 64||1 [[1985–86 St. John's Redmen basketball team|St. John's]]||L 83–74
+|-
+! colspan=7 | Midwest
+|-
+| Midwest || 1|| [[1985–86 Kansas Jayhawks men's basketball team|Kansas]] || [[Larry Brown (basketball)|Larry Brown]] || National Semifinals||1 [[1985–86 Duke Blue Devils men's basketball team|Duke]]||L 71–67
+|-
+| Midwest || 2|| [[1985–86 Michigan Wolverines men's basketball team|Michigan]] || [[Bill Frieder]] || Round of 32||7 [[Iowa State University|Iowa State]]||L 72–69
+|-
+| Midwest || 3|| [[Notre Dame Fighting Irish men's basketball|Notre Dame]] || [[Digger Phelps]] || Round of 64||14 [[Little Rock Trojans men's basketball|Arkansas–Little Rock]]||L 90–83
+|-
+| Midwest || 4|| [[1985–86 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Round of 32||5 [[1985–86 Michigan State Spartans men's basketball team|Michigan State]]||L 80–68
+|-
+| Midwest || 5|| [[1985–86 Michigan State Spartans men's basketball team|Michigan State]] || [[Jud Heathcote]] || Sweet Sixteen||1 [[1985–86 Kansas Jayhawks men's basketball team|Kansas]]||L 96–86
+|-
+| Midwest || 6|| [[NC State Wolfpack men's basketball|NC State]] || [[Jim Valvano]] || Regional Runner-up||1 [[1985–86 Kansas Jayhawks men's basketball team|Kansas]]||L 75–67
+|-
+| Midwest || 7|| [[Iowa State Cyclones men's basketball|Iowa State]] || [[Johnny Orr (basketball, born 1927)|Johnny Orr]] || Sweet Sixteen||6 [[NC State Wolfpack men's basketball|NC State]]||L 70–66
+|-
+| Midwest || 8|| [[Jacksonville Dolphins men's basketball|Jacksonville]] || [[Bob Wenzel]] || Round of 64||9 [[Temple Owls men's basketball|Temple]]||L 61–50
+|-
+| Midwest || 9|| [[Temple Owls men's basketball|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Round of 32||1 [[1985–86 Kansas Jayhawks men's basketball team|Kansas]]||L 65–43
+|-
+| Midwest || 10|| [[Miami RedHawks men's basketball|Miami (OH)]] || [[Jerry Peirson]] || Round of 64||7 [[Iowa State Cyclones men's basketball|Iowa State]]||L 81–79
+|-
+| Midwest || 11|| [[1985–86 Iowa Hawkeyes men's basketball team|Iowa]] || [[George Raveling]] || Round of 64||6 [[NC State Wolfpack men's basketball|NC State]]||L 66–64
+|-
+| Midwest || 12|| [[Washington Huskies men's basketball|Washington]] || [[Andy Russo]] || Round of 64||5 [[1985–86 Michigan State Spartans men's basketball team|Michigan State]]||L 72–70
+|-
+| Midwest || 13|| [[1985–86 Texas Tech Red Raiders basketball team|Texas Tech]] || [[Gerald Myers]] || Round of 64||4 [[1985–86 Georgetown Hoyas men's basketball team|Georgetown]]||L 70–64
+|-
+| Midwest || 14|| [[Little Rock Trojans men's basketball|Arkansas–Little Rock]] || [[Mike Newell (basketball)|Mike Newell]] || Round of 32||6 [[NC State Wolfpack men's basketball|NC State]]||L 80–66
+|-
+| Midwest || 15|| [[Akron Zips men's basketball|Akron]] || [[Bob Huggins]] || Round of 64||2 [[1985–86 Michigan Wolverines men's basketball team|Michigan]]||L 70–64
+|-
+| Midwest || 16|| [[North Carolina A&T Aggies men's basketball|North Carolina A&T]] || [[Don Corbett]] || Round of 64||1 [[1985–86 Kansas Jayhawks men's basketball team|Kansas]]||L 71–46
+|-
+! colspan=7 | Southeast
+|-
+| Southeast || 1|| [[1985–86 Kentucky Wildcats men's basketball team|Kentucky]] || [[Eddie Sutton]] || Regional Runner-up||11 [[1985–86 LSU Tigers basketball team|LSU]]||L 59–57
+|-
+| Southeast || 2|| [[1985–86 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]] || [[Bobby Cremins]] || Sweet Sixteen||11 [[1985–86 LSU Tigers basketball team|LSU]]||L 70–64
+|-
+| Southeast || 3|| [[Memphis Tigers men's basketball|Memphis State]] (Vacated) || [[Dana Kirk (basketball)|Dana Kirk]] || Round of 32||11 [[1985–86 LSU Tigers basketball team|LSU]]||L 83–81
+|-
+| Southeast || 4|| [[1985–86 Illinois Fighting Illini men's basketball team|Illinois]] || [[Lou Henson]] || Round of 32||5 [[Alabama Crimson Tide men's basketball|Alabama]]||L 58–56
+|-
+| Southeast || 5|| [[Alabama Crimson Tide men's basketball|Alabama]] || [[Wimp Sanderson]] || Sweet Sixteen||1 [[1985–86 Kentucky Wildcats men's basketball team|Kentucky]]||L 68–63
+|-
+| Southeast || 6|| [[Purdue Boilermakers men's basketball|Purdue]] || [[Gene Keady]] || Round of 64||11 [[1985–86 LSU Tigers basketball team|LSU]]||L 94–87
+|-
+| Southeast || 7|| [[Virginia Tech Hokies men's basketball|Virginia Tech]] || [[Charles Moir]] || Round of 64||10 [[Villanova Wildcats men's basketball|Villanova]]||L 71–62
+|-
+| Southeast || 8|| [[Western Kentucky Hilltoppers basketball|Western Kentucky]] || [[Clem Haskins]] || Round of 32||1 [[1985–86 Kentucky Wildcats men's basketball team|Kentucky]]||L 71–64
+|-
+| Southeast || 9|| [[Nebraska Cornhuskers men's basketball|Nebraska]] || [[Moe Iba]] || Round of 64||8 [[Western Kentucky University|Western Kentucky]]||L 67–59
+|-
+| Southeast || 10|| [[Villanova Wildcats men's basketball|Villanova]] || [[Rollie Massimino]] || Round of 32||2 [[1985–86 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 66–61
+|-
+| Southeast || 11|| [[1985–86 LSU Tigers basketball team|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || National Semifinals||2 [[1985–86 Louisville Cardinals men's basketball team|Louisville]]||L 88–77
+|-
+| Southeast || 12|| [[Xavier Musketeers men's basketball|Xavier]] || [[Pete Gillen]] || Round of 64||5 [[Alabama Crimson Tide men's basketball|Alabama]]||L 97–80
+|-
+| Southeast || 13|| [[Fairfield Stags men's basketball|Fairfield]] || [[Mitch Buonaguro]] || Round of 64||4 [[1985–86 Illinois Fighting Illini men's basketball team|Illinois]]||L 75–51
+|-
+| Southeast || 14|| [[Ball State Cardinals men's basketball|Ball State]] || [[Al Brown (basketball)|Al Brown]] || Round of 64||3 [[Memphis Tigers men's basketball|Memphis State]]||L 95–63
+|-
+| Southeast || 15|| [[Marist Red Foxes men's basketball|Marist]] || [[Matt Furjanic]] || Round of 64||2 [[1985–86 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]||L 68–53
+|-
+| Southeast || 16|| [[Davidson Wildcats men's basketball|Davidson]] || [[Bobby Hussey]] || Round of 64||1 [[1985–86 Kentucky Wildcats men's basketball team|Kentucky]]||L 75–55
+|-
+! colspan=7 | East
+|-
+| East || 1|| [[1985–86 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || Runner Up||2 [[1985–86 Louisville Cardinals men's basketball team|Louisville]]||L 72–69
+|-
+| East || 2|| [[1985–86 Syracuse Orangemen basketball team|Syracuse]] || [[Jim Boeheim]] || Round of 32||7 [[Navy Midshipmen men's basketball|Navy]]||L 97–85
+|-
+| East || 3|| [[1985–86 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || Round of 64||14 [[1985–86 Cleveland State Vikings men's basketball team|Cleveland State]]||L 83–79
+|-
+| East || 4|| [[Oklahoma Sooners men's basketball|Oklahoma]] || [[Billy Tubbs]] || Round of 32||12 [[DePaul Blue Demons men's basketball|DePaul]]||L 74–69
+|-
+| East || 5|| [[Virginia Cavaliers men's basketball|Virginia]] || [[Terry Holland]] || Round of 64||12 [[DePaul  Blue Demons men's basketball|DePaul]]||L 72–68
+|-
+| East || 6|| [[Saint Joseph's Hawks men's basketball|Saint Joseph's]] || [[Jim Boyle (basketball)|Jim Boyle]] || Round of 32||14 [[1985–86 Cleveland State Vikings men's basketball team|Cleveland State]]||L 75–69
+|-
+| East || 7|| [[Navy Midshipmen men's basketball|Navy]] || [[Paul Evans (basketball coach)|Paul Evans]] || Regional Runner-up||1 [[1985–86 Duke Blue Devils men's basketball team|Duke]]||L 71–50
+|-
+| East || 8|| [[Old Dominion Monarchs basketball|Old Dominion]] || [[Tom Young (basketball coach)|Tom Young]] || Round of 32||1 [[1985–86 Duke Blue Devils men's basketball team|Duke]]||L 89–61
+|-
+| East || 9|| [[West Virginia Mountaineers men's basketball|West Virginia]] || [[Gale Catlett]] || Round of 64||8 [[Old Dominion Monarchs basketball|Old Dominion]]||L 72-64
+|-
+| East || 10|| [[Tulsa Golden Hurricane men's basketball|Tulsa]] || [[J. D. Barnett]] || Round of 64||7 [[Navy Midshipmen men's basketball|Navy]]||L 87–68
+|-
+| East || 11|| [[Richmond Spiders men's basketball|Richmond]] || [[Dick Tarrant]] || Round of 64||6 [[Saint Joseph's Hawks men's basketball|Saint Joseph's]]||L 60–59
+|-
+| East || 12|| [[DePaul Blue Demons men's basketball|DePaul]] || [[Joey Meyer (basketball)|Joey Meyer]] || Sweet Sixteen||1 [[1985–86 Duke Blue Devils men's basketball team|Duke]]||L 74–67
+|-
+| East || 13|| [[Northeastern Huskies men's basketball|Northeastern]] || [[Jim Calhoun]] || Round of 64||4 [[Oklahoma Sooners men's basketball|Oklahoma]]||L 80–74
+|-
+| East || 14|| [[1985–86 Cleveland State Vikings men's basketball team|Cleveland State]] || [[Kevin Mackey]] || Sweet Sixteen||7 [[Navy Midshipmen men's basketball|Navy]]||L 71–70
+|-
+| East || 15|| [[Brown Bears men's basketball|Brown]] || [[Mike Cingiser]] || Round of 64||2 [[1985–86 Syracuse Orangemen basketball team|Syracuse]]||L 101–52
+|-
+| East || 16|| [[Mississippi Valley State Delta Devils basketball|Mississippi Valley State]] || [[Lafayette Stribling]] || Round of 64||1 [[1985–86 Duke Blue Devils men's basketball team|Duke]]||L 85–78
+|-
+|}
+
+==Bracket==
+<nowiki>*</nowiki> – Denotes overtime period
+
+===East Regional – East Rutherford, New Jersey===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Greensboro Coliseum|Greensboro]]'''
+ | subgroup2= '''[[Greensboro Coliseum|Greensboro]]'''
+ | subgroup3= '''[[Carrier Dome|Syracuse]]'''
+ | subgroup4= '''[[Carrier Dome|Syracuse]]'''
+| RD1-team01='''Duke'''
+ | RD1-score01='''85'''
+ | RD1-seed02=16
+ | RD1-team02=Mississippi Valley State
+ | RD1-score02=78
+ | RD1-seed03=8
+ | RD1-team03='''Old Dominion'''
+ | RD1-score03='''72'''
+ | RD1-seed04=9
+ | RD1-team04=West Virginia
+ | RD1-score04=64
+ | RD1-seed05=5
+ | RD1-team05=Virginia
+ | RD1-score05=68
+ | RD1-seed06=12
+ | RD1-team06='''DePaul'''
+ | RD1-score06='''72'''
+ | RD1-seed07=4
+ | RD1-team07='''Oklahoma'''
+ | RD1-score07='''80'''
+ | RD1-seed08=13
+ | RD1-team08=Northeastern
+ | RD1-score08=74
+ | RD1-seed09=6
+ | RD1-team09='''Saint Joseph's'''
+ | RD1-score09='''60'''
+ | RD1-seed10=11
+ | RD1-team10=Richmond
+ | RD1-score10=59
+ | RD1-seed11=3
+ | RD1-team11=Indiana
+ | RD1-score11=79
+ | RD1-seed12=14
+ | RD1-team12='''Cleveland State'''
+ | RD1-score12='''83'''
+ | RD1-seed13=7
+ | RD1-team13='''Navy'''
+ | RD1-score13='''87'''
+ | RD1-seed14=10
+ | RD1-team14=Tulsa
+ | RD1-score14=68
+ | RD1-seed15=2
+ | RD1-team15='''Syracuse'''
+ | RD1-score15='''101'''
+ | RD1-seed16=15
+ | RD1-team16=Brown
+ | RD1-score16=52
+ | RD2-seed01=1
+ | RD2-team01='''Duke'''
+ | RD2-score01='''89'''
+ | RD2-seed02=8
+ | RD2-team02=Old Dominion
+ | RD2-score02=61
+ | RD2-seed03=12
+ | RD2-team03='''DePaul'''
+ | RD2-score03='''74'''
+ | RD2-seed04=4
+ | RD2-team04=Oklahoma
+ | RD2-score04=69
+ | RD2-seed05=6
+ | RD2-team05=Saint Joseph's
+ | RD2-score05=69
+ | RD2-seed06=14
+ | RD2-team06='''Cleveland State'''
+ | RD2-score06='''75'''
+ | RD2-seed07=7
+ | RD2-team07='''Navy'''
+ | RD2-score07='''97'''
+ | RD2-seed08=2
+ | RD2-team08=Syracuse
+ | RD2-score08=85
+ | RD3-seed01=1
+ | RD3-team01='''Duke'''
+ | RD3-score01='''74'''
+ | RD3-seed02=12
+ | RD3-team02=DePaul
+ | RD3-score02=67
+ | RD3-seed03=14
+ | RD3-team03=Cleveland State
+ | RD3-score03=70
+ | RD3-seed04=7
+ | RD3-team04='''Navy'''
+ | RD3-score04='''71'''
+ | RD4-seed01=1
+ | RD4-team01='''Duke'''
+ | RD4-score01='''71'''
+ | RD4-seed02=7
+ | RD4-team02=Navy
+ | RD4-score02=50
+}}
+
+===Midwest Regional – Kansas City, Missouri===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[University of Dayton Arena|Dayton]]'''
+ | subgroup2= '''[[University of Dayton Arena|Dayton]]'''
+ | subgroup3= '''[[Hubert H. Humphrey Metrodome|Minneapolis]]'''
+ | subgroup4= '''[[Hubert H. Humphrey Metrodome|Minneapolis]]'''
+| RD1-team01='''Kansas'''
+ | RD1-score01='''71'''
+ | RD1-seed02=16
+ | RD1-team02=North Carolina A&T
+ | RD1-score02=46
+ | RD1-seed03=8
+ | RD1-team03=Jacksonville
+ | RD1-score03=50*
+ | RD1-seed04=9
+ | RD1-team04='''Temple'''
+ | RD1-score04='''61'''
+ | RD1-seed05=5
+ | RD1-team05='''Michigan State'''
+ | RD1-score05='''72'''
+ | RD1-seed06=12
+ | RD1-team06=Washington
+ | RD1-score06=70
+ | RD1-seed07=4
+ | RD1-team07='''Georgetown'''
+ | RD1-score07='''70'''
+ | RD1-seed08=13
+ | RD1-team08=Texas Tech
+ | RD1-score08=64
+ | RD1-seed09=6
+ | RD1-team09='''NC State'''
+ | RD1-score09='''66'''
+ | RD1-seed10=11
+ | RD1-team10=Iowa
+ | RD1-score10=64
+ | RD1-seed11=3
+ | RD1-team11=Notre Dame
+ | RD1-score11=83
+ | RD1-seed12=14
+ | RD1-team12='''Arkansas–Little Rock'''
+ | RD1-score12='''90'''
+ | RD1-seed13=7
+ | RD1-team13='''Iowa State'''
+ | RD1-score13='''81'''
+ | RD1-seed14=10
+ | RD1-team14=Miami (OH)
+ | RD1-score14=79*
+ | RD1-seed15=2
+ | RD1-team15='''Michigan'''
+ | RD1-score15=''70'''
+ | RD1-seed16=15
+ | RD1-team16=Akron
+ | RD1-score16=64
+ | RD2-seed01=1
+ | RD2-team01='''Kansas'''
+ | RD2-score01='''65'''
+ | RD2-seed02=9
+ | RD2-team02=Temple
+ | RD2-score02=43
+ | RD2-seed03=5
+ | RD2-team03='''Michigan State'''
+ | RD2-score03='''80'''
+ | RD2-seed04=4
+ | RD2-team04=Georgetown
+ | RD2-score04=68
+ | RD2-seed05=6
+ | RD2-team05='''NC State'''
+ | RD2-score05='''80'''
+ | RD2-seed06=14
+ | RD2-team06=Arkansas–Little Rock
+ | RD2-score06=66*
+ | RD2-seed07=7
+ | RD2-team07='''Iowa State'''
+ | RD2-score07='''72'''
+ | RD2-seed08=2
+ | RD2-team08=Michigan
+ | RD2-score08=69
+ | RD3-seed01=1
+ | RD3-team01='''Kansas'''
+ | RD3-score01='''96'''
+ | RD3-seed02=5
+ | RD3-team02=Michigan State
+ | RD3-score02=86*
+ | RD3-seed03=6
+ | RD3-team03='''NC State'''
+ | RD3-score03='''70'''
+ | RD3-seed04=7
+ | RD3-team04=Iowa State
+ | RD3-score04=66
+ | RD4-seed01=1
+ | RD4-team01='''Kansas'''
+ | RD4-score01='''75'''
+ | RD4-seed02=6
+ | RD4-team02=NC State
+ | RD4-score02=67
+}}
+
+===Southeast Regional – Atlanta, Georgia===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Charlotte Coliseum|Charlotte]]'''
+ | subgroup2= '''[[Charlotte Coliseum|Charlotte]]'''
+ | subgroup3= '''[[LSU Assembly Center|Baton Rouge]]'''
+ | subgroup4= '''[[LSU Assembly Center|Baton Rouge]]'''
+| RD1-team01='''Kentucky'''
+ | RD1-score01='''75'''
+ | RD1-seed02=16
+ | RD1-team02=Davidson
+ | RD1-score02=55
+ | RD1-seed03=8
+ | RD1-team03='''Western Kentucky'''
+ | RD1-score03='''67'''
+ | RD1-seed04=9
+ | RD1-team04=Nebraska
+ | RD1-score04=59
+ | RD1-seed05=5
+ | RD1-team05='''Alabama'''
+ | RD1-score05='''97'''
+ | RD1-seed06=12
+ | RD1-team06=Xavier
+ | RD1-score06=80
+ | RD1-seed07=4
+ | RD1-team07='''Illinois'''
+ | RD1-score07='''75'''
+ | RD1-seed08=13
+ | RD1-team08=Fairfield
+ | RD1-score08=51
+ | RD1-seed09=6
+ | RD1-team09=Purdue
+ | RD1-score09=87**
+ | RD1-seed10=11
+ | RD1-team10='''LSU'''
+ | RD1-score10='''94'''
+ | RD1-seed11=3
+ | RD1-team11='''Memphis State'''
+ | RD1-score11='''95'''
+ | RD1-seed12=14
+ | RD1-team12=Ball State
+ | RD1-score12=63
+ | RD1-seed13=7
+ | RD1-team13=Virginia Tech
+ | RD1-score13=62
+ | RD1-seed14=10
+ | RD1-team14='''Villanova'''
+ | RD1-score14='''71'''
+ | RD1-seed15=2
+ | RD1-team15='''Georgia Tech'''
+ | RD1-score15='''68'''
+ | RD1-seed16=15
+ | RD1-team16=Marist
+ | RD1-score16=53
+ | RD2-seed01=1
+ | RD2-team01='''Kentucky'''
+ | RD2-score01='''71'''
+ | RD2-seed02=8
+ | RD2-team02=Western Kentucky
+ | RD2-score02=64
+ | RD2-seed03=5
+ | RD2-team03='''Alabama'''
+ | RD2-score03='''58'''
+ | RD2-seed04=4
+ | RD2-team04=Illinois
+ | RD2-score04=56
+ | RD2-seed05=11
+ | RD2-team05='''LSU'''
+ | RD2-score05='''83'''
+ | RD2-seed06=3
+ | RD2-team06=Memphis State
+ | RD2-score06=81
+ | RD2-seed07=10
+ | RD2-team07=Villanova
+ | RD2-score07=61
+ | RD2-seed08=2
+ | RD2-team08='''Georgia Tech'''
+ | RD2-score08='''66'''
+ | RD3-seed01=1
+ | RD3-team01='''Kentucky'''
+ | RD3-score01='''68'''
+ | RD3-seed02=5
+ | RD3-team02=Alabama
+ | RD3-score02=63
+ | RD3-seed03=11
+ | RD3-team03='''LSU'''
+ | RD3-score03='''70'''
+ | RD3-seed04=2
+ | RD3-team04=Georgia Tech
+ | RD3-score04=64
+ | RD4-seed01=1
+ | RD4-team01=Kentucky
+ | RD4-score01=57
+ | RD4-seed02=11
+ | RD4-team02='''LSU'''
+ | RD4-score02='''59'''
+}}
+
+===West Regional – Houston, Texas===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Long Beach Arena|Long Beach]]'''
+ | subgroup2= '''[[Long Beach Arena|Long Beach]]'''
+ | subgroup3= '''[[Dee Events Center|Ogden]]'''
+ | subgroup4= '''[[Dee Events Center|Ogden]]'''
+| RD1-team01='''St. John's'''
+ | RD1-score01='''83'''
+ | RD1-seed02=16
+ | RD1-team02=Montana State
+ | RD1-score02=74
+ | RD1-seed03=8
+ | RD1-team03='''Auburn'''
+ | RD1-score03='''73'''
+ | RD1-seed04=9
+ | RD1-team04=Arizona
+ | RD1-score04=63
+ | RD1-seed05=5
+ | RD1-team05='''Maryland'''
+ | RD1-score05='''69'''
+ | RD1-seed06=12
+ | RD1-team06=Pepperdine
+ | RD1-score06=64
+ | RD1-seed07=4
+ | RD1-team07='''UNLV'''
+ | RD1-score07='''74'''
+ | RD1-seed08=13
+ | RD1-team08=Northeast Louisiana
+ | RD1-score08=51
+ | RD1-seed09=6
+ | RD1-team09='''UAB'''
+ | RD1-score09='''66'''
+ | RD1-seed10=11
+ | RD1-team10=Missouri
+ | RD1-score10=64
+ | RD1-seed11=3
+ | RD1-team11='''North Carolina'''
+ | RD1-score11='''84'''
+ | RD1-seed12=14
+ | RD1-team12=Utah
+ | RD1-score12=72
+ | RD1-seed13=7
+ | RD1-team13='''Bradley'''
+ | RD1-score13='''83'''
+ | RD1-seed14=10
+ | RD1-team14=UTEP
+ | RD1-score14=65
+ | RD1-seed15=2
+ | RD1-team15='''Louisville'''
+ | RD1-score15='''93'''
+ | RD1-seed16=15
+ | RD1-team16=Drexel
+ | RD1-score16=73
+ | RD2-seed01=1
+ | RD2-team01=St. John's
+ | RD2-score01=65
+ | RD2-seed02=8
+ | RD2-team02='''Auburn'''
+ | RD2-score02='''81'''
+ | RD2-seed03=5
+ | RD2-team03=Maryland
+ | RD2-score03=64
+ | RD2-seed04=4
+ | RD2-team04='''UNLV'''
+ | RD2-score04='''70'''
+ | RD2-seed05=6
+ | RD2-team05=UAB
+ | RD2-score05=59
+ | RD2-seed06=3
+ | RD2-team06='''North Carolina'''
+ | RD2-score06='''77'''
+ | RD2-seed07=7
+ | RD2-team07=Bradley
+ | RD2-score07=68
+ | RD2-seed08=2
+ | RD2-team08='''Louisville'''
+ | RD2-score08='''82'''
+ | RD3-seed01=8
+ | RD3-team01='''Auburn'''
+ | RD3-score01='''70'''
+ | RD3-seed02=4
+ | RD3-team02=UNLV
+ | RD3-score02=63
+ | RD3-seed03=3
+ | RD3-team03=North Carolina
+ | RD3-score03=79
+ | RD3-seed04=2
+ | RD3-team04='''Louisville'''
+ | RD3-score04='''94'''
+ | RD4-seed01=8
+ | RD4-team01=Auburn
+ | RD4-score01=76
+ | RD4-seed02=2
+ | RD4-team02='''Louisville'''
+ | RD4-score02='''84'''
+}}
+
+===Final Four @ Dallas, Texas===
+{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game
+ | RD1-seed1=E1
+ | RD1-team1='''Duke'''
+ | RD1-score1='''71'''
+ | RD1-seed2=M1
+ | RD1-team2=Kansas
+ | RD1-score2=67
+ | RD1-seed3=S11
+ | RD1-team3=LSU
+ | RD1-score3=77
+ | RD1-seed4=W2
+ | RD1-team4='''Louisville'''
+ | RD1-score4='''88'''
+ | RD2-seed1=E1
+ | RD2-team1=Duke
+ | RD2-score1=69
+ | RD2-seed2=W2
+ | RD2-team2='''Louisville'''
+ | RD2-score2='''72'''
+}}
+
+==Announcers==
+*[[Brent Musburger]] and [[Dick Stockton]] and [[Billy Packer]]
+*[[Dick Stockton]] and [[Larry Conley]]
+*[[Gary Bender]] and [[Doug Collins (basketball)|Doug Collins]]
+*[[Verne Lundquist]] and [[James Brown (sportscaster)|James Brown]]
+*[[Jim Nantz]] and [[Bill Raftery]]
+*[[Tim Ryan (sportscaster)|Tim Ryan]] and [[Lynn Shackleford]]
+
+==See also==
+* [[1986 NCAA Division II Men's Basketball Tournament]]
+* [[1986 NCAA Division III Men's Basketball Tournament]]
+* [[1986 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|1986 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|1986 NCAA Division III Women's Basketball Tournament]]
+* [[1986 National Invitation Tournament]]
+* [[National Women's Invitation Tournament|1986 National Women's Invitation Tournament]]
+* [[1986 NAIA Division I Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|1986 NAIA Division I Women's Basketball Tournament]]
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{1986 Louisville Cardinals men's basketball navbox}}
+
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:1985–86 NCAA Division I men's basketball season|Ncaa]]
+[[Category:Basketball in the Dallas–Fort Worth metroplex]]
+[[Category:Basketball in Houston]]

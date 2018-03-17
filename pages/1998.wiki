@@ -1,0 +1,1254 @@
+{{Infobox NCAA Basketball Tournament |
+| Year=1998
+| Image=1998 Final Four logo.png
+| ImageSize=150px
+| Caption=1998 Final Four logo
+| Teams=64
+| FinalFourArena=[[Alamodome]]
+| FinalFourCity=[[San Antonio]], [[Texas]]
+| Champions=[[1997–98 Kentucky Wildcats men's basketball team|Kentucky]]
+| TitleCount=7th
+| ChampGameCount=10th
+| ChampFFCount=13th
+| RunnerUp=[[1997–98 Utah Utes men's basketball team|Utah]]
+| GameCount=2nd
+| RunnerFFCount=4th
+| Semifinal1=[[North Carolina Tar Heels men's basketball|North Carolina]]
+| FinalFourCount=14th
+| Semifinal2=[[1997–98 Stanford Cardinal men's basketball team|Stanford]]
+| FinalFourCount2=2nd
+| Coach=[[Tubby Smith]]
+| CoachCount=1st
+| MOP=[[Jeff Sheppard]]
+| MOPTeam=Kentucky
+| Attendance=663,876
+| OneTopScorer=*
+| TwoTopScorers=
+| TopScorer=[[Michael Doleac]]
+| TopScorerTeam=Utah
+| Points=115
+}}
+The '''1998 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 12, 1998, and ended with the championship game on March 30 at the [[Alamodome]] in [[San Antonio]]. A total of 63 games were played.
+
+The Final Four consisted of [[1997–98 Kentucky Wildcats men's basketball team|Kentucky]], making their third consecutive Final Four, [[1997–98 Stanford Cardinal men's basketball team|Stanford]], making their first appearance since their initial Final Four run in 1942, [[1997–98 Utah Utes men's basketball team|Utah]], making their fourth Final Four and first since 1966, and [[North Carolina Tar Heels men's basketball|North Carolina]], who returned for a fourteenth overall time and third in four seasons.
+
+Kentucky won the national title, its second in three seasons and seventh overall, by defeating Utah 78–69 in the championship game.
+
+[[Jeff Sheppard]] of Kentucky was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]]. Kentucky came back from double-digit deficits in each of its last three games in the tournament, including a 17-point second half comeback against the Duke Blue Devils, leading to the school's fans dubbing the team the "Comeback Cats". This was Kentucky's third straight championship game appearance.
+
+[[Bryce Drew]] led the 13th-ranked [[Valparaiso Crusaders men's basketball|Valparaiso Crusaders]] to the Sweet Sixteen, including [[The Shot (Valparaiso University)|a memorable play that remains part of March Madness lore]].<ref>{{cite web | url = http://www.ncaa.com/news/ncaa/marchmadness75/2012-12-10/ncaa-honors-all-time-greats-part-75-years-march-madness-celebrat | website = [[NCAA]] | date = December 11, 2012 | title = NCAA honors all-time greats as part of 75 years of March Madness celebration }}</ref>
+
+==Locations==
+
+{{Location map+|USA|width=450|float=right|caption=1998 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.581572|lon_deg=-121.494400|position=right|background=#FFFFFF|label=Sacramento|link=ARCO Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.618710|lon_deg=-116.214607|position=top|background=#FFFFFF|label=Boise|link=BSU Pavilion}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.467560|lon_deg=-97.516428|position=left|background=#FFFFFF|label=Oklahoma City|link=Myriad Convention Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.878114|lon_deg=-87.629798|position=top|background=#FFFFFF|label=Chicago|link=United Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.040584|lon_deg=-84.503716|position=left|background=#FFFFFF|label=Lexington|link=Rupp Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=left|background=#FFFFFF|label=Atlanta|link=Georgia Dome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.907192|lon_deg=-77.036871|position=right|background=#FFFFFF|label=Washington, D.C.|link=Capital One Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.763711|lon_deg=-72.685093|position=bottom|background=#FFFFFF|label=Hartford|link=Hartford Civic Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=1998 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.835293|lon_deg=-117.914504|position=top|background=#FFFFFF|label=Anaheim|link=Arrowhead Pond of Anaheim}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.627003|lon_deg=-90.199404|position=right|background=#FFFFFF|label=St. Louis|link=Kiel Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=27.773056|lon_deg=-82.640000|position=left|background=#FFFFFF|label=St. Petersburg|link=Tropicana Field}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=36.072635|lon_deg=-79.791975|position=bottom|background=#FFFFFF|label=Greensboro|link=Greensboro Coliseum}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=29.424122|lon_deg=-98.493628|position=left|background=#FFFFFF|label=San Antonio|link=Alamodome}}
+}}
+
+===First & Second Rounds===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+! rowspan="2" | East
+|[[Hartford, Connecticut]]
+|[[XL Center|Hartford Civic Center]]
+|-
+|[[Washington, D.C.]]
+|[[Capital One Arena|MCI Center]]
+|-
+! rowspan="2" | Midwest
+|[[Chicago|Chicago, Illinois]]
+|[[United Center]]
+|-
+|[[Oklahoma City|Oklahoma City, Oklahoma]]
+|[[Cox Convention Center|Myriad Convention Center]]
+|-
+! rowspan="2" | South
+|[[Atlanta|Atlanta, Georgia]]
+|[[Georgia Dome]]
+|-
+|[[Lexington, Kentucky]]
+|[[Rupp Arena]]
+|-
+! rowspan="2" | West
+|[[Boise, Idaho]]
+|[[Taco Bell Arena|BSU Pavilion]]
+|-
+|[[Sacramento, California]]
+|[[Sleep Train Arena|ARCO Arena]]
+|}
+
+===Regional Sites and Final Four===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+| '''East''' 
+|[[Greensboro, North Carolina]]
+|[[Greensboro Coliseum Complex|Greensboro Coliseum]]
+|-
+| '''Midwest'''
+|[[St. Louis|St. Louis, Missouri]]
+|[[Scottrade Center|Kiel Center]]
+|-
+| '''South'''
+|[[St. Petersburg, Florida]]
+|[[Tropicana Field]]
+|-
+| '''West'''
+|[[Anaheim, California]]
+|[[Honda Center|Arrowhead Pond of Anaheim]]
+|-
+| '''Final Four'''
+|[[San Antonio|San Antonio, Texas]]
+|[[Alamodome]]
+|}
+
+San Antonio became the 26th host city, and the Alamodome the 31st host venue, for the Final Four. The 1998 tournament saw two new cities and two new venues. For the first time ever, the tournament was held within Washington's city limits, at the new MCI Center (now Capital One Arena) downtown; all previous games in the region had been either at [[Cole Field House]] on the [[University of Maryland]] campus or at the [[Capital Centre|USAir Arena]] in suburban Landover. The tournament also came to [[Orange County, California]] for the first time, at the Arrowhead Pond, home to the NHL's [[Anaheim Ducks|Mighty Ducks]]. The tournament returned to St. Louis in 1998, playing at the Kiel Center, successor venue to both [[Kiel Auditorium]] (whose site it was built on) and the [[St. Louis Arena]]. And for the first time in 45 years, the tournament was held within Chicago city limits at the United Center, successor venue to the old [[Chicago Stadium]], which was across the street from the new venue. The tournament also marked the last appearance of the Myriad Convention Center in Oklahoma City, with future games held at the [[Chesapeake Energy Arena]] directly across the street.
+
+==Teams==
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | East Regional – [[Greensboro, North Carolina|Greensboro]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid type
+|-
+|#1
+| {{cbb link|1997|team=North Carolina Tar Heels|school=University of North Carolina at Chapel Hill|title=North Carolina}}
+| [[Bill Guthridge]]
+| [[Atlantic Coast Conference|ACC]]
+| 30–3
+| [[1998 ACC Men's Basketball Tournament|Automatic]]
+|-
+|#2
+| [[1997–98 Connecticut Huskies men's basketball team|Connecticut]]
+| [[Jim Calhoun]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 29–4
+| [[1998 Big East Men's Basketball Tournament|Automatic]]
+|-
+|#3
+| {{cbb link|1997|team=South Carolina Gamecocks|school=University of South Carolina|title=South Carolina}}
+| [[Eddie Fogler]]
+| [[Southeastern Conference|SEC]]
+| 23–7
+| At-Large
+|-
+|#4
+| [[1997–98 Michigan State Spartans men's basketball team|Michigan State]]
+| [[Tom Izzo]]
+| [[Big Ten Conference|Big Ten]]
+| 20–7
+| At-Large
+|-
+|#5
+| [[1997–98 Princeton Tigers men's basketball team|Princeton]]
+| [[Bill Carmody]]
+| [[Ivy League]]
+| 26–1
+| Automatic
+|-
+|#6
+| {{cbb link|1997|team=Xavier Musketeers|school=Xavier University|title=Xavier}}
+| [[Skip Prosser]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 22–7
+| [[1998 Atlantic 10 Men's Basketball Tournament|Automatic]]
+|-
+|#7
+| [[1997–98 Indiana Hoosiers men's basketball team|Indiana]]
+| [[Bob Knight]]
+| [[Big Ten Conference|Big Ten]]
+| 19–11
+| At-Large
+|-
+|#8
+| {{cbb link|1997|team=Charlotte 49ers|school=University of North Carolina at Charlotte|title=Charlotte}}
+| [[Melvin Watkins]]
+| [[Conference USA]]
+| 19–10
+| At-Large
+|-
+|#9
+| {{cbb link|1997|team=UIC Flames|school=University of Illinois at Chicago|title=UIC}}
+| [[Jimmy Collins (basketball)|Jimmy Collins]]
+| [[Horizon League|MCC]]
+| 22–5
+| At-Large
+|-
+|#10
+| {{cbb link|1997|team=Oklahoma Sooners|school=University of Oklahoma|title=Oklahoma}}
+| [[Kelvin Sampson]]
+| [[Big 12 Conference|Big 12]]
+| 22–10
+| At-Large
+|-
+|#11
+| {{cbb link|1997|team=Washington Huskies|school=University of Washington|title=Washington}}
+| [[Bob Bender]]
+| [[Pac-12 Conference|Pac-10]]
+| 18–9
+| At-Large
+|-
+|#12
+| {{cbb link|1997|team=UNLV Runnin' Rebels|school=University of Nevada at Las Vegas|title=UNLV}}
+| [[Bill Bayno]]
+| [[Western Athletic Conference|WAC]]
+| 20–12
+| [[1998 WAC Men's Basketball Tournament|Automatic]]
+|-
+|#13
+| {{cbb link|1997|team=Eastern Michigan Eagles|school=Eastern Michigan University|title=Eastern Michigan}}
+| [[Milton Barnes (basketball)|Milton Barnes]]
+| [[Mid-American Conference|Mid-American]]
+| 20–9
+| [[1998 MAC Men's Basketball Tournament|Automatic]]
+|-
+|#14
+| {{cbb link|1997|team=Richmond Spiders|school=University of Richmond|title=Richmond}}
+| [[John Beilein]]
+| [[Colonial Athletic Association|CAA]]
+| 22–7
+| [[1998 CAA Men's Basketball Tournament|Automatic]]
+|-
+|#15
+| {{cbb link|1997|team=Fairleigh Dickinson Knights|school=Fairleigh Dickinson University|title=Fairleigh Dickinson}}
+| [[Tom Green (basketball)|Tom Green]]
+| [[Northeast Conference|NEC]]
+| 23–6
+| [[1998 Northeast Conference Men's Basketball Tournament|Automatic]]
+|-
+|#16
+| {{cbb link|1997|team=Navy Midshipmen|school=United States Naval Academy|title=Navy}}
+| [[Don DeVoe]]
+| [[Patriot League]]
+| 19–10
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | West Regional – [[Anaheim, California|Anaheim]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| {{cbb link|1997|team=Arizona Wildcats|school=University of Arizona|title=Arizona}}
+| [[Lute Olson]]
+| [[Pac-12 Conference|Pac-10]]
+| 27–4
+| Automatic
+|-
+|#2
+| {{cbb link|1997|team=Cincinnati Bearcats|school=University of Cincinnati|title=Cincinnati}}
+| [[Bob Huggins]]
+| [[Conference USA]]
+| 26–5
+| [[1998 Conference USA Men's Basketball Tournament|Automatic]]
+|-
+|#3
+| [[1997–98 Utah Utes men's basketball team|Utah]]
+| [[Rick Majerus]]
+| [[Western Athletic Conference|WAC]]
+| 25–3
+| At-Large
+|-
+|#4
+| {{cbb link|1997|team=Maryland Terrapins|school=University of Maryland, College Park|title=Maryland}}
+| [[Gary Williams (basketball)|Gary Williams]]
+| [[Atlantic Coast Conference|ACC]]
+| 19–10
+| At-Large
+|-
+|#5
+| [[1997–98 Illinois Fighting Illini men's basketball team|Illinois]]
+| [[Lon Kruger]]
+| [[Big Ten Conference|Big Ten]]
+| 22–9
+| At-Large
+|-
+|#6
+| [[1997–98 Arkansas Razorbacks men's basketball team|Arkansas]]
+| [[Nolan Richardson]]
+| [[Southeastern Conference|SEC]]
+| 23–8
+| At-Large
+|-
+|#7
+| {{cbb link|1997|team=Temple Owls|school=Temple University|title=Temple}}
+| [[John Chaney (basketball coach)|John Chaney]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 21–8
+| At-Large
+|-
+|#8
+| {{cbb link|1997|team=Tennessee Volunteers|school=University of Tennessee|title=Tennessee}}
+| [[Jerry Green (basketball coach)|Jerry Green]]
+| [[Southeastern Conference|SEC]]
+| 20–8
+| At-Large
+|-
+|#9
+| {{cbb link|1997|team=Illinois State Redbirds|school=Illinois State University|title=Illinois State}}
+| [[Kevin Stallings]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 24–5
+| Automatic
+|-
+|#10
+| {{cbb link|1997|team=West Virginia Mountaineers|school=West Virginia University|title=West Virginia}}
+| [[Gale Catlett]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 22-8
+| At–Large
+|-
+|#11
+| {{cbb link|1997|team=Nebraska Cornhuskers|school=University of Nebraska|title=Nebraska}}
+| [[Danny Nee]]
+| [[Big 12 Conference|Big 12]]
+| 20-11
+| At–Large
+|-
+|#12
+| {{cbb link|1997|team=South Alabama Jaguars|school=University of South Alabama|title=South Alabama}}
+| [[Bob Weltlich]]
+| [[Sun Belt Conference|Sun Belt]]
+| 21–6
+| [[1998 Sun Belt Conference Men's Basketball Tournament|Automatic]]
+|-
+|#13
+| {{cbb link|1997|team=Utah State Aggies|school=Utah State University|title=Utah State}}
+| [[Larry Eustachy]]
+| [[Big West Conference|Big West]]
+| 25–7
+| Automatic
+|-
+|#14
+| {{cbb link|1997|team=San Francisco Dons|school=University of San Francisco|title=San Francisco}}
+| [[Phil Mathews]]
+| [[West Coast Conference|West Coast]]
+| 19–10
+| Automatic
+|-
+|#15
+| {{cbb link|1997|team=Northern Arizona Lumberjacks|school=Northern Arizona University|title=Northern Arizona}}
+| [[Ben Howland]]
+| [[Big Sky Conference|Big Sky]]
+| 21–7
+| [[1998 Big Sky Conference Men's Basketball Tournament|Automatic]]
+|-
+|#16
+| {{cbb link|1997|team=Nicholls State Colonels|school=Nicholls State University|title=Nicholls State}}
+| [[Rickey Broussard]]
+| [[Southland Conference|Southland]]
+| 19–9
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | Midwest Regional – [[St. Louis]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1997–98 Kansas Jayhawks men's basketball team|Kansas]]
+| [[Roy Williams (coach)|Roy Williams]]
+| [[Big 12 Conference|Big 12]]
+| 34–3
+| [[1998 Big 12 Men's Basketball Tournament|Automatic]]
+|-
+|#2
+| {{cbb link|1997|team=Purdue Boilermakers|school=Purdue University|title=Purdue}}
+| [[Gene Keady]]
+| [[Big Ten Conference|Big Ten]]
+| 26–7
+| At-Large
+|-
+|#3
+| [[1997–98 Stanford Cardinal men's basketball team|Stanford]]
+| [[Mike Montgomery]]
+| [[Pac-12 Conference|Pac-10]]
+| 26–4
+| At-Large
+|-
+|#4
+| {{cbb link|1997|team=Ole Miss Rebels|school=University of Mississippi|title=Ole Miss}}
+| [[Rob Evans (basketball)|Rob Evans]]
+| [[Southeastern Conference|SEC]]
+| 22–6
+| At-Large
+|-
+|#5
+| {{cbb link|1997|team=TCU Horned Frogs|school=Texas Christian University|title=TCU}}
+| [[Billy Tubbs]]
+| [[Western Athletic Conference|WAC]]
+| 27–5
+| At-Large
+|-
+|#6
+| [[1997–98 Clemson Tigers men's basketball team|Clemson]]
+| [[Rick Barnes]]
+| [[Atlantic Coast Conference|ACC]]
+| 18–13
+| At-Large
+|-
+|#7
+| [[1997–98 St. John's Red Storm men's basketball team|St. John's]]
+| [[Fran Fraschilla]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 22–9
+| At-Large
+|-
+|#8
+| {{cbb link|1997|team=Rhode Island Rams|school=University of Rhode Island|title=Rhode Island}}
+| [[Jim Harrick]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 22–8
+| At-Large
+|-
+|#9
+| {{cbb link|1997|team=Murray State Racers|school=Murray State University|title=Murray State}}
+| [[Mark Gottfried]]
+| [[Ohio Valley Conference|Ohio Valley]]
+| 29–3
+| Automatic
+|-
+|#10
+| {{cbb link|1997|team=Detroit Titans|school=University of Detroit Mercy|title=Detroit}}
+| [[Perry Watson]]
+| [[Horizon League|MCC]]
+| 24–5
+| At-Large
+|-
+|#11
+| [[1997–98 Western Michigan Broncos men's basketball team|Western Michigan]]
+| [[Bob Donewald]]
+| [[Mid-American Conference|Mid-American]]
+| 20–7
+| At-Large
+|-
+|#12
+| {{cbb link|1997|team=Florida State Seminoles|school=Florida State University|title=Florida State}}
+| [[Steve Robinson (basketball)|Steve Robinson]]
+| [[Atlantic Coast Conference|ACC]]
+| 17–13
+| At-Large
+|-
+|#13
+| {{cbb link|1997|team=Valparaiso Crusaders|school=Valparaiso University|title=Valparaiso}}
+| [[Homer Drew]]
+| [[The Summit League|Mid-Continent]]
+| 21–9
+| Automatic
+|-
+|#14
+| {{cbb link|1997|team=College of Charleston Cougars|school=College of Charleston|title=College of Charleston}}
+| [[John Kresse]]
+| [[Atlantic Sun Conference|TAAC]]
+| 24–5
+| [[1998 TAAC Men's Basketball Tournament|Automatic]]
+|-
+|#15
+| {{cbb link|1997|team=Delaware Fightin' Blue Hens|school=University of Delaware|title=Delaware}}
+| [[Mike Brey]]
+| [[America East Conference|America East]]
+| 20–9
+| [[1998 America East Men's Basketball Tournament|Automatic]]
+|-
+|#16
+| {{cbb link|1997|team=Prairie View A&M Panthers|school=Prairie View A&M University|title=Prairie View A&M}}
+| [[Elwood Plummer]]
+| [[Southwestern Athletic Conference|SWAC]]
+| 13–16
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | South Regional – [[St. Petersburg, Florida|St. Petersburg]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1997–98 Duke Blue Devils men's basketball team|Duke]]
+| [[Mike Krzyzewski]]
+| [[Atlantic Coast Conference|ACC]]
+| 29-3
+| At–Large
+|-
+|#2
+| [[1997–98 Kentucky Wildcats men's basketball team|Kentucky]]
+| [[Tubby Smith]]
+| [[Southeastern Conference|SEC]]
+| 29–4
+| [[1998 SEC Men's Basketball Tournament|Automatic]]
+|-
+|#3
+| [[1997–98 Michigan Wolverines men's basketball team|Michigan]] (vacated)
+| [[Brian Ellerbe]]
+| [[Big Ten Conference|Big Ten]]
+| 24–8
+| [[1998 Big Ten Conference Men's Basketball Tournament|Automatic]]
+|-
+|#4
+| {{cbb link|1997|team=New Mexico Lobos|school=University of New Mexico|title=New Mexico}}
+| [[Dave Bliss]]
+| [[Western Athletic Conference|WAC]]
+| 23–7
+| At-Large
+|-
+|#5
+| {{cbb link|1997|team=Syracuse Orangemen|school=Syracuse University|title=Syracuse}}
+| [[Jim Boeheim]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 24–8
+| At-Large
+|-
+|#6
+| [[1997–98 UCLA Bruins men's basketball team|UCLA]]
+| [[Steve Lavin]]
+| [[Pac-12 Conference|Pac-10]]
+| 22–8
+| At-Large
+|-
+|#7
+| [[1997–98 UMass Minutemen basketball team|Massachusetts]]
+| [[Bruiser Flint]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 21–10
+| At-Large
+|-
+|#8
+| {{cbb link|1997|team=Oklahoma State Cowboys|school=Oklahoma State University|title=Oklahoma State}}
+| [[Eddie Sutton]]
+| [[Big 12 Conference|Big 12]]
+| 21–6
+| At-Large
+|-
+|#9
+| {{cbb link|1997|team=George Washington Colonials|school=George Washington University|title=George Washington}}
+| [[Mike Jarvis]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 24–8
+| At-Large
+|-
+|#10
+| {{cbb link|1997|team=Saint Louis Billikens|school=Saint Louis University|title=Saint Louis}}
+| [[Charlie Spoonhour]]
+| [[Conference USA]]
+| 21–10
+| At-Large
+|-
+|#11
+| {{cbb link|1997|team=Miami Hurricanes|school=University of Miami|title=Miami (FL)}}
+| [[Leonard Hamilton]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 18–9
+| At-Large
+|-
+|#12
+| {{cbb link|1997|team=Iona Gaels|school=Iona College|title=Iona}}
+| [[Tim Welsh]]
+| [[Metro Atlantic Athletic Conference|MAAC]]
+| 27–5
+| Automatic
+|-
+|#13
+| {{cbb link|1997|team=Butler Bulldogs|school=Butler University|title=Butler}}
+| [[Barry Collier (basketball)|Barry Collier]]
+| [[Horizon League|MCC]]
+| 22–10
+| Automatic
+|-
+|#14
+| {{cbb link|1997|team=Davidson Wildcats|school=Davidson College|title=Davidson}}
+| [[Bob McKillop]]
+| [[Southern Conference|Southern]]
+| 20–9
+| [[1998 Southern Conference Men's Basketball Tournament|Automatic]]
+|-
+|#15
+| {{cbb link|1997|team=South Carolina State Bulldogs|school=South Carolina State University|title=South Carolina State}}
+| [[Cy Alexander]]
+| [[Mid-Eastern Athletic Conference|MEAC]]
+| 22–7
+| Automatic
+|-
+|#16
+| {{cbb link|1997|team=Radford Highlanders|school=Radford University|title=Radford}}
+| [[Ron Bradley]]
+| [[Big South Conference|Big South]]
+| 20–9
+| [[1998 Big South Conference Men's Basketball Tournament|Automatic]]
+|}
+
+==Bids by conference==
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Bids by Conference
+|-
+!style="background: #e3e3e3;"|Bids
+!style="background: #e3e3e3;"|Conference(s)
+|-
+| 5
+| [[Atlantic 10]], [[Atlantic Coast Conference|ACC]], [[Big Ten]], [[Big East Conference (1979–2013)|Big East]], [[Southeastern Conference|SEC]]
+|-
+| 4
+| [[Big 12]], [[Pac-10]], [[Western Athletic Conference|WAC]]
+|-
+| 3
+| [[Conference USA|C-USA]], [[Horizon League|MCC]]
+|-
+| 2
+| [[Mid-American Conference|MAC]]
+|-
+| 1
+| 19 others
+|-
+|}
+
+==Bracket==
+
+===East Regional – Greensboro, North Carolina===
+{{16TeamBracket | RD1=First Round| RD2=Second Round | RD3=Regional Semifinals | RD4=Regional Final | RD1-seed01=1
+ | subgroup1= '''[[Hartford Civic Center|Hartford]]'''
+ | subgroup2= '''[[Hartford Civic Center|Hartford]]'''
+ | subgroup3= '''[[MCI Center|Washington, D.C.]]'''
+ | subgroup4= '''[[MCI Center|Washington, D.C.]]'''
+| RD1-team01='''North Carolina'''
+ | RD1-score01='''88'''
+ | RD1-seed02=16
+ | RD1-team02=Navy
+ | RD1-score02=52
+ | RD1-seed03=8
+ | RD1-team03='''Charlotte'''
+ | RD1-score03='''77'''
+ | RD1-seed04=9
+ | RD1-team04=UIC
+ | RD1-score04=62
+ | RD1-seed05=5
+ | RD1-team05='''Princeton'''
+ | RD1-score05='''69'''
+ | RD1-seed06=12
+ | RD1-team06=UNLV
+ | RD1-score06=57
+ | RD1-seed07=4
+ | RD1-team07='''Michigan State'''
+ | RD1-score07='''83'''
+ | RD1-seed08=13
+ | RD1-team08=Eastern Michigan
+ | RD1-score08=71
+ | RD1-seed09=6
+ | RD1-team09=Xavier
+ | RD1-score09=68
+ | RD1-seed10=11
+ | RD1-team10='''Washington'''
+ | RD1-score10='''69'''
+ | RD1-seed11=3
+ | RD1-team11=South Carolina
+ | RD1-score11=61
+ | RD1-seed12=14
+ | RD1-team12='''Richmond'''
+ | RD1-score12='''62'''
+ | RD1-seed13=7
+ | RD1-team13='''Indiana'''
+ | RD1-score13='''94'''
+ | RD1-seed14=10
+ | RD1-team14=Oklahoma
+ | RD1-score14=87*
+ | RD1-seed15=2
+ | RD1-team15='''Connecticut'''
+ | RD1-score15='''93'''
+ | RD1-seed16=15
+ | RD1-team16=Fairleigh Dickinson
+ | RD1-score16=85
+ | RD2-seed01=1
+ | RD2-team01='''North Carolina'''
+ | RD2-score01='''93'''
+ | RD2-seed02=8
+ | RD2-team02=Charlotte
+ | RD2-score02=83*
+ | RD2-seed03=5
+ | RD2-team03=Princeton
+ | RD2-score03=56
+ | RD2-seed04=4
+ | RD2-team04='''Michigan State'''
+ | RD2-score04='''63'''
+ | RD2-seed05=11
+ | RD2-team05='''Washington'''
+ | RD2-score05='''81'''
+ | RD2-seed06=14
+ | RD2-team06=Richmond
+ | RD2-score06=66
+ | RD2-seed07=7
+ | RD2-team07=Indiana
+ | RD2-score07=68
+ | RD2-seed08=2
+ | RD2-team08='''Connecticut'''
+ | RD2-score08='''78'''
+ | RD3-seed01=1
+ | RD3-team01='''North Carolina'''
+ | RD3-score01='''73'''
+ | RD3-seed02=4
+ | RD3-team02=Michigan State
+ | RD3-score02=58
+ | RD3-seed03=11
+ | RD3-team03=Washington
+ | RD3-score03=74
+ | RD3-seed04=2
+ | RD3-team04='''Connecticut'''
+ | RD3-score04='''75'''
+ | RD4-seed01=1
+ | RD4-team01='''North Carolina'''
+ | RD4-score01='''75'''
+ | RD4-seed02=2
+ | RD4-team02=Connecticut
+ | RD4-score02=64
+}}
+
+====Regional Final Summary====
+
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 21
+ | time = 
+ | team1 = '''#1 North Carolina Tar Heels'''
+ | score1 =  '''75'''
+ | team2 = #2 Connecticut Huskies 
+ | score2 = 64
+ | points1 = [[Antawn Jamison|A. Jamison]] 20
+ | rebounds1 = [[Antawn Jamison|A. Jamison]] 11
+ | assist1 = [[Ed Cota|E. Cota]] 9
+ | otherstat1 = 
+ | points2 = [[Khalid El-Amin|K. El-Amin]] 24
+ | rebounds2 = [[Kevin Freeman (basketball)|K. Freeman]] 7
+ | assist2 = M. Hardnett 4
+ | otherstat2 = '''Halftime Score:''' North Carolina, 36-32
+ | place = Greensboro Coliseum – Greensboro, North Carolina
+ | attendance = 23,235
+ | referee = Mark Reischling, Eddie Jackson, Dick Cartmell
+ | TV = CBS
+}}
+
+===West Regional – Anaheim, California===
+{{16TeamBracket | RD1=First Round | RD2=Second Round | RD3=Regional Semifinals | RD4=Regional Final | RD1-seed01=1
+ | subgroup1= '''[[ARCO Arena|Sacramento]]'''
+ | subgroup2= '''[[ARCO Arena|Sacramento]]'''
+ | subgroup3= '''[[BSU Pavilion|Boise]]'''
+ | subgroup4= '''[[BSU Pavilion|Boise]]'''
+| RD1-team01='''Arizona'''
+ | RD1-score01='''99'''
+ | RD1-seed02=16
+ | RD1-team02=Nicholls State
+ | RD1-score02=60
+ | RD1-seed03=8
+ | RD1-team03=Tennessee
+ | RD1-score03=81
+ | RD1-seed04=9
+ | RD1-team04='''Illinois State'''
+ | RD1-score04='''82'''*
+ | RD1-seed05=5
+ | RD1-team05='''Illinois'''
+ | RD1-score05='''64'''
+ | RD1-seed06=12
+ | RD1-team06=South Alabama
+ | RD1-score06=51
+ | RD1-seed07=4
+ | RD1-team07='''Maryland'''
+ | RD1-score07='''82'''
+ | RD1-seed08=13
+ | RD1-team08=Utah State
+ | RD1-score08=68
+ | RD1-seed09=6
+ | RD1-team09='''Arkansas'''
+ | RD1-score09='''74'''
+ | RD1-seed10=11
+ | RD1-team10=Nebraska
+ | RD1-score10=65
+ | RD1-seed11=3
+ | RD1-team11='''Utah'''
+ | RD1-score11='''85'''
+ | RD1-seed12=14
+ | RD1-team12=San Francisco
+ | RD1-score12=68
+ | RD1-seed13=7
+ | RD1-team13=Temple
+ | RD1-score13=52
+ | RD1-seed14=10
+ | RD1-team14='''West Virginia'''
+ | RD1-score14='''82'''
+ | RD1-seed15=2
+ | RD1-team15='''Cincinnati'''
+ | RD1-score15='''65'''
+ | RD1-seed16=15
+ | RD1-team16=Northern Arizona
+ | RD1-score16=62
+ | RD2-seed01=1
+ | RD2-team01='''Arizona'''
+ | RD2-score01='''82'''
+ | RD2-seed02=9
+ | RD2-team02=Illinois State
+ | RD2-score02=49
+ | RD2-seed03=5
+ | RD2-team03=Illinois
+ | RD2-score03=61
+ | RD2-seed04=4
+ | RD2-team04='''Maryland'''
+ | RD2-score04='''67'''
+ | RD2-seed05=6
+ | RD2-team05=Arkansas
+ | RD2-score05=69
+ | RD2-seed06=3
+ | RD2-team06='''Utah'''
+ | RD2-score06='''75'''
+ | RD2-seed07=10
+ | RD2-team07='''West Virginia'''
+ | RD2-score07='''75'''
+ | RD2-seed08=2
+ | RD2-team08=Cincinnati
+ | RD2-score08=74
+ | RD3-seed01=1
+ | RD3-team01='''Arizona'''
+ | RD3-score01='''87'''
+ | RD3-seed02=4
+ | RD3-team02=Maryland
+ | RD3-score02=79
+ | RD3-seed03=3
+ | RD3-team03='''Utah'''
+ | RD3-score03='''65'''
+ | RD3-seed04=10
+ | RD3-team04=West Virginia
+ | RD3-score04=62
+ | RD4-seed01=1
+ | RD4-team01=Arizona
+ | RD4-score01=51
+ | RD4-seed02=3
+ | RD4-team02='''Utah'''
+ | RD4-score02='''76'''
+}}
+
+====Regional Final Summary====
+
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 21
+ | time = 
+ | report = [http://sportsillustrated.cnn.com/basketball/college/men/scoreboards/1998/03/21/finalbox.arizona.utah.html box score]
+ | team1 = '''#3 Utah Utes'''
+ | score1 =  '''76'''
+ | team2 = #1 Arizona Wildcats 
+ | score2 = 51
+ | points1 = [[Andre Miller|A. Miller]] 18
+ | rebounds1 = [[Andre Miller|A. Miller]] 13
+ | assist1 = [[Andre Miller|A. Miller]] 14
+ | otherstat1 = 
+ | points2 = [[Jason Terry|J. Terry]] 16
+ | rebounds2 = [[Bennett Davison|B. Davison]] 10
+ | assist2 = [[Miles Simon|M. Simon]] 4
+ | otherstat2 = '''Halftime Score:''' Utah, 29-20
+ | place = Arrowhead Pond – Anaheim, California
+ | attendance = 17,851
+ | referee = Gerald Boudreaux, Tony Greene, Tom Rucker
+ | TV = CBS
+}}
+
+===South Regional – St. Petersburg, Florida===
+{{16TeamBracket | RD1=First Round | RD2=Second Round | RD3=Regional Semifinals | RD4=Regional Final | RD1-seed01=1
+ | subgroup1= '''[[Rupp Arena|Lexington]]'''
+ | subgroup2= '''[[Rupp Arena|Lexington]]'''
+ | subgroup3= '''[[Georgia Dome|Atlanta]]'''
+ | subgroup4= '''[[Georgia Dome|Atlanta]]'''
+| RD1-team01='''Duke'''
+ | RD1-score01='''99'''
+ | RD1-seed02=16
+ | RD1-team02=Radford
+ | RD1-score02=63
+ | RD1-seed03=8
+ | RD1-team03='''Oklahoma State'''
+ | RD1-score03='''74'''
+ | RD1-seed04=9
+ | RD1-team04=George Washington
+ | RD1-score04=59
+ | RD1-seed05=5
+ | RD1-team05='''Syracuse'''
+ | RD1-score05='''63'''
+ | RD1-seed06=12
+ | RD1-team06=Iona
+ | RD1-score06=61
+ | RD1-seed07=4
+ | RD1-team07='''New Mexico'''
+ | RD1-score07='''79'''
+ | RD1-seed08=13
+ | RD1-team08=Butler
+ | RD1-score08=62
+ | RD1-seed09=6
+ | RD1-team09='''UCLA'''
+ | RD1-score09='''65'''
+ | RD1-seed10=11
+ | RD1-team10=Miami (FL)
+ | RD1-score10=62
+ | RD1-seed11=3
+ | RD1-team11='''Michigan'''
+ | RD1-score11='''80'''
+ | RD1-seed12=14
+ | RD1-team12=Davidson
+ | RD1-score12=61
+ | RD1-seed13=7
+ | RD1-team13=Massachusetts
+ | RD1-score13=46
+ | RD1-seed14=10
+ | RD1-team14='''Saint Louis'''
+ | RD1-score14='''51'''
+ | RD1-seed15=2
+ | RD1-team15='''Kentucky'''
+ | RD1-score15='''82'''
+ | RD1-seed16=15
+ | RD1-team16=South Carolina State
+ | RD1-score16=67
+ | RD2-seed01=1
+ | RD2-team01='''Duke'''
+ | RD2-score01='''79'''
+ | RD2-seed02=8
+ | RD2-team02=Oklahoma State
+ | RD2-score02=73
+ | RD2-seed03=5
+ | RD2-team03='''Syracuse'''
+ | RD2-score03='''56'''
+ | RD2-seed04=4
+ | RD2-team04=New Mexico
+ | RD2-score04=46
+ | RD2-seed05=6
+ | RD2-team05='''UCLA'''
+ | RD2-score05='''85'''
+ | RD2-seed06=3
+ | RD2-team06=Michigan
+ | RD2-score06=82
+ | RD2-seed07=10
+ | RD2-team07=Saint Louis
+ | RD2-score07=61
+ | RD2-seed08=2
+ | RD2-team08='''Kentucky'''
+ | RD2-score08='''88'''
+ | RD3-seed01=1
+ | RD3-team01='''Duke'''
+ | RD3-score01='''80'''
+ | RD3-seed02=5
+ | RD3-team02=Syracuse
+ | RD3-score02=67
+ | RD3-seed03=6
+ | RD3-team03=UCLA
+ | RD3-score03=68
+ | RD3-seed04=2
+ | RD3-team04='''Kentucky'''
+ | RD3-score04='''94'''
+ | RD4-seed01=1
+ | RD4-team01=Duke
+ | RD4-score01=84
+ | RD4-seed02=2
+ | RD4-team02='''Kentucky'''
+ | RD4-score02='''86'''
+}}
+
+====Regional Final Summary====
+
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 22
+ | time = 
+ | report = [http://sportsillustrated.cnn.com/basketball/college/men/scoreboards/1998/03/22/finalbox.duke.kentucky.html box score]
+ | team1 = '''#2 Kentucky Wildcats'''
+ | score1 =  '''86'''
+ | team2 = #1 Duke Blue Devils 
+ | score2 = 84
+ | points1 = [[Jeff Sheppard|J. Sheppard]] 18
+ | rebounds1 = H. Evans, [[Jeff Sheppard|J. Sheppard]] 11
+ | assist1 = [[Wayne Turner (basketball)|W. Turner]] 8
+ | otherstat1 = 
+ | points2 = [[Roshown McLeod|R. McLeod]] 19
+ | rebounds2 = [[Roshown McLeod|R. McLeod]], [[Shane Battier|S. Battier]] 8
+ | assist2 = [[Steve Wojciechowski|S. Wojciechowski]], [[Trajan Langdon|T. Langdon]] 4
+ | otherstat2 = '''Halftime Score:''' Duke, 49-39
+ | place = Tropicana Field – St. Petersburg, Florida
+ | attendance = 40,589
+ | referee = Tom Harrington, Mike Sanzere, Curtis Shaw
+ | TV = CBS
+}}
+
+===Midwest Regional – St. Louis, Missouri===
+{{16TeamBracket | RD1=First Round | RD2=Second Round | RD3=Regional Semifinals | RD4=Regional Final | RD1-seed01=1
+| subgroup1= '''[[Myriad Convention Center|Oklahoma City]]'''
+ | subgroup2= '''[[Myriad Convention Center|Oklahoma City]]'''
+ | subgroup3= '''[[United Center|Chicago]]'''
+ | subgroup4= '''[[United Center|Chicago]]''' 
+| RD1-team01='''Kansas'''
+ | RD1-score01='''110'''
+ | RD1-seed02=16
+ | RD1-team02=Prairie View A&M
+ | RD1-score02=52
+ | RD1-seed03=8
+ | RD1-team03='''Rhode Island'''
+ | RD1-score03='''97'''
+ | RD1-seed04=9
+ | RD1-team04=Murray State
+ | RD1-score04=74
+ | RD1-seed05=5
+ | RD1-team05=TCU
+ | RD1-score05=87
+ | RD1-seed06=12
+ | RD1-team06='''Florida State'''
+ | RD1-score06='''96'''
+ | RD1-seed07=4
+ | RD1-team07=Ole Miss
+ | RD1-score07=69
+ | RD1-seed08=13
+ | RD1-team08='''Valparaíso'''
+ | RD1-score08='''70'''
+ | RD1-seed09=6
+ | RD1-team09=Clemson
+ | RD1-score09=72
+ | RD1-seed10=11
+ | RD1-team10='''Western Michigan'''
+ | RD1-score10='''75'''
+ | RD1-seed11=3
+ | RD1-team11='''Stanford'''
+ | RD1-score11='''67'''
+ | RD1-seed12=14
+ | RD1-team12=College of Charleston
+ | RD1-score12=57
+ | RD1-seed13=7
+ | RD1-team13=St. John's
+ | RD1-score13=64
+ | RD1-seed14=10
+ | RD1-team14='''Detroit'''
+ | RD1-score14='''66'''
+ | RD1-seed15=2
+ | RD1-team15='''Purdue'''
+ | RD1-score15='''95'''
+ | RD1-seed16=15
+ | RD1-team16=Delaware
+ | RD1-score16=56
+ | RD2-seed01=1
+ | RD2-team01=Kansas
+ | RD2-score01=75
+ | RD2-seed02=8
+ | RD2-team02='''Rhode Island'''
+ | RD2-score02='''80'''
+ | RD2-seed03=12
+ | RD2-team03=Florida State
+ | RD2-score03=77
+ | RD2-seed04=13
+ | RD2-team04='''Valparaiso'''
+ | RD2-score04='''83'''*
+ | RD2-seed05=11
+ | RD2-team05=Western Michigan
+ | RD2-score05=65
+ | RD2-seed06=3
+ | RD2-team06='''Stanford'''
+ | RD2-score06='''83'''
+ | RD2-seed07=10
+ | RD2-team07=Detroit
+ | RD2-score07=65
+ | RD2-seed08=2
+ | RD2-team08='''Purdue'''
+ | RD2-score08='''80'''
+ | RD3-seed01=8
+ | RD3-team01='''Rhode Island'''
+ | RD3-score01='''74'''
+ | RD3-seed02=13
+ | RD3-team02=Valparaiso
+ | RD3-score02=68
+ | RD3-seed03=3
+ | RD3-team03='''Stanford'''
+ | RD3-score03='''67'''
+ | RD3-seed04=2
+ | RD3-team04=Purdue
+ | RD3-score04=59
+ | RD4-seed01=8
+ | RD4-team01=Rhode Island
+ | RD4-score01=77
+ | RD4-seed02=3
+ | RD4-team02='''Stanford'''
+ | RD4-score02='''79'''
+}}
+
+====Regional Final Summary====
+
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 22
+ | time = 
+ | report = [http://sportsillustrated.cnn.com/basketball/college/men/scoreboards/1998/03/22/finalbox.stanford.rhode_island.html box score]
+ | team1 = '''#3 Stanford Cardinal'''
+ | score1 =  '''79'''
+ | team2 = #8 Rhode Island
+ | score2 = 77
+ | points1 = [[Arthur Lee (basketball)|A. Lee]] 26
+ | rebounds1 = T. Young 12
+ | assist1 = [[Arthur Lee (basketball)|A. Lee]] 7
+ | otherstat1 = 
+ | points2 = [[Tyson Wheeler|T. Wheeler]] 24
+ | rebounds2 = A. Reynolds-Dean 10
+ | assist2 = [[Tyson Wheeler|T. Wheeler]] 5
+ | otherstat2 = '''Halftime Score:''' 38-38
+ | place = Kiel Center – St. Louis
+ | attendance = 22, 172
+ | referee = Frank Scagliotta, Mike Kitts, Larry Rose
+ | TV = CBS
+}}
+
+===Final Four @ San Antonio, Texas===
+{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game | RD1-seed1=E1
+ | RD1-team1=North Carolina
+ | RD1-score1=59
+ | RD1-seed2=W3
+ | RD1-team2='''Utah'''
+ | RD1-score2='''65'''
+ | RD1-seed3=S2
+ | RD1-team3='''Kentucky'''
+ | RD1-score3='''86'''*
+ | RD1-seed4=M3
+ | RD1-team4=Stanford
+ | RD1-score4=85
+ | RD2-seed1=W3
+ | RD2-team1=Utah
+ | RD2-score1=69
+ | RD2-seed2=S2
+ | RD2-team2='''Kentucky'''
+ | RD2-score2='''78'''
+}}
+
+===Game Summaries===
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 28
+ | time = 
+ | report = [http://sportsillustrated.cnn.com/basketball/college/men/scoreboards/1998/03/28/finalbox.kentucky.stanford.html box score]
+ | team1 = '''#2 Kentucky Wildcats'''
+ | score1 =  '''86'''
+ | team2 = #3 Stanford Cardinal
+ | score2 = 85 '''(OT)'''
+ | points1 = [[Jeff Sheppard|J. Sheppard]] 27
+ | rebounds1 = [[Jeff Sheppard|J.Sheppard]], [[Heshimu Evans|H. Evans]], [[Scott Padgett|S. Padgett]] 6
+ | assist1 = [[Jeff Sheppard|J. Sheppard]], [[Wayne Turner (basketball)|W. Turner]] 4
+ | otherstat1 =  
+ | points2 = [[Arthur Lee (basketball)|A. Lee]] 26
+ | rebounds2 = [[Mark Madsen|M. Madsen]] 16
+ | assist2 = [[Arthur Lee (basketball)|A. Lee]] 5
+ | otherstat2 = '''Halftime Score:''' Stanford, 37-32<br>'''After Regulation:''' 73-73
+ | place = Alamodome – San Antonio
+ | attendance = 40,509
+ | referee = Tim Higgins, Bob Donato, Larry Rose
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Saturday, March, 28
+ | time = 
+ | report = [http://sportsillustrated.cnn.com/basketball/college/men/scoreboards/1998/03/28/finalbox.north_carolina.utah.html box score]
+ | team1 = '''#3 Utah Utes'''
+ | score1 =  '''65'''
+ | team2 = #1 North Carolina Tar Heels
+ | score2 = 59
+ | points1 = [[Michael Doleac|M. Doleac]], [[Andre Miller|A. Miller]] 16
+ | rebounds1 = [[Andre Miller|A. Miller]] 14
+ | assist1 = [[Andre Miller|A. Miller]] 7
+ | otherstat1 = 
+ | points2 = [[Vince Carter|V. Carter]] 21
+ | rebounds2 = [[Antawn Jamison|A. Jamison]] 12
+ | assist2 = [[Ed Cota|E. Cota]] 7
+ | otherstat2 = '''Halftime Score:''' Utah, 35-22
+ | place = Alamodome – San Antonio
+ | attendance = 40,509
+ | referee = John Clougherty, Andre Pattillo, Don Rutledge
+ | TV = CBS
+}}
+
+===National Championship===
+{{main article|1998 NCAA Men's Division I Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, March 30
+ | time = 
+ | report = [http://sportsillustrated.cnn.com/basketball/college/men/scoreboards/1998/03/30/finalbox.kentucky.utah.html Box score]
+ | team1 = '''#2 Kentucky Wildcats'''
+ | score1 =  '''78'''
+ | team2 = #3 Utah Utes
+ | score2 = 69
+ | points1 = [[Scott Padgett|S. Padgett]] 17
+ | rebounds1 = [[Heshimu Evans|H. Evans]] 6
+ | assist1 = [[Allen Edwards (basketball)|A. Edwards]] 5
+ | otherstat1 =  
+ | points2 = [[Andre Miller|A. Miller]] 16
+ | rebounds2 = [[Michael Doleac|M. Doleac]] 10
+ | assist2 = [[Andre Miller|A. Miller]] 5
+ | otherstat2 = '''Halftime Score:''' Utah, 41-31
+ | place = Alamodome – San Antonio
+ | attendance = 40,509
+ | referee = Jim Burr, Donnie Gray, Mike Sanzere
+ | TV = CBS
+}}
+
+==Announcers==
+*[[Jim Nantz]] and [[Billy Packer]] – First & Second Round at Atlanta, Georgia; South Regional at St. Petersburg, Florida; Final Four at San Antonio, Texas
+*[[Sean McDonough]] and [[Bill Raftery]] – First & Second Round at Washington, D.C.; East Regional at Greensboro, North Carolina
+*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Jon Sundvold]] – First & Second Round at Hartford, Connecticut; West Regional at Anaheim, California
+*[[Tim Brando]] and [[Al McGuire]] – First & Second Round at Lexington, Kentucky; Midwest Regional at St. Louis, Missouri
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Rolando Blackman]] – First & Second Round at Oklahoma City, Oklahoma
+*[[Jim Durham]] and [[Greg Kelser]] – First & Second Round at Boise, Idaho
+*[[Tim Ryan (sportscaster)|Tim Ryan]] and [[Dan Bonner]] – First & Second Round at Chicago, Illinois
+*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Sacramento, California
+
+==See also==
+* [[1998 NCAA Division II Men's Basketball Tournament]]
+* [[1998 NCAA Division III Men's Basketball Tournament]]
+* [[1998 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|1998 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|1998 NCAA Division III Women's Basketball Tournament]]
+* [[1998 National Invitation Tournament]]
+* [[Women's National Invitation Tournament|1998 Women's National Invitation Tournament]]
+* [[1998 NAIA Division I Men's Basketball Tournament]]
+* [[NAIA Men's Basketball Championships#Division II|1998 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|1998 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|1998 NAIA Division II Women's Basketball Tournament]]
+
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{1998 Kentucky Wildcats men's basketball navbox}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:1998 Ncaa Men's Division I Basketball Tournament}}
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:1997–98 NCAA Division I men's basketball season|Ncaa]]
+[[Category:Basketball in San Antonio]]

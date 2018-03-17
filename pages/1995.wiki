@@ -1,0 +1,1325 @@
+{{Infobox NCAA Basketball Tournament |
+| Year=1995
+| Image=1995FinalFour.gif
+| ImageSize=150px
+| Caption=
+| Teams=64
+| FinalFourArena=[[Kingdome]]
+| FinalFourCity=[[Seattle]], [[Washington (state)|Washington]]
+| Champions=[[1994–95 UCLA Bruins men's basketball team|UCLA]]
+| TitleCount=11th
+| ChampGameCount=12th
+| ChampFFCount=15th
+| RunnerUp=[[1994–95 Arkansas Razorbacks men's basketball team|Arkansas]]
+| GameCount=2nd
+| RunnerFFCount=6th
+| Semifinal1=[[1994–95 North Carolina Tar Heels men's basketball team|North Carolina]]
+| FinalFourCount=12th
+| Semifinal2=[[1994–95 Oklahoma State Cowboys basketball team|Oklahoma State]]
+| FinalFourCount2=5th
+| Coach=[[Jim Harrick]]
+| CoachCount=1st
+| MOP=[[Ed O'Bannon]]
+| MOPTeam=UCLA
+| Attendance=540,101
+| TopScorer=[[Corliss Williamson]]
+| TopScorerTeam=Arkansas
+| Points=125
+}}
+The '''1995 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 16, 1995, and ended with the [[1995 NCAA Men's Division I Basketball Championship Game|championship game]] on April 3 at the [[Seattle Kingdome|Kingdome]] in [[Seattle]], [[Washington (state)|Washington]]. A total of 63 games were played.
+
+The Final Four consisted of [[1994–95 UCLA Bruins men's basketball team|UCLA]], making their fifteenth appearance and first since the 1980 team that eventually saw their appearance vacated, [[1994–95 Oklahoma State Cowboys basketball team|Oklahoma State]], making their fifth appearance and first since 1951, [[1994–95 North Carolina Tar Heels men's basketball team|North Carolina]], making their twelfth appearance and second in three years, and [[1994–95 Arkansas Razorbacks men's basketball team|Arkansas]], the defending national champions.
+
+The championship game saw UCLA win their eleventh national championship and first (and only) national title under [[Jim Harrick]] by defeating Arkansas 89–78, foiling the Razorbacks' hopes of back to back national titles.
+
+UCLA's [[Ed O'Bannon]] was named the [[NCAA Basketball Tournament Most Outstanding Player|tournament's Most Outstanding Player]].
+
+==Locations==
+
+{{Location map+|USA|width=450|float=right|caption=1995 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.652579|lon_deg=-73.756232|position=bottom|background=#FFFFFF|label=Albany|link=Times Union Center|Knickerbocker Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.290385|lon_deg=-76.612189|position=bottom|background=#FFFFFF|label=Baltimore|link=1st Mariner Arena|Baltimore Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.758948|lon_deg=-84.191607|position=bottom|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=30.438256|lon_deg=-84.280733|position=bottom|background=#FFFFFF|label=Tallahassee|link=Donald L. Tucker Center|Tallahassee-Leon County Civic Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.149534|lon_deg=-90.048980|position=bottom|background=#FFFFFF|label=Memphis|link=Pyramid Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=30.267153|lon_deg=-97.743061|position=bottom|background=#FFFFFF|label=Austin|link=Frank Erwin Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.760779|lon_deg=-111.891047|position=bottom|background=#FFFFFF|label=Salt Lake City|link=Jon M. Huntsman Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.618710|lon_deg=-116.214607|position=top|background=#FFFFFF|label=Boise|link=McKale Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=1995 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=37.804364|lon_deg=-122.271114|position=right|background=#FFFFFF|label=Oakland|link=Oracle Arena|Oakland–Alameda County Coliseum Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.099727|lon_deg=-94.578567|position=right|background=#FFFFFF|label=Kansas City|link=Kemper Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.520661|lon_deg=-86.802490|position=top|background=#FFFFFF|label=Birmingham|link=Birmingham–Jefferson Convention Complex|BJCC Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=40.833989|lon_deg=-74.097086|position=bottom|background=#FFFFFF|label=E. Rutherford|link=Izod Center|Continental Airlines Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=47.606209|lon_deg=-122.332071|position=bottom|background=#FFFFFF|label=Seattle|link=Kingdome}}
+}}
+
+===First & Second Rounds===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+! rowspan="2" | East
+|[[Albany, New York]]
+|[[Times Union Center|Knickerbocker Arena]]
+|-
+|[[Baltimore|Baltimore, Maryland]]
+|[[Royal Farms Arena|Baltimore Arena]]
+|-
+! rowspan="2" | Midwest
+|[[Austin, Texas]]
+|[[Frank Erwin Center]]
+|-
+|[[Dayton, Ohio]]
+|[[UD Arena|University of Dayton Arena]]
+|-
+! rowspan="2" | Southeast
+|[[Memphis, Tennessee]]
+|[[Memphis Pyramid]]
+|-
+|[[Tallahassee, Florida]]
+|[[Donald L. Tucker Civic Center|Tallahassee-Leon County Civic Center]]
+|-
+! rowspan="2" | West
+|[[Boise, Idaho]]
+|[[Taco Bell Arena|BSU Pavilion]]
+|-
+|[[Salt Lake City|Salt Lake City, Utah]]
+|[[Jon M. Huntsman Center]]
+|}
+
+===Regional Sites and Final Four===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+| '''East''' 
+|[[East Rutherford, New Jersey]]
+|[[Meadowlands Arena|Brendan Byrne Arena]]
+|-
+| '''Midwest'''
+|[[Kansas City, Missouri]]
+|[[Kemper Arena]]
+|-
+| '''Southeast'''
+|[[Birmingham, Alabama]]
+|[[Birmingham–Jefferson Convention Complex|BJCC Coliseum]]
+|-
+| '''West'''
+|[[Oakland, California]]
+|[[Oracle Arena|Oakland–Alameda County Coliseum Arena]]
+|-
+| '''Final Four'''
+|[[Seattle|Seattle, Washington]]
+|[[Kingdome]]
+|}
+
+For the third and final time, the Kingdome served as the host venue for the Final Four. It would be the last tournament games at the multipurpose stadium, which was demolished in 2000 to make way for [[CenturyLink Field]]. The 1995 tournament saw four new host venues in three new cities. For the first time, the New York capital of Albany hosted tournament games at Knickerbocker Arena, the off-campus home of the [[Siena Saints men's basketball]] team. Baltimore hosted its first and, to date, only tournament games at the Baltimore Arena, as did Tallahassee's Leon County Civic Center, the home of the [[Florida State Seminoles men's basketball]] team. To date, this marked the last time the tournament has been held in the state of Maryland. Tallahassee was the fourth new city in three years in the state of Florida. And for the second time, the tournament returned to Memphis, this time at the Pyramid Arena, the home to the [[Memphis Tigers men's basketball]] team.
+
+==Teams==
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | East Regional – [[East Rutherford, New Jersey|East Rutherford]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1994–95 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+| [[Dave Odom]]
+| [[Atlantic Coast Conference|ACC]]
+| 24–5
+| Automatic
+|-
+|#2
+| [[1994–95 UMass Minutemen basketball team|Massachusetts]]
+| [[John Calipari]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 26–4
+| Automatic
+|-
+|#3
+| {{cbb link|1994|team=Villanova Wildcats|school=Villanova University|title=Villanova}}
+| [[Steve Lappas]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 25–7
+| Automatic
+|-
+|#4
+| [[1994–95 Oklahoma State Cowboys basketball team|Oklahoma State]]
+| [[Eddie Sutton]]
+| [[Big Eight Conference|Big Eight]]
+| 23–9
+| Automatic
+|-
+|#5
+| {{cbb link|1994|team=Alabama Crimson Tide|school=University of Alabama|title=Alabama}}
+| [[David Hobbs (basketball)|David Hobbs]]
+| [[Southeastern Conference|SEC]]
+| 22–9
+| At-Large
+|-
+|#6
+| {{cbb link|1994|team=Tulsa Golden Hurricane|school=University of Tulsa|title=Tulsa}}
+| [[Tubby Smith]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 22–7
+| At-Large
+|-
+|#7
+| {{cbb link|1994|team=Charlotte 49ers|school=University of North Carolina at Charlotte|title=UNC Charlotte}}
+| [[Jeff Mullins (basketball)|Jeff Mullins]]
+| [[Metro Conference|Metro]]
+| 19-8
+| At–Large
+|-
+|#8
+| {{cbb link|1994|team=Minnesota Golden Gophers|school=University of Minnesota|title=Minnesota}}
+| [[Clem Haskins]]
+| [[Big Ten Conference|Big Ten]]
+| 19–11
+| At-Large
+|-
+|#9
+| {{cbb link|1994|team=Saint Louis Billikens|school=Saint Louis University|title=Saint Louis}}
+| [[Charlie Spoonhour]]
+| [[Great Midwest Conference|Great Midwest]]
+| 22–7
+| At-Large
+|-
+|#10
+| {{cbb link|1994|team=Stanford Cardinal|school=Stanford University|title=Stanford}}
+| [[Mike Montgomery]]
+| [[Pac-12 Conference|Pac-10]]
+| 19–8
+| At-Large
+|-
+|#11
+| [[1994–95 Illinois Fighting Illini men's basketball team|Illinois]]
+| [[Lou Henson]]
+| [[Big Ten Conference|Big Ten]]
+| 19–11
+| At-Large
+|-
+|#12
+| {{cbb link|1994|team=Penn Quakers|school=University of Pennsylvania|title=Penn}}
+| [[Fran Dunphy]]
+| [[Ivy League]]
+| 22–5
+| Automatic
+|-
+|#13
+| [[1994–95 Drexel Dragons men's basketball team|Drexel]]
+| [[Bill Herrion]]
+| [[America East Conference|NAC]]
+| 22–7
+| Automatic
+|-
+|#14
+| {{cbb link|1994|team=Old Dominion Monarchs|school=Old Dominion University|title=Old Dominion}}
+| [[Jeff Capel II]]
+| [[Colonial Athletic Association|CAA]]
+| 20–11
+| Automatic
+|-
+|#15
+| {{cbb link|1994|team=Saint Peter's Peacocks|school=Saint Peter's College|title=Saint Peter's}}
+| [[Ted Fiore]]
+| [[Metro Atlantic Athletic Conference|MAAC]]
+| 19–10
+| Automatic
+|-
+|#16
+| {{cbb link|1994|team=North Carolina A&T Aggies|school=North Carolina A&T University|title=North Carolina A&T}}
+| [[Roy Thomas (basketball)|Roy Thomas]]
+| [[Mid-Eastern Athletic Conference|MEAC]]
+| 15–14
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | West Regional – [[Oakland, California|Oakland]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1994–95 UCLA Bruins men's basketball team|UCLA]]
+| [[Jim Harrick]]
+| [[Pac-12 Conference|Pac-10]]
+| 25–2
+| Automatic
+|-
+|#2
+| [[1994–95 Connecticut Huskies men's basketball team|Connecticut]]
+| [[Jim Calhoun]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 25–4
+| At-Large
+|-
+|#3
+| {{cbb link|1994|team=Maryland Terrapins|school=University of Maryland, College Park|title=Maryland}}
+| [[Gary Williams (basketball)|Gary Williams]]
+| [[Atlantic Coast Conference|ACC]]
+| 24–7
+| At-Large
+|-
+|#4
+| {{cbb link|1994|team=Utah Utes|school=University of Utah|title=Utah}}
+| [[Rick Majerus]]
+| [[Western Athletic Conference|WAC]]
+| 27–5
+| Automatic
+|-
+|#5
+| {{cbb link|1994|team=Mississippi State Bulldogs|school=Mississippi State University|title=Mississippi State}}
+| [[Richard Williams (basketball coach)|Richard Williams]]
+| [[Southeastern Conference|SEC]]
+| 20–7
+| At-Large
+|-
+|#6
+| {{cbb link|1994|team=Oregon Ducks|school=University of Oregon|title=Oregon}}
+| [[Jerry Green (basketball coach)|Jerry Green]]
+| [[Pac-12 Conference|Pac-10]]
+| 19–8
+| At-Large
+|-
+|#7
+| {{cbb link|1994|team=Cincinnati Bearcats|school=University of Cincinnati|title=Cincinnati}}
+| [[Bob Huggins]]
+| [[Great Midwest Conference|Great Midwest]]
+| 21–11
+| At-Large
+|-
+|#8
+| {{cbb link|1994|team=Missouri Tigers|school=University of Missouri|title=Missouri}}
+| [[Norm Stewart]]
+| [[Big Eight Conference|Big Eight]]
+| 19–8
+| At-Large
+|-
+|#9
+| [[1994–95 Indiana Hoosiers men's basketball team|Indiana]]
+| [[Bob Knight]]
+| [[Big Ten Conference|Big Ten]]
+| 19–11
+| At-Large
+|-
+|#10
+| {{cbb link|1994|team=Temple Owls|school=Temple University|title=Temple}}
+| [[John Chaney (basketball, born 1932)|John Chaney]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 19–10
+| At-Large
+|-
+|#11
+| {{cbb link|1994|team=Texas Longhorns|school=University of Texas at Austin|title=Texas}}
+| [[Tom Penders]]
+| [[Southwest Conference|SWC]]
+| 22–6
+| Automatic
+|-
+|#12
+| {{cbb link|1994|team=Santa Clara Broncos|school=Santa Clara University|title=Santa Clara}}
+| [[Dick Davey]]
+| [[West Coast Conference|West Coast]]
+| 21–6
+| At-Large
+|-
+|#13
+| {{cbb link|1994|team=Long Beach State 49ers|school=California State University, Long Beach|title=Long Beach State}}
+| [[Seth Greenberg]]
+| [[Big West Conference|Big West]]
+| 20–9
+| Automatic
+|-
+|#14
+| {{cbb link|1994|team=Gonzaga Bulldogs|school=Gonzaga University|title=Gonzaga}}
+| [[Dan Fitzgerald]]
+| [[West Coast Conference|West Coast]]
+| 21–8
+| Automatic
+|-
+|#15
+| {{cbb link|1994|team=Chattanooga Mocs|school=University of Tennessee at Chattanooga|title=Chattanooga}}
+| [[Mack McCarthy]]
+| [[Southern Conference|Southern]]
+| 19–10
+| Automatic
+|-
+|#16
+| {{cbb link|1994|team=FIU Golden Panthers|school=Florida International University|title=FIU}}
+| [[Bob Weltlich]]
+| [[Atlantic Sun Conference|TAAC]]
+| 11–18
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | Midwest Regional – [[Kansas City, Missouri|Kansas City]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1994–95 Kansas Jayhawks men's basketball team|Kansas]]
+| [[Roy Williams (coach)|Roy Williams]]
+| [[Big Eight Conference|Big Eight]]
+| 23–5
+| At-Large
+|-
+|#2
+| [[1994–95 Arkansas Razorbacks men's basketball team|Arkansas]]
+| [[Nolan Richardson]]
+| [[Southeastern Conference|SEC]]
+| 27–6
+| At-Large
+|-
+|#3
+| {{cbb link|1994|team=Purdue Boilermakers|school=Purdue University|title=Purdue}}
+| [[Gene Keady]]
+| [[Big Ten Conference|Big Ten]]
+| 24–6
+| Automatic
+|-
+|#4
+| {{cbb link|1994|team=Virginia Cavaliers|school=University of Virginia|title=Virginia}}
+| [[Jeff Jones (basketball coach)|Jeff Jones]]
+| [[Atlantic Coast Conference|ACC]]
+| 22–8
+| At-Large
+|-
+|#5
+| {{cbb link|1994|team=Arizona Wildcats|school=University of Arizona|title=Arizona}}
+| [[Lute Olson]]
+| [[Pac-12 Conference|Pac-10]]
+| 23–7
+| At-Large
+|-
+|#6
+| {{cbb link|1994|team=Memphis Tigers|school=University of Memphis|title=Memphis}}
+| [[Larry Finch]]
+| [[Great Midwest Conference|Great Midwest]]
+| 22–9
+| At-Large
+|-
+|#7
+| {{cbb link|1994|team=Syracuse Orangemen|school=Syracuse University|title=Syracuse}}
+| [[Jim Boeheim]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 19–9
+| At-Large
+|-
+|#8
+| {{cbb link|1994|team=Western Kentucky Hilltoppers|school=Western Kentucky University|title=Western Kentucky}}
+| [[Matt Kilcullen]]
+| [[Sun Belt Conference|Sun Belt]]
+| 26–3
+| Automatic
+|-
+|#9
+| [[1994–95 Michigan Wolverines men's basketball team|Michigan]]
+| [[Steve Fisher]]
+| [[Big Ten Conference|Big Ten]]
+| 17–13
+| At-Large
+|-
+|#10
+| {{cbb link|1994|team=Southern Illinois Salukis|school=Southern Illinois University|title=Southern Illinois}}
+| [[Rich Herrin]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 23–8
+| Automatic
+|-
+|#11
+| [[1994–95 Louisville Cardinals men's basketball team|Louisville]]
+| [[Denny Crum]]
+| [[Metro Conference|Metro]]
+| 19–13
+| Automatic
+|-
+|#12
+| {{cbb link|1994|team=Miami RedHawks|school=Miami University|title=Miami (OH)}}
+| [[Herb Sendek]]
+| [[Mid-American Conference|Mid-American]]
+| 22–6
+| At-Large
+|-
+|#13
+| {{cbb link|1994|team=Nicholls State Colonels|school=Nicholls State University|title=Nicholls State}}
+| [[Rickey Broussard]]
+| [[Southland Conference|Southland]]
+| 24–5
+| Automatic
+|-
+|#14
+| {{cbb link|1994|team=Green Bay Phoenix|school=University of Wisconsin at Green Bay|title=UW–Green Bay}}
+| [[Dick Bennett]]
+| [[Horizon League|MCC]]
+| 22–7
+| Automatic
+|-
+|#15
+| {{cbb link|1994|team=Texas Southern Tigers|school=Texas Southern University|title=Texas Southern}}
+| [[Robert Moreland (basketball)|Robert Moreland]]
+| [[Southwestern Athletic Conference|SWAC]]
+| 22–6
+| Automatic
+|-
+|#16
+| {{cbb link|1994|team=Colgate Raiders|school=Colgate University|title=Colgate}}
+| [[Jack Bruen]]
+| [[Patriot League]]
+| 17–12
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | Southeast Regional – [[Birmingham, Alabama|Birmingham]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1994–95 Kentucky Wildcats men's basketball team|Kentucky]]
+| [[Rick Pitino]]
+| [[Southeastern Conference|SEC]]
+| 25–4
+| Automatic
+|-
+|#2
+| [[1994–95 North Carolina Tar Heels men's basketball team|North Carolina]]
+| [[Dean Smith]]
+| [[Atlantic Coast Conference|ACC]]
+| 24–5
+| At-Large
+|-
+|#3
+| [[1994–95 Michigan State Spartans men's basketball team|Michigan State]]
+| [[Jud Heathcote]]
+| [[Big Ten Conference|Big Ten]]
+| 22–5
+| At-Large
+|-
+|#4
+| {{cbb link|1994|team=Oklahoma Sooners|school=University of Oklahoma|title=Oklahoma}}
+| [[Kelvin Sampson]]
+| [[Big Eight Conference|Big Eight]]
+| 23–8
+| At-Large
+|-
+|#5
+| [[1994–95 Arizona State Sun Devils men's basketball team|Arizona State]]
+| [[Bill Frieder]]
+| [[Pac-12 Conference|Pac-10]]
+| 22–8
+| At-Large
+|-
+|#6
+| [[1994–95 Georgetown Hoyas men's basketball team|Georgetown]]
+| [[John Thompson (basketball)|John Thompson]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 19–9
+| At-Large
+|-
+|#7
+| {{cbb link|1994|team=Iowa State Cyclones|school=Iowa State University|title=Iowa State}}
+| [[Tim Floyd]]
+| [[Big Eight Conference|Big Eight]]
+| 22–10
+| At-Large
+|-
+|#8
+| {{cbb link|1994|team=BYU Cougars|school=Brigham Young University|title=BYU}}
+| [[Roger Reid]]
+| [[Western Athletic Conference|WAC]]
+| 22–9
+| At-Large
+|-
+|#9
+| {{cbb link|1994|team=Tulane Green Wave|school=Tulane University|title=Tulane}}
+| [[Perry Clark]]
+| [[Metro Conference|Metro]]
+| 22–9
+| At-Large
+|-
+|#10
+| {{cbb link|1994|team=Florida Gators|school=University of Florida|title=Florida}}
+| [[Lon Kruger]]
+| [[Southeastern Conference|SEC]]
+| 17–12
+| At-Large
+|-
+|#11
+| {{cbb link|1994|team=Xavier Musketeers|school=Xavier University|title=Xavier}}
+| [[Skip Prosser]]
+| [[Horizon League|MCC]]
+| 23–4
+| At-Large
+|-
+|#12
+| {{cbb link|1994|team=Ball State Cardinals|school=Ball State University|title=Ball State}}
+| [[Ray McCallum]]
+| [[Mid-American Conference|Mid-American]]
+| 19–10
+| Automatic
+|-
+|#13
+| {{cbb link|1994|team=Manhattan Jaspers|school=Manhattan College|title=Manhattan}}
+| [[Fran Fraschilla]]
+| [[Metro Atlantic Athletic Conference|MAAC]]
+| 25–4
+| At-Large
+|-
+|#14
+| {{cbb link|1994|team=Weber State Wildcats|school=Weber State University|title=Weber State}}
+| [[Ron Abegglen]]
+| [[Big Sky Conference|Big Sky]]
+| 20–8
+| Automatic
+|-
+|#15
+| {{cbb link|1994|team=Murray State Racers|school=Murray State University|title=Murray State}}
+| [[Scott Edgar (basketball coach)|Scott Edgar]]
+| [[Ohio Valley Conference|Ohio Valley]]
+| 21–8
+| Automatic
+|-
+|#16
+| {{cbb link|1994|team=Mount St. Mary's Mountaineers|school=Mount St. Mary's University|title=Mount St. Mary's}}
+| [[Jim Phelan (basketball)|Jim Phelan]]
+| [[Northeast Conference|NEC]]
+| 17–12
+| Automatic
+|}
+
+==Bracket==
+Games marked with an "*" went into overtime.
+
+===East Regional – East Rutherford, New Jersey===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Baltimore Arena|Baltimore]]'''
+ | subgroup2= '''[[Baltimore Arena|Baltimore]]'''
+ | subgroup3= '''[[Knickerbocker Arena|Albany]]'''
+ | subgroup4= '''[[Knickerbocker Arena|Albany]]'''
+| RD1-team01='''Wake Forest'''
+ | RD1-score01='''79'''
+ | RD1-seed02=16
+ | RD1-team02=North Carolina A&T
+ | RD1-score02=47
+ | RD1-seed03=8
+ | RD1-team03=Minnesota
+ | RD1-score03=61*
+ | RD1-seed04=9
+ | RD1-team04='''Saint Louis'''
+ | RD1-score04='''64'''
+ | RD1-seed05=5
+ | RD1-team05='''Alabama'''
+ | RD1-score05='''91'''
+ | RD1-seed06=12
+ | RD1-team06=Penn
+ | RD1-score06=85
+ | RD1-seed07=4
+ | RD1-team07='''Oklahoma State'''
+ | RD1-score07='''73'''
+ | RD1-seed08=13
+ | RD1-team08=Drexel
+ | RD1-score08=49
+ | RD1-seed09=6
+ | RD1-team09='''Tulsa'''
+ | RD1-score09='''68'''
+ | RD1-seed10=11
+ | RD1-team10=Illinois
+ | RD1-score10=62
+ | RD1-seed11=3
+ | RD1-team11=Villanova
+ | RD1-score11=81
+ | RD1-seed12=14
+ | RD1-team12='''Old Dominion'''
+ | RD1-score12='''89***'''
+ | RD1-seed13=7
+ | RD1-team13=UNC Charlotte
+ | RD1-score13=68
+ | RD1-seed14=10
+ | RD1-team14='''Stanford'''
+ | RD1-score14='''70'''
+ | RD1-seed15=2
+ | RD1-team15='''Massachusetts'''
+ | RD1-score15='''68'''
+ | RD1-seed16=15
+ | RD1-team16=Saint Peter's
+ | RD1-score16=51
+ | RD2-seed01=1
+ | RD2-team01='''Wake Forest'''
+ | RD2-score01='''64'''
+ | RD2-seed02=9
+ | RD2-team02=Saint Louis
+ | RD2-score02=59
+ | RD2-seed03=5
+ | RD2-team03=Alabama
+ | RD2-score03=52
+ | RD2-seed04=4
+ | RD2-team04='''Oklahoma State'''
+ | RD2-score04='''66'''
+ | RD2-seed05=6
+ | RD2-team05='''Tulsa'''
+ | RD2-score05='''64'''
+ | RD2-seed06=14
+ | RD2-team06=Old Dominion
+ | RD2-score06=52
+ | RD2-seed07=10
+ | RD2-team07=Stanford
+ | RD2-score07=53
+ | RD2-seed08=2
+ | RD2-team08='''Massachusetts'''
+ | RD2-score08='''75'''
+ | RD3-seed01=1
+ | RD3-team01=Wake Forest
+ | RD3-score01=66
+ | RD3-seed02=4
+ | RD3-team02='''Oklahoma State'''
+ | RD3-score02='''71'''
+ | RD3-seed03=6
+ | RD3-team03=Tulsa
+ | RD3-score03=51
+ | RD3-seed04=2
+ | RD3-team04='''Massachusetts'''
+ | RD3-score04='''76'''
+ | RD4-seed01=4
+ | RD4-team01='''Oklahoma State'''
+ | RD4-score01='''68'''
+ | RD4-seed02=2
+ | RD4-team02=Massachusetts
+ | RD4-score02=54
+}}
+
+===Game summaries===
+
+====East first round====
+
+=====at Albany, New York=====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Friday, March 17
+ | time = 12:30&nbsp;pm EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1995-03-17-charlotte.html box score]
+ | team1 = '''#10 Stanford Cardinal'''
+ | score1 = '''70'''
+ | team2 = #7 North Carolina-Charlotte 49ers
+ | score2 = 68
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 = 
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' Stanford, 30–26
+ | place = Knickerbocker Arena – Albany, New York
+ | attendance = 15,100
+ | referee = 
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Friday, March 17
+ | time = approx. 3:00&nbsp;pm EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1995-03-17-massachusetts.html box score]
+ | team1 = '''#2 Massachusetts Minutemen'''
+ | score1 = '''68'''
+ | team2 = #15 Saint Peter's Peacocks
+ | score2 = 51
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 = 
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' Massachusetts, 33–27
+ | place = Knickerbocker Arena – Albany, New York
+ | attendance = 15,100
+ | referee = 
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Friday, March 17
+ | time = 7:40&nbsp;pm EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1995-03-17-old-dominion.html box score]
+ | team1 = '''#14 Old Dominion Monarchs'''
+ | score1 = '''89'''
+ | team2 = #3 Villanova Wildcats
+ | score2 = 81 '''(3OT)'''
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 = 
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' Old Dominion, 29–24<br />'''End of Regulation:''' 58–58<br />'''End of First Overtime:''' 67–67<br />'''End of Second Overtime:''' 72–72
+ | place = Knickerbocker Arena – Albany, New York
+ | attendance = 15,100
+ | referee = Scott Thornley, Lonnie Dixon, Paul Janssen
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Friday, March 17
+ | time = approx. 10:10&nbsp;pm EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1995-03-17-illinois.html box score]
+ | team1 = '''#6 Tulsa Golden Hurricane'''
+ | score1 = '''68'''
+ | team2 = #11 Illinois Fighting Illini
+ | score2 = 62
+ | points1 = S. Seals – 22
+ | rebounds1 = R. Poindexter – 12
+ | assist1 = A. Williamson – 4
+ | otherstat1 = 
+ | points2 = K. Garwis – 24
+ | rebounds2 = S. Clark – 12
+ | assist2 = J. Hester, R. Keene – 2
+ | otherstat2 = '''Halftime Score:''' Illinois, 34–27
+ | place = Knickerbocker Arena – Albany, New York
+ | attendance = 15,100
+ | referee = David Libbey, Richie Ballesteros, Larry Ware
+ | TV = CBS
+}}
+
+====East second round====
+
+=====at Albany, New York=====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 19
+ | time = 12:25&nbsp;pm EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1995-03-19-massachusetts.html box score]
+ | team1 = '''#2 Massachusetts Minutemen'''
+ | score1 = '''75'''
+ | team2 = #10 Stanford Cardinal
+ | score2 = 53
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 = 
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' Massachusetts, 43–23
+ | place = Knickerbocker Arena – Albany, New York
+ | attendance = 15,100
+ | referee = 
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Sunday, March 19
+ | time = approx. 2:55&nbsp;pm EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1995-03-19-old-dominion.html box score]
+ | team1 = '''#6 Tulsa Golden Hurricane'''
+ | score1 = '''64'''
+ | team2 = #14 Old Dominion Monarchs
+ | score2 = 52
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 = 
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' Tulsa, 33–26
+ | place = Knickerbocker Arena – Albany, New York
+ | attendance = 15,100
+ | referee = David Libbey, Scott Thornley, Paul Janssen
+ | TV = CBS
+}}
+
+===West Regional – Oakland, California===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[BSU Pavilion|Boise]]'''
+ | subgroup2= '''[[BSU Pavilion|Boise]]'''
+ | subgroup3= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup4= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+| RD1-team01='''UCLA'''
+ | RD1-score01='''92'''
+ | RD1-seed02=16
+ | RD1-team02=FIU
+ | RD1-score02=56
+ | RD1-seed03=8
+ | RD1-team03='''Missouri'''
+ | RD1-score03='''65'''
+ | RD1-seed04=9
+ | RD1-team04=Indiana
+ | RD1-score04=60
+ | RD1-seed05=5
+ | RD1-team05='''Mississippi State'''
+ | RD1-score05='''75'''
+ | RD1-seed06=12
+ | RD1-team06=Santa Clara
+ | RD1-score06=67
+ | RD1-seed07=4
+ | RD1-team07='''Utah'''
+ | RD1-score07='''76'''
+ | RD1-seed08=13
+ | RD1-team08=Long Beach State
+ | RD1-score08=64
+ | RD1-seed09=6
+ | RD1-team09=Oregon
+ | RD1-score09=73
+ | RD1-seed10=11
+ | RD1-team10='''Texas'''
+ | RD1-score10='''90'''
+ | RD1-seed11=3
+ | RD1-team11='''Maryland'''
+ | RD1-score11='''87'''
+ | RD1-seed12=14
+ | RD1-team12=Gonzaga
+ | RD1-score12=63
+ | RD1-seed13=7
+ | RD1-team13='''Cincinnati'''
+ | RD1-score13='''77'''
+ | RD1-seed14=10
+ | RD1-team14=Temple
+ | RD1-score14=71
+ | RD1-seed15=2
+ | RD1-team15='''Connecticut'''
+ | RD1-score15='''100'''
+ | RD1-seed16=15
+ | RD1-team16=Chattanooga
+ | RD1-score16=71
+ | RD2-seed01=1
+ | RD2-team01='''UCLA'''
+ | RD2-score01='''75'''
+ | RD2-seed02=8
+ | RD2-team02=Missouri
+ | RD2-score02=74
+ | RD2-seed03=5
+ | RD2-team03='''Mississippi State'''
+ | RD2-score03='''78'''
+ | RD2-seed04=4
+ | RD2-team04=Utah
+ | RD2-score04=64
+ | RD2-seed05=11
+ | RD2-team05=Texas
+ | RD2-score05=68
+ | RD2-seed06=3
+ | RD2-team06='''Maryland'''
+ | RD2-score06='''82'''
+ | RD2-seed07=7
+ | RD2-team07=Cincinnati
+ | RD2-score07=91
+ | RD2-seed08=2
+ | RD2-team08='''Connecticut'''
+ | RD2-score08='''96'''
+ | RD3-seed01=1
+ | RD3-team01='''UCLA'''
+ | RD3-score01='''86'''
+ | RD3-seed02=5
+ | RD3-team02=Mississippi State
+ | RD3-score02=67
+ | RD3-seed03=3
+ | RD3-team03=Maryland
+ | RD3-score03=89
+ | RD3-seed04=2
+ | RD3-team04='''Connecticut'''
+ | RD3-score04='''99'''
+ | RD4-seed01=1
+ | RD4-team01='''UCLA'''
+ | RD4-score01='''102'''
+ | RD4-seed02=2
+ | RD4-team02=Connecticut
+ | RD4-score02=96
+}}
+
+===Southeast Regional – Birmingham, Alabama===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Pyramid Arena|Memphis]]'''
+ | subgroup2= '''[[Pyramid Arena|Memphis]]'''
+ | subgroup3= '''[[Tallahassee-Leon County Civic Center|Tallahassee]]'''
+ | subgroup4= '''[[Tallahassee-Leon County Civic Center|Tallahassee]]'''
+| RD1-team01='''Kentucky'''
+ | RD1-score01='''113'''
+ | RD1-seed02=16
+ | RD1-team02=Mount St. Mary's
+ | RD1-score02=67
+ | RD1-seed03=8
+ | RD1-team03=BYU
+ | RD1-score03=70
+ | RD1-seed04=9
+ | RD1-team04='''Tulane'''
+ | RD1-score04='''76'''
+ | RD1-seed05=5
+ | RD1-team05='''Arizona State'''
+ | RD1-score05='''81'''
+ | RD1-seed06=12
+ | RD1-team06=Ball State
+ | RD1-score06=66
+ | RD1-seed07=4
+ | RD1-team07=Oklahoma
+ | RD1-score07=67
+ | RD1-seed08=13
+ | RD1-team08='''Manhattan'''
+ | RD1-score08='''77'''
+ | RD1-seed09=6
+ | RD1-team09='''Georgetown'''
+ | RD1-score09='''68'''
+ | RD1-seed10=11
+ | RD1-team10=Xavier
+ | RD1-score10=63
+ | RD1-seed11=3
+ | RD1-team11=Michigan State
+ | RD1-score11=72
+ | RD1-seed12=14
+ | RD1-team12='''Weber State'''
+ | RD1-score12='''79'''
+ | RD1-seed13=7
+ | RD1-team13='''Iowa State'''
+ | RD1-score13='''64'''
+ | RD1-seed14=10
+ | RD1-team14=Florida
+ | RD1-score14=61
+ | RD1-seed15=2
+ | RD1-team15='''North Carolina'''
+ | RD1-score15='''80'''
+ | RD1-seed16=15
+ | RD1-team16=Murray State
+ | RD1-score16=70
+ | RD2-seed01=1
+ | RD2-team01='''Kentucky'''
+ | RD2-score01='''82'''
+ | RD2-seed02=9
+ | RD2-team02=Tulane
+ | RD2-score02=60
+ | RD2-seed03=5
+ | RD2-team03='''Arizona State'''
+ | RD2-score03=64
+ | RD2-seed04=13
+ | RD2-team04=Manhattan
+ | RD2-score04=54
+ | RD2-seed05=6
+ | RD2-team05='''Georgetown'''
+ | RD2-score05='''53'''
+ | RD2-seed06=14
+ | RD2-team06=Weber State
+ | RD2-score06=51
+ | RD2-seed07=7
+ | RD2-team07=Iowa State
+ | RD2-score07=51
+ | RD2-seed08=2
+ | RD2-team08='''North Carolina'''
+ | RD2-score08='''73'''
+ | RD3-seed01=1
+ | RD3-team01='''Kentucky'''
+ | RD3-score01='''97'''
+ | RD3-seed02=5
+ | RD3-team02=Arizona State
+ | RD3-score02=73
+ | RD3-seed03=6
+ | RD3-team03=Georgetown
+ | RD3-score03=64
+ | RD3-seed04=2
+ | RD3-team04='''North Carolina'''
+ | RD3-score04='''74'''
+ | RD4-seed01=1
+ | RD4-team01=Kentucky
+ | RD4-score01=61
+ | RD4-seed02=2
+ | RD4-team02='''North Carolina'''
+ | RD4-score02='''74'''
+}}
+
+===Midwest Regional – Kansas City, Missouri===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[University of Dayton Arena|Dayton]]'''
+ | subgroup2= '''[[University of Dayton Arena|Dayton]]'''
+ | subgroup3= '''[[Frank Erwin Center|Austin]]'''
+ | subgroup4= '''[[Frank Erwin Center|Austin]]'''
+| RD1-team01='''Kansas'''
+ | RD1-score01='''82'''
+ | RD1-seed02=16
+ | RD1-team02=Colgate
+ | RD1-score02=68
+ | RD1-seed03=8
+ | RD1-team03='''Western Kentucky'''
+ | RD1-score03='''82'''
+ | RD1-seed04=9
+ | RD1-team04=Michigan
+ | RD1-score04=76*
+ | RD1-seed05=5
+ | RD1-team05=Arizona
+ | RD1-score05=62
+ | RD1-seed06=12
+ | RD1-team06='''Miami (OH)'''
+ | RD1-score06='''71'''
+ | RD1-seed07=4
+ | RD1-team07='''Virginia'''
+ | RD1-score07='''96'''
+ | RD1-seed08=13
+ | RD1-team08=Nicholls State
+ | RD1-score08=72
+ | RD1-seed09=6
+ | RD1-team09='''Memphis'''
+ | RD1-score09='''77'''
+ | RD1-seed10=11
+ | RD1-team10=Louisville
+ | RD1-score10=56
+ | RD1-seed11=3
+ | RD1-team11='''Purdue'''
+ | RD1-score11='''49'''
+ | RD1-seed12=14
+ | RD1-team12=UW–Green Bay
+ | RD1-score12=48
+ | RD1-seed13=7
+ | RD1-team13='''Syracuse'''
+ | RD1-score13='''96'''
+ | RD1-seed14=10
+ | RD1-team14=Southern Illinois
+ | RD1-score14=92
+ | RD1-seed15=2
+ | RD1-team15='''Arkansas'''
+ | RD1-score15='''79'''
+ | RD1-seed16=15
+ | RD1-team16=Texas Southern
+ | RD1-score16=78
+ | RD2-seed01=1
+ | RD2-team01='''Kansas'''
+ | RD2-score01='''75'''
+ | RD2-seed02=8
+ | RD2-team02=Western Kentucky
+ | RD2-score02=70
+ | RD2-seed03=12
+ | RD2-team03=Miami (OH)
+ | RD2-score03=54*
+ | RD2-seed04=4
+ | RD2-team04='''Virginia'''
+ | RD2-score04='''60'''
+ | RD2-seed05=6
+ | RD2-team05='''Memphis'''
+ | RD2-score05='''75'''
+ | RD2-seed06=3
+ | RD2-team06=Purdue
+ | RD2-score06=73
+ | RD2-seed07=7
+ | RD2-team07=Syracuse
+ | RD2-score07=94*
+ | RD2-seed08=2
+ | RD2-team08='''Arkansas'''
+ | RD2-score08='''96'''
+ | RD3-seed01=1
+ | RD3-team01=Kansas
+ | RD3-score01=58
+ | RD3-seed02=4
+ | RD3-team02='''Virginia'''
+ | RD3-score02='''67'''
+ | RD3-seed03=6
+ | RD3-team03=Memphis
+ | RD3-score03=91*
+ | RD3-seed04=2
+ | RD3-team04='''Arkansas'''
+ | RD3-score04='''96'''
+ | RD4-seed01=4
+ | RD4-team01=Virginia
+ | RD4-score01=61
+ | RD4-seed02=2
+ | RD4-team02='''Arkansas'''
+ | RD4-score02='''68'''
+}}
+
+===Final Four - Seattle, Washington===
+{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game | RD1-seed1=E4
+ | RD1-team1=Oklahoma State
+ | RD1-score1=61
+ | RD1-seed2= W1
+ | RD1-team2='''UCLA'''
+ | RD1-score2='''74'''
+ | RD1-seed3=SE2
+ | RD1-team3=North Carolina
+ | RD1-score3=68
+ | RD1-seed4=M2
+ | RD1-team4='''Arkansas'''
+ | RD1-score4='''75'''
+ | RD2-seed1=W1
+ | RD2-team1='''UCLA'''
+ | RD2-score1='''89'''
+ | RD2-seed2=M2
+ | RD2-team2=Arkansas
+ | RD2-score2=78
+}}
+
+===Game summaries===
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, April 1
+ | time = 
+ | report = [http://www.sports-reference.com/cbb/boxscores/1995-04-01-oklahoma-state.html box score]
+ | team1 = '''#1 UCLA Bruins'''
+ | score1 =  '''74'''
+ | team2 = #4 Oklahoma State Cowboys
+ | score2 = 61
+ | points1 = [[Tyus Edney|T. Edney]] 21
+ | rebounds1 = [[Ed O'Bannon|E. O'Bannon]] 8
+ | assist1 = [[Tyus Edney]] 5
+ | otherstat1 =  
+ | points2 = [[Bryant Reeves|B. Reeves]] 25
+ | rebounds2 = [[Bryant Reeves|B. Reeves]] 9
+ | assist2 = A. Owens 9
+ | otherstat2 = '''Halftime Score:''' 37-37
+ | place = Kingdome – Seattle
+ | attendance = 38,540
+ | referee = 
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Saturday, April 1
+ | time = 
+ | report = [http://www.sports-reference.com/cbb/boxscores/1995-04-01-arkansas.html box score]
+ | team1 = '''#2 Arkansas Razorbacks'''
+ | score1 =  '''75'''
+ | team2 = #2 North Carolina Tar Heels
+ | score2 = 68
+ | points1 = [[Corliss Williamson|C. Williamson]] 21
+ | rebounds1 = [[Corliss Williamson|C. Williamson]] 10
+ | assist1 = [[Corey Beck|C. Beck]] 10
+ | otherstat1 = 
+ | points2 = [[Donald Williams (basketball)|D. Williams]] 19
+ | rebounds2 = [[Rasheed Wallace|R. Wallace]] 10
+ | assist2 = [[Dante Calabria|D. Calabria]] 9
+ | otherstat2 = '''Halftime Score:''' North Carolina, 38-34
+ | place = Kingdome – Seattle
+ | attendance = 38,540
+ | referee = 
+ | TV = CBS
+}}
+
+===National Championship===
+{{main article|1995 NCAA Men's Division I Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, April 3
+ | time = 8:40&nbsp;pm
+ | report = [http://www.sports-reference.com/cbb/boxscores/1995-04-03-arkansas.html Box score]
+ | team1 = '''#1 UCLA Bruins'''
+ | score1 =  '''89'''
+ | team2 = #2 Arkansas Razorbacks
+ | score2 = 78
+ | points1 = [[Ed O'Bannon|E. O'Bannon]] 30
+ | rebounds1 = [[Ed O'Bannon]] 17
+ | assist1 = [[Cameron Dollar|C. Dollar]] 8
+ | otherstat1 =  
+ | points2 = [[Clint McDaniel|C. McDaniel]] 16
+ | rebounds2 = [[Dwight Stewart|D. Stewart]] 5
+ | assist2 = [[Corliss Williamson|C. Williamson]] 6
+ | otherstat2 = '''Halftime Score:''' UCLA, 40-39
+ | place = Kingdome – Seattle
+ | attendance = 38,540
+ | referee = 
+ | TV = CBS
+}}
+{| class="wikitable sortable" style="text-align:center;"
+|+Final Four All-Tournament Team<ref>{{cite news|title=NCAA All-Tournament Teams |date=April 9, 2013 |work=FoxNews.com |agency=Associated Press |url=http://www.foxnews.com/sports/2013/04/09/ncaa-all-tournament-teams/ |archiveurl=https://www.webcitation.org/6Fx39j4Cm?url=http://www.foxnews.com/sports/2013/04/09/ncaa-all-tournament-teams/ |archivedate=April 17, 2013 |deadurl=no |df= }}</ref>
+|-
+!scope="col"|Player
+!scope="col"|Team
+|-
+| [[Ed O'Bannon]]* || [[1994–95 UCLA Bruins men's basketball team|UCLA]]
+|-
+| [[Toby Bailey]] || [[1994–95 UCLA Bruins men's basketball team|UCLA]]
+|-
+| [[Corliss Williamson]] || [[1994–95 Arkansas Razorbacks men's basketball team|Arkansas]]
+|-
+| [[Clint McDaniel]] || [[1994–95 Arkansas Razorbacks men's basketball team|Arkansas]]
+|-
+| [[Bryant Reeves]] || [[1994–95 Oklahoma State Cowboys basketball team|Oklahoma State]]
+|}
+
+<nowiki>*</nowiki>Named [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]]
+
+==Notes==
+* March 19, 1995 – A final shot in the second round at [[Taco Bell Arena|The Boise State Pavilion]] is one of the most memorable moments in NCAA history. UCLA's [[Tyus Edney]] dashed the length of the 94-foot court in just over 4 seconds to make a layup that gave the Bruins a 75-74 win over Missouri, which sustained UCLA's run to a national title that year.<ref>{{cite news|last=Friend |first=Tom |url=https://query.nytimes.com/gst/fullpage.html?res=990CEEDF1530F933A15750C0A963958260&sec=&spon=&pagewanted=1 |title=N.C.A.A. TOURNAMENT: WEST; U.C.L.A. Dash Knocks Wind Out of Missouri |newspaper=New York Times |date=March 20, 1995 |quote=U.C.L.A.'s Tyus Edney ran a 94-foot dash in 4.7 seconds today. That he also managed to toss in a swooping layup left Missouri with its hands over its face |archiveurl=https://www.webcitation.org/6Fx3epGcH?url=http://www.nytimes.com/1995/03/20/sports/ncaa-tournament-west-ucla-dash-knocks-wind-out-of-missouri.html |archivedate=April 17, 2013 |deadurl=no |df= }}</ref>
+* April 3, 1995 – Ed O'Bannon scored 30&nbsp;points and grabbed 17&nbsp;rebounds and is named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]] as the Bruins win the championship 89–78 over [[1994–95 Arkansas Razorbacks men's basketball team|Arkansas]].<ref>{{cite news|last=Penner |first=Mike |title=Sweetness in Seattle |date=April 4, 1995 |newspaper=[[Los Angeles Times]] |url=http://articles.latimes.com/print/1995-04-04/sports/sp-50913_1_championship-game |archiveurl=https://www.webcitation.org/5x3w5MqzW?url=http://articles.latimes.com/print/1995-04-04/sports/sp-50913_1_championship-game |archivedate=March  9, 2011 |deadurl=no |df= }}</ref> [[Cameron Dollar]] played 36 minutes and contributed eight assists and four steals while filling in for an injured Edney, who did not return after leaving with 17:23 left in the first half.<ref>{{cite news|last=Dufresne |first=Chris |title=A Big Return From Dollar |date=April 4, 1995 |newspaper=[[Los Angeles Times]] |url=http://articles.latimes.com/print/1995-04-04/sports/sp-50898_1_guard-ucla |archiveurl=https://www.webcitation.org/5x3wjkpY5?url=http://articles.latimes.com/print/1995-04-04/sports/sp-50898_1_guard-ucla |archivedate=March  9, 2011 |deadurl=no |df= }}</ref> The Bruins enjoyed the biggest lead 34–26 in the first half, but led only by a point at halftime 40–39.
+* To date, this is the last NCAA men's basketball tournament in which no team seeded lower than #6 reached the Sweet Sixteen.
+
+==Announcers==
+
+===Television===
+Once again, [[CBS Sports|CBS]] served as broadcasters on television for the tournament.
+*Studio: [[Pat O'Brien (television)|Pat O'Brien]] (daytime) First Round, Regional, Final Four, [[Jim Nantz]] (primetime) First Round & all of Second Round, and [[Clark Kellogg]].
+*[[Dick Stockton]]/[[Jim Nantz]]  and [[Billy Packer]] – Stockton/Packer, First & Second Round at Baltimore, Maryland; Nantz/Packer, Midwest Regional at Kansas City, Missouri; Final Four at Seattle, Washington
+*[[Sean McDonough]] and [[Bill Raftery]] – First & Second Round at Dayton, Ohio; Southeast Regional at Birmingham, Alabama
+*[[Verne Lundquist]] and [[Quinn Buckner]] – First & Second Round at Tallahassee, Florida; East Regional at East Rutherford, New Jersey
+*[[Tim Ryan (sportscaster)|Tim Ryan]] and [[Al McGuire]] – First & Second Round at Boise, Idaho; West Regional at Oakland, California
+*[[Mike Gorman]] and [[Ann Meyers]] – First & Second Round at Memphis, Tennessee
+*[[Mike Emrick]] and [[George Raveling]] – First & Second Round at Albany, New York
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Derrek Dickey]] – First & Second Round at Salt Lake City, Utah
+*[[Dave Sims]] and [[Dan Bonner]] – First & Second Round at Austin, Texas
+
+===Radio===
+[[CBS Radio Network|CBS Radio]] was once again the radio home for the tournament.
+
+====First and second rounds====
+*[[John Rooney (sportscaster)|John Rooney]]
+*[[Marty Brennaman]]
+*[[Gary Cohen]] and [[Dave Gavitt]] – 1st & 2nd Round at Albany, New York
+*[[Wayne Larrivee]]
+*[[Brad Sham]]
+*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Reggie Theus]]
+*
+*
+
+====Regionals====
+*[[John Rooney (sportscaster)|John Rooney]]
+*[[Marty Brennaman]]
+*[[Gary Cohen]] and [[Dave Gavitt]] – East Regional at East Rutherford, New Jersey
+*[[Wayne Larrivee]]
+
+====Final Four====
+*[[John Rooney (sportscaster)|John Rooney]] and [[Bill Raftery]] – (UCLA-Oklahoma State and Championship Game) Final Four at Seattle, Washington
+*[[Marty Brennaman]] and [[Ron Franklin]] – (Arkansas-North Carolina) Final Four at Seattle, Washington
+
+==See also==
+* [[1995 NCAA Division II Men's Basketball Tournament]]
+* [[1995 NCAA Division III Men's Basketball Tournament]]
+* [[1995 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|1995 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|1995 NCAA Division III Women's Basketball Tournament]]
+* [[1995 National Invitation Tournament]]
+* [[National Women's Invitation Tournament|1995 National Women's Invitation Tournament]]
+* [[1995 NAIA Division I Men's Basketball Tournament]]
+* [[NAIA Men's Basketball Championships#Division II|1995 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|1995 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|1995 NAIA Division II Women's Basketball Tournament]]
+
+==References==
+{{Reflist}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{1995 UCLA Bruins men's basketball navbox}}
+
+{{DEFAULTSORT:1995 Ncaa Men's Division I Basketball Tournament}}
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:1994–95 NCAA Division I men's basketball season|Ncaa]]
+[[Category:Basketball in Austin, Texas]]
+[[Category:Sports competitions in Seattle]]
+[[Category:March 1995 sports events]]
+[[Category:April 1995 sports events]]
+[[Category:1995 in Seattle]]
+[[Category:1995 in sports in Washington (state)]]
+[[Category:Basketball in Seattle]]

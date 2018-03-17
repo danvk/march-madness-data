@@ -1,0 +1,1069 @@
+{{see also|1997 NCAA Division I Men's Basketball Championship Game}}
+{{Infobox NCAA Basketball Tournament |
+| Year=1997
+| Image=1997FinalFourLogo.png
+| ImageSize=150px
+| Caption=1997 Final Four logo
+| Teams=64
+| FinalFourArena=[[RCA Dome]]
+| FinalFourCity=[[Indianapolis]], [[Indiana]]
+| Champions=[[1996–97 Arizona Wildcats men's basketball team|Arizona]]
+| TitleCount=1st
+| ChampGameCount=1st
+| ChampFFCount=3rd
+| RunnerUp=[[1996–97 Kentucky Wildcats men's basketball team|Kentucky]]
+| GameCount=9th
+| RunnerFFCount=12th
+| Semifinal1=[[1996–97 Minnesota Golden Gophers men's basketball team|Minnesota]] (Vacated)
+| FinalFourCount=1st
+| Semifinal2=[[North Carolina Tar Heels men's basketball|North Carolina]]
+| FinalFourCount2=13th
+| Coach=[[Lute Olson]]
+| CoachCount=1st
+| MOP=[[Miles Simon]]
+| MOPTeam=Arizona
+| Attendance=646,531
+| OneTopScorer=*
+| TwoTopScorers=
+| TopScorer=Miles Simon
+| TopScorerTeam=Arizona
+| Points=132
+}}
+The '''1997 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's [[National Collegiate Athletic Association|NCAA]] [[Division I (NCAA)|Division I]] [[college basketball]]. It began on March 13, 1997, and ended with the [[1997 NCAA Men's Division I Basketball Championship Game|championship game]] on March 31 in [[Indianapolis, Indiana]] at the [[RCA Dome]]. A total of 63 games were played.
+
+The Final Four consisted of [[1996–97 Kentucky Wildcats men's basketball team|Kentucky]], who entered the tournament as the defending national champions, [[1996–97 Minnesota Golden Gophers men's basketball team|Minnesota]], making their first Final Four appearance, [[1996–97 Arizona Wildcats men's basketball team|Arizona]], making their third Final Four appearance and first since 1994, and [[North Carolina Tar Heels men's basketball|North Carolina]], making their thirteenth Final Four appearance and first since 1995.
+
+In the national championship game, Arizona defeated Kentucky in overtime 84–79 to win their first national championship. For the second time in the last three seasons, the defending national champions reached the final game and lost.
+
+[[Miles Simon]] of [[Arizona Wildcats men's basketball|Arizona]] was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+
+Several years later, [[Minnesota Golden Gophers men's basketball|Minnesota]] was stripped of its [[Final Four]] appearance following the discovery of NCAA academic rule violations. In addition, the Gophers were stripped of their [[Big Ten]] title they had also won.<ref>http://www.cbsnews.com/stories/2000/11/21/sports/main251329.shtml</ref>
+
+[[University of Arizona|Arizona]] also became the only school since the introduction of the 64-team bracket in 1985,<ref>http://www.ncaa.com/news/basketball-men/2010-01-28/bracket-question</ref> to defeat three number 1 seeds in the tournament, having upset overall number one seed [[Kansas Jayhawks men's basketball|Kansas]] in addition to their two Final Four victories.
+
+The tournament also saw the [[NCAA Men's Division I Basketball Championship upsets|third victory by a #15 seed over a #2 seed]], as [[Coppin State University|Coppin State]] defeated [[South Carolina Gamecocks men's basketball|South Carolina]] in their first round matchup. In addition, a #14 seed advanced to the [[NCAA Men's Division I Basketball Championship|Sweet Sixteen]] for only the second time, as Southeast Region #14 seed [[Chattanooga Mocs basketball|Chattanooga]] defeated both [[Georgia Bulldogs men's basketball|Georgia]] and [[Illinois Fighting Illini men's basketball|Illinois]].
+
+==Locations==
+
+{{Location map+|USA|width=450|float=right|caption=1997 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.440625|lon_deg=-79.995886|position=right|background=#FFFFFF|label=Pittsburgh|link=Civic Arena (Pittsburgh)|Civic Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.227087|lon_deg=-80.843127|position=bottom|background=#FFFFFF|label=Charlotte|link=Charlotte Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.099860|lon_deg=-80.244216|position=top|background=#FFFFFF|label=Winston-Salem|link=Lawrence Joel Veterans Memorial Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.149534|lon_deg=-90.048980|position=top|background=#FFFFFF|label=Memphis|link=Pyramid Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.687532|lon_deg=-83.234103|position=left|background=#FFFFFF|label=Auburn Hills|link=The Palace at Auburn Hills}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.099727|lon_deg=-94.578567|position=left|background=#FFFFFF|label=Kansas City|link=Kemper Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.760779|lon_deg=-111.891047|position=left|background=#FFFFFF|label=Salt Lake City|link=Jon M. Huntsman Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.221743|lon_deg=-110.926479|position=bottom|background=#FFFFFF|label=Tucson|link=McKale Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=1997 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=37.339386|lon_deg=-121.894955|position=right|background=#FFFFFF|label=San Jose|link=HP Pavilion at San Jose|San Jose Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=29.424122|lon_deg=-98.493628|position=top|background=#FFFFFF|label=San Antonio|link=Alamodome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.520661|lon_deg=-86.802490|position=top|background=#FFFFFF|label=Birmingham|link=Birmingham Jefferson Convention Complex|BJCC Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=43.048122|lon_deg=-76.147424|position=left|background=#FFFFFF|label=Syracuse|link=Carrier Dome}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=bottom|background=#FFFFFF|label=Indianapolis|link=RCA Dome}}
+}}
+
+===First & Second Rounds===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+! rowspan="2" | East
+|[[Pittsburgh|Pittsburgh, Pennsylvania]]
+|[[Civic Arena (Pittsburgh)|Pittsburgh Civic Arena]]
+|-
+|[[Winston-Salem, North Carolina]]
+|[[Lawrence Joel Veterans Memorial Coliseum]]
+|-
+! rowspan="2" | Midwest
+|[[Auburn Hills, Michigan]]
+|[[The Palace of Auburn Hills]]
+|-
+|[[Kansas City, Missouri]]
+|[[Kemper Arena]]
+|-
+! rowspan="2" | Southeast
+|[[Charlotte, North Carolina]]
+|[[Charlotte Coliseum]]
+|-
+|[[Memphis, Tennessee]]
+|[[Memphis Pyramid]]
+|-
+! rowspan="2" | West
+|[[Salt Lake City|Salt Lake City, Utah]]
+|[[Jon M. Huntsman Center]]
+|-
+|[[Tucson, Arizona]]
+|[[McKale Center]]
+|}
+
+===Regional Sites and Final Four===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+| '''East''' 
+|[[Syracuse, New York]]
+|[[Carrier Dome]]
+|-
+| '''Midwest'''
+|[[San Antonio|San Antonio, Texas]]
+|[[Alamodome]]
+|-
+| '''Southeast'''
+|[[Birmingham, Alabama]]
+|[[Birmingham–Jefferson Convention Complex|BJCC Coliseum]]
+|-
+| '''West'''
+|[[San Jose, California]]
+|[[SAP Center|San Jose Arena]]
+|-
+| '''Final Four'''
+|[[Indianapolis|Indianapolis, Indiana]]
+|[[RCA Dome]]
+|}
+
+The Final Four returned to Indianapolis for the third time, and to the RCA Dome for the second time in seven years. There were three new host cities and four new arenas in the 1997 tournament. For the first time since 1953, the tournament returned to the southern San Francisco Bay area, this time at the San Jose Arena in San Jose. The tournament also saw the first games held at the Alamodome and in San Antonio, the eighth city in Texas to host games; only California has hosted in more cities. The city of Pittsburgh hosted for the first time, at the Civic Arena, the first games played outside Philadelphia within the state of Pennsylvania. Finally, the Palace of Auburn Hills, Detroit's major indoor basketball arena from 1988 to 2017, hosted games for the first time in 1997. All thirteen venues in the tournament have hosted games since this one.
+
+==Teams==
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | East Regional - [[Syracuse, New York|Syracuse]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| {{cbb link|1996|team=North Carolina Tar Heels|school=University of North Carolina at Chapel Hill|title=North Carolina}}
+| [[Dean Smith]]
+| [[Atlantic Coast Conference|ACC]]
+| 24–6
+| [[1997 ACC Men's Basketball Tournament|Automatic]]
+|-
+|#2
+| {{cbb link|1996|team=South Carolina Gamecocks|school=University of South Carolina|title=South Carolina}}
+| [[Eddie Fogler]]
+| [[Southeastern Conference|SEC]]
+| 24–7
+| At-Large
+|-
+|#3
+| {{cbb link|1996|team=New Mexico Lobos|school=University of New Mexico|title=New Mexico}}
+| [[Dave Bliss]]
+| [[Western Athletic Conference|WAC]]
+| 24–7
+| At-Large
+|-
+|#4
+| {{cbb link|1996|team=Villanova Wildcats|school=Villanova University|title=Villanova}}
+| [[Steve Lappas]]
+| [[Big East Conference (1979-2013)|Big East]]
+| 23–9
+| At-Large
+|-
+|#5
+| {{cbb link|1996|team=California Golden Bears|school=University of California, Berkeley|title=California}}
+| [[Ben Braun]]
+| [[Pac-12 Conference|Pac-10]]
+| 21–8
+| At-Large
+|-
+|#6
+| [[1996–97 Louisville Cardinals men's basketball team|Louisville]]
+| [[Denny Crum]]
+| [[Conference USA]]
+| 23–8
+| At-Large
+|-
+|#7
+| {{cbb link|1996|team=Wisconsin Badgers|school=University of Wisconsin|title=Wisconsin}}
+| [[Dick Bennett]]
+| [[Big Ten Conference|Big Ten]]
+| 18–9
+| At-Large
+|-
+|#8
+| [[1996–97 Indiana Hoosiers men's basketball team|Indiana]]
+| [[Bob Knight]]
+| [[Big Ten Conference|Big Ten]]
+| 22–10
+| At-Large
+|-
+|#9
+| {{cbb link|1996|team=Colorado Buffaloes|school=University of Colorado|title=Colorado}}
+| [[Ricardo Patton]]
+| [[Big 12 Conference|Big 12]]
+| 21–9
+| At-Large
+|-
+|#10
+| [[1996–97 Texas Longhorns men's basketball team|Texas]]
+| [[Tom Penders]]
+| [[Big 12 Conference|Big 12]]
+| 16–11
+| At-Large
+|-
+|#11
+| [[1996–97 UMass Minutemen basketball team|Massachusetts]]
+| [[Bruiser Flint]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 19–13
+| At-Large
+|-
+|#12
+| [[1996–97 Princeton Tigers men's basketball team|Princeton]]
+| [[Bill Carmody]]
+| [[Ivy League]]
+| 24–3
+| Automatic
+|-
+|#13
+| {{cbb link|1996|team=LIU Brooklyn Blackbirds|school=Long Island University|title=Long Island}}
+| [[Ray Haskins]]
+| [[Northeast Conference|NEC]]
+| 21–8
+| Automatic
+|-
+|#14
+| {{cbb link|1996|team=Old Dominion Monarchs|school=Old Dominion University|title=Old Dominion}}
+| [[Jeff Capel II]]
+| [[Colonial Athletic Association|CAA]]
+| 22–10
+| Automatic
+|-
+|#15
+| {{cbb link|1996|team=Coppin State Eagles|school=Coppin State University|title=Coppin State}}
+| [[Fang Mitchell|Ron Mitchell]]
+| [[Mid-Eastern Athletic Conference|MEAC]]
+| 21–8
+| Automatic
+|-
+|#16
+| {{cbb link|1996|team=Fairfield Stags|school=Fairfield University|title=Fairfield}}
+| [[Paul Cormier]]
+| [[Metro Atlantic Athletic Conference|MAAC]]
+| 11–18
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | Southeast Regional - [[Birmingham, Alabama|Birmingham]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1996–97 Kansas Jayhawks men's basketball team|Kansas]]
+| [[Roy Williams (coach)|Roy Williams]]
+| [[Big 12 Conference|Big 12]]
+| 32–1
+| Automatic
+|-
+|#2
+| [[1996–97 Duke Blue Devils men's basketball team|Duke]]
+| [[Mike Krzyzewski]]
+| [[Atlantic Coast Conference|ACC]]
+| 23–8
+| At-Large
+|-
+|#3
+| {{cbb link|1996|team=Georgia Bulldogs|school=University of Georgia|title=Georgia}}
+| [[Tubby Smith]]
+| [[Southeastern Conference|SEC]]
+| 23–8
+| At-Large
+|-
+|#4
+| [[1996–97 Arizona Wildcats men's basketball team|Arizona]]
+| [[Lute Olson]]
+| [[Pac-12 Conference|Pac-10]]
+| 19–9
+| At-Large
+|-
+|#5
+| {{cbb link|1996|team=Maryland Terrapins|school=University of Maryland, College Park|title=Maryland}}
+| [[Gary Williams (basketball)|Gary Williams]]
+| [[Atlantic Coast Conference|ACC]]
+| 21–10
+| At-Large
+|-
+|#6
+| [[1996–97 Illinois Fighting Illini men's basketball team|Illinois]]
+| [[Lon Kruger]]
+| [[Big Ten Conference|Big Ten]]
+| 21–9
+| At-Large
+|-
+|#7
+| {{cbb link|1996|team=Marquette Golden Eagles|school=Marquette University|title=Marquette}}
+| [[Mike Deane]]
+| [[Conference USA]]
+| 22–8
+| Automatic
+|-
+|#8
+| {{cbb link|1996|team=Purdue Boilermakers|school=Purdue University|title=Purdue}}
+| [[Gene Keady]]
+| [[Big Ten Conference|Big Ten]]
+| 17–11
+| At-Large
+|-
+|#9
+| {{cbb link|1996|team=Rhode Island Rams|school=University of Rhode Island|title=Rhode Island}}
+| [[Al Skinner]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 20–9
+| At-Large
+|-
+|#10
+| {{cbb link|1996|team=Providence Friars|school=Providence College|title=Providence}}
+| [[Pete Gillen]]
+| [[Big East Conference (1979-2013)|Big East]]
+| 21–11
+| At-Large
+|-
+|#11
+| {{cbb link|1996|team=USC Trojans|school=University of Southern California|title=USC}}
+| [[Henry Bibby]]
+| [[Pac-12 Conference|Pac-10]]
+| 17–10
+| At-Large
+|-
+|#12
+| {{cbb link|1996|team=College of Charleston Cougars|school=College of Charleston|title=College of Charleston}}
+| [[John Kresse]]
+| [[Atlantic Sun Conference|TAAC]]
+| 28–2
+| Automatic
+|-
+|#13
+| {{cbb link|1996|team=South Alabama Jaguars|school=University of South Alabama|title=South Alabama}}
+| [[Bill Musselman]]
+| [[Sun Belt Conference|Sun Belt]]
+| 23–6
+| Automatic
+|-
+|#14
+| {{cbb link|1996|team=Chattanooga Mocs|school=University of Tennessee at Chattanooga|title=Chattanooga}}
+| [[Mack McCarthy]]
+| [[Southern Conference|Southern]]
+| 22–10
+| Automatic
+|-
+|#15
+| {{cbb link|1996|team=Murray State Racers|school=Murray State University|title=Murray State}}
+| [[Mark Gottfried]]
+| [[Ohio Valley Conference|Ohio Valley]]
+| 20–9
+| Automatic
+|-
+|#16
+| {{cbb link|1996|team=Jackson State Tigers|school=Jackson State University|title=Jackson State}}
+| [[Andy Stoglin]]
+| [[Southwestern Athletic Conference|SWAC]]
+| 14–15
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | Midwest Regional - [[San Antonio]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1996–97 Minnesota Golden Gophers men's basketball team|Minnesota]] (vacated)
+| [[Clem Haskins]]
+| [[Big Ten Conference|Big Ten]]
+| 27–3
+| Automatic
+|-
+|#2
+| [[1996–97 UCLA Bruins men's basketball team|UCLA]]
+| [[Steve Lavin]]
+| [[Pac-12 Conference|Pac-10]]
+| 21–7
+| Automatic
+|-
+|#3
+| {{cbb link|1996|team=Cincinnati Bearcats|school=University of Cincinnati|title=Cincinnati}}
+| [[Bob Huggins]]
+| [[Conference USA]]
+| 25–7
+| At-Large
+|-
+|#4
+| [[1996–97 Clemson Tigers men's basketball team|Clemson]]
+| [[Rick Barnes]]
+| [[Atlantic Coast Conference|ACC]]
+| 21–9
+| At-Large
+|-
+|#5
+| {{cbb link|1996|team=Tulsa Golden Hurricane|school=University of Tulsa|title=Tulsa}}
+| [[Steve Robinson (basketball)|Steve Robinson]]
+| [[Western Athletic Conference|WAC]]
+| 23–9
+| At-Large
+|-
+|#6
+| [[1996–97 Iowa State Cyclones men's basketball team|Iowa State]]
+| [[Tim Floyd]]
+| [[Big 12 Conference|Big 12]]
+| 20–8
+| At-Large
+|-
+|#7
+| {{cbb link|1996|team=Xavier Musketeers|school=Xavier University|title=Xavier}}
+| [[Skip Prosser]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 22–5
+| At-Large
+|-
+|#8
+| {{cbb link|1996|team=Ole Miss Rebels|school=University of Mississippi|title=Ole Miss}}
+| [[Rob Evans (basketball)|Rob Evans]]
+| [[Southeastern Conference|SEC]]
+| 20–8
+| At-Large
+|-
+|#9
+| {{cbb link|1996|team=Temple Owls|school=Temple University|title=Temple}}
+| [[John Chaney (basketball, born 1932)|John Chaney]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 19–10
+| At-Large
+|-
+|#10
+| {{cbb link|1996|team=Vanderbilt Commodores|school=Vanderbilt University|title=Vanderbilt}}
+| [[Jan van Breda Kolff]]
+| [[Southeastern Conference|SEC]]
+| 19–11
+| At-Large
+|-
+|#11
+| {{cbb link|1996|team=Illinois State Redbirds|school=Illinois State University|title=Illinois State}}
+| [[Kevin Stallings]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 24–5
+| Automatic
+|-
+|#12
+| {{cbb link|1996|team=Boston University Terriers|school=Boston University|title=Boston University}}
+| [[Dennis Wolff]]
+| [[America East Conference|America East]]
+| 25–4
+| Automatic
+|-
+|#13
+| {{cbb link|1996|team=Miami RedHawks|school=Miami University|title=Miami (OH)}}
+| [[Charlie Coles]]
+| [[Mid-American Conference|Mid-American]]
+| 21–8
+| Automatic
+|-
+|#14
+| {{cbb link|1996|team=Butler Bulldogs|school=Butler Bulldogs|title=Butler}}
+| [[Barry Collier (basketball)|Barry Collier]]
+| [[Horizon League|MCC]]
+| 23–9
+| Automatic
+|-
+|#15
+| {{cbb link|1996|team=Charleston Southern Buccaneers|school=Charleston Southern University|title=Charleston Southern}}
+| [[Tom Conrad (basketball coach)|Tom Conrad]]
+| [[Big South Conference|Big South]]
+| 17–12
+| Automatic
+|-
+|#16
+| {{cbb link|1996|team=Texas State Bobcats|school=Texas State University-San Marcos|title=Southwest Texas State}}
+| [[Mike Miller (basketball coach)|Mike Miller]]
+| [[Southland Conference|Southland]]
+| 16–12
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | West Regional - [[San Jose, California|San Jose]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1996–97 Kentucky Wildcats men's basketball team|Kentucky]]
+| [[Rick Pitino]]
+| [[Southeastern Conference|SEC]]
+| 30–4
+| Automatic
+|-
+|#2
+| {{cbb link|1996|team=Utah Utes|school=University of Utah|title=Utah}}
+| [[Rick Majerus]]
+| [[Western Athletic Conference|WAC]]
+| 26–3
+| Automatic
+|-
+|#3
+| [[1996–97 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+| [[Dave Odom]]
+| [[Atlantic Coast Conference|ACC]]
+| 23–6
+| At-Large
+|-
+|#4
+| {{cbb link|1996|team=Saint Joseph's Hawks|school=Saint Joseph's University|title=Saint Joseph's}}
+| [[Phil Martelli]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 24–6
+| Automatic
+|-
+|#5
+| {{cbb link|1996|team=Boston College Eagles|school=Boston College|title=Boston College}}
+| [[Jim O'Brien (basketball, born 1949)|Jim O'Brien]]
+| [[Big East Conference (1979-2013)|Big East]]
+| 21–8
+| Automatic
+|-
+|#6
+| {{cbb link|1996|team=Stanford Cardinal|school=Stanford University|title=Stanford}}
+| [[Mike Montgomery]]
+| [[Pac-12 Conference|Pac-10]]
+| 20–7
+| At-Large
+|-
+|#7
+| {{cbb link|1996|team=Charlotte 49ers|school=University of North Carolina at Charlotte|title=Charlotte}}
+| [[Melvin Watkins]]
+| [[Conference USA]]
+| 21–8
+| At-Large
+|-
+|#8
+| [[1996–97 Iowa Hawkeyes men's basketball team|Iowa]]
+| [[Tom Davis (basketball, born 1938)|Tom Davis]]
+| [[Big Ten Conference|Big Ten]]
+| 21–9
+| At-Large
+|-
+|#9
+| [[1996–97 Virginia Cavaliers men's basketball team|Virginia]]
+| [[Jeff Jones (basketball coach)|Jeff Jones]]
+| [[Atlantic Coast Conference|ACC]]
+| 19–10
+| At-Large
+|-
+|#10
+| [[1996–97 Georgetown Hoyas men's basketball team|Georgetown]]
+| [[John Thompson (basketball)|John Thompson]]
+| [[Big East Conference (1979-2013)|Big East]]
+| 20–9
+| At-Large
+|-
+|#11
+| {{cbb link|1996|team=Oklahoma Sooners|school=University of Oklahoma|title=Oklahoma}}
+| [[Kelvin Sampson]]
+| [[Big 12 Conference|Big 12]]
+| 19–7
+| At-Large
+|-
+|#12
+| {{cbb link|1996|team=Valparaiso Crusaders|school=Valparaiso University|title=Valparaiso}}
+| [[Homer Drew]]
+| [[The Summit League|Mid-Continent]]
+| 24–6
+| Automatic
+|-
+|#13
+| {{cbb link|1996|team=Pacific Tigers|school=University of the Pacific|title=Pacific}}
+| [[Bob Thomason]]
+| [[Big West Conference|Big West]]
+| 23–5
+| Automatic
+|-
+|#14
+| {{cbb link|1996|team=Saint Mary's Gaels|school=Saint Mary's College of California|title=Saint Mary's}}
+| [[Ernie Kent]]
+| [[West Coast Conference|West Coast]]
+| 23–7
+| Automatic
+|-
+|#15
+| {{cbb link|1996|team=Navy Midshipmen|school=United States Naval Academy|title=Navy}}
+| [[Don DeVoe]]
+| [[Patriot League]]
+| 20–8
+| Automatic
+|-
+|#16
+| {{cbb link|1996|team=Montana Grizzlies|school=University of Montana|title=Montana}}
+| [[Blaine Taylor]]
+| [[Big Sky Conference|Big Sky]]
+| 21–10
+| Automatic
+|}
+
+==Bracket==
+* *Overtime game
+
+===East Regional - Syracuse, New York===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Lawrence Joel Veterans Memorial Coliseum|Winston-Salem]]'''
+ | subgroup2= '''[[Lawrence Joel Veterans Memorial Coliseum|Winston-Salem]]'''
+ | subgroup3= '''[[Civic Arena (Pittsburgh)|Pittsburgh]]'''
+ | subgroup4= '''[[Civic Arena (Pittsburgh)|Pittsburgh]]'''
+| RD1-team01='''North Carolina'''
+ | RD1-score01='''82'''
+ | RD1-seed02=16
+ | RD1-team02=Fairfield
+ | RD1-score02=74
+ | RD1-seed03=8
+ | RD1-team03=Indiana
+ | RD1-score03=62
+ | RD1-seed04=9
+ | RD1-team04='''Colorado'''
+ | RD1-score04='''80'''
+ | RD1-seed05=5
+ | RD1-team05='''California'''
+ | RD1-score05='''55'''
+ | RD1-seed06=12
+ | RD1-team06=Princeton
+ | RD1-score06=52
+ | RD1-seed07=4
+ | RD1-team07='''Villanova'''
+ | RD1-score07='''101'''
+ | RD1-seed08=13
+ | RD1-team08=Long Island
+ | RD1-score08=91
+ | RD1-seed09=6
+ | RD1-team09='''Louisville'''
+ | RD1-score09='''65'''
+ | RD1-seed10=11
+ | RD1-team10=Massachusetts
+ | RD1-score10=57
+ | RD1-seed11=3
+ | RD1-team11='''New Mexico'''
+ | RD1-score11='''59'''
+ | RD1-seed12=14
+ | RD1-team12=Old Dominion
+ | RD1-score12=55
+ | RD1-seed13=7
+ | RD1-team13=Wisconsin
+ | RD1-score13=58
+ | RD1-seed14=10
+ | RD1-team14='''Texas'''
+ | RD1-score14='''71'''
+ | RD1-seed15=2
+ | RD1-team15=South Carolina
+ | RD1-score15=65
+ | RD1-seed16=15
+ | RD1-team16='''Coppin State'''
+ | RD1-score16='''78'''
+ | RD2-seed01=1
+ | RD2-team01='''North Carolina'''
+ | RD2-score01='''73'''
+ | RD2-seed02=9
+ | RD2-team02=Colorado
+ | RD2-score02=56
+ | RD2-seed03=5
+ | RD2-team03='''California'''
+ | RD2-score03='''75'''
+ | RD2-seed04=4
+ | RD2-team04=Villanova
+ | RD2-score04=68
+ | RD2-seed05=6
+ | RD2-team05='''Louisville'''
+ | RD2-score05='''64'''
+ | RD2-seed06=3
+ | RD2-team06=New Mexico
+ | RD2-score06=63
+ | RD2-seed07=10
+ | RD2-team07='''Texas'''
+ | RD2-score07='''82'''
+ | RD2-seed08=15
+ | RD2-team08=Coppin State
+ | RD2-score08=81
+ | RD3-seed01=1
+ | RD3-team01='''North Carolina'''
+ | RD3-score01='''63'''
+ | RD3-seed02=5
+ | RD3-team02=California
+ | RD3-score02=57
+ | RD3-seed03=6
+ | RD3-team03='''Louisville'''
+ | RD3-score03='''78'''
+ | RD3-seed04=10
+ | RD3-team04=Texas
+ | RD3-score04=63
+ | RD4-seed01=1
+ | RD4-team01='''North Carolina'''
+ | RD4-score01='''97'''
+ | RD4-seed02=6
+ | RD4-team02=Louisville
+ | RD4-score02=74
+}}
+
+===Southeast Regional - Birmingham, Alabama===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Pyramid Arena|Memphis]]'''
+ | subgroup2= '''[[Pyramid Arena|Memphis]]'''
+ | subgroup3= '''[[Charlotte Coliseum|Charlotte]]'''
+ | subgroup4= '''[[Charlotte Coliseum|Charlotte]]'''
+| RD1-team01='''Kansas'''
+ | RD1-score01='''78'''
+ | RD1-seed02=16
+ | RD1-team02=Jackson State
+ | RD1-score02=64
+ | RD1-seed03=8
+ | RD1-team03='''Purdue'''
+ | RD1-score03='''83'''
+ | RD1-seed04=9
+ | RD1-team04=Rhode Island
+ | RD1-score04=76*
+ | RD1-seed05=5
+ | RD1-team05=Maryland
+ | RD1-score05=66
+ | RD1-seed06=12
+ | RD1-team06='''College of Charleston'''
+ | RD1-score06='''75'''
+ | RD1-seed07=4
+ | RD1-team07='''Arizona'''
+ | RD1-score07='''65'''
+ | RD1-seed08=13
+ | RD1-team08=South Alabama
+ | RD1-score08=57
+ | RD1-seed09=6
+ | RD1-team09='''Illinois'''
+ | RD1-score09='''90'''
+ | RD1-seed10=11
+ | RD1-team10=Southern California
+ | RD1-score10=77
+ | RD1-seed11=3
+ | RD1-team11=Georgia
+ | RD1-score11=70
+ | RD1-seed12=14
+ | RD1-team12='''Chattanooga'''
+ | RD1-score12='''73'''
+ | RD1-seed13=7
+ | RD1-team13=Marquette
+ | RD1-score13=59
+ | RD1-seed14=10
+ | RD1-team14='''Providence'''
+ | RD1-score14='''81'''
+ | RD1-seed15=2
+ | RD1-team15='''Duke'''
+ | RD1-score15='''71'''
+ | RD1-seed16=15
+ | RD1-team16=Murray State
+ | RD1-score16=68
+ | RD2-seed01=1
+ | RD2-team01='''Kansas'''
+ | RD2-score01='''75'''
+ | RD2-seed02=8
+ | RD2-team02=Purdue
+ | RD2-score02=61
+ | RD2-seed03=12
+ | RD2-team03=College of Charleston
+ | RD2-score03=69
+ | RD2-seed04=4
+ | RD2-team04='''Arizona'''
+ | RD2-score04='''73'''
+ | RD2-seed05=6
+ | RD2-team05=Illinois
+ | RD2-score05=63
+ | RD2-seed06=14
+ | RD2-team06='''Chattanooga'''
+ | RD2-score06='''75'''
+ | RD2-seed07=10
+ | RD2-team07='''Providence'''
+ | RD2-score07='''98'''
+ | RD2-seed08=2
+ | RD2-team08=Duke
+ | RD2-score08=87
+ | RD3-seed01=1
+ | RD3-team01=Kansas
+ | RD3-score01=82
+ | RD3-seed02=4
+ | RD3-team02='''Arizona'''
+ | RD3-score02='''85'''
+ | RD3-seed03=14
+ | RD3-team03=Chattanooga
+ | RD3-score03=65
+ | RD3-seed04=10
+ | RD3-team04='''Providence'''
+ | RD3-score04='''71'''
+ | RD4-seed01=4
+ | RD4-team01='''Arizona'''
+ | RD4-score01='''96'''
+ | RD4-seed02=10
+ | RD4-team02=Providence
+ | RD4-score02=92*
+}}
+
+===Midwest Regional - San Antonio, Texas===
+{{16TeamBracket
+| subgroup1= '''[[Kemper Arena|Kansas City]]'''
+ | subgroup2= '''[[Kemper Arena|Kansas City]]'''
+ | subgroup3= '''[[The Palace of Auburn Hills|Auburn Hills]]'''
+ | subgroup4= '''[[The Palace of Auburn Hills|Auburn Hills]]''' 
+| RD3=Regional Semifinals | RD4=Regional Finals
+ | RD1-seed01=1
+ | RD1-team01='''Minnesota'''
+ | RD1-score01='''78'''
+ | RD1-seed02=16
+ | RD1-team02=Southwest Texas State
+ | RD1-score02=46
+ | RD1-team03=Ole Miss
+ | RD1-score03=40
+ | RD1-seed04=9
+ | RD1-team04='''Temple'''
+ | RD1-score04='''62'''
+ | RD1-seed05=5
+ | RD1-team05='''Tulsa''' 
+ | RD1-score05='''81'''
+ | RD1-seed06=12
+ | RD1-team06=Boston University
+ | RD1-score06=52
+ | RD1-seed07=4
+ | RD1-team07='''Clemson'''
+ | RD1-score07='''68'''
+ | RD1-seed08=13
+ | RD1-team08=Miami (OH)
+ | RD1-score08=56
+ | RD1-seed09=6
+ | RD1-team09='''Iowa State'''
+ | RD1-score09='''69'''
+ | RD1-seed10=11
+ | RD1-team10=Illinois State
+ | RD1-score10=57
+ | RD1-seed11=3
+ | RD1-team11='''Cincinnati'''
+ | RD1-score11='''86'''
+ | RD1-seed12=14
+ | RD1-team12=Butler
+ | RD1-score12=69
+ | RD1-seed13=7
+ | RD1-team13='''Xavier'''
+ | RD1-score13='''80'''
+ | RD1-seed14=10
+ | RD1-team14=Vanderbilt 
+ | RD1-score14=68
+ | RD1-seed15=2
+ | RD1-team15='''UCLA'''
+ | RD1-score15='''109'''
+ | RD1-seed16=15
+ | RD1-team16=Charleston Southern
+ | RD1-score16=75
+ | RD2-seed01=1
+ | RD2-team01='''Minnesota'''
+ | RD2-score01='''76'''
+ | RD2-seed02=9
+ | RD2-team02=Temple
+ | RD2-score02=57
+ | RD2-seed03=5
+ | RD2-team03=Tulsa
+ | RD2-score03=59
+ | RD2-seed04=4
+ | RD2-team04='''Clemson'''
+ | RD2-score04='''65'''
+ | RD2-seed05=6
+ | RD2-team05='''Iowa State'''
+ | RD2-score05=67
+ | RD2-seed06=3
+ | RD2-team06=Cincinnati
+ | RD2-score06=66
+ | RD2-seed07=7
+ | RD2-team07=Xavier
+ | RD2-score07=83
+ | RD2-seed08=2
+ | RD2-team08='''UCLA'''
+ | RD2-score08='''96'''
+ | RD3-seed01=1
+ | RD3-team01='''Minnesota'''
+ | RD3-score01='''90'''
+ | RD3-seed02=4
+ | RD3-team02=Clemson
+ | RD3-score02=84**
+ | RD3-seed03=6
+ | RD3-team03=Iowa State
+ | RD3-score03=73*
+ | RD3-seed04=2
+ | RD3-team04='''UCLA'''
+ | RD3-score04='''74'''
+ | RD4-seed01=1
+ | RD4-team01='''Minnesota'''
+ | RD4-score01='''80'''
+ | RD4-seed02=2
+ | RD4-team02=UCLA
+ | RD4-score02=72
+
+}}
+
+===West Regional - San Jose, California===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup2= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup3= '''[[McKale Center|Tucson]]'''
+ | subgroup4= '''[[McKale Center|Tucson]]'''
+| RD1-team01='''Kentucky'''
+ | RD1-score01='''92'''
+ | RD1-seed02=16
+ | RD1-team02=Montana
+ | RD1-score02=54
+ | RD1-seed03=8
+ | RD1-team03='''Iowa'''
+ | RD1-score03='''73'''
+ | RD1-seed04=9
+ | RD1-team04=Virginia
+ | RD1-score04=60
+ | RD1-seed05=5
+ | RD1-team05='''Boston College'''
+ | RD1-score05='''73'''
+ | RD1-seed06=12
+ | RD1-team06=Valparaiso
+ | RD1-score06=66
+ | RD1-seed07=4
+ | RD1-team07='''Saint Joseph's'''
+ | RD1-score07='''75'''
+ | RD1-seed08=13
+ | RD1-team08=Pacific
+ | RD1-score08=65
+ | RD1-seed09=6
+ | RD1-team09='''Stanford'''
+ | RD1-score09='''80'''
+ | RD1-seed10=11
+ | RD1-team10=Oklahoma
+ | RD1-score10=67
+ | RD1-seed11=3
+ | RD1-team11='''Wake Forest'''
+ | RD1-score11='''68'''
+ | RD1-seed12=14
+ | RD1-team12=Saint Mary's
+ | RD1-score12=46
+ | RD1-seed13=7
+ | RD1-team13='''Charlotte'''
+ | RD1-score13='''79'''
+ | RD1-seed14=10
+ | RD1-team14=Georgetown
+ | RD1-score14=67
+ | RD1-seed15=2
+ | RD1-team15='''Utah'''
+ | RD1-score15='''75'''
+ | RD1-seed16=15
+ | RD1-team16=Navy
+ | RD1-score16=61
+ | RD2-seed01=1
+ | RD2-team01='''Kentucky'''
+ | RD2-score01='''75'''
+ | RD2-seed02=8
+ | RD2-team02=Iowa
+ | RD2-score02=69
+ | RD2-seed03=5
+ | RD2-team03=Boston College
+ | RD2-score03=77*
+ | RD2-seed04=4
+ | RD2-team04='''Saint Joseph's'''
+ | RD2-score04='''81'''
+ | RD2-seed05=6
+ | RD2-team05='''Stanford'''
+ | RD2-score05='''72'''
+ | RD2-seed06=3
+ | RD2-team06=Wake Forest
+ | RD2-score06=66
+ | RD2-seed07=7
+ | RD2-team07=Charlotte
+ | RD2-score07=58
+ | RD2-seed08=2
+ | RD2-team08='''Utah'''
+ | RD2-score08='''77'''
+ | RD3-seed01=1
+ | RD3-team01='''Kentucky'''
+ | RD3-score01='''83'''
+ | RD3-seed02=4
+ | RD3-team02=Saint Joseph's
+ | RD3-score02=68
+ | RD3-seed03=6
+ | RD3-team03=Stanford
+ | RD3-score03=77*
+ | RD3-seed04=2
+ | RD3-team04='''Utah'''
+ | RD3-score04='''82'''
+ | RD4-seed01=1
+ | RD4-team01='''Kentucky'''
+ | RD4-score01='''72'''
+ | RD4-seed02=2
+ | RD4-team02=Utah
+ | RD4-score02=59
+}}
+
+===Final Four @ Indianapolis, Indiana===
+{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game | RD1-seed1=E1
+ | RD1-team1=North Carolina
+ | RD1-score1=58
+ | RD1-seed2=SE4
+ | RD1-team2='''Arizona'''
+ | RD1-score2='''66'''
+ | RD1-seed3=M1
+ | RD1-team3=Minnesota*
+ | RD1-score3=69
+ | RD1-seed4=W1
+ | RD1-team4='''Kentucky'''
+ | RD1-score4='''78'''
+ | RD2-seed1=SE4
+ | RD2-team1='''Arizona'''
+ | RD2-score1='''84'''
+ | RD2-seed2=W1
+ | RD2-team2=Kentucky
+ | RD2-score2=79*
+}}
+
+* *Overtime Game
+
+==Announcers==
+*[[Jim Nantz]] and [[Billy Packer]] – First & Second Round at Tucson, Arizona; Southeast Regional at Birmingham, Alabama; Final Four at Indianapolis, Indiana
+*[[Sean McDonough]] and [[Bill Raftery]] – First & Second Round at Winston-Salem, North Carolina; West Regional at San Jose, California
+*[[Tim Ryan (sportscaster)|Tim Ryan]] and [[Al McGuire]] – First & Second Round at Memphis, Tennessee; Midwest Regional at San Antonio, Texas
+*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Quinn Buckner]] – First & Second Round at Auburn Hills, Michigan; East Regional at Syracuse, New York
+*[[Tim Brando]] and [[George Raveling]] – First & Second Round at Charlotte, North Carolina
+*[[Mike Gorman]] and [[Jon Sundvold]] – First & Second Round at Pittsburgh, Pennsylvania
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Derrek Dickey]] – First & Second Round at Kansas City, Missouri
+*[[Gary Thorne]] and [[Dan Bonner]] – First & Second Round at Salt Lake City, Utah
+
+==See also==
+* [[1997 NCAA Division II Men's Basketball Tournament]]
+* [[1997 NCAA Division III Men's Basketball Tournament]]
+* [[1997 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|1997 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|1997 NCAA Division III Women's Basketball Tournament]]
+* [[1997 National Invitation Tournament]]
+* [[1997 NAIA Division I Men's Basketball Tournament]]
+* [[NAIA Men's Basketball Championships#Division II|1997 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|1997 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|1997 NAIA Division II Women's Basketball Tournament]]
+
+==References==
+{{Reflist}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{1997 Arizona Wildcats men's basketball navbox}}
+
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:1996–97 NCAA Division I men's basketball season|Ncaa]]
+[[Category:Basketball in Indianapolis|NCAA]]
+[[Category:Basketball in San Antonio|NCAA Men's Division I Basketball Championship]]
+[[Category:1997 in sports in Indiana|NCAA Men's Division I Basketball Championship]]

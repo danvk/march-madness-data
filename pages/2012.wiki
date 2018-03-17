@@ -1,0 +1,1420 @@
+{{Infobox NCAA Basketball Tournament |
+| Year=2012
+| Season=
+| Image=2012_Final_Four_logo.svg
+| ImageSize=150px
+| Caption=2012 Final Four logo
+| Teams=68
+| FinalFourArena=[[Mercedes-Benz Superdome]]
+| FinalFourCity=[[New Orleans|New Orleans, Louisiana]]
+| Champions= [[2011-12 Kentucky Wildcats men's basketball team|Kentucky]]
+| TitleCount= 8th
+| ChampGameCount= 11th
+| ChampFFCount= 15th
+| RunnerUp= [[2011–12 Kansas Jayhawks men's basketball team|Kansas]]
+| GameCount= 9th
+| RunnerFFCount= 14th 
+| Semifinal1= [[2011–12 Louisville Cardinals men's basketball team|Louisville]] (Vacated)
+| FinalFourCount= 9th
+| Semifinal2=[[2011–12 Ohio State Buckeyes men's basketball team|Ohio State]]
+| FinalFourCount2= 11th
+| Coach= [[John Calipari]]
+| CoachCount= 1st
+| MOP=[[Anthony Davis (basketball)|Anthony Davis]]
+| MOPTeam=([[2011–12 Kentucky Wildcats men's basketball team|Kentucky]])
+| Attendance=
+| OneTopScorer=
+| TwoTopScorers=
+| TopScorer=
+| TopScorerTeam=
+| TopScorer2=
+| TopScorer2Team=
+| Points=
+}}
+The '''2012 [[NCAA Division I Men's Basketball Tournament]]''' was a [[single-elimination tournament]] involving 68 schools playing to determine the national champion of men's NCAA Division I [[college basketball]]. It began on March 13, 2012, and concluded with the [[2012 NCAA Men's Division I Basketball Championship Game|championship game]] on April 2 at the [[Mercedes-Benz Superdome]] in [[New Orleans]].
+
+The Final Four consisted of [[Kentucky Wildcats men's basketball|Kentucky]], making their second appearance in the Final Four under [[John Calipari]], [[Louisville Cardinals men's basketball|Louisville]], making their second appearance under [[Rick Pitino]] and first since 2005, [[Kansas Jayhawks men's basketball|Kansas]], making their first appearance since winning the 2008 national championship under head coach [[Bill Self]] by defeating Calipari's [[Memphis Tigers men's basketball|Memphis]] team, and [[Ohio State Buckeyes men's basketball|Ohio State]], making their first appearance since their runner-up finish in 2007 and second under coach [[Thad Matta]].
+
+Kentucky defeated Kansas 67-59 to win their first national championship since [[Tubby Smith]] led the team there in 1998. This was Calipari's first national championship in four trips to the Final Four, having previously gone there with Kentucky in 2011, Memphis in 2008 and [[UMass Minutemen men's basketball|Massachusetts]] in 1996.
+
+Upsets were once again the story of the tournament in 2012, and for the first time ever two #15 seeds won in the same tournament. In the South Region, #15 [[Lehigh Mountain Hawks men's basketball|Lehigh]] of the [[Patriot League]] defeated #2 [[Duke Blue Devils men's basketball|Duke]]. In the West Region, #15 [[Norfolk State Spartans men's basketball|Norfolk State]] of the [[Mid-Eastern Athletic Conference|MEAC]], making their first ever NCAA tournament appearance, defeated #2 [[Missouri Tigers men's basketball|Missouri]]. In addition to this, [[Ohio Bobcats men's basketball|Ohio]] won a game as a double digit seed for the second time in four tournaments as the #13 seed Bobcats defeated #4 seed [[Michigan Wolverines men's basketball|Michigan]] to advance to the third round of the Midwest Region. A team from the First Four games also won in the Round of 64 for the second consecutive year as [[South Florida Bulls men's basketball|South Florida]] defeated Midwest #5 seed [[Temple Owls men's basketball|Temple]], setting up a #12 vs. #13 matchup that Ohio won.
+
+[[VCU Rams men's basketball|Virginia Commonwealth]], a Final Four team from 2011 as an #11 seed, made the 2012 tournament as a #12 seed and once again made the round of 32 by defeating South #5 seed [[Wichita State Shockers men's basketball|Wichita State]]. The South Region saw four double digit seeds win in their opening games, as [[Colorado Buffaloes men's basketball|Colorado]] and [[Xavier Musketeers men's basketball|Xavier]] joined VCU and Lehigh as victors. Xavier advanced to the Sweet Sixteen, where they were defeated by [[Baylor Bears men's basketball|Baylor]].
+
+Despite the upsets, all four top seeds advanced to the Sweet Sixteen for the first time since 2009. Three made it to the Elite Eight, as only [[Michigan State Spartans men's basketball|Michigan State]] of the West Region lost. Kentucky was the only one to advance to the Final Four as [[Syracuse Orange men's basketball|Syracuse]] and [[North Carolina Tar Heels men's basketball|North Carolina]] lost in their regional finals.
+
+Two teams made their first NCAA tournament appearances in school history: [[Mid-Eastern Athletic Conference|MEAC]] champion [[2011-12 Norfolk State Spartans men's basketball team|Norfolk State]] and [[Summit League]] champion [[2011–12 South Dakota State Jackrabbits men's basketball team|South Dakota State]]. [[Ivy League]] champion [[2011-12 Harvard Crimson men's basketball team|Harvard]] made its first appearance since 1946.
+
+All four teams from the state of [[Ohio]] (Cincinnati, Ohio, Ohio State, and Xavier) made it to the Sweet 16, marking the first time in tournament history any state has been represented by four teams in the round of 16.<ref>[http://espn.go.com/mens-college-basketball/tournament/2012/story/_/id/7719220/ncaa-tournament-2012-pride-ohio-four-teams-state-reach-sweet-16 Ohio is more than just Buckeye State] ESPN.com, March 21, 2012</ref> This tournament was also the first tournament since 1985 to feature no teams in the Sweet 16 from the Mountain or Pacific Time Zones.
+
+It is also the first tournament ever that both national semifinals and the national championship game were regular season rematches.<ref>[http://espn.go.com/blog/collegebasketballnation/post?id=57282 Davis, Withey will host block party in final] ESPN.com, April 1, 2012</ref>
+
+{{TOC limit|limit=3}}
+
+==Tournament procedure==
+{{details|NCAA Men's Division I Basketball Championship#Current tournament format}}
+
+A total of 68 teams entered the tournament. Thirty out of 31 automatic bids were given to the teams that won their [[List of NCAA conferences|conference]] tournament. The remaining automatic bid was awarded to the [[Ivy League]] regular season champion since they do not hold a conference tournament. The remaining 37 teams were granted "at-large" bids, which were extended by the NCAA Selection Committee on March 11.
+
+Eight teams—the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams—will play in the First Four (the successor to what had been popularly known as "[[NCAA Men's Division I Basketball Opening Round game|play-in games]]" through the 2010 tournament). The winners of these games will advance to the main draw of the tournament.
+
+For the first time ever, the [[NCAA basketball tournament selection process|Selection Committee]] publicly disclosed the overall rankings for each team, which are listed below.<ref>[http://www.ncaa.com/news/basketball-men/article/2012-03-11/hardcore-breakdown-bracket 'Hardcore' breakdown of bracket] NCAA, March 11, 2012</ref>
+
+==Tournament schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=2012 First Four (orange), and second and third rounds (green)|places=
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.735556|lon_deg=-84.2|position=bottom|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.159167|lon_deg=-86.778611|position=bottom|background=#FFFFFF|label=Nashville|link=Bridgestone Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.439444|lon_deg=-79.989167|position=right|background=#FFFFFF|label=Pittsburgh|link=Consol Energy Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.059722|lon_deg=-79.825556|position=right|background=#FFFFFF|label=Greensboro|link=Greensboro Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.2575|lon_deg=-85.753889|position=bottom|background=#FFFFFF|label=Louisville|link=KFC Yum! Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.969283|lon_deg=-83.006111|position=right|background=#FFFFFF|label=Columbus|link=Nationwide Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.262667|lon_deg=-95.928206|position=left|background=#FFFFFF|label=Omaha|link=CenturyLink Center Omaha}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=45.531667|lon_deg=-122.666667|position=right|background=#FFFFFF|label=Portland|link=Rose Garden (arena)}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.066936|lon_deg=-106.632308|position=left|background=#FFFFFF|label=Albuquerque|link=The Pit (arena)}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2012 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.632778|lon_deg=-90.188611|position=left|background=#FFFFFF|label=St. Louis|link=Edward Jones Dome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.7575|lon_deg=-84.400833|position=left|background=#FFFFFF|label=Atlanta|link=Georgia Dome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=42.366303|lon_deg=-71.062228|position=left|background=#FFFFFF|label=Boston|link=TD Garden}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.445833|lon_deg=-112.071389|position=left|background=#FFFFFF|label=Phoenix|link=US Airways Center}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=29.950833|lon_deg=-90.081111|position=bottom|background=#FFFFFF|label='''New Orleans'''|link=Mercedes-Benz Superdome}}
+}}
+
+The following are the sites selected to host each round of the 2012 tournament:<ref>[http://msn.foxsports.com/cbk/story/10107964/2012-NCAA-tournament-information 2012 NCAA tournament information]{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }} Fox Sports, September 22, 2009</ref><ref>[http://www.ncaa.com/news/basketball-men/2011-06-27/first-four-remain-dayton First Four to remain in Dayton] NCAA, July 8, 2011</ref>
+
+;First Four (March 13 and 14)
+* [[University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+;Second and third rounds
+*March 15 and 17
+**[[Moda Center|Rose Garden]], [[Portland, Oregon]] (Host: [[University of Oregon]])
+**[[The Pit (arena)|University Arena ("The Pit")]], [[Albuquerque, New Mexico]] (Host: [[University of New Mexico]])
+**[[PPG Paints Arena|Consol Energy Center]], [[Pittsburgh|Pittsburgh, Pennsylvania]] (Host: [[Duquesne University]])
+**[[KFC Yum! Center]], [[Louisville, Kentucky]] (Host: [[University of Louisville]])
+*March 16 and 18
+**[[Nationwide Arena]], [[Columbus, Ohio]] (Host: [[Ohio State University]])
+**[[CenturyLink Center Omaha]], [[Omaha, Nebraska]] (Host: [[Creighton University]])
+**[[Bridgestone Arena]], [[Nashville, Tennessee]] (Host: [[Ohio Valley Conference]])
+**[[Greensboro Coliseum Complex|Greensboro Coliseum]], [[Greensboro, North Carolina]] (Host: [[Atlantic Coast Conference]])
+
+;Regional sites
+*March 22 and 24
+**'''East Regional,''' [[TD Garden]], [[Boston|Boston, Massachusetts]] (Host: [[Boston College]])
+**'''West Regional,''' [[US Airways Center]], [[Phoenix, Arizona]] (Host: [[Arizona State University]])
+*March 23 and 25
+**'''Midwest Regional,''' [[Edward Jones Dome]], [[St. Louis, Missouri]] (Host: [[Saint Louis University]])
+**'''South Regional,''' [[Georgia Dome]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Institute of Technology]])
+
+;Final Four - New Orleans (March 31 and April 2)
+*[[Mercedes-Benz Superdome]] (Host: [[Tulane University]])
+
+The Final Four returned to the Superdome for the fifth time overall and first time since before [[Hurricane Katrina]]; it is scheduled to host again in 2022.  The tournament saw two new arenas in previous host cities. For the first time since 1991, the tournament returned to the city of Louisville at its new KFC Yum! Center, the downtown home of the [[Louisville Cardinals men's basketball|Louisville Cardinals]] and successor venue to [[Freedom Hall]]. And for the first time in ten years, the city of Pittsburgh hosted the tournament, this time at Consol Energy Center, which replaced the [[Civic Arena (Pittsburgh)|Civic Arena]] as Pittsburgh's main arena. As of 2018, this is the most recent year hosting for the Dome at America's Center, the Greensboro Coliseum, The Pit and Talking Stick Resort Arena; of these, only the Greensboro Coliseum has been selected thus far for a future site, in 2020.
+
+==Automatic qualifiers==
+The following teams were automatic qualifiers for the 2012 NCAA field by virtue of winning their conference's tournament (except for the Ivy League, whose regular-season champion received the automatic bid).
+
+{|class="wikitable sortable" style="text-align: center;"
+|-
+!Conference
+!School
+! data-sort-type="number" |Appearance
+!Last bid
+|-
+|align=left|[[2012 America East Men's Basketball Tournament|America East]]
+|align=left|[[2011–12 Vermont Catamounts men's basketball team|Vermont]]
+|5th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|-
+|align=left|[[2012 Atlantic 10 Men's Basketball Tournament|Atlantic 10]]
+|align=left|[[2011–12 St. Bonaventure Bonnies men's basketball team|St. Bonaventure]]
+|6th
+|[[2000 NCAA Men's Division I Basketball Tournament|2000]]
+|-
+|align=left|[[2012 ACC Men's Basketball Tournament|ACC]]
+|align=left|[[2011-12 Florida State Seminoles men's basketball team|Florida State]]
+|14th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Atlantic Sun Men's Basketball Tournament|Atlantic Sun]]
+|align=left|[[2011–12 Belmont Bruins men's basketball team|Belmont]]
+|5th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Big 12 Men's Basketball Tournament|Big 12]]
+|align=left|[[2011–12 Missouri Tigers men's basketball team|Missouri]]
+|25th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Big East Men's Basketball Tournament|Big East]]
+|align=left|[[2011–12 Louisville Cardinals men's basketball team|Louisville]]
+|38th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Big Sky Conference Men's Basketball Tournament|Big Sky]]
+|align=left|[[2011–12 Montana Grizzlies basketball team|Montana]]
+|9th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|-
+|align=left|[[2012 Big South Conference Men's Basketball Tournament|Big South]]
+|align=left|[[2011–12 UNC Asheville Bulldogs men's basketball team|UNC Asheville]]
+|3rd
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Big Ten Conference Men's Basketball Tournament|Big Ten]]
+|align=left|[[2011-12 Michigan State Spartans men's basketball team|Michigan State]]
+|26th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Big West Conference Men's Basketball Tournament|Big West]]
+|align=left|[[2011–12 Long Beach State 49ers men's basketball team|Long Beach State]]
+|6th
+|[[2007 NCAA Men's Division I Basketball Tournament|2007]]
+|-
+|align=left|[[2012 CAA Men's Basketball Tournament|Colonial]]
+|align=left|[[2011–12 VCU Rams men's basketball team|VCU]]
+|12th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Conference USA Men's Basketball Tournament|C-USA]]
+|align=left|[[2011–12 Memphis Tigers men's basketball team|Memphis]]
+|24th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Horizon League Men's Basketball Tournament|Horizon]]
+|align=left|[[2011–12 Detroit Titans men's basketball team|Detroit]]
+|6th
+|[[1999 NCAA Men's Division I Basketball Tournament|1999]]
+|-
+|align=left|[[Ivy League]]
+|align=left|[[2011–12 Harvard Crimson men's basketball team|Harvard]]
+|2nd
+|[[1946 NCAA Men's Division I Basketball Tournament|1946]]
+|-
+|align=left|[[2012 MAAC Men's Basketball Tournament|MAAC]]
+|align=left|[[2011–12 Loyola Greyhounds men's basketball team|Loyola (MD)]]
+|2nd
+|[[1994 NCAA Men's Division I Basketball Tournament|1994]]
+|-
+|align=left|[[2012 MAC Men's Basketball Tournament|MAC]]
+|align=left|[[2011–12 Ohio Bobcats men's basketball team|Ohio]]
+|12th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|-
+|align=left|[[2012 MEAC Men's Basketball Tournament|MEAC]]
+|align=left|[[2011–12 Norfolk State Spartans men's basketball team|Norfolk State]]
+|1st
+|Never
+|-
+|align=left|[[2012 Missouri Valley Conference Men's Basketball Tournament|Missouri Valley]]
+|align=left|[[2011–12 Creighton Bluejays men's basketball team|Creighton]]
+|17th
+|[[2007 NCAA Men's Division I Basketball Tournament|2007]]
+|-
+|align=left|[[2012 Mountain West Conference Men's Basketball Tournament|Mountain West]]
+|align=left|[[2011–12 New Mexico Lobos men's basketball team|New Mexico]]
+|13th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|-
+|align=left|[[2012 Northeast Conference Men's Basketball Tournament|Northeast]]
+|align=left|[[2011–12 Long Island Blackbirds men's basketball team|Long Island]]
+|5th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Ohio Valley Conference Men's Basketball Tournament|Ohio Valley]]
+|align=left|[[2011–12 Murray State Racers men's basketball team|Murray State]]
+|15th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|-
+|align=left|[[2012 Pac-12 Conference Men's Basketball Tournament|Pac-12]]
+|align=left|[[2011–12 Colorado Buffaloes men's basketball team|Colorado]]
+|11th
+|[[2003 NCAA Men's Division I Basketball Tournament|2003]]
+|-
+|align=left|[[2012 Patriot League Men's Basketball Tournament|Patriot]]
+|align=left|[[2011–12 Lehigh Mountain Hawks men's basketball team|Lehigh]]
+|5th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|-
+|align=left|[[2012 SEC Men's Basketball Tournament|SEC]]
+|align=left|[[2011-12 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+|13th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2012 Southern Conference Men's Basketball Tournament|Southern]]
+|align=left|[[2011–12 Davidson Wildcats men's basketball team|Davidson]]
+|11th
+|[[2008 NCAA Men's Division I Basketball Tournament|2008]]
+|-
+|align=left|[[2012 Southland Conference Men's Basketball Tournament|Southland]]
+|align=left|[[2011–12 Lamar Cardinals basketball team|Lamar]]
+|6th
+|[[2000 NCAA Men's Division I Basketball Tournament|2000]]
+|-
+|align=left|[[2012 SWAC Men's Basketball Tournament|SWAC]]
+|align=left|[[2011–12 Mississippi Valley State Delta Devils basketball team|Mississippi Valley State]]
+|5th
+|[[2008 NCAA Men's Division I Basketball Tournament|2008]]
+|-
+|align=left|[[2012 The Summit League Men's Basketball Tournament|Summit]]
+|align=left|[[2011–12 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|1st
+|Never
+|-
+|align=left|[[2012 Sun Belt Conference Men's Basketball Tournament|Sun Belt]]
+|align=left|[[2011–12 WKU Hilltoppers basketball team|Western Kentucky]]
+|22nd
+|[[2009 NCAA Men's Division I Basketball Tournament|2009]]
+|-
+|align=left|[[2012 West Coast Conference Men's Basketball Tournament|West Coast]]
+|align=left|[[2011–12 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+|7th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|-
+|align=left|[[2012 WAC Men's Basketball Tournament|WAC]]
+|align=left|[[2011–12 New Mexico State Aggies men's basketball team|New Mexico State]]
+|19th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|}
+
+==Qualified teams==
+{{details|2012 NCAA Division I Men's Basketball Tournament: qualifying teams}}
+[[File:2012NCAAmensBBtourneyteamsbystate.svg|center|450px]]
+
+{{:2012 NCAA Men's Division I Basketball Tournament: qualifying teams}}
+
+==Bracket==
+<nowiki>*</nowiki> – Denotes overtime period
+
+''Unless otherwise noted, all times listed are [[Eastern Time Zone|Eastern ''Daylight'' Time]] ([[UTC−04:00|UTC-04]])''
+
+===First Four – Dayton, Ohio===
+{{align|left|{{2TeamBracket | RD1=South #16 seed<br />March 13
+| RD1-seed1= 16
+| RD1-team1= [[2011–12 Mississippi Valley State Delta Devils basketball team|Mississippi Valley State]]
+| RD1-score1= 58
+| RD1-seed2= 16
+| RD1-team2= '''[[2011–12 WKU Hilltoppers basketball team|Western Kentucky]]'''
+| RD1-score2= '''59'''
+}}}}
+{{align|left|{{2TeamBracket | RD1=Midwest #16 seed<br />March 14
+| RD1-seed1= 16
+| RD1-team1= [[2011–12 Lamar Cardinals basketball team|Lamar]]
+| RD1-score1= 59
+| RD1-seed2= 16
+| RD1-team2= '''[[2011–12 Vermont Catamounts men's basketball team|Vermont]]'''
+| RD1-score2= '''71'''
+}}}}
+{{align|left|{{2TeamBracket | RD1=West #14 seed<br />March 13
+| RD1-seed1= 14
+| RD1-team1= '''[[2011–12 BYU Cougars men's basketball team|BYU]]'''
+| RD1-score1= '''78'''
+| RD1-seed2= 14
+| RD1-team2= [[2011–12 Iona Gaels men's basketball team|Iona]]
+| RD1-score2= 72
+}}}}
+{{align|left|{{2TeamBracket | RD1=Midwest #12 seed<br />March 14
+| RD1-seed1= 12
+| RD1-team1= [[2011–12 California Golden Bears men's basketball team|California]]
+| RD1-score1= 54
+| RD1-seed2= 12
+| RD1-team2= '''[[2011–12 South Florida Bulls men's basketball team|South Florida]]'''
+| RD1-score2= '''65'''
+}}}}{{clear left}}
+
+Both games on March 13 saw historic comebacks:
+* In the opener, Western Kentucky trailed by 16 points with 4:51 remaining before storming back to win 59–58. It was the largest comeback in the last five minutes of an NCAA tournament game; the previous record was 15 by [[2004–05 Illinois Fighting Illini men's basketball team|Illinois]] against [[Arizona Wildcats men's basketball|Arizona]] in the 2005 Elite Eight.<ref name="WKU comeback">{{cite news|url=http://espn.go.com/ncb/recap?gameId=320732400 |title=Western Kentucky rallies from 16 down in final 5 minutes to win |agency=Associated Press |publisher=''ESPN.com'' |date=March 13, 2012 |accessdate=March 16, 2012}}</ref>
+* In the second game of the night, BYU set a record for the largest comeback in a NCAA tournament game, as they were down by 25 points at one point and came back to beat Iona 78–72. The largest previous deficit overcome in the tournament was 22 points by [[2000–01 Duke Blue Devils men's basketball team|Duke]] against [[2000–01 Maryland Terrapins men's basketball team|Maryland]] in the 2001 national semifinals.<ref>{{cite news|url=http://sports.espn.go.com/ncb/recap?gameId=320730252|title=BYU rallies from 25-point deficit to shock Iona |agency=Associated Press |publisher=''ESPN.com'' |date=March 13, 2012 |accessdate=March 14, 2012}}</ref>
+In addition, the March 13 session was notable for the attendance of [[Barack Obama]], [[president of the United States]], and [[David Cameron]], [[Prime Minister of the United Kingdom|prime minister of Great Britain]]. Cameron was in the U.S. for bilateral political and economic talks with Obama.
+
+===South Regional – Atlanta, Georgia===
+{{16TeamBracket | RD1=Second round<br />March 15–16
+| RD2=Third round<br />March 17–18
+| RD3=Regional semifinals<br />March 23
+| RD4=Regional finals<br />March 25
+| subgroup1= '''[[KFC Yum! Center|Louisville]]''' – Thu/Sat
+| subgroup2= '''[[Rose Garden (arena)|Portland]]''' – Thu/Sat
+| subgroup3= '''[[The Pit (arena)|Albuquerque]]''' – Thu/Sat
+| subgroup4= '''[[Greensboro Coliseum|Greensboro]]''' – Fri/Sun
+| RD1-seed01= 1
+| RD1-team01= '''[[2011–12 Kentucky Wildcats men's basketball team|Kentucky]]'''
+| RD1-score01= '''81'''
+| RD1-seed02= 16
+| RD1-team02= [[2011–12 WKU Hilltoppers basketball team|Western Kentucky]]
+| RD1-score02= 66
+
+| RD1-seed03= 8
+| RD1-team03= '''[[2011–12 Iowa State Cyclones men's basketball team|Iowa State]]'''
+| RD1-score03= '''77'''
+| RD1-seed04= 9
+| RD1-team04= [[2011–12 Connecticut Huskies men's basketball team|Connecticut]]
+| RD1-score04= 64
+
+| RD1-seed05=5
+| RD1-team05= [[2011–12 Wichita State Shockers men's basketball team|Wichita State]]
+| RD1-score05= 59
+| RD1-seed06=12
+| RD1-team06= '''[[2011–12 VCU Rams men's basketball team|VCU]]'''
+| RD1-score06= '''62'''
+
+| RD1-seed07= 4
+| RD1-team07= '''[[2011–12 Indiana Hoosiers men's basketball team|Indiana]]'''
+| RD1-score07= '''79'''
+| RD1-seed08= 13
+| RD1-team08= [[2011–12 New Mexico State Aggies men's basketball team|New Mexico State]]
+| RD1-score08= 66
+
+| RD1-seed09= 6
+| RD1-team09= [[2011–12 UNLV Runnin' Rebels basketball team|UNLV]]
+| RD1-score09= 64
+| RD1-seed10= 11
+| RD1-team10= '''[[2011–12 Colorado Buffaloes men's basketball team|Colorado]]'''
+| RD1-score10= '''68'''
+
+| RD1-seed11=3
+| RD1-team11= '''[[2011–12 Baylor Bears men's basketball team|Baylor]]'''
+| RD1-score11= '''68'''
+| RD1-seed12=14
+| RD1-team12= [[2011–12 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+| RD1-score12= 60
+
+| RD1-seed13= 7
+| RD1-team13=[[2011–12 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
+| RD1-score13= 63
+| RD1-seed14= 10
+| RD1-team14= '''[[2011–12 Xavier Musketeers men's basketball team|Xavier]]'''
+| RD1-score14= '''67'''
+
+| RD1-seed15= 2
+| RD1-team15=[[2011–12 Duke Blue Devils men's basketball team|Duke]]
+| RD1-score15= 70
+| RD1-seed16= 15
+| RD1-team16='''[[2011–12 Lehigh Mountain Hawks men's basketball team|Lehigh]]'''
+| RD1-score16= '''75'''
+
+| RD2-seed01= 1
+| RD2-team01= '''Kentucky'''
+| RD2-score01= '''87'''
+| RD2-seed02= 8
+| RD2-team02= Iowa State
+| RD2-score02= 71
+
+| RD2-seed03= 12
+| RD2-team03= VCU
+| RD2-score03= 61
+| RD2-seed04= 4
+| RD2-team04= '''Indiana'''
+| RD2-score04= '''63'''
+
+| RD2-seed05= 11
+| RD2-team05= Colorado 
+| RD2-score05= 63
+| RD2-seed06= 3
+| RD2-team06= '''Baylor'''
+| RD2-score06= '''80'''
+
+| RD2-seed07= 10
+| RD2-team07= '''Xavier'''
+| RD2-score07= '''70'''
+| RD2-seed08= 15
+| RD2-team08= Lehigh
+| RD2-score08= 58
+
+| RD3-seed01= 1
+| RD3-team01= '''Kentucky'''
+| RD3-score01= '''102'''
+| RD3-seed02= 4
+| RD3-team02= Indiana
+| RD3-score02= 90
+
+| RD3-seed03= 3
+| RD3-team03= '''Baylor'''
+| RD3-score03= '''75'''
+| RD3-seed04= 10
+| RD3-team04= Xavier
+| RD3-score04= 70
+
+| RD4-seed01=1
+| RD4-team01='''Kentucky'''
+| RD4-score01='''82'''
+| RD4-seed02=3
+| RD4-team02=Baylor
+| RD4-score02=70
+}}
+
+====South Regional all-tournament team====
+Regional all-tournament team: '''[[Quincy Acy]]''', Baylor; '''[[Anthony Davis (basketball)|Anthony Davis]]''', Kentucky; '''[[Doron Lamb]]''', Kentucky; '''[[Christian Watford]]''', Indiana.<ref name="SouthAllTournament">{{cite web|url=http://www.cbssports.com/collegebasketball/rapid-reports/post/18045239|title=Three 'Cats on South Regional all-tournament team|publisher=[[CBS Sports]]}}</ref>
+
+Regional most outstanding player: '''[[Michael Kidd-Gilchrist]]''', Kentucky<ref name="SouthAllTournament"/>
+
+===West Regional – Phoenix, Arizona===
+{{16TeamBracket | RD1=Second round<br />March 15–16
+| RD2=Third round<br />March 17–18
+| RD3=Regional semifinals<br />March 22
+| RD4=Regional finals<br />March 24
+| subgroup1= '''[[Nationwide Arena|Columbus]]''' – Fri/Sun
+| subgroup2= '''[[Rose Garden (arena)|Portland]]''' – Thu/Sat
+| subgroup3= '''[[KFC Yum! Center|Louisville]]''' – Thu/Sat
+| subgroup4= '''[[CenturyLink Center Omaha|Omaha]]''' – Fri/Sun
+| RD1-seed01= 1 
+| RD1-team01= '''[[2011–12 Michigan State Spartans men's basketball team|Michigan State]]'''
+| RD1-score01= '''89'''
+| RD1-seed02= 16
+| RD1-team02= [[2011–12 Long Island Blackbirds men's basketball team|Long Island]]
+| RD1-score02= 67
+
+| RD1-seed03= 8
+| RD1-team03= [[2011–12 Memphis Tigers men's basketball team|Memphis]]
+| RD1-score03= 54
+| RD1-seed04= 9
+| RD1-team04= '''[[2011–12 Saint Louis Billikens men's basketball team|Saint Louis]]'''
+| RD1-score04= '''61'''
+
+| RD1-seed05= 5
+| RD1-team05='''[[2011–12 New Mexico Lobos men's basketball team|New Mexico]]'''
+| RD1-score05= '''75'''
+| RD1-seed06=12
+| RD1-team06= [[2011–12 Long Beach State 49ers men's basketball team|Long Beach State]]
+| RD1-score06= 68
+
+| RD1-seed07= '''4'''
+| RD1-team07= '''[[2011–12 Louisville Cardinals men's basketball team|Louisville]]'''
+| RD1-score07= '''69'''
+| RD1-seed08= 13
+| RD1-team08= [[2011–12 Davidson Wildcats men's basketball team|Davidson]]
+| RD1-score08= 62
+
+| RD1-seed09= '''6'''
+| RD1-team09= '''[[2011–12 Murray State Racers men's basketball team|Murray State]]'''
+| RD1-score09= '''58'''
+| RD1-seed10= 11
+| RD1-team10= [[2011–12 Colorado State Rams men's basketball team|Colorado State]]
+| RD1-score10= 41
+
+| RD1-seed11= '''3'''
+| RD1-team11= '''[[2011–12 Marquette Golden Eagles men's basketball team|Marquette]]'''
+| RD1-score11= '''88'''
+| RD1-seed12= 14
+| RD1-team12= [[2011–12 BYU Cougars men's basketball team|BYU]]
+| RD1-score12= 68
+
+| RD1-seed13= 7
+| RD1-team13='''[[2011–12 Florida Gators men's basketball team|Florida]]'''
+| RD1-score13= '''71'''
+| RD1-seed14= 10
+| RD1-team14= [[2011–12 Virginia Cavaliers men's basketball team|Virginia]]
+| RD1-score14= 45
+
+| RD1-seed15= 2
+| RD1-team15= [[2011–12 Missouri Tigers men's basketball team|Missouri]]
+| RD1-score15= 84
+| RD1-seed16= 15
+| RD1-team16= '''[[2011–12 Norfolk State Spartans men's basketball team|Norfolk State]]'''
+| RD1-score16= '''86'''
+
+| RD2-seed01= 1
+| RD2-team01= '''Michigan State'''
+| RD2-score01= '''65'''
+| RD2-seed02= 9
+| RD2-team02= Saint Louis
+| RD2-score02= 61
+
+| RD2-seed03= 5
+| RD2-team03= New Mexico
+| RD2-score03= 56
+| RD2-seed04= 4
+| RD2-team04= '''Louisville'''
+| RD2-score04= '''59'''
+
+| RD2-seed05= 6
+| RD2-team05= Murray State
+| RD2-score05= 53
+| RD2-seed06= 3
+| RD2-team06= '''Marquette'''
+| RD2-score06= '''62'''
+
+| RD2-seed07= 7
+| RD2-team07= '''Florida'''
+| RD2-score07= '''84'''
+| RD2-seed08= 15
+| RD2-team08= Norfolk State
+| RD2-score08= 50
+
+| RD3-seed01= 1
+| RD3-team01= Michigan State
+| RD3-score01= 44
+| RD3-seed02= 4
+| RD3-team02= '''Louisville'''
+| RD3-score02= '''57'''
+
+| RD3-seed03= 3
+| RD3-team03= Marquette
+| RD3-score03= 58
+| RD3-seed04= 7
+| RD3-team04= '''Florida'''
+| RD3-score04= '''68'''
+
+| RD4-seed01= 4
+| RD4-team01= '''Louisville'''
+| RD4-score01= '''72'''
+| RD4-seed02= 7
+| RD4-team02= Florida
+| RD4-score02= 68
+}}
+
+====West Regional all-tournament team====
+Regional all-tournament team: '''[[Bradley Beal]]''', Florida; '''[[Gorgui Dieng]]''', Louisville; '''[[Draymond Green]]''', Michigan State; '''[[Peyton Siva]]''', Louisville.<ref name="WestAllTournament">{{cite web|url=http://www.mlive.com/spartans/index.ssf/2012/03/michigan_states_draymond_green_22.html|title=Michigan State's Draymond Green honored for NCAA tournament performance}}</ref>
+
+Regional most outstanding player: '''[[Chane Behanan]]''', Louisville<ref name="WestAllTournament"/>
+
+===East Regional – Boston, Massachusetts===
+{{16TeamBracket | RD1=Second round<br />March 15–16
+| RD2=Third round<br />March 17–18
+| RD3=Regional semifinals<br />March 22
+| RD4=Regional finals<br />March 24
+| subgroup1= '''[[Consol Energy Center|Pittsburgh]]''' – Thu/Sat
+| subgroup2= '''[[The Pit (arena)|Albuquerque]]''' – Thu/Sat
+| subgroup3= '''[[Bridgestone Arena|Nashville]]''' – Fri/Sun
+| subgroup4= '''[[Consol Energy Center|Pittsburgh]]''' – Thu/Sat
+| RD1-seed01= 1
+| RD1-team01= '''[[2011–12 Syracuse Orange men's basketball team|Syracuse]]'''
+| RD1-score01= '''72''' 
+| RD1-seed02= 16
+| RD1-team02= [[2011–12 UNC Asheville Bulldogs men's basketball team|UNC Asheville]]
+| RD1-score02= 65
+
+| RD1-seed03= 8
+| RD1-team03= '''[[2011–12 Kansas State Wildcats men's basketball team|Kansas State]]'''
+| RD1-score03= '''70'''
+| RD1-seed04= 9
+| RD1-team04= [[2011–12 Southern Miss Golden Eagles basketball team|Southern Miss]]
+| RD1-score04= 64
+
+| RD1-seed05= 5
+| RD1-team05= '''[[2011–12 Vanderbilt Commodores men's basketball team|Vanderbilt]]'''
+| RD1-score05= '''79'''
+| RD1-seed06= 12
+| RD1-team06= [[2011–12 Harvard Crimson men's basketball team|Harvard]]
+| RD1-score06= 70
+
+| RD1-seed07= 4
+| RD1-team07='''[[2011–12 Wisconsin Badgers men's basketball team|Wisconsin]]'''
+| RD1-score07= '''73'''
+| RD1-seed08= 13
+| RD1-team08= [[2011–12 Montana Grizzlies basketball team|Montana]]
+| RD1-score08= 49
+
+| RD1-seed09= 6
+| RD1-team09= '''[[2011–12 Cincinnati Bearcats men's basketball team|Cincinnati]]'''
+| RD1-score09= '''65'''
+| RD1-seed10= 11
+| RD1-team10= [[2011–12 Texas Longhorns men's basketball team|Texas]]
+| RD1-score10= 59
+
+| RD1-seed11= 3
+| RD1-team11='''[[2011–12 Florida State Seminoles men's basketball team|Florida State]]'''
+| RD1-score11= '''66'''
+| RD1-seed12= 14
+| RD1-team12= [[2011–12 St. Bonaventure Bonnies men's basketball team|St. Bonaventure]]
+| RD1-score12= 63
+
+| RD1-seed13= 7
+| RD1-team13= '''[[2011–12 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-score13= '''77'''
+| RD1-seed14= 10
+| RD1-team14= [[2011–12 West Virginia Mountaineers men's basketball team|West Virginia]]
+| RD1-score14= 54
+
+| RD1-seed15= 2
+| RD1-team15= '''[[2011–12 Ohio State Buckeyes men's basketball team|Ohio State]]'''
+| RD1-score15= '''78'''
+| RD1-seed16= 15
+| RD1-team16= [[2011–12 Loyola Greyhounds men's basketball team|Loyola (MD)]]
+| RD1-score16= 59
+
+| RD2-seed01= 1
+| RD2-team01= '''Syracuse'''
+| RD2-score01= '''75'''
+| RD2-seed02= 8
+| RD2-team02= Kansas State
+| RD2-score02= 59
+
+| RD2-seed03= 5
+| RD2-team03= Vanderbilt
+| RD2-score03= 57
+| RD2-seed04= 4
+| RD2-team04= '''Wisconsin'''
+| RD2-score04= '''60'''
+
+| RD2-seed05= 6
+| RD2-team05= '''Cincinnati'''
+| RD2-score05= '''62'''
+| RD2-seed06= 3
+| RD2-team06= Florida State
+| RD2-score06= 56
+
+| RD2-seed07= 7
+| RD2-team07= Gonzaga
+| RD2-score07= 66
+| RD2-seed08= 2
+| RD2-team08= '''Ohio State'''
+| RD2-score08= '''73'''
+
+| RD3-seed01= 1
+| RD3-team01= '''Syracuse'''
+| RD3-score01= '''64'''
+| RD3-seed02= 4
+| RD3-team02= Wisconsin
+| RD3-score02= 63
+
+| RD3-seed03= 6
+| RD3-team03= Cincinnati
+| RD3-score03= 66
+| RD3-seed04= 2
+| RD3-team04= '''Ohio State'''
+| RD3-score04= '''81'''
+
+| RD4-seed01= 1
+| RD4-team01= Syracuse
+| RD4-score01= 70
+| RD4-seed02= 2
+| RD4-team02= '''Ohio State'''
+| RD4-score02= '''77'''
+}}
+
+====East Regional all-tournament team====
+Regional all-tournament team: '''[[Scoop Jardine]]''', Syracuse; '''Lenzelle Smith, Jr.''', Ohio State; '''[[Jordan Taylor (basketball)|Jordan Taylor]]''', Wisconsin; '''[[Deshaun Thomas]]''', Ohio State.<ref name="EastAllTournament">{{cite web|url=http://www.metrowestdailynews.com/sports/pros_and_colleges/x777657317/Ohio-State-77-Syracuse-70-Bucks-don-t-stop-here?zc_p=1|title=Ohio State 77, Syracuse 70: Bucks don't stop here|publisher=[[Metro West Daily News]]}}</ref>
+
+Regional most outstanding player: '''[[Jared Sullinger]]''', Ohio State <ref name="EastAllTournament"/>
+
+===Midwest Regional – St. Louis, Missouri===
+{{16TeamBracket | RD1=Second round<br />March 16
+| RD2=Third round<br />March 18
+| RD3=Regional semifinals<br />March 23
+| RD4=Regional finals<br />March 25
+| subgroup1= '''[[Greensboro Coliseum|Greensboro]]''' – Fri/Sun
+| subgroup2= '''[[Bridgestone Arena|Nashville]]''' – Fri/Sun
+| subgroup3= '''[[Nationwide Arena|Columbus]]''' – Fri/Sun
+| subgroup4= '''[[CenturyLink Center Omaha|Omaha]]''' – Fri/Sun
+| RD1-seed01= 1
+| RD1-team01= '''[[2011–12 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score01= '''77'''
+| RD1-seed02= 16
+| RD1-team02= [[2011–12 Vermont Catamounts men's basketball team|Vermont]]
+| RD1-score02= 58
+
+| RD1-seed03= 8
+| RD1-team03= '''[[2011–12 Creighton Bluejays men's basketball team|Creighton]]'''
+| RD1-score03= '''58'''
+| RD1-seed04= 9
+| RD1-team04= [[2011–12 Alabama Crimson Tide men's basketball team|Alabama]]
+| RD1-score04= 57
+
+| RD1-seed05= 5
+| RD1-team05= [[2011–12 Temple Owls men's basketball team|Temple]]
+| RD1-score05= 44
+| RD1-seed06= 12
+| RD1-team06= '''[[2011–12 South Florida Bulls men's basketball team|South Florida]]'''
+| RD1-score06= '''58'''
+
+| RD1-seed07= 4
+| RD1-team07=[[2011–12 Michigan Wolverines men's basketball team|Michigan]]
+| RD1-score07= 60
+| RD1-seed08= 13
+| RD1-team08= '''[[2011–12 Ohio Bobcats men's basketball team|Ohio]]'''
+| RD1-score08= '''65'''
+
+| RD1-seed09=6
+| RD1-team09= [[2011–12 San Diego State Aztecs men's basketball team|San Diego State]]
+| RD1-score09= 65
+| RD1-seed10= 11
+| RD1-team10= '''[[2011–12 NC State Wolfpack men's basketball team|North Carolina State]]'''
+| RD1-score10= '''79'''
+
+| RD1-seed11= 3
+| RD1-team11= '''[[2011–12 Georgetown Hoyas men's basketball team|Georgetown]]'''
+| RD1-score11= '''74'''
+| RD1-seed12= 14
+| RD1-team12= [[2011–12 Belmont Bruins men's basketball team|Belmont]]
+| RD1-score12= 59
+
+| RD1-seed13= 7
+| RD1-team13=[[2011–12 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+| RD1-score13= 69
+| RD1-seed14= 10
+| RD1-team14= '''[[2011–12 Purdue Boilermakers men's basketball team|Purdue]]'''
+| RD1-score14= '''72'''
+
+| RD1-seed15= 2
+| RD1-team15= '''[[2011–12 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-score15= '''65'''
+| RD1-seed16= 15
+| RD1-team16= [[2011–12 Detroit Titans men's basketball team|Detroit]]
+| RD1-score16= 50
+
+| RD2-seed01= 1
+| RD2-team01= '''North Carolina'''
+| RD2-score01= '''87'''
+| RD2-seed02= 8
+| RD2-team02= Creighton
+| RD2-score02= 73
+
+| RD2-seed03= 12
+| RD2-team03= South Florida
+| RD2-score03= 56
+| RD2-seed04= 13
+| RD2-team04= '''Ohio'''
+| RD2-score04= '''62'''
+
+| RD2-seed05= 11
+| RD2-team05= '''North Carolina State'''
+| RD2-score05= '''66'''
+| RD2-seed06= 3
+| RD2-team06= Georgetown
+| RD2-score06= 63
+
+| RD2-seed07= 10
+| RD2-team07= Purdue
+| RD2-score07= 60
+| RD2-seed08= 2
+| RD2-team08= '''Kansas'''
+| RD2-score08= '''63'''
+
+| RD3-seed01= 1
+| RD3-team01= '''North Carolina'''
+| RD3-score01= '''73*'''
+| RD3-seed02= 13
+| RD3-team02= Ohio
+| RD3-score02= 65
+
+| RD3-seed03= 11
+| RD3-team03= North Carolina State
+| RD3-score03= 57
+| RD3-seed04= 2
+| RD3-team04= '''Kansas'''
+| RD3-score04= '''60'''
+
+| RD4-seed01= 1
+| RD4-team01= North Carolina
+| RD4-score01= 67
+| RD4-seed02= 2
+| RD4-team02= '''Kansas'''
+| RD4-score02= '''80'''
+}}
+
+====Midwest Regional all-tournament team====
+Regional all-tournament team: '''Walter Offutt''', Ohio; '''[[Tyshawn Taylor]]''', Kansas; '''[[Jeff Withey]]''', Kansas; '''[[Tyler Zeller]]''', North Carolina.<ref name="MidwestAllTournament">{{cite web|url=http://www.kansascity.com/2012/03/25/3513177/robinson-the-biggest-of-kus-big.html|title=Robinson the biggest of KU's big guys|publisher=[[Kansas City Star]]}}</ref>
+
+Regional most outstanding player: '''[[Thomas Robinson (basketball)|Thomas Robinson]]''', Kansas <ref name="MidwestAllTournament"/>
+
+===Final Four – Mercedes-Benz Superdome, New Orleans, Louisiana===
+{{4TeamBracket
+| RD1=National Semifinals<br />March 31
+| RD2=National Championship Game<br />April 2
+| score-width=25
+| team-width=130
+| RD1-seed1= S1
+| RD1-team1= '''Kentucky'''
+| RD1-score1= '''69'''
+| RD1-seed2= W4
+| RD1-team2= Louisville
+| RD1-score2= 61
+| RD1-seed3= E2
+| RD1-team3= Ohio State
+| RD1-score3= 62
+| RD1-seed4= MW2
+| RD1-team4= '''Kansas'''
+| RD1-score4= '''64'''
+| RD2-seed1= S1
+| RD2-team1= '''Kentucky'''
+| RD2-score1= '''67'''
+| RD2-seed2= MW2
+| RD2-team2= Kansas
+| RD2-score2= 59
+}}
+
+====Final Four all-tournament team====
+Final Four all-tournament team:<ref name="all team">http://www.cbssports.com/collegebasketball/story/18255833/ncaa-alltournament-teams</ref> '''Anthony Davis''', Kentucky; '''Michael Kidd-Gilchrist''', Kentucky; '''Doron Lamb''', Kentucky; '''Thomas Robinson''', Kansas; '''Tyshawn Taylor''', Kansas
+
+Final Four most outstanding player:<ref name="all team" /> '''Anthony Davis''', Kentucky
+
+==Game summaries==
+
+===Final Four===
+{{basketballbox
+ | bg = #ffdead
+ | date = March 31
+ | time = 6:09&nbsp;pm
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2012/03/31/louisville-kentucky Recap]
+ | team1 = Louisville Cardinals
+ | score1 = 61
+ | team2 = '''Kentucky Wildcats'''
+ | score2 = '''69'''
+ | H1 = 28–35
+ | H2 = 33–34
+ | points1 = [[Peyton Siva|P. Siva]] 11
+ | rebounds1 = [[Gorgui Dieng|G. Dieng]] 12
+ | assist1 = P. Siva 3
+ | otherstat1 = 
+ | points2 = [[Anthony Davis (basketball)|A. Davis]] 18
+ | rebounds2 = A. Davis 14
+ | assist2 = [[Marquis Teague|M. Teague]] 5
+ | otherstat2 = 
+ | place = Mercedes-Benz Superdome – New Orleans, LA
+ | attendance = 
+ | referee = 
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 31
+ | time = 9:05&nbsp;pm
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2012/03/31/ohio-st-kansas Recap]
+ | team1 = Ohio State Buckeyes
+ | score1 = 62
+ | team2 = '''Kansas Jayhawks'''
+ | score2 = '''64'''
+ | H1 = 34–25
+ | H2 = 28–39
+ | points1 = [[William Buford|W. Buford]] 19
+ | rebounds1 = [[Jared Sullinger|J. Sullinger]] 11
+ | assist1 = [[Aaron Craft|A. Craft]] 3
+ | otherstat1 = 
+ | points2 = [[Thomas Robinson (basketball)|T. Robinson]] 18
+ | rebounds2 = E. Johnson 10
+ | assist2 = [[Tyshawn Taylor|T. Taylor]] 9
+ | otherstat2 = 
+ | place = Mercedes-Benz Superdome – New Orleans, LA
+ | attendance = 
+ | referee = 
+ | TV = CBS
+|Full Game Stats=http://www.ohiostatebuckeyes.com/sports/m-baskbl/stats/2011-2012/ncaa02.html}}
+
+===National Championship===
+{{main|2012 NCAA Men's Division I Basketball Championship Game}}
+{{basketballbox
+ | bg = #ffdead
+ | date = April 2
+ | time = 9:23&nbsp;pm
+ | report = [http://espn.go.com/ncb/recap?gameId=320930096 Recap], [http://espn.go.com/ncb/boxscore?gameId=320930096 Box&nbsp;score]
+ | team1 = Kansas Jayhawks
+ | score1 = 59
+ | team2 = '''Kentucky Wildcats'''
+ | score2 = '''67'''
+ | H1 = 27–41
+ | H2 = 32–26
+ | points1 = [[Tyshawn Taylor|T. Taylor]] 19
+ | rebounds1 = [[Thomas Robinson (basketball)|T. Robinson]] 17
+ | assist1 = T. Taylor 3
+ | otherstat1 = 
+ | points2 = [[Doron Lamb|D. Lamb]] 22
+ | rebounds2 = [[Anthony Davis (basketball)|A. Davis]] 16
+ | assist2 = A. Davis 5
+ | otherstat2 = 
+ | place = Mercedes-Benz Superdome – New Orleans, LA
+ | attendance = 70,913
+ | referee = Verne Harris, Mark Whitehead, Mike Stuart
+ | TV = CBS
+}}
+[[File:UK National Championship Celebration.jpg|thumb|right|Kentucky celebrating their 2012 NCAA Championship]]
+
+==Record by conference==
+{|class="wikitable sortable"
+|-
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|# of Bids
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Win %
+!style="background: #e3e3e3;"|R64
+!style="background: #e3e3e3;"|R32
+!style="background: #e3e3e3;"|S16
+!style="background: #e3e3e3;"|E8
+!style="background: #e3e3e3;"|F4
+!style="background: #e3e3e3;"|CG
+!style="background: #e3e3e3;"|NC
+|- style="text-align:center;"
+|align="left"| [[2011–12 Southeastern Conference men's basketball season|SEC]]
+| 4
+| 10–3
+| {{winpct|10|3}}
+| 4
+| 3
+| 2
+| 2
+| 1
+| 1
+| 1
+|- style="text-align:center;"
+|align="left"| [[2011–12 Big 12 Conference men's basketball season|Big 12]]
+| 6
+| 10–6
+| {{winpct|10|6}}
+| 6
+| 4
+| 2
+| 2
+| 1
+| 1
+| 0
+|- style="text-align:center;"
+|align="left"| [[2011–12 Big Ten Conference men's basketball season|Big Ten]]
+| 6
+| 11–6
+| {{winpct|11|6}}
+| 6
+| 5
+| 4
+| 1
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[2011–12 Big East Conference men's basketball season|Big East]]
+| 9
+| 14–9
+| {{winpct|14|9}}
+| 9
+| 6
+| 4
+| 2
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[2011–12 Atlantic Coast Conference men's basketball season|ACC]]
+| 5
+| 6–5
+| {{winpct|6|5}}
+| 5
+| 3
+| 2
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[2011–12 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+| 4
+| 3–4
+| {{winpct|3|4}}
+| 4
+| 2
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Mid-American Conference|MAC]]
+| 1
+| 2–1
+| {{winpct|2|1}}
+| 1
+| 1
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Mountain West Conference|Mountain West]]
+| 4
+| 1–4
+| {{winpct|1|4}}
+| 4
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[2011–12 West Coast Conference men's basketball season|WCC]]
+| 3
+| 2–3
+| {{winpct|2|3}}
+| 3
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Missouri Valley Conference|MVC]]
+| 2
+| 1–2
+| {{winpct|1|2}}
+| 2
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[2011–12 Colonial Athletic Association men's basketball season|CAA]]
+| 1
+| 1–1
+| {{winpct|1|1}}
+| 1
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Mid-Eastern Athletic Conference|MEAC]]
+| 1
+| 1–1
+| {{winpct|1|1}}
+| 1
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Ohio Valley Conference|OVC]]
+| 1
+| 1–1
+| {{winpct|1|1}}
+| 1
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Patriot League|Patriot]]
+| 1
+| 1–1
+| {{winpct|1|1}}
+| 1
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[2011–12 Pac-12 Conference men's basketball season|Pac-12]]
+| 2
+| 1–2
+| {{winpct|1|2}}
+| 1
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[2011–12 Conference USA men's basketball season|C-USA]]
+| 2
+| 0–2
+| {{winpct|0|2}}
+| 2
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Metro Atlantic Athletic Conference|MAAC]]
+| 2
+| 0–2
+| {{winpct|0|2}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[America East Conference|America East]]
+| 1
+| 1–1
+| {{winpct|1|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Sun Belt Conference|Sun Belt]]
+| 1
+| 1–1
+| {{winpct|1|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Atlantic Sun Conference|Atlantic Sun]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Big Sky Conference|Big Sky]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Big South Conference|Big South]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Big West Conference|Big West]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Horizon League|Horizon]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[2011–12 Ivy League men's basketball season|Ivy]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Northeast Conference|NEC]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Southern Conference|Southern]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Summit League|Summit]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Western Athletic Conference|WAC]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 1
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Southland Conference|Southland]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|- style="text-align:center;"
+|align="left"| [[Southwestern Athletic Conference|SWAC]]
+| 1
+| 0–1
+| {{winpct|0|1}}
+| 0
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+| {{sort|-1|&ndash;}}
+|}
+*The R64, R32, S16, E8, F4, CG, and NC columns indicate how many teams from each conference were in the round of 64 (second round), round of 32 (third round), Sweet 16, Elite Eight, Final Four, championship game, and national champion, respectively.
+
+==Media==
+{{refimprove section|date=March 2012}}
+
+===Television===
+2012 marked the second year of a 14-year partnership between [[CBS Sports]] and [[Turner Broadcasting]] cable networks [[TBS (U.S. TV channel)|TBS]], [[TNT (U.S. TV network)|TNT]] and [[truTV]] to cover the entire tournament under the ''[[NCAA March Madness (CBS/Turner)|NCAA March Madness]]'' banner. CBS aired the Final Four and championship rounds for the 31st consecutive year.
+
+====Studio hosts====
+*[[Greg Gumbel]] (New York City and New Orleans) – Second Round, Third Round, Regionals, Final Four and National Championship Game
+*[[Ernie Johnson Jr.]] (New York City and Atlanta) – First Four, Second Round, Third Round and Regional Semi-Finals
+*[[Matt Winer]] (Atlanta) – First Four, Second Round and Third Round
+<ref>{{cite web|url=http://sportsmediajournal.com/category/television/page/8/ |title=Television &#124; Sports Media Journal &#124; Page 8 |publisher=Sports Media Journal |date= |accessdate=2012-03-30}}</ref>
+
+====Studio analysts====
+*[[Greg Anthony]] (New York City and New Orleans) – First Four, Second Round, Third Round, Regionals, Final Four and National Championship Game
+*[[Charles Barkley]] (New York City and New Orleans) – First Four, Second Round, Third Round, Regionals, Final Four and National Championship Game
+*[[Mike Brey]] (Atlanta) – Third Round
+*[[Seth Davis]] (Atlanta and New Orleans) – First Four, Second Round, Third Round, Regional Semi-Finals, Final Four and National Championship Game
+*[[Steve Lavin]] (New York City) – Third Round
+*[[Frank Martin (basketball)|Frank Martin]] (New York City) – Regional Finals
+*[[Shaka Smart]] (Atlanta) – Regional Semi-Finals
+*[[Kenny Smith]] (New York City and New Orleans) – First Four, Second Round, Third Round, Regionals, Final Four and National Championship Game
+*[[Steve Smith (basketball)|Steve Smith]] (Atlanta) – First Four, Second Round, Third Round and Regional Semi-Finals
+*[[Jay Wright (basketball)|Jay Wright]] (Atlanta) – First Four and Second Round
+<ref>{{cite web|url=http://staatalent.com/2012/headlines/ncaa-tourney-tv-teams-announced/ |title=NCAA Tourney TV teams announced &#124; Sportscasters Talent Agency of America |publisher=Staatalent.com |date=2012-02-23 |accessdate=2012-03-30}}</ref>
+
+====Announcing teams====
+*[[Jim Nantz]]/[[Clark Kellogg]]/[[Steve Kerr]]/[[Tracy Wolfson]] – First Four at Dayton, Ohio; Second and Third Round at Greensboro, North Carolina; South Regionals at Atlanta, Georgia; Final Four at New Orleans, Louisiana<br />''Kerr joined Nantz and Kellogg during the First Four, Final Four, and National Championship games''
+*[[Marv Albert]]/[[Steve Kerr]]/[[Craig Sager]] – Second and Third Round at Omaha, Nebraska; Midwest Regionals at St. Louis, Missouri
+*[[Verne Lundquist]]/[[Bill Raftery]]/[[Lesley Visser]] – Second and Third Round at Louisville, Kentucky; East Regionals at Boston, Massachusetts
+*[[Kevin Harlan]]/[[Len Elmore]]/[[Reggie Miller]]/[[Marty Snider]] – Second and Third Round at Pittsburgh, Pennsylvania; West Regionals at Phoenix, Arizona
+*[[Ian Eagle]]/[[Jim Spanarkel]]/[[Lewis Johnson]] – First Four at Dayton, Ohio; Second and Third Round at Nashville, Tennessee
+*[[Brian Anderson (broadcaster)|Brian Anderson]]/[[Dan Bonner]]/[[Jenn Hildreth]] – Second and Third Round at Portland, Oregon
+*[[Tim Brando]]/[[Mike Gminski]]/[[Otis Livingston]] – Second and Third Round at Columbus, Ohio
+*[[Spero Dedes]]/[[Bob Wenzel]]/[[Jaime Maggio]] – Second and Third Round at Albuquerque, New Mexico
+<ref>{{cite web|url=http://sportsmediajournal.com/2012/03/12/ncaa-mens-division-i-basketball-tourney-schedule-with-announcer-assignments/ |title=NCAA Men's Division I Basketball Tourney Schedule with Announcer Assignments |publisher=Sports Media Journal |date=2012-03-12 |accessdate=2012-03-30}}</ref><ref>{{cite news|url=http://content.usatoday.com/communities/gameon/post/2012/03/CBSTurner-NCAA-basketball-announcer-gigs-for-Sweet-16-650634/1#.T22UY2Hy9Cc |title=CBS/Turner NCAA basketball announcer gigs for Sweet 16 |publisher=Content.usatoday.com |date=2012-03-19 |accessdate=2012-03-30}}</ref><ref>{{cite news|url=http://www.huffingtonpost.com/2012/03/11/ncaa-tournament-2012-schedule-first-second-rounds_n_1338171.html |title=NCAA Tournament 2012 Schedule: Times, Announcers For First And Second Games |publisher=Huffingtonpost.com |date= March 11, 2012|accessdate=2012-03-30 |first=Chris |last=Greenberg}}</ref><ref>{{cite web|url=http://sportsmediajournal.com/category/television/page/4/ |title=Television &#124; Sports Media Journal &#124; Page 4 |publisher=Sports Media Journal |date= |accessdate=2012-03-30}}</ref><ref>{{cite web|url=http://sportsmediajournal.com/category/television/page/5/ |title=Television &#124; Sports Media Journal &#124; Page 5 |publisher=Sports Media Journal |date= |accessdate=2012-03-30}}</ref>
+
+====Number of games per network====
+* CBS: 26
+* TBS: 16
+* TruTV: 13
+* TNT: 12
+
+===Radio===
+[[Westwood One (1976–2011)|Dial Global Sports]] (formerly Westwood One<ref>{{cite press release
+ | title = A New Name on the Airwaves
+ | publisher = Dial Global Sports Inc.
+ | date = January 5, 2012
+ | url = http://dialglobalsports.com/2012/01/a-new-name-on-the-airwaves/
+ | accessdate = March 11, 2012 }}</ref>) and [[SiriusXM]]  have live broadcasts of all 67 games.<ref>{{cite press release
+ | title = SiriusXM Offers Every Game Of The 2012 NCAA Division I Men's Basketball Championship
+ | publisher = SiriusXM Radio Inc.
+ | date = March 8, 2012
+ | url = http://www.prnewswire.com/news-releases/siriusxm-offers-every-game-of-the-2012-ncaa-division-i-mens-basketball-championship-141906283.html
+ | accessdate = March 11, 2012 }}</ref>
+
+====First Four====
+*[[Dave Ryan (sportscaster)|Dave Ryan]] and [[Alaa Abdelnaby]] – at Dayton, Ohio
+
+====Second and Third Round====
+*[[Kevin Calabro]] and [[Bill Frieder]] – Second and Third Round at Portland, Oregon
+*[[Dave Sims]] and [[Michael Cage]] – Second and Third Round at Albuquerque, New Mexico
+*[[Scott Graham]] and [[Kevin Grevey]] – Second and Third Round at Pittsburgh, Pennsylvania
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Kyle Macy]] – Second and Third Round at Louisville, Kentucky
+*[[Wayne Larrivee]] and [[John Thompson (basketball)|John Thompson]] – Second and Third Round at Columbus, Ohio
+*[[Kevin Kugler]] and [[Tom Brennan (basketball coach)|Tom Brennan]] – Second and Third Round at Omaha, Nebraska
+*[[Brad Sham]] and [[Pete Gillen]] – Second and Third Round at Nashville, Tennessee
+*[[Gary Cohen]] and [[Reid Gettys]] – Second and Third Round at Greensboro, North Carolina
+<ref>http://www.awfulannouncing.com/2012-articles/march/your-first-a-second-round-ncaa-tournament-announcing-schedule.html</ref>
+
+====Regionals====
+*Kevin Kugler and Pete Gillen – East Regional at Boston, Massachusetts
+*Wayne Larrivee and [[Fran Fraschilla]] – Midwest Regional at St. Louis, Missouri
+*[[Ian Eagle]] and John Thompson – South Regional at Atlanta, Georgia
+*Dave Sims and Bill Frieder – West Regional at Phoenix, Arizona
+
+====Final Four====
+*Kevin Kugler, John Thompson and [[Bill Raftery]] – New Orleans, Louisiana
+
+==Courts==
+All tournament sites continued to use the uniform courts that were first introduced tournament-wide in 2010, except for a slight variation at the East Regionals in [[Boston]] at the [[TD Garden]], where a [[parquet floor]] court pattern similar to that used by the hometown [[Boston Celtics]] was used.
+
+==See also==
+* [[2012 NCAA Division II Men's Basketball Tournament]]
+* [[2012 NCAA Division III Men's Basketball Tournament]]
+* [[2012 NCAA Division I Women's Basketball Tournament]]
+* [[2012 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|2012 NCAA Division III Women's Basketball Tournament]]
+* [[2012 National Invitation Tournament]]
+* [[2012 Women's National Invitation Tournament]]
+* [[2012 NAIA Division I Men's Basketball Tournament]]
+* [[2012 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2012 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2012 NAIA Division II Women's Basketball Tournament]]
+* [[2012 College Basketball Invitational]]
+* [[2012 CollegeInsider.com Postseason Tournament]]
+
+==References==
+{{reflist|30em}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2012 NCAA Division I men's basketball tournament navbox}}
+{{2012 Kentucky Wildcats men's basketball navbox}}
+{{2011-12 NCAA Division I championships}}
+
+[[Category:2011–12 NCAA Division I men's basketball season|   ]]
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:Basketball in New Orleans]]
+[[Category:Sports competitions in New Orleans|Basketball]]
+[[Category:2012 in sports in Louisiana|NCAA Men's Division I Basketball Tournament]]
+[[Category:Sports in Portland, Oregon]]
+[[Category:Mercedes-Benz Superdome]]

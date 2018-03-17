@@ -1,0 +1,1607 @@
+{{Infobox NCAA Basketball Tournament |
+| Year=1989
+| Image=
+| ImageSize=
+| Caption=
+| Teams=64
+| FinalFourArena=[[Kingdome]]
+| FinalFourCity=[[Seattle]], [[Washington (state)|Washington]]
+| Champions=[[1988–89 Michigan Wolverines men's basketball team|Michigan]]
+| TitleCount=1st
+| ChampGameCount=3rd
+| ChampFFCount=4th
+| RunnerUp=[[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]]
+| GameCount=1st
+| RunnerFFCount=1st
+| Semifinal1=[[1988–89 Duke Blue Devils men's basketball team|Duke]]
+| FinalFourCount=7th
+| Semifinal2=[[1988–89 Illinois Fighting Illini men's basketball team|Illinois]]
+| FinalFourCount2=4th
+| Coach=[[Steve Fisher]]
+| CoachCount=1st
+| MOP=[[Glen Rice]]
+| MOPTeam=Michigan
+| Attendance=613,242
+| OneTopScorer=*
+| TwoTopScorers=
+| TopScorer=Glen Rice
+| TopScorerTeam=Michigan
+| Points=184
+}}
+The '''1989 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 16, 1989, and ended with the [[1989 NCAA Men's Division I Basketball Championship Game|championship game]] on April 3 in [[Seattle]]. A total of 63 games were played.
+
+[[1988–89 Michigan Wolverines men's basketball team|Michigan]], coached by [[Steve Fisher]], won the national title with an 80–79 overtime victory in the final game over [[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]], coached by [[P. J. Carlesimo]]. [[Glen Rice]] of Michigan set an NCAA tournament record by scoring 184 points in six games and was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+
+Just prior to the start of this tournament, Michigan coach [[Bill Frieder]] had announced that he would accept the head coaching position at [[Arizona State University]] at the end of the season. Michigan athletic director [[Bo Schembechler]] promptly fired Frieder and appointed top assistant Fisher as interim coach, stating famously, that "a Michigan man is going to coach a Michigan team."
+
+Two 16-seeded teams came within one point of victory in the first round, and a third came within six points. This tournament was also unusual in that all four 11-seeds advanced out of the first round.
+
+The 1989 Tournament was the second one since 1980, with [[1987 NCAA Men's Division I Basketball Tournament|1987]] being the first, in which the defending national champion did not participate in the tournament. [[Kansas Jayhawks men's basketball|Kansas]], winner of the [[1988 NCAA Men's Division I Basketball Tournament|1988 NCAA title]], had been placed on probation for violations committed by former coach [[Larry Brown (basketball)|Larry Brown]] and was barred from the tournament. Brown left Kansas immediately after winning the national championship to return to coaching in the [[National Basketball Association|NBA]] with the [[San Antonio Spurs]], leaving first-year coach [[Roy Williams (coach)|Roy Williams]]<!--Please do not add things like "To clean up the mess" to this page, such phrases are in violation of wikipedia policy--> to coach the team. It is the only time the Jayhawks have missed the NCAA tournament between 1984 and 2017. The defending champion would not be left out of the next year's tournament again until [[2008 NCAA Men's Division I Basketball Tournament|2008]]. The tournament was notable for the poor performance of the SEC conference.  With traditional stalwart Kentucky missing the postseason after experiencing its first losing season since 1927, none of the five SEC teams represented won its opening round game, hardly a performance expected by a purported power conference.
+
+==Locations==
+{{Location map+|USA|width=450|float=right|caption=1989 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=bottom|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=bottom|background=#FFFFFF|label=Indianapolis|link=Hoosier Dome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.780262|lon_deg=-96.800978|position=right|background=#FFFFFF|label=Dallas|link=Reunion Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.823989|lon_deg=-71.412834|position=top|background=#FFFFFF|label=Providence|link=Dunkin' Donuts Center|Providence Civic Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.072635|lon_deg=-79.791975|position=bottom|background=#FFFFFF|label=Greensboro|link=Greensboro Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.162664|lon_deg=-86.781602|position=left|background=#FFFFFF|label=Nashville|link=Memorial Gymnasium (Vanderbilt University)|Memorial Gymnasium}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.221743|lon_deg=-110.926479|position=bottom|background=#FFFFFF|label=Tucson|link=McKale Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.618710|lon_deg=-116.214607|position=top|background=#FFFFFF|label=Boise|link=Taco Bell Arena|BSU Pavilion}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=1989 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.738436|lon_deg=-104.984859|position=bottom|background=#FFFFFF|label=Denver|link=McNichols Sports Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.040584|lon_deg=-84.503716|position=bottom|background=#FFFFFF|label=Lexington|link=Rupp Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=44.976154|lon_deg=-93.267431|position=bottom|background=#FFFFFF|label=Minneapolis|link=Hubert H. Humphrey Metrodome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.952584|lon_deg=-74.097086|position=bottom|background=#FFFFFF|label=E. Rutherford|link=Izod Center|Meadowlands Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=47.606209|lon_deg=-122.332071|position=bottom|background=#FFFFFF|label=Seattle|link=Kingdome}}
+}}
+
+===First & Second Rounds===
+{| class="wikitable"
+! Region !! Site !! Venue
+|-
+! rowspan="2" | East
+|[[Greensboro, North Carolina]]
+|[[Greensboro Coliseum Complex|Greensboro Coliseum]]
+|-
+|[[Providence, Rhode Island]]
+|[[Dunkin' Donuts Center|Providence Civic Center]]
+|-
+! rowspan="2" | Midwest
+|[[Dallas|Dallas, Texas]]
+|[[Reunion Arena]]
+|-
+|[[Indianapolis|Indianapolis, Indiana]]
+|[[Hoosier Dome]]
+|-
+! rowspan="2" | Southeast
+|[[Atlanta|Atlanta, Georgia]]
+|[[Omni Coliseum]]
+|-
+|[[Nashville, Tennessee]]
+|[[Memorial Gymnasium (Vanderbilt University)|Memorial Gymnasium]]
+|-
+! rowspan="2" | West
+|[[Boise, Idaho]]
+|[[BSU Pavilion]]
+|-
+|[[Tucson, Arizona]]
+|[[McKale Center]]
+|}
+
+===Regional Sites and Final Four===
+{| class="wikitable"
+! Region !! Site !! Venue
+|-
+| '''East''' 
+|[[East Rutherford, New Jersey]]
+|[[Meadowlands Arena|Brendan Byrne Arena]]
+|-
+| '''Midwest'''
+|[[Minneapolis|Minneapolis, Minnesota]]
+|[[Hubert H. Humphrey Metrodome]]
+|-
+| '''Southeast'''
+|[[Lexington, Kentucky]]
+|[[Rupp Arena]]
+|-
+| '''West'''
+|[[Denver|Denver, Colorado]]
+|[[McNichols Sports Arena]]
+|-
+| '''Final Four'''
+|[[Seattle|Seattle, Washington]]
+|[[Kingdome|The Kingdome]]
+|}
+
+The Kingdome was the host city of the Final Four for the second time in six years. Once again, all four venues in the regional rounds were former or future Final Four venues. For the first time since 1964, there were no new host cities or venues used for the tournament. Additionally, no venues were retired after this year.
+
+==Teams==
+{| class=wikitable
+! Region !! Seed !! Team !! Coach !! Finished !! Final Opponent !! Score
+|-
+! colspan=7 | East
+|-
+| East || 1|| [[1988–89 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Regional Runner-up||2 [[1988–89 Duke Blue Devils men's basketball team|Duke]]||L 85–77
+|-
+| East || 2|| [[1988–89 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || Final Four||3 [[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]]||L 95–78
+|-
+| East || 3|| [[Stanford Cardinal men's basketball|Stanford]] || [[Mike Montgomery]] || Round of 64||14 [[Siena Saints men's basketball|Siena]]||L 80–78
+|-
+| East || 4|| [[1988–89 Iowa Hawkeyes men's basketball team|Iowa]] || [[Tom Davis (basketball, born 1938)|Tom Davis]] || Round of 32||5 [[NC State Wolfpack men's basketball|NC State]]||L 102–96
+|-
+| East || 5|| [[NC State Wolfpack men's basketball|NC State]] || [[Jim Valvano]] || Sweet Sixteen||1 [[1988–89 Georgetown Hoyas men's basketball team|Georgetown]]||L 69–61
+|-
+| East || 6|| [[Kansas State Wildcats men's basketball|Kansas State]] || [[Lon Kruger]] || Round of 64||11 [[Minnesota Golden Gophers men's basketball|Minnesota]]||L 86–75
+|-
+| East || 7|| [[West Virginia Mountaineers men's basketball|West Virginia]] || [[Gale Catlett]] || Round of 32||2 [[1988–89 Duke Blue Devils men's basketball team|Duke]]||L 70–63
+|-
+| East || 8|| [[Vanderbilt Commodores men's basketball|Vanderbilt]] || [[C. M. Newton]] || Round of 64||9 [[Notre Dame Fighting Irish men's basketball|Notre Dame]]||L 81–65
+|-
+| East || 9|| [[Notre Dame Fighting Irish men's basketball|Notre Dame]] || [[Digger Phelps]] || Round of 32||1 [[1988–89 Georgetown Hoyas men's basketball team|Georgetown]]||L 81–74
+|-
+| East || 10|| [[Tennessee Volunteers basketball|Tennessee]] || [[Don DeVoe]] || Round of 64||7 [[West Virginia Mountaineers men's basketball|West Virginia]]||L 84–68
+|-
+| East || 11|| [[Minnesota Golden Gophers men's basketball|Minnesota]] || [[Clem Haskins]] || Sweet Sixteen||2 [[1988–89 Duke Blue Devils men's basketball team|Duke]]||L 87–70
+|-
+| East || 12|| [[South Carolina Gamecocks men's basketball|South Carolina]] || [[George Felton]] || Round of 64||5 [[NC State Wolfpack men's basketball|NC State]]||L 81–66
+|-
+| East || 13|| [[Rutgers Scarlet Knights men's basketball|Rutgers]] || [[Bob Wenzel]] || Round of 64||4 [[1988–89 Iowa Hawkeyes men's basketball team|Iowa]]||L 87–73
+|-
+| East || 14|| [[Siena Saints men's basketball|Siena]] || [[Mike Deane]] || Round of 32||11 [[Minnesota Golden Gophers men's basketball|Minnesota]]||L 80–67
+|-
+| East || 15|| [[South Carolina State Bulldogs basketball|South Carolina State]] || [[Cy Alexander]] || Round of 64||2 [[1988–89 Duke Blue Devils men's basketball team|Duke]]||L 90–69
+|-
+| East || 16|| [[1988–89 Princeton Tigers men's basketball team|Princeton]] || [[Pete Carril]] || Round of 64||1 [[1988–89 Georgetown Hoyas men's basketball team|Georgetown]]||L 50–49
+|-
+! colspan=7 | Midwest 
+|-
+| Midwest || 1|| [[1988–89 Illinois Fighting Illini men's basketball team|Illinois]] || [[Lou Henson]] || Final Four||3 [[1988–89 Michigan Wolverines men's basketball team|Michigan]]||L 83–81
+|-
+| Midwest || 2|| [[Syracuse Orange men's basketball|Syracuse]] || [[Jim Boeheim]] || Regional Runner-up||1 [[1988–89 Illinois Fighting Illini men's basketball team|Illinois]]||L 89–86
+|-
+| Midwest || 3|| [[Missouri Tigers men's basketball|Missouri]] || [[Norm Stewart]] || Sweet Sixteen||2 [[Syracuse Orange men's basketball|Syracuse]]||L 83–80
+|-
+| Midwest || 4|| [[1988–89 Louisville Cardinals men's basketball team|Louisville]] || [[Denny Crum]] || Sweet Sixteen||1 [[1988–89 Illinois Fighting Illini men's basketball team|Illinois]]||L 83–69
+|-
+| Midwest || 5|| [[Arkansas Razorbacks men's basketball|Arkansas]] || [[Nolan Richardson]] || Round of 32||4 [[1988–89 Louisville Cardinals men's basketball team|Louisville]]||L 93–84
+|-
+| Midwest || 6|| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] || [[Bobby Cremins]] || Round of 64||11 [[Texas Longhorns men's basketball|Texas]]||L 76–70
+|-
+| Midwest || 7|| [[Florida Gators men's basketball|Florida]] || [[Norm Sloan]] || Round of 64||10 [[Colorado State Rams men's basketball|Colorado State]]||L 68–46
+|-
+| Midwest || 8|| [[Pittsburgh Panthers men's basketball|Pittsburgh]] || [[Paul Evans (basketball coach)|Paul Evans]] || Round of 64||9 [[Ball State Cardinals men's basketball|Ball State]]||L 68–64
+|-
+| Midwest || 9|| [[Ball State Cardinals men's basketball|Ball State]] || [[Rick Majerus]] || Round of 32||1 [[1988–89 Illinois Fighting Illini men's basketball team|Illinois]]||L 72–60
+|-
+| Midwest || 10|| [[Colorado State Rams men's basketball|Colorado State]] || [[Boyd Grant]] || Round of 32||2 [[Syracuse Orange men's basketball|Syracuse]]||L 65–50
+|-
+| Midwest || 11|| [[Texas Longhorns men's basketball|Texas]] || [[Tom Penders]] || Round of 32||3 [[Missouri Tigers men's basketball|Missouri]]||L 108–89
+|-
+| Midwest || 12|| [[1988–89 Loyola Marymount Lions men's basketball team|Loyola Marymount]] || [[Paul Westhead]] || Round of 64||5 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 120–101
+|-
+| Midwest || 13|| [[Little Rock Trojans men's basketball|Arkansas–Little Rock]] || [[Mike Newell (basketball)|Mike Newell]] || Round of 64||4 [[1988–89 Louisville Cardinals men's basketball team|Louisville]]||L 76–71
+|-
+| Midwest || 14|| [[Creighton Bluejays men's basketball|Creighton]] || [[Tony Barone]] || Round of 64||3 [[Missouri Tigers men's basketball|Missouri]]||L 85–69
+|-
+| Midwest || 15|| [[Bucknell Bison men's basketball|Bucknell]] || [[Charlie Woollum]] || Round of 64||2 [[Syracuse Orange men's basketball|Syracuse]]||L 104–81
+|-
+| Midwest || 16|| [[McNeese State Cowboys basketball|McNeese State]] || [[Steve Welch (basketball)|Steve Welch]] || Round of 64||1 [[1988–89 Illinois Fighting Illini men's basketball team|Illinois]]||L 77–71
+|-
+! colspan=7 | Southeast 
+|-
+| Southeast || 1|| [[1988–89 Oklahoma Sooners men's basketball team|Oklahoma]] || [[Billy Tubbs]] || Sweet Sixteen||5 [[Virginia Cavaliers men's basketball|Virginia]]||L 86–80
+|-
+| Southeast || 2|| [[North Carolina Tar Heels men's basketball|North Carolina]] || [[Dean Smith]] || Sweet Sixteen||3 [[1988–89 Michigan Wolverines men's basketball team|Michigan]]||L 92–87
+|-
+| Southeast || 3|| [[1988–89 Michigan Wolverines men's basketball team|Michigan]] || [[Steve Fisher]] || '''Champion'''||3 [[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]]||W 80–79
+|-
+| Southeast || 4|| [[Florida State Seminoles men's basketball|Florida State]] || [[Pat Kennedy]] || Round of 64||13 [[Middle Tennessee Blue Raiders men's basketball|Middle Tennessee State]]||L 97–83
+|-
+| Southeast || 5|| [[Virginia Cavaliers men's basketball|Virginia]] || [[Terry Holland]] || Regional Runner-up||3 [[1988–89 Michigan Wolverines men's basketball team|Michigan]]||L 102–65
+|-
+| Southeast || 6|| [[Alabama Crimson Tide men's basketball|Alabama]] || [[Wimp Sanderson]] || Round of 64||11 [[South Alabama Jaguars men's basketball|South Alabama]]||L 86–84
+|-
+| Southeast || 7|| [[1988–89 UCLA Bruins men's basketball team|UCLA]] || [[Jim Harrick]] || Round of 32||2 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 88–81
+|-
+| Southeast || 8|| [[La Salle Explorers men's basketball|La Salle]] || [[Speedy Morris]] || Round of 64||9 [[Louisiana Tech Bulldogs basketball|Louisiana Tech]]||L 83–74
+|-
+| Southeast || 9|| [[Louisiana Tech Bulldogs basketball|Louisiana Tech]] || [[Tommy Joe Eagles]] || Round of 32||1 [[1988–89 Oklahoma Sooners men's basketball team|Oklahoma]]||L 124–81
+|-
+| Southeast || 10|| [[Iowa State Cyclones men's basketball|Iowa State]] || [[Johnny Orr (basketball, born 1927)|Johnny Orr]] || Round of 64||7 [[1988–89 UCLA Bruins men's basketball team|UCLA]]||L 84–74
+|-
+| Southeast || 11|| [[South Alabama Jaguars men's basketball|South Alabama]] || [[Ronnie Arrow]] || Round of 32||3 [[1988–89 Michigan Wolverines men's basketball team|Michigan]]||L 91–82
+|-
+| Southeast || 12|| [[Providence Friars men's basketball|Providence]] || [[Rick Barnes]] || Round of 64||5 [[Virginia Cavaliers men's basketball|Virginia]]||L 100–97
+|-
+| Southeast || 13|| [[Middle Tennessee Blue Raiders men's basketball|Middle Tennessee State]] || Bruce Stewart || Round of 32||5 [[Virginia Cavaliers men's basketball|Virginia]]||L 104–88
+|-
+| Southeast || 14|| [[Xavier Musketeers men's basketball|Xavier]] || [[Pete Gillen]] || Round of 64||3 [[1988–89 Michigan Wolverines men's basketball team|Michigan]]||L 92–87
+|-
+| Southeast || 15|| [[Southern Jaguars basketball|Southern]] || [[Ben Jobe]] || Round of 64||2 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 93–79
+|-
+| Southeast || 16|| [[East Tennessee State Buccaneers basketball|East Tennessee State]] || [[Les Robinson]] || Round of 64||1 [[1988–89 Oklahoma Sooners men's basketball team|Oklahoma]]||L 72–71
+|-
+! colspan=7 | West
+|-
+| West || 1|| [[1988–89 Arizona Wildcats men's basketball team|Arizona]] || [[Lute Olson]] || Sweet Sixteen||4 [[UNLV Runnin' Rebels basketball|UNLV]]||L 68–67
+|-
+| West || 2|| [[1988–89 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || Sweet Sixteen||3 [[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]]||L 78–65
+|-
+| West || 3|| [[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]] || [[P. J. Carlesimo]] || Runner Up||3 [[1988–89 Michigan Wolverines men's basketball team|Michigan]]||L 80–79
+|-
+| West || 4|| [[UNLV Runnin' Rebels basketball|UNLV]] || [[Jerry Tarkanian]] || Regional Runner-up||3 [[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]]||L 84–61
+|-
+| West || 5|| [[Memphis Tigers men's basketball|Memphis State]] || [[Larry Finch]] || Round of 64||12 [[DePaul Blue Demons men's basketball|DePaul]]||L 66–63
+|-
+| West || 6|| [[Oregon State Beavers men's basketball|Oregon State]] || [[Ralph Miller]] || Round of 64||11 [[Evansville Purple Aces men's basketball|Evansville]]||L 94–90
+|-
+| West || 7|| [[UTEP Miners men's basketball|UTEP]] || [[Don Haskins]] || Round of 32||2 [[1988–89 Indiana Hoosiers men's basketball team|Indiana]]||L 92–69
+|-
+| West || 8|| [[Saint Mary's Gaels men's basketball|Saint Mary's]] || [[Lynn Nance]] || Round of 64||9 [[Clemson Tigers men's basketball|Clemson]]||L 83–70
+|-
+| West || 9|| [[Clemson Tigers men's basketball|Clemson]] || [[Cliff Ellis]] || Round of 32||1 [[1988–89 Arizona Wildcats men's basketball team|Arizona]]||L 94–68
+|-
+| West || 10|| [[LSU Tigers basketball|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || Round of 64||7 [[UTEP Miners basketball|UTEP]]||L 85–74
+|-
+| West || 11|| [[Evansville Purple Aces men's basketball|Evansville]] || [[Jim Crews]] || Round of 32||3 [[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]]||L 87–73
+|-
+| West || 12|| [[DePaul Blue Demons men's basketball|DePaul]] || [[Joey Meyer (basketball)|Joey Meyer]] || Round of 32||4 [[UNLV Runnin' Rebels basketball|UNLV]]||L 85–70
+|-
+| West || 13|| [[Idaho Vandals men's basketball|Idaho]] || [[Kermit Davis, Jr.|Kermit Davis]] || Round of 64||4 [[UNLV Runnin' Rebels basketball|UNLV]]||L 68–56
+|-
+| West || 14|| [[Missouri State Bears basketball|Southwest Missouri State]] || [[Charlie Spoonhour]] || Round of 64||3 [[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]]||L 60–51
+|-
+| West || 15|| [[George Mason Patriots men's basketball|George Mason]] || [[Ernie Nestor]] || Round of 64||2 [[1988–89 Indiana Hoosiers men's basketball team|Indiana]]||L 99–85
+|-
+| West || 16|| [[Robert Morris Colonials men's basketball|Robert Morris]] || [[Jarrett Durham]] || Round of 64||1 [[1988–89 Arizona Wildcats men's basketball team|Arizona]]||L 94–60
+|-
+|}
+
+==Bracket==
+<nowiki>*</nowiki> – Denotes overtime period
+
+===East Regional – East Rutherford, New Jersey===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Providence Civic Center|Providence]]'''
+ | subgroup2= '''[[Providence Civic Center|Providence]]'''
+ | subgroup3= '''[[Greensboro Coliseum|Greensboro]]'''
+ | subgroup4= '''[[Greensboro Coliseum|Greensboro]]'''
+| RD1-team01='''Georgetown'''
+ | RD1-score01='''50'''
+ | RD1-seed02=16
+ | RD1-team02=Princeton
+ | RD1-score02=49
+ | RD1-seed03=8
+ | RD1-team03=Vanderbilt
+ | RD1-score03=65
+ | RD1-seed04=9
+ | RD1-team04='''Notre Dame'''
+ | RD1-score04='''81'''
+ | RD1-seed05=5
+ | RD1-team05='''NC State'''
+ | RD1-score05='''81'''
+ | RD1-seed06=12
+ | RD1-team06=South Carolina
+ | RD1-score06=66
+ | RD1-seed07=4
+ | RD1-team07='''Iowa'''
+ | RD1-score07='''87'''
+ | RD1-seed08=13
+ | RD1-team08=Rutgers
+ | RD1-score08=73
+ | RD1-seed09=6
+ | RD1-team09=Kansas State
+ | RD1-score09=75
+ | RD1-seed10=11
+ | RD1-team10='''Minnesota'''
+ | RD1-score10='''86'''
+ | RD1-seed11=3
+ | RD1-team11=Stanford
+ | RD1-score11=78
+ | RD1-seed12=14
+ | RD1-team12='''Siena'''
+ | RD1-score12='''80'''
+ | RD1-seed13=7
+ | RD1-team13='''West Virginia'''
+ | RD1-score13='''84'''
+ | RD1-seed14=10
+ | RD1-team14=Tennessee
+ | RD1-score14=68
+ | RD1-seed15=2
+ | RD1-team15='''Duke'''
+ | RD1-score15='''90'''
+ | RD1-seed16=15
+ | RD1-team16=South Carolina State
+ | RD1-score16=69
+ | RD2-seed01=1
+ | RD2-team01='''Georgetown'''
+ | RD2-score01='''81'''
+ | RD2-seed02=9
+ | RD2-team02=Notre Dame
+ | RD2-score02=74
+ | RD2-seed03=5
+ | RD2-team03='''NC State'''
+ | RD2-score03='''102'''
+ | RD2-seed04=4
+ | RD2-team04=Iowa
+ | RD2-score04=96**
+ | RD2-seed05=11
+ | RD2-team05='''Minnesota'''
+ | RD2-score05='''80'''
+ | RD2-seed06=14
+ | RD2-team06=Siena
+ | RD2-score06=67
+ | RD2-seed07=7
+ | RD2-team07=West Virginia
+ | RD2-score07=63
+ | RD2-seed08=2
+ | RD2-team08='''Duke'''
+ | RD2-score08='''70'''
+ | RD3-seed01=1
+ | RD3-team01='''Georgetown'''
+ | RD3-score01='''69'''
+ | RD3-seed02=5
+ | RD3-team02=NC State
+ | RD3-score02=61
+ | RD3-seed03=11
+ | RD3-team03=Minnesota
+ | RD3-score03=70
+ | RD3-seed04=2
+ | RD3-team04='''Duke'''
+ | RD3-score04='''87'''
+ | RD4-seed01=1
+ | RD4-team01=Georgetown
+ | RD4-score01=77
+ | RD4-seed02=2
+ | RD4-team02='''Duke'''
+ | RD4-score02='''85'''
+}}
+
+====First round summary====
+{{basketballbox
+ | bg = #ffdead
+ | date = Thursday, March 16
+ | time = approx. 9:37 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-16-duke.html box score]
+ | team1 = '''#2 Duke Blue Devils'''
+ | score1 =  '''90'''
+ | team2 = #15 South Carolina State Bulldogs
+ | score2 = 69
+ | points1 = [[Phil Henderson (basketball)|P. Henderson]] – 22
+ | rebounds1 = [[Danny Ferry|D. Ferry]] – 8
+ | assist1 = [[Quin Snyder|Q. Snyder]] – 8
+ | otherstat1 =
+ | points2 = A. Caldwell – 20
+ | rebounds2 = [[Travis Williams (basketball)|T. Williams]] – 8
+ | assist2 = A. Caldwell, D. Gilmore – 2
+ | otherstat2 = '''Halftime Score:''' Duke, 49-34
+ | place = Greensboro Coliseum – Greensboro, North Carolina
+ | attendance = 14,574
+ | referee = Terry Stoudt, Mack Chauvin, Paul Sternberger
+ | TV = NCAA Productions<br />ESPN
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Friday, March 17
+ | time = 12:07 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-17-north-carolina-state.html box score]
+ | team1 = '''#5 North Carolina State Wolfpack'''
+ | score1 = '''81'''
+ | team2 = #12 South Carolina Gamcocks
+ | score2 = 66
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 =
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' North Carolina State, 38-25
+ | place = Providence Civic Center – Providence, Rhode Island
+ | attendance = 12,106
+ | referee = Gordon Birk, David Hall, Frank Bosone
+ | TV = NCAA Productions<br />ESPN
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Friday, March 17
+ | time = 7:07 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-17-georgetown.html box score]
+ | team1 = '''#1 Georgetown Hoyas'''
+ | score1 = '''50'''
+ | team2 = #16 Princeton Tigers
+ | score2 = 49
+ | points1 = [[Alonzo Mourning|A. Mourning]] – 21
+ | rebounds1 = [[Alonzo Mourning|A. Mourning]] – 13
+ | assist1 =
+ | otherstat1 =
+ | points2 = R. Scrabis – 15
+ | rebounds2 = G. Leftwich – 5
+ | assist2 = [[Kit Mueller|K. Mueller]] – 8
+ | otherstat2 = '''Halftime Score:''' Princeton, 29-21
+ | place = Providence Civic Center – Providence, Rhode Island
+ | attendance = 12,106
+ | referee = Dick Paparo, Charles Range, J. Don Ferguson
+ | TV = NCAA Productions<br />ESPN
+}}
+
+====Second round summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 18
+ | time = 12:20 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-18-duke.html box score]
+ | team1 = '''#2 Duke Blue Devils'''
+ | score1 =  '''70'''
+ | team2 = #7 West Virginia Mountaineers
+ | score2 = 63
+ | points1 = [[Danny Ferry|D. Ferry]] – 20
+ | rebounds1 = [[Alaa Abdelnaby|A. Abdelnaby]], [[Danny Ferry|D. Ferry]] – 8
+ | assist1 = [[Danny Ferry|D. Ferry]] – 4
+ | otherstat1 =
+ | points2 = H. Brooks – 13
+ | rebounds2 = R. Foster – 10
+ | assist2 = S. Berger – 5
+ | otherstat2 = '''Halftime Score:''' Duke, 35-28
+ | place = Greensboro Coliseum – Greensboro, North Carolina
+ | attendance = 14,920
+ | referee = Wally Tanner, Tom Rucker, Mack Chauvin
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 19
+ | time = 12:20 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-19-georgetown.html box score]
+ | team1 = '''#1 Georgetown Hoyas'''
+ | score1 = '''81'''
+ | team2 = #9 Notre Dame Fighting Irish
+ | score2 = 74
+ | points1 = [[Charles Smith (basketball, born 1967)|C. Smith]] – 34
+ | rebounds1 = [[Jaren Jackson|J. Jackson]] – 7
+ | assist1 = [[Charles Smith (basketball, born 1967)|C. Smith]] – 6
+ | otherstat1 =
+ | points2 = [[LaPhonso Ellis|L. Ellis]] – 24
+ | rebounds2 = [[LaPhonso Ellis|L. Ellis]] – 10
+ | assist2 = T. Singleton – 6
+ | otherstat2 = '''Halftime Score:''' Notre Dame, 36-32
+ | place = Providence Civic Center – Providence, Rhode Island
+ | attendance = 12,106
+ | referee = Don Rutledge, Gordon Birk, Richie Ballesteros
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Sunday, March 17
+ | time = approx. 2:50 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-19-iowa.html box score]
+ | team1 = '''#5 North Carolina State Wolfpack'''
+ | score1 = '''102'''
+ | team2 = #4 Iowa Hawkeyes
+ | score2 = 96 '''(2OT)'''
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 =
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:'''  41-41<br />'''End of Regulation:''' 75-75<br />'''End of First Overtime:''' 83-83
+ | place = Providence Civic Center – Providence, Rhode Island
+ | attendance = 12,106
+ | referee = Dick Paparo
+ | TV = CBS
+}}
+
+====Regional Semi-final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Friday, March 24
+ | time = 7:41 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-24-duke.html box score]
+ | team1 = '''#2 Duke Blue Devils'''
+ | score1 =  '''87'''
+ | team2 = #11 Minnesota Golden Gophers
+ | score2 = 70
+ | points1 = R. Brickey, [[Phil Henderson (basketball)|P. Henderson]] – 21
+ | rebounds1 = [[Christian Laettner|C. Laettner]] – 11
+ | assist1 = [[Quin Snyder|Q. Snyder]] – 8
+ | otherstat1 =
+ | points2 = [[Willie Burton|W. Burton]] – 26
+ | rebounds2 = [[Walter Bond|W. Bond]] – 6
+ | assist2 = [[Melvin Newbern|M. Newbern]] – 7
+ | otherstat2 = '''Halftime Score:''' Duke, 45-30
+ | place = Brendan Byrne Arena – East Rutherford, New Jersey
+ | attendance = 19,508
+ | referee = John Clougherty, Dan Chrisman, Tom O'Neill
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Friday, March 24
+ | time = approx. 10:11 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-24-georgetown.html box score]
+ | team1 = '''#1 Georgetown Hoyas'''
+ | score1 = '''69'''
+ | team2 = #5 North Carolina State Wolfpack
+ | score2 = 61
+ | points1 = D. Bryant – 21
+ | rebounds1 = [[Alonzo Mourning|A. Mourning]] – 12
+ | assist1 = [[Charles Smith (basketball, born 1967)|C. Smith]] – 5
+ | otherstat1 =
+ | points2 = [[Rodney Monroe|R. Monroe]] – 26
+ | rebounds2 = [[Chucky Brown|C. Brown]] – 12
+ | assist2 = [[Chris Corchiani|C. Corchiani]] – 4
+ | otherstat2 = '''Halftime Score:''' Georgetown, 42-28
+ | place = Brendan Byrne Arena – East Rutherford, New Jersey
+ | attendance = 19,508
+ | referee = Tom Lopes, Jim Bain, Rick Hartzell
+ | TV = CBS
+}}
+
+====Regional Final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 26
+ | time = 4:05 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-26-duke.html box score]
+ | team1 = '''#2 Duke Blue Devils'''
+ | score1 =  '''85'''
+ | team2 = #1 Georgetown Hoyas 
+ | score2 = 77
+ | points1 = [[Christian Laettner|C. Laettner]] – 24
+ | rebounds1 = [[Christian Laettner|C. Laettner]] – 9
+ | assist1 = [[Quin Snyder|Q. Snyder]] – 7
+ | otherstat1 = 
+ | points2 = [[Charles Smith (basketball, born 1967)|C. Smith]] – 21
+ | rebounds2 = S. Jefferson – 7
+ | assist2 = D. Bryant – 3
+ | otherstat2 = '''Halftime Score:''' Georgetown, 40-38
+ | place = Brendan Byrne Arena – East Rutherford, New Jersey
+ | attendance = 19,514
+ | referee = Ted Hillary, David Jones, Tom Harrington
+ | TV = CBS
+}}
+
+===West Regional – Denver, Colorado===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[BSU Pavilion|Boise]]'''
+ | subgroup2= '''[[BSU Pavilion|Boise]]'''
+ | subgroup3= '''[[McKale Center|Tucson]]'''
+ | subgroup4= '''[[McKale Center|Tucson]]'''
+| RD1-team01='''Arizona'''
+ | RD1-score01='''94'''
+ | RD1-seed02=16
+ | RD1-team02=Robert Morris
+ | RD1-score02=60
+ | RD1-seed03=8
+ | RD1-team03=Saint Mary's
+ | RD1-score03=70
+ | RD1-seed04=9
+ | RD1-team04='''Clemson'''
+ | RD1-score04='''83'''
+ | RD1-seed05=5
+ | RD1-team05=Memphis State
+ | RD1-score05=63
+ | RD1-seed06=12
+ | RD1-team06='''DePaul'''
+ | RD1-score06='''66'''
+ | RD1-seed07=4
+ | RD1-team07='''UNLV'''
+ | RD1-score07='''68'''
+ | RD1-seed08=13
+ | RD1-team08=Idaho
+ | RD1-score08=56
+ | RD1-seed09=6
+ | RD1-team09=Oregon State
+ | RD1-score09=90*
+ | RD1-seed10=11
+ | RD1-team10='''Evansville'''
+ | RD1-score10='''94'''
+ | RD1-seed11=3
+ | RD1-team11='''Seton Hall'''
+ | RD1-score11='''60'''
+ | RD1-seed12=14
+ | RD1-team12=Southwest Missouri State
+ | RD1-score12=51
+ | RD1-seed13=7
+ | RD1-team13='''UTEP'''
+ | RD1-score13='''85'''
+ | RD1-seed14=10
+ | RD1-team14=LSU
+ | RD1-score14=74
+ | RD1-seed15=2
+ | RD1-team15='''Indiana'''
+ | RD1-score15='''99'''
+ | RD1-seed16=15
+ | RD1-team16=George Mason
+ | RD1-score16=85
+ | RD2-seed01=1
+ | RD2-team01='''Arizona'''
+ | RD2-score01='''94'''
+ | RD2-seed02=9
+ | RD2-team02=Clemson
+ | RD2-score02=68
+ | RD2-seed03=12
+ | RD2-team03=DePaul
+ | RD2-score03=70
+ | RD2-seed04=4
+ | RD2-team04='''UNLV'''
+ | RD2-score04='''85'''
+ | RD2-seed05=11
+ | RD2-team05=Evansville
+ | RD2-score05=73
+ | RD2-seed06=3
+ | RD2-team06='''Seton Hall'''
+ | RD2-score06='''87'''
+ | RD2-seed07=7
+ | RD2-team07=UTEP
+ | RD2-score07=69
+ | RD2-seed08=2
+ | RD2-team08='''Indiana'''
+ | RD2-score08='''92'''
+ | RD3-seed01=1
+ | RD3-team01=Arizona
+ | RD3-score01=67
+ | RD3-seed02=4
+ | RD3-team02='''UNLV'''
+ | RD3-score02='''68'''
+ | RD3-seed03=3
+ | RD3-team03='''Seton Hall'''
+ | RD3-score03='''78'''
+ | RD3-seed04=2
+ | RD3-team04=Indiana
+ | RD3-score04=65
+ | RD4-seed01=4
+ | RD4-team01=UNLV
+ | RD4-score01=61
+ | RD4-seed02=3
+ | RD4-team02='''Seton Hall'''
+ | RD4-score02='''84'''
+}}
+
+====First round summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Thursday, March 16
+ | time = 6:07 PM PST/9:07 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-16-idaho.html box score]
+ | team1 = '''#4 UNLV Runnin' Rebels'''
+ | score1 =  '''68'''
+ | team2 = #13 Idaho Vandals
+ | score2 = 56
+ | points1 = [[Stacey Augmon|S. Augmon]] – 17
+ | rebounds1 = [[Moses Scurry|M. Scurry]] – 14
+ | assist1 = [[Anderson Hunt|A. Hunt]] – 4
+ | otherstat1 =
+ | points2 = R. Smith – 20
+ | rebounds2 = [[Raymond Brown (basketball)|R. Brown]], J. Fitch – 9
+ | assist2 = L. Nash – 3
+ | otherstat2 = '''Halftime Score:''' UNLV, 27-22
+ | place = BSU Pavilion – Boise, Idaho
+ | attendance = 12,241
+ | referee =
+ | TV = NCAA Productions<br />ESPN
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Friday, March 17
+ | time = approx. 2:37 PM MST/4:37 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-17-missouri-state.html box score]
+ | team1 = '''#3 Seton Hall Pirates'''
+ | score1 =  '''60'''
+ | team2 = #14 Southwest Missouri State Bears
+ | score2 = 51
+ | points1 = [[John Morton (basketball)|J. Morton]] – 26
+ | rebounds1 = D. Walker – 6
+ | assist1 = [[Andrew Gaze|A. Gaze]] – 4
+ | otherstat1 =
+ | points2 = H. Henderson – 18
+ | rebounds2 = H. Henderson – 6
+ | assist2 = D. Lewis – 6
+ | otherstat2 = '''Halftime Score:''' Seton Hall, 30-23
+ | place = McKale Center – Tucson, Arizona
+ | attendance = 12,787
+ | referee = Don Shea, Allie Prescott, Jim Loustaldt
+ | TV = NCAA Productions<br />ESPN
+}}
+
+====Second round summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 18
+ | time = 2:00 PM PST/5:00 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-18-depaul.html box score]
+ | team1 = '''#4 UNLV Runnin' Rebels'''
+ | score1 =  '''85'''
+ | team2 = #12 DePaul Blue Demons
+ | score2 = 70
+ | points1 = [[David Butler (basketball, born 1966)|D. Butler]] – 23 
+ | rebounds1 = [[Stacey Augmon|S. Augmon]] – 6
+ | assist1 = [[Anderson Hunt|A. Hunt]] – 7
+ | otherstat1 =
+ | points2 = T. Greene – 29
+ | rebounds2 = [[Stanley Brundy|S. Brundy]] – 15
+ | assist2 = T. Greene – 6
+ | otherstat2 = '''Halftime Score:''' 40-40
+ | place = BSU Pavilion – Boise, Idaho
+ | attendance = 12,428
+ | referee =
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 19
+ | time = 12:25 PM MST/2:25 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-19-evansville.html box score]
+ | team1 = '''#3 Seton Hall Pirates'''
+ | score1 =  '''87'''
+ | team2 = #11 Evansville Aces
+ | score2 = 73
+ | points1 = [[John Morton (basketball)|J. Morton]] – 17
+ | rebounds1 = [[Ramón Ramos|R. Ramos]], D. Walker – 10
+ | assist1 = G. Greene, P. Wigington – 5
+ | otherstat1 =
+ | points2 = [[Scott Haffner|S. Haffner]] – 20
+ | rebounds2 = [[Dan Godfread|D. Godfread]] – 6
+ | assist2 = R. Crafton – 7
+ | otherstat2 = '''Halftime Score:''' Seton Hall, 49-41
+ | place = McKale Center – Tucson, Arizona
+ | attendance = 13,391
+ | referee = John Moreau, Sid Rodeheffer, Mark DiStaolo
+ | TV = CBS
+}}
+
+====Regional Semi-final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Thursday, March 23
+ | time = 6:09 PM MST/8:09 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-23-indiana.html box score]
+ | team1 = '''#3 Seton Hall Pirates'''
+ | score1 =  '''78'''
+ | team2 = #2 Indiana Hoosiers
+ | score2 = 65
+ | points1 = [[John Morton (basketball)|J. Morton]] – 17
+ | rebounds1 = D. Walker – 10
+ | assist1 = G. Greene – 5
+ | otherstat1 =
+ | points2 = [[Jay Edwards (basketball)|J. Edwards]] – 18
+ | rebounds2 = [[Eric Anderson (basketball)|E. Anderson]] – 6
+ | assist2 = J. Hillman, L. Jones – 3
+ | otherstat2 = '''Halftime Score:''' Seton Hall, 42-33
+ | place = McNichols Sports Arena – Denver, Colorado
+ | attendance = 16,813
+ | referee = Jody Sylvester, Dave Libbey, David Bair
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Thursday, March 23
+ | time = approx. 8:39 PM MST/10:39 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-23-arizona.html box score]
+ | team1 = '''#4 UNLV Runnin' Rebels'''
+ | score1 =  '''68'''
+ | team2 = #1 Arizona Wildcats
+ | score2 = 67
+ | points1 = [[Anderson Hunt|A. Hunt]] – 21
+ | rebounds1 = [[George Ackles|G. Ackles]], [[Stacey Augmon|S. Augmon]] – 6
+ | assist1 = [[Greg Anthony|G. Anthony]] – 11
+ | otherstat1 =
+ | points2 = [[Sean Elliott|S. Elliott]] – 22
+ | rebounds2 = [[Sean Elliott|S. Elliott]] – 14
+ | assist2 = [[Kenny Lofton|K. Lofton]] – 6
+ | otherstat2 = '''Halftime Score:''' UNLV, 37-36
+ | place = McNichols Sports Arena – Denver, Colorado
+ | attendance = 16,813
+ | referee = Ed Hightower, Tom Rucker, Frank Scagliota
+ | TV = CBS
+}}
+
+====Regional Final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 25
+ | time = 2:05 PM MST/4:05 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-25-nevada-las-vegas.html box score]
+ | team1 = '''#3 Seton Hall Pirates'''
+ | score1 =  '''84'''
+ | team2 = #4 UNLV Runnin' Rebels 
+ | score2 = 61
+ | points1 = [[Andrew Gaze|A. Gaze]] – 19
+ | rebounds1 = D. Walker – 15
+ | assist1 = G. Greene – 3
+ | otherstat1 = 
+ | points2 = [[Greg Anthony|G. Anthony]] – 16
+ | rebounds2 = [[Moses Scurry|M. Scurry]] – 14
+ | assist2 = [[Greg Anthony|G. Anthony]] – 4
+ | otherstat2 = '''Halftime Score:''' Seton Hall, 34-30
+ | place = McNichols Sports Arena – Denver, Colorado
+ | attendance = 16,813
+ | referee = Lenny Wirtz, David Dodge, Larry Rose
+ | TV = CBS
+}}
+
+===Southeast Regional – Lexington, Kentucky===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Memorial Gymnasium (Vanderbilt University)|Nashville]]'''
+ | subgroup2= '''[[Memorial Gymnasium (Vanderbilt University)|Nashville]]'''
+ | subgroup3= '''[[Omni Coliseum|Atlanta]]'''
+ | subgroup4= '''[[Omni Coliseum|Atlanta]]'''
+| RD1-team01='''Oklahoma'''
+ | RD1-score01='''72'''
+ | RD1-seed02=16
+ | RD1-team02=East Tennessee State
+ | RD1-score02=71
+ | RD1-seed03=8
+ | RD1-team03=La Salle
+ | RD1-score03=74
+ | RD1-seed04=9
+ | RD1-team04='''Louisiana Tech'''
+ | RD1-score04='''83'''
+ | RD1-seed05=5
+ | RD1-team05='''Virginia'''
+ | RD1-score05='''100'''
+ | RD1-seed06=12
+ | RD1-team06=Providence
+ | RD1-score06=97
+ | RD1-seed07=4
+ | RD1-team07=Florida State
+ | RD1-score07=83
+ | RD1-seed08=13
+ | RD1-team08='''Middle Tennessee State'''
+ | RD1-score08='''97'''
+ | RD1-seed09=6
+ | RD1-team09=Alabama
+ | RD1-score09=84
+ | RD1-seed10=11
+ | RD1-team10='''South Alabama'''
+ | RD1-score10='''86'''
+ | RD1-seed11=3
+ | RD1-team11='''Michigan'''
+ | RD1-score11='''92'''
+ | RD1-seed12=14
+ | RD1-team12=Xavier
+ | RD1-score12=87
+ | RD1-seed13=7
+ | RD1-team13='''UCLA'''
+ | RD1-score13='''84'''
+ | RD1-seed14=10
+ | RD1-team14=Iowa State
+ | RD1-score14=74
+ | RD1-seed15=2
+ | RD1-team15='''North Carolina'''
+ | RD1-score15='''93'''
+ | RD1-seed16=15
+ | RD1-team16=Southern
+ | RD1-score16=79
+ | RD2-seed01=1
+ | RD2-team01='''Oklahoma'''
+ | RD2-score01='''124'''
+ | RD2-seed02=9
+ | RD2-team02=Louisiana Tech
+ | RD2-score02=81
+ | RD2-seed03=5
+ | RD2-team03='''Virginia'''
+ | RD2-score03='''104'''
+ | RD2-seed04=13
+ | RD2-team04=Middle Tennessee State
+ | RD2-score04=88
+ | RD2-seed05=11
+ | RD2-team05=South Alabama
+ | RD2-score05=82
+ | RD2-seed06=3
+ | RD2-team06='''Michigan'''
+ | RD2-score06='''91'''
+ | RD2-seed07=7
+ | RD2-team07=UCLA
+ | RD2-score07=81
+ | RD2-seed08=2
+ | RD2-team08='''North Carolina'''
+ | RD2-score08='''88'''
+ | RD3-seed01=1
+ | RD3-team01=Oklahoma
+ | RD3-score01=80
+ | RD3-seed02=5
+ | RD3-team02='''Virginia'''
+ | RD3-score02='''86'''
+ | RD3-seed03=3
+ | RD3-team03='''Michigan'''
+ | RD3-score03='''92'''
+ | RD3-seed04=2
+ | RD3-team04=North Carolina
+ | RD3-score04=87
+ | RD4-seed01=5
+ | RD4-team01=Virginia
+ | RD4-score01=65
+ | RD4-seed02=3
+ | RD4-team02='''Michigan'''
+ | RD4-score02='''102'''
+}}
+
+====First round summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Thursday, March 16
+ | time = 7:07 PM CST/8:07 EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-16-providence.html box score]
+ | team1 = '''#5 Virginia Cavaliers'''
+ | score1 =  '''100'''
+ | team2 = #12 Providence Friars
+ | score2 = 97
+ | points1 = R. Morgan – 33
+ | rebounds1 = [[Matt Blundin|M. Blundin]], [[Bryant Stith|B. Stith]] – 7
+ | assist1 = [[John Crotty|J. Crotty]] – 10
+ | otherstat1 =
+ | points2 = [[Marty Conlon|M. Conlon]] – 23
+ | rebounds2 = [[Abdul Shamsid-Deen|A. Shamsid-Deen]] – 8
+ | assist2 = [[Eric Murdock|E. Murdick]], C. Screen – 6
+ | otherstat2 = '''Halftime Score:''' Virginia, 50-49
+ | place = Memorial Gymnasium – Nashville, Tennessee
+ | attendance = 12,541
+ | referee = Tom Harrington, Willis McJunkin, Tom Clark
+ | TV = NCAA Productions<br />ESPN
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Friday, March 17
+ | time = 12:07 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-17-michigan.html box score]
+ | team1 = '''#3 Michigan Wolverines'''
+ | score1 =  '''92'''
+ | team2 = #14 Xavier Musketeers
+ | score2 = 87
+ | points1 = [[Glen Rice|G. Rice]], [[Rumeal Robinson|R. Robinson]] – 23
+ | rebounds1 = [[Mark Hughes (basketball)|M. Hughes]] – 10
+ | assist1 = [[Rumeal Robinson|R. Robinson]] – 8
+ | otherstat1 =
+ | points2 = [[Tyrone Hill|T. Hill]] – 21
+ | rebounds2 = [[Derek Strong|D. Strong]] – 10
+ | assist2 = J. Walker – 9
+ | otherstat2 = '''Halftime Score:''' Xavier, 45-42
+ | place = Omni Coliseum – Atlanta, Georgia
+ | attendance = 12,349
+ | referee = Nick Borucki, Dave Libbey, Bob Barnett
+ | TV = NCAA Productions<br />ESPN
+}}
+
+====Second round summary====
+{{basketballbox
+ | bg = #ffdead
+ | date = Saturday, March 18
+ | time = approx. 3:55 PM CST/4:55 EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-18-middle-tennessee.html box score]
+ | team1 = '''#5 Virginia Cavaliers'''
+ | score1 =  '''104'''
+ | team2 = #13 Middle Tennessee State Blue Raiders
+ | score2 = 88
+ | points1 = R. Morgan – 33
+ | rebounds1 = [[Matt Blundin|M. Blundin]] – 8
+ | assist1 = [[John Crotty|J. Crotty]] – 14
+ | otherstat1 =
+ | points2 = R. Henry, C. Rainey – 23
+ | rebounds2 = K. Hammonds – 15
+ | assist2 = K. Hammonds, C. Rainey – 5
+ | otherstat2 = '''Halftime Score:''' Virginia, 49-39
+ | place = Memorial Gymnasium – Nashville, Tennessee
+ | attendance = 13,453
+ | referee = Tom Harrington, Jody Sylvester, Tom Clark
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 19
+ | time = 2:20 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-19-michigan.html box score]
+ | team1 = '''#3 Michigan Wolverines'''
+ | score1 =  '''91'''
+ | team2 = #11 South Alabama Jaguars
+ | score2 = 82
+ | points1 = [[Glen Rice|G. Rice]] – 36
+ | rebounds1 = [[Glen Rice|G. Rice]] – 8
+ | assist1 = [[Demetrius Calip|D. Calip]], [[Terry Mills (basketball)|T. Mills]], [[Glen Rice|G. Rice]], [[Rumeal Robinson|R. Robinson]] – 5
+ | otherstat1 =
+ | points2 = [[Junie Lewis|J. Lewis]] – 25
+ | rebounds2 = G. Estaba, [[Junie Lewis|J. Lewis]] – 9
+ | assist2 = T. Brodnick – 6
+ | otherstat2 = '''Halftime Score:''' South Alabama, 47-44
+ | place = Omni Coliseum – Atlanta, Georgia
+ | attendance = 12,821
+ | referee = Dave Libbey, Gene Monje, Bob Barnett
+ | TV = CBS
+}}
+
+====Regional Semi-final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Thursday, March 23
+ | time = 7:41 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-23-oklahoma.html box score]
+ | team1 = '''#5 Virginia Cavaliers'''
+ | score1 =  '''86'''
+ | team2 = #1 Oklahoma Sooners
+ | score2 = 80
+ | points1 = [[Bryant Stith|B. Stith]] – 28
+ | rebounds1 = B. Dabbs – 14
+ | assist1 = [[John Crotty|J. Crotty]] – 8
+ | otherstat1 =
+ | points2 = [[Stacey King|S. King]] – 22
+ | rebounds2 = [[Stacey King|S. King]] – 6
+ | assist2 = [[Mookie Blaylock|M. Blaylock]] – 5
+ | otherstat2 = '''Halftime Score:''' Virginia, 42-37
+ | place = Rupp Arena – Lexington, Kentucky
+ | attendance = 22,314
+ | referee = Gene Monje, Bob Dibler, Herman Ramsey
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Thursday, March 23
+ | time = approx. 10:11 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-23-michigan.html box score]
+ | team1 = '''#3 Michigan Wolverines'''
+ | score1 =  '''92'''
+ | team2 = #2 North Carolina Tar Heels
+ | score2 = 87
+ | points1 = [[Glen Rice|G. Rice]] – 34
+ | rebounds1 = [[Mark Hughes (basketball)|M. Hughes]], [[Terry Mills (basketball)|T. Mills]], [[Glen Rice|G. Rice]], [[Loy Vaught|L. Vaught]] – 6
+ | assist1 = [[Rumeal Robinson|R. Robinson]] – 13
+ | otherstat1 = 
+ | points2 = [[J. R. Reid|J.R. Reid]] – 26
+ | rebounds2 = S. Bucknall – 7
+ | assist2 = S. Bucknall – 10
+ | otherstat2 = '''Halftime Score:''' Michigan, 50-47
+ | place = Rupp Arena – Lexington, Kentucky
+ | attendance = 22,314
+ | referee = Don Rutledge, Tom Scott, Wally Tanner
+ | TV = CBS
+}}
+
+====Regional Final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 25
+ | time = 1:58 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-25-michigan.html box score]
+ | team1 = '''#3 Michigan Wolverines'''
+ | score1 =  '''102'''
+ | team2 = #5 Virginia Cavaliers 
+ | score2 = 65
+ | points1 = [[Glen Rice|G. Rice]] – 32
+ | rebounds1 = [[Loy Vaught|L. Vaught]] – 9
+ | assist1 = [[Rumeal Robinson|R. Robinson]] – 7
+ | otherstat1 = 
+ | points2 = R. Morgan – 15
+ | rebounds2 = B. Dabbs – 12
+ | assist2 = [[John Crotty|J. Crotty]] – 7
+ | otherstat2 = '''Halftime Score:''' Michigan, 44-25
+ | place = Rupp Arena – Lexington, Kentucky
+ | attendance = 22,755
+ | referee = Mickey Crowley, Jim Burr, Frank Bosone
+ | TV = CBS
+}}
+
+===Midwest Regional – Minneapolis===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Hoosier Dome|Indianapolis]]'''
+ | subgroup2= '''[[Hoosier Dome|Indianapolis]]'''
+ | subgroup3= '''[[Reunion Arena|Dallas]]'''
+ | subgroup4= '''[[Reunion Arena|Dallas]]'''
+| RD1-team01='''Illinois'''
+ | RD1-score01='''77'''
+ | RD1-seed02=16
+ | RD1-team02=McNeese State
+ | RD1-score02=71
+ | RD1-seed03=8
+ | RD1-team03=Pittsburgh
+ | RD1-score03=64
+ | RD1-seed04=9
+ | RD1-team04='''Ball State'''
+ | RD1-score04='''68'''
+ | RD1-seed05=5
+ | RD1-team05='''Arkansas'''
+ | RD1-score05='''120'''
+ | RD1-seed06=12
+ | RD1-team06=Loyola Marymount
+ | RD1-score06=101
+ | RD1-seed07=4
+ | RD1-team07='''Louisville'''
+ | RD1-score07='''76'''
+ | RD1-seed08=13
+ | RD1-team08=Arkansas–Little Rock
+ | RD1-score08=71
+ | RD1-seed09=6
+ | RD1-team09=Georgia Tech
+ | RD1-score09=70
+ | RD1-seed10=11
+ | RD1-team10='''Texas'''
+ | RD1-score10='''76'''
+ | RD1-seed11=3
+ | RD1-team11='''Missouri'''
+ | RD1-score11='''85'''
+ | RD1-seed12=14
+ | RD1-team12=Creighton
+ | RD1-score12=69
+ | RD1-seed13=7
+ | RD1-team13=Florida
+ | RD1-score13=46
+ | RD1-seed14=10
+ | RD1-team14='''Colorado State'''
+ | RD1-score14='''68'''
+ | RD1-seed15=2
+ | RD1-team15='''Syracuse'''
+ | RD1-score15='''104'''
+ | RD1-seed16=15
+ | RD1-team16=Bucknell
+ | RD1-score16=81
+ | RD2-seed01=1
+ | RD2-team01='''Illinois'''
+ | RD2-score01='''72'''
+ | RD2-seed02=9
+ | RD2-team02=Ball State
+ | RD2-score02=60
+ | RD2-seed03=5
+ | RD2-team03=Arkansas
+ | RD2-score03=84
+ | RD2-seed04=4
+ | RD2-team04='''Louisville'''
+ | RD2-score04='''93'''
+ | RD2-seed05=11
+ | RD2-team05=Texas
+ | RD2-score05=89
+ | RD2-seed06=3
+ | RD2-team06='''Missouri'''
+ | RD2-score06='''108'''
+ | RD2-seed07=10
+ | RD2-team07=Colorado State
+ | RD2-score07=50
+ | RD2-seed08=2
+ | RD2-team08='''Syracuse'''
+ | RD2-score08='''65'''
+ | RD3-seed01=1
+ | RD3-team01='''Illinois'''
+ | RD3-score01='''83'''
+ | RD3-seed02=4
+ | RD3-team02=Louisville
+ | RD3-score02=69
+ | RD3-seed03=3
+ | RD3-team03=Missouri
+ | RD3-score03=80
+ | RD3-seed04=2
+ | RD3-team04='''Syracuse'''
+ | RD3-score04='''83'''
+ | RD4-seed01=1
+ | RD4-team01='''Illinois'''
+ | RD4-score01='''89'''
+ | RD4-seed02=2
+ | RD4-team02=Syracuse
+ | RD4-score02=86
+}}
+
+====First round summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Thursday, March 16
+ | time = 12:07 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-16-arkansas-little-rock.html box score]
+ | team1 = '''#4 Louisville Cardinals'''
+ | score1 = '''76'''
+ | team2 = #13 Arkansas-Little Rock Trojans
+ | score2 = 71
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 =
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' Louisville, 39-35
+ | place = Hoosier Dome – Indianapolis
+ | attendance = 37,232
+ | referee = Tom Lopes, Bruce Shapiro, Jerry Stone
+ | TV = NCAA Productions<br />ESPN
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Thursday, March 16
+ | time = 7:07 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-16-illinois.html box score]
+ | team1 = '''#1 Illinois Fighting Illini'''
+ | score1 =  '''77'''
+ | team2 = #16 McNeese State Cowboys
+ | score2 = 71
+ | points1 = [[Kenny Battle|K. Battle]] – 18
+ | rebounds1 = [[Nick Anderson|N. Anderson]] – 12
+ | assist1 = [[Larry Smith (basketball, born 1968)|L. Smith]] – 4
+ | otherstat1 =
+ | points2 = [[Michael Cutright|M. Cutright]] – 5
+ | rebounds2 = [[Anthony Pullard|A. Pullard]] – 8
+ | assist2 = D. Davis – 5
+ | otherstat2 = '''Halftime Score:''' Illinois, 26-21
+ | place = Hoosier Dome – Indianapolis
+ | attendance = 37,242
+ | referee = Bobby Dibler, John Hannon, David Dodge
+ | TV = NCAA Productions<br />ESPN
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Friday, March 17 
+ | time = 12:07 PM CST/1:07 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-17-bucknell.html box score]
+ | team1 = '''#2 Syracuse Orangemen'''
+ | score1 =  '''104'''
+ | team2 = #15 Bucknell Bison
+ | score2 = 81
+ | points1 = [[Billy Owens|B. Owens]] – 27
+ | rebounds1 = [[Billy Owens|B. Owens]] – 13
+ | assist1 = [[Sherman Douglas|S. Douglas]] – 9
+ | otherstat1 =
+ | points2 = M. Butts – 22
+ | rebounds2 = B. Heiden – 8
+ | assist2 = M. Joseph – 9
+ | otherstat2 = '''Halftime Score:''' Syracuse, 52-36
+ | place = Reunion Arena – Dallas, Texas
+ | attendance = 8,711
+ | referee = George Evans, David Jones, Phil Bova
+ | TV = NCAA Productions<br />ESPN
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Friday, March 17
+ | time = 7:07 PM CST/8:07 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-17-creighton.html box score]
+ | team1 = '''#3 Missouri Tigers'''
+ | score1 = '''85'''
+ | team2 = #14 Creighton Blue Jays
+ | score2 = 69
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 =
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' Creighton, 39-37
+ | place = Reunion Arena – Dallas, Texas
+ | attendance = 9,484
+ | referee = John Clogherty, Samford, Jim Stupin
+ | TV = NCAA Productions<br />ESPN
+}}
+
+====Second round summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 18
+ | time = 2:20 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-18-ball-state.html box score]
+ | team1 = '''#1 Illinois Fighting Illini'''
+ | score1 =  '''72'''
+ | team2 = #9 Ball State Cardinals
+ | score2 = 60
+ | points1 = [[Nick Anderson|N. Anderson]] – 24
+ | rebounds1 = [[Kenny Battle|K. Battle]] – 8
+ | assist1 = [[Kendall Gill|K. Gill]] – 7
+ | otherstat1 =
+ | points2 = C. Kidd – 16
+ | rebounds2 = P. McCurdy – 12
+ | assist2 = S. Nichols – 6
+ | otherstat2 = '''Halftime Score:''' Illinois, 34-23
+ | place = Hoosier Dome – Indianapolis
+ | attendance = 37,444
+ | referee = Bobby Dibler, David Dodge, Herman Ramsey
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Saturday, March 18
+ | time = approx. 4:50 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-18-arkansas.html box score]
+ | team1 = '''#4 Louisville Cardinals'''
+ | score1 = '''93'''
+ | team2 = #5 Arkansas Razorbacks
+ | score2 = 84
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 =
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' Louisville, 49-42
+ | place = Hoosier Dome – Indianapolis
+ | attendance = 37,444
+ | referee = Larry Lembo, Tom Lopes, Larry Rose
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 19
+ | time = 1:35 CST/2:35 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-19-missouri.html box score]
+ | team1 = '''#3 Missouri Tigers'''
+ | score1 = '''108'''
+ | team2 = #11 Texas Longhorns
+ | score2 = 89
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 =
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' Missouri, 51-41
+ | place = Reunion Arena – Dallas, Texas
+ | attendance = 10,683
+ | referee = John Clougherty, David Jones, Odgen
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Sunday, March 19
+ | time = approx. 4:05 PM CST/5:05 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-19-colorado-state.html box score]
+ | team1 = '''#2 Syracuse Orangemen'''
+ | score1 =  '''65'''
+ | team2 = #10 Colorado State Rams
+ | score2 = 50
+ | points1 = [[Stephen Thompson (basketball)|S. Thompson]] – 21
+ | rebounds1 = [[Derrick Coleman|D. Coleman]] – 7
+ | assist1 = [[Sherman Douglas|S. Douglas]] – 8
+ | otherstat1 =
+ | points2 = A. Anderson – 15
+ | rebounds2 = [[Pat Durham|P. Durham]] – 6
+ | assist2 = [[Pat Durham|P. Durham]] – 4
+ | otherstat2 = '''Halftime Score:''' Syracuse, 38-28
+ | place = Reunion Arena – Dallas, Texas
+ | attendance = 10,683
+ | referee = Jim Bain, Jerry Petro, Donnee Gray
+ | TV = CBS
+}}
+
+====Regional Semi-final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Friday, March 24
+ | time = 7:09 PM CST/8:09 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-24-illinois.html box score]
+ | team1 = '''#1 Illinois Fighting Illini'''
+ | score1 =  '''83'''
+ | team2 = #4 Louisville Cardinals
+ | score2 = 69
+ | points1 = [[Nick Anderson|N. Anderson]] – 24
+ | rebounds1 = [[Stephen Bardo|S. Bardo]], [[Marcus Liberty|M. Liberty]] – 8
+ | assist1 = [[Stephen Bardo|S. Bardo]] – 6
+ | otherstat1 =
+ | points2 = [[Kenny Payne|K. Payne]] – 19
+ | rebounds2 = [[Pervis Ellison|P. Ellison]] – 9
+ | assist2 = [[Pervis Ellison|P. Ellison]], [[LaBradford Smith|L. Smith]] – 4
+ | otherstat2 = '''Halftime Score:''' Illinois, 40-37
+ | place = Hubert H. Humphrey Metrodome – Minneapolis, Minnesota
+ | attendance = 33,560
+ | referee = Dick Paparo, Tim Higgins, Donnee Gray
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Friday, March 24
+ | time = approx. 9:39 PM CST/10:39 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-24-missouri.html box score]
+ | team1 = '''#2 Syracuse Orangemen'''
+ | score1 =  '''83'''
+ | team2 = #3 Missouri Tigers
+ | score2 = 80
+ | points1 = [[Sherman Douglas|S. Douglas]] – 27
+ | rebounds1 = [[Derrick Coleman|D. Coleman]] – 12
+ | assist1 = [[Sherman Douglas|S. Douglas]] – 7
+ | points2 = [[Byron Irvin|B. Irvin]] – 21
+ | rebounds2 = [[Doug Smith (basketball)|D. Smith]] – 13
+ | assist2 = L. Coward – 6
+ | otherstat2 = '''Halftime Score:''' Missouri, 42-40
+ | place = Hubert H. Humphrey Metrodome – Minneapolis, Minnesota
+ | attendance = 33,560
+ | referee = Richie Ballesteros, Sam Lickliter, Paul Housman
+ | TV = CBS
+}}
+
+====Regional Final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 26
+ | time = 12:58 PM CST/1:58 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-03-26-illinois.html box score]
+ | team1 = '''#1 Illinois Fighting Illini'''
+ | score1 =  '''89'''
+ | team2 = #2 Syracuse Orangemen 
+ | score2 = 86
+ | points1 = [[Kenny Battle|K. Battle]] – 28
+ | rebounds1 = [[Nick Anderson|N. Anderson]] – 16
+ | assist1 = [[Larry Smith (basketball, born 1968)|L. Smith]], [[Kendall Gill|K. Gill]] – 5
+ | otherstat1 = 
+ | points2 = [[Billy Owens|B. Owens]] – 22
+ | rebounds2 = [[Derrick Coleman|D. Coleman]] – 10
+ | assist2 = [[Sherman Douglas|S. Douglas]] – 8
+ | otherstat2 = '''Halftime Score:''' Syracuse, 46-39
+ | place = Hubert H. Humphrey Metrodome – Minneapolis, Minnesota
+ | attendance = 33,496
+ | referee = Larry Lembo, Jim Rife, John Moreau
+ | TV = CBS
+}}
+
+===Final Four @ Seattle===
+{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game
+ | RD1-seed1=E2
+ | RD1-team1=Duke
+ | RD1-score1=78
+ | RD1-seed2='''W3'''
+ | RD1-team2='''Seton Hall'''
+ | RD1-score2='''95'''
+ | RD1-seed3='''S3'''
+ | RD1-team3='''Michigan'''
+ | RD1-score3='''83'''
+ | RD1-seed4=M1
+ | RD1-team4=Illinois
+ | RD1-score4=81
+ | RD2-seed1=W3
+ | RD2-team1=Seton Hall
+ | RD2-score1=79*
+ | RD2-seed2='''S3'''
+ | RD2-team2='''Michigan'''
+ | RD2-score2='''80'''
+}}
+(* – Denotes Overtime)
+
+===Game summaries===
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, April 1
+ | time = 2:42 PM PST/5:42 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-04-01-duke.html box score]
+ | team1 = '''#W3 Seton Hall Pirates'''
+ | score1 =  '''95'''
+ | team2 = #E2 Duke Blue Devils
+ | score2 = 78
+ | points1 = [[Andrew Gaze|A. Gaze]] – 20
+ | rebounds1 = [[Ramón Ramos|R. Ramos]] – 12
+ | assist1 = G. Greene – 8
+ | otherstat1 =  
+ | points2 = [[Danny Ferry|D. Ferry]] – 34
+ | rebounds2 = [[Danny Ferry|D. Ferry]] – 10
+ | assist2 = [[Phil Henderson (basketball)|P. Henderson]] – 5
+ | otherstat2 = '''Halftime Score:''' Duke, 38-33
+ | place = Kingdome – Seattle, WA
+ | attendance = 39,187
+ | referee = Larry Lembo, Don Rutledge, Ed Hightower
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Saturday, April, 1
+ | time = approx. 5:12 PM PST/8:12 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-04-01-illinois.html box score]
+ | team1 = '''#S3 Michigan Wolverines'''
+ | score1 =  '''83'''
+ | team2 = #M1 Illinois Fighting Illini
+ | score2 = 81
+ | points1 = [[Glen Rice|G. Rice]] – 28
+ | rebounds1 = [[Loy Vaught|L. Vaught]] – 16
+ | assist1 = [[Rumeal Robinson|R. Robinson]] – 12
+ | otherstat1 = 
+ | points2 = [[Kenny Battle|K. Battle]] – 29
+ | rebounds2 = [[Lowell Hamilton|L. Hamilton]] – 9
+ | assist2 = [[Stephen Bardo|S. Bardo]] – 8
+ | otherstat2 = '''Halftime Score:''' Michigan, 39-38
+ | place = Kingdome – Seattle, WA
+ | attendance = 39,187
+ | referee = Ted Hillary, David Jones, Tom Harrington
+ | TV = CBS
+}}
+
+===National Championship===
+{{Main article|1989 NCAA Men's Division I Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, April, 3
+ | time = 6:12 PM PDT/9:12 PM EDT
+ | report = [http://www.sports-reference.com/cbb/boxscores/1989-04-03-michigan.html box score]
+ | team1 = '''#S3 Michigan Wolverines'''
+ | score1 =  '''80'''
+ | team2 = #W3 Seton Hall Pirates
+ | score2 = 79 '''(OT)'''
+ | points1 = [[Glen Rice|G. Rice]] – 34
+ | rebounds1 = [[Glen Rice|G. Rice]] – 11
+ | assist1 = [[Rumeal Robinson|R. Robinson]] – 11
+ | otherstat1 =  
+ | points2 = [[John Morton (basketball)|J. Morton]] – 35
+ | rebounds2 = D. Walker – 11
+ | assist2 = G. Greene – 5
+ | otherstat2 = '''Halftime Score:''' Michigan, 37-32<br />'''End of Regulation:''' 71-71
+ | place = Kingdome – Seattle, WA
+ | attendance = 39,187
+ | referee = Mickey Crowley, Tom Rucker, John Clougherty
+ | TV = CBS
+}}
+
+==Announcers==
+===Television===
+[[CBS Sports]]
+*[[Jim Nantz]] & [[James Brown (TV personality)|James Brown]] served as studio hosts.
+*[[Brent Musburger]] and [[Billy Packer]] – First Round (DePaul–Memphis State) at Boise, Idaho; Second Round at Indianapolis, Indiana and Atlanta, Georgia; East Regionals at East Rutherford, New Jersey; Final Four at Seattle, Washington
+*[[Dick Stockton]] and [[Bill Raftery]] – Second Round at Greensboro, North Carolina and Dallas, Texas; West Regionals at Denver, Colorado
+*[[Tim Brant]] and [[Len Elmore]] – Second Round at Boise, Idaho; Southeast Regionals at Lexington, Kentucky
+*[[Verne Lundquist]] and [[Tom Heinsohn]] – First Round (Louisiana State–UTEP) and Second Round at Tucson, Arizona; Midwest Regionals at Minneapolis, Minnesota
+*[[Steve Zabriskie]] and [[Curry Kirkpatrick]] – Second Round at Nashville, Tennessee
+*[[Greg Gumbel]] and [[Quinn Buckner]] – Second Round at Providence, Rhode Island
+[[ESPN]] and NCAA Productions
+*[[Tim Brando]] (NCAA Tournament Today) and [[John Saunders (journalist)|John Saunders]] (NCAA Tournament Tonight) served as studio hosts and [[Dick Vitale]] served as studio analyst.
+*[[Bob Carpenter (sportscaster)|Bob Carpenter]] and [[Quinn Buckner]] – First Round (South Carolina–North Carolina State) & (Notre Dame–Vanderbilt) at Providence, Rhode Island
+*[[Mike Gorman]] and Ron Perry – First Round (Rutgers–Iowa) & (Princeton–Georgetown) at Providence, Rhode Island
+*[[Mike Patrick]] and [[Dan Bonner]] – First Round (Minnesota–Kansas State) & (South Carolina State–Duke) at Greensboro, North Carolina
+*[[Bob Rathbun]] and Bucky Waters – First Round (Siena–Stanford) & (Tennessee–West Virginia) at Greensboro, North Carolina
+*[[Tom Hammond]] and [[Clark Kellogg]] – First Round (UALR–Louisville) & (Ball State–Pittsburgh) at Indianapolis, Indiana
+*[[Mick Hubert]] and Jim Gibbons – First Round (Loyola Marymount–Arkansas) & (McNeese State–Illinois) at Indianapolis, Indiana
+*[[Ron Franklin]] – First Round (Bucknell–Syracuse) & (Texas–Georgia Tech) at Dallas, Texas
+*Frank Fallon and [[Bob Ortegel]] – First Round (Colorado State–Florida) & (Creighton–Missouri) at Dallas, Texas
+* – First Round (Louisiana Tech–LaSalle) & (Middle Tennessee State–Florida State) at Nashville, Tennessee
+*[[John Sanders (broadcaster)|John Sanders]] and Gary Thompson – First Round (East Tennessee State–Oklahoma) & (Providence–Virginia) at Nashville, Tennessee
+*Ralph Hacker and Dan Belluomini – First Round (Xavier–Michigan) & (Iowa State–UCLA) at Atlanta, Georgia
+*[[Fred White (sportscaster)|Fred White]] and [[Larry Conley]] – First Round (South Alabama–Alabama) & (Southern–North Carolina) at Atlanta, Georgia
+*[[Brad Nessler]] and [[Irv Brown]] – First Round (Robert Morris–Arizona) at Boise, Idaho
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and – First Round (Clemson–Saint Mary's) & (Idaho–UNLV) at Boise, Idaho
+*Pete Solomon and [[Bob Elliott (basketball)|Bob Elliott]] – First Round (Evansville–Oregon State) at Tucson, Arizona
+*[[Barry Tompkins]] and [[Bruce Larson]] – First Round (SW Missouri State–Seton Hall) & (George Mason–Indiana) at Tucson, Arizona
+
+===Radio===
+====First and second rounds====
+[[CBS Radio Network|CBS Radio]]
+====Regionals====
+* – East Regionals at East Rutherford, New Jersey
+* – Midwest Regionals at Minneapolis, Minnesota
+* – Southeast Regionals at Lexington, Kentucky
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and – West Regionals at Denver, Colorado
+
+====Final Four====
+* – at Seattle, Washington
+
+{| class="wikitable"
+|- bgcolor="#efefef"
+!Region
+!Seed
+!Teams
+!Flagship station
+!Play-by-play announcer
+!Color analyst(s)
+|-
+|West
+|3
+|[[1988–89 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[WPAT (AM)|WPAT–AM]] 930
+|
+|
+|}
+
+==See also==
+* [[1989 NCAA Division II Men's Basketball Tournament]]
+* [[1989 NCAA Division III Men's Basketball Tournament]]
+* [[1989 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|1989 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|1989 NCAA Division III Women's Basketball Tournament]]
+* [[1989 National Invitation Tournament]]
+* [[National Women's Invitation Tournament|1989 National Women's Invitation Tournament]]
+* [[1989 NAIA Division I Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|1989 NAIA Division I Women's Basketball Tournament]]
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{1989 Michigan Wolverines men's basketball navbox}}
+
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:1988–89 NCAA Division I men's basketball season|Naia]]
+[[Category:Basketball in the Dallas–Fort Worth metroplex]]
+[[Category:Sports competitions in Seattle]]
+[[Category:March 1989 sports events]]
+[[Category:April 1989 sports events]]
+[[Category:1980s in Seattle]]
+[[Category:1989 in sports in Washington (state)]]
+[[Category:Basketball in Seattle]]

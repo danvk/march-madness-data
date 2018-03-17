@@ -1,0 +1,1874 @@
+{{Use mdy dates|date=March 2017}}
+
+{{Infobox NCAA Basketball Tournament
+| Year = 2017
+| Season = 2016–17
+| Image = 2017 NCAA Men's Final Four logo.svg
+| ImageSize = 200px
+| Caption = 2017 Final Four logo
+| Teams = 68
+| FinalFourArena = [[University of Phoenix Stadium]]
+| FinalFourCity = [[Glendale, Arizona]]
+| Champions = [[2016–17 North Carolina Tar Heels men's basketball team|North Carolina]]
+| TitleCount = 6th
+| ChampGameCount = 11th
+| ChampFFCount = 20th
+| RunnerUp = [[2016–17 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+| GameCount = 1st
+| RunnerFFCount = 1st
+| Semifinal1 = [[2016–17 Oregon Ducks men's basketball team|Oregon]]
+| FinalFourCount = 2nd
+| Semifinal2 = [[2016–17 South Carolina Gamecocks men's basketball team|South Carolina]]
+| FinalFourCount2 = 1st
+| Coach = [[Roy Williams (coach)|Roy Williams]]
+| CoachCount = 3rd
+| MOP = [[Joel Berry II]]
+| MOPTeam = (North Carolina)
+| Attendance = 
+| OneTopScorer = 
+| TwoTopScorers = 
+| TopScorer = 
+| TopScorerTeam = 
+| TopScorer2 = 
+| TopScorer2Team = 
+| Points = 
+}}
+
+The '''2017 NCAA Division I Men's Basketball Tournament''' involved 68 teams playing in a [[single-elimination tournament]] to determine the men's [[National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] [[college basketball]] national champion for the [[2016–17 NCAA Division I men's basketball season|2016–17 season]]. The 79th edition of the tournament began on March 14, 2017, and concluded with the [[2017 NCAA Division I Men's Basketball Championship Game|championship game]] on April 3 at [[University of Phoenix Stadium]] in [[Glendale, Arizona]]. The championship game was the first to be contested in a Western state since [[1995 NCAA Division I Men's Basketball Tournament|1995]] when [[Seattle]] was the host of the Final Four for that year.
+
+In the Final Four, [[2016–17 North Carolina Tar Heels men's basketball team|North Carolina]] beat [[2016–17 Oregon Ducks men's basketball team|Oregon]] (making their first Final Four appearance since [[1939 NCAA Basketball Tournament|1939]])<ref>{{Cite news|url=https://www.si.com/college-basketball/2017/04/01/north-carolina-oregon-final-four-results-recap|title=UNC holds off Oregon, to face Gonzaga in final|last=Woo|first=Jeremy|work=SI.com|access-date=2017-05-05}}</ref> while [[2016–17 Gonzaga Bulldogs men's basketball team|Gonzaga]] defeated [[2016–17 South Carolina Gamecocks men's basketball team|South Carolina]] (both making their first ever Final Four appearance).<ref>{{Cite news|url=http://www.cbssports.com/college-basketball/news/final-four-2017-gonzaga-holds-on-to-beat-south-carolina-advances-to-title-game/|title=Final Four 2017: Gonzaga holds on to beat South Carolina, advances to title game|work=CBSSports.com|access-date=2017-05-05|language=en}}</ref> North Carolina then defeated Gonzaga 71–65 to win the national championship.<ref>{{Cite news|url=https://www.nytimes.com/2017/04/04/sports/ncaabasketball/north-carolina-beats-gonzaga-ncaa-champions.html|title=North Carolina Stops Gonzaga, Turning Heartbreak Into Joy|last=Schonbrun|first=Zach|date=2017-04-04|work=The New York Times|access-date=2017-05-05|issn=0362-4331}}</ref>
+
+==Tournament procedures==
+{{details|NCAA Division I Men's Basketball Tournament#Current tournament format}}
+
+A total of 68 teams entered the 2017 tournament, with all 32 [[List of NCAA conferences|conference]] tournament winners receiving an automatic bid. The [[Ivy League]], which previously granted its automatic tournament bid to its regular season champion, hosted a postseason tournament to determine a conference champion for the first time. In previous years, had the Ivy League had two schools tied for first in the standings, a one-game playoff (or series as was the case in the 2002 season) determined the automatic bid. On March 10, 2016, the Ivy League's council of presidents approved a four-team tournament where the top four teams in the regular season would play on March 11 and 12 at Philadelphia's [[Palestra]].<ref>{{cite press release|title=The Ivy League Adds Men's, Women's Basketball Tournaments Beginning in 2017|url=http://ivyleaguesports.com/information/general_releases/2015-16/releases/The_Ivy_League_Adds_Mens-Womens_Basketball_Tournaments_Beginning_in_2017|publisher=[[Ivy League]]|date=March 10, 2016|accessdate=March 3, 2017|deadurl=yes|archiveurl=https://web.archive.org/web/20160311041901/http://ivyleaguesports.com/information/general_releases/2015-16/releases/The_Ivy_League_Adds_Mens-Womens_Basketball_Tournaments_Beginning_in_2017|archivedate=March 11, 2016|df=mdy-all}}</ref>
+
+The remaining 36 teams received "at-large" bids which are extended by the NCAA [[NCAA basketball tournament selection process|Selection Committee]]. On January 24, 2016, the NCAA announced that the Selection Committee would, for the first time, unveil in-season rankings of the top four teams in each division on February 11, 2017.<ref name="usatoday-earlypreview">{{cite news|last=Auerbach|first=Nicole|title=Midseason March Madness sneak preview should bring positive buzz|url=https://www.usatoday.com/story/sports/ncaab/columnist/nicole-auerbach/2017/01/24/ncaa-tournament-sneak-preview-march-madness-top-16-seeds/96992158/|newspaper=[[USA Today]]|date=January 24, 2017|accessdate=March 3, 2017}}</ref>
+
+Eight teams—the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams—played in the First Four (the successor to what had been known as "[[NCAA Division I Men's Basketball Opening Round game|play-in games]]" through the 2010 tournament). The winners of these games advanced to the main draw of the tournament.
+
+The [[NCAA basketball tournament selection process|Selection Committee]] also seeded the entire field from 1 to 68.<ref>{{cite news|title=March Madness bracket: How the 68 teams are selected for the Division I Men's Basketball Tournament|url=http://www.ncaa.com/news/basketball-men/article/2016-02-18/march-madness-bracket-how-68-teams-are-selected-division-i|publisher=National Collegiate Athletic Association|date=February 18, 2016|accessdate=March 3, 2017}}</ref>
+
+The committee's selections resulted in two historic milestones. The [[Northwestern Wildcats men's basketball|Northwestern Wildcats]] of the [[Big Ten Conference]] made their first-ever NCAA Tournament in school history, officially becoming the last "power conference" school to make the tournament. (This fact is ironic considering that Northwestern hosted the [[1939 NCAA Basketball Tournament|first-ever NCAA Tournament in 1939]]). The Wildcats' First Round opponent, the [[Vanderbilt Commodores men's basketball|Vanderbilt Commodores]] of the [[Southeastern Conference]], also made history: with a record of 19-15, they set the mark for the most ever losses for an at-large team in tournament history.
+
+Four conference champions also made their first NCAA appearances: [[2016–17 North Dakota Fighting Hawks men's basketball team|North Dakota]] ([[Big Sky Conference]]), [[2016–17 UC Davis Aggies men's basketball team|UC Davis]] ([[Big West Conference]]), [[2016–17 Jacksonville State Gamecocks men's basketball team|Jacksonville State]] ([[Ohio Valley Conference]]), and first-year Division I school [[2016–17 Northern Kentucky Norse men's basketball team|Northern Kentucky]] ([[Horizon League]]).
+
+==2017 NCAA Tournament schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=2017 First Four (orange) and First and Second rounds (green)<br><small>Note: Greensboro, North Carolina was originally awarded First and Second round games, but the games were relocated to Greenville, South Carolina due to NCAA objections over [[Public Facilities Privacy & Security Act|HB2]].</small>|places= 
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.7404|lon_deg=-84.1792|position=right|background=#FFFFFF|label=Dayton|link=UD Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.9047|lon_deg=-78.8494|position=left|background=#FFFFFF|label=Buffalo|link=KeyBank Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.0500|lon_deg=-87.9500|position=left|background=#FFFFFF|label=Milwaukee|link=Bradley Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=28.4158|lon_deg=-81.2989|position=left|background=#FFFFFF|label=Orlando|link=Amway Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.7500|lon_deg=-111.8833|position=top|background=#FFFFFF|label=Salt Lake City|link=Vivint Smart Home Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=34.8444|lon_deg=-82.3855|position=left|background=#FFFFFF|label=Greenville|link=Bon Secours Wellness Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.7667|lon_deg=-86.15|position=left|background=#FFFFFF|label=Indianapolis|link=Bankers Life Fieldhouse}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.1314|lon_deg=-95.9372|position=left|background=#FFFFFF|label=Tulsa|link=BOK Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.5556|lon_deg=-121.4689|position=bottom|background=#FFFFFF|label=Sacramento|link=Golden 1 Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2017 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.0997|lon_deg=-94.5783|position=left|background=#FFFFFF|label=Kansas City|link=Sprint Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=37.3330|lon_deg=-121.9|position=right|background=#FFFFFF|label=San Jose|link=SAP Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=35.1174|lon_deg=-89.9711|position=left|background=#FFFFFF|label=Memphis|link=FedExForum}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=40.7283|lon_deg=-73.9942|position=top|background=#FFFFFF|label=New York City|link=Madison Square Garden}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=33.5386|lon_deg=-112.1864|position=left|background=#FFFFFF|label=Glendale|link=University of Phoenix Stadium}}
+}}
+
+The following sites were selected to host each round of the 2017 tournament<ref>{{cite web|url=http://www.ncaa.com/MBBPrelims|title=2016-18 preliminary rounds|date=November 14, 2014|publisher=NCAA}}</ref>
+
+'''First Four'''
+*March 14 and 15
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+'''First and Second Rounds'''
+*March 16 and 18
+** [[Amway Center]], [[Orlando, Florida]] (Hosts: [[University of Central Florida]] and [[Stetson University]])
+** [[Bradley Center]], [[Milwaukee]] (Host: [[Marquette University]])
+** [[KeyBank Center]], [[Buffalo, New York]] (Host: [[Metro Atlantic Athletic Conference]], [[Niagara University]] and [[Canisius College]])
+** [[Vivint Smart Home Arena]], [[Salt Lake City]] (Host: [[University of Utah]])
+*March 17 and 19
+** [[Bankers Life Fieldhouse]], [[Indianapolis]] (Hosts: [[Horizon League]] and [[Indiana University – Purdue University Indianapolis|IUPUI]])
+** [[BOK Center]], [[Tulsa, Oklahoma]] (Host: [[University of Tulsa]]) 
+** [[Bon Secours Wellness Arena]], [[Greenville, South Carolina]], (Hosts: [[Southern Conference]] and [[Furman University]])
+** [[Golden 1 Center]], [[Sacramento, California]] (Host: [[California State University, Sacramento]])
+
+'''Regional Semifinals and Finals''' (Sweet Sixteen and Elite Eight)
+*March 23 and 25
+**'''Midwest Regional''', [[Sprint Center]], [[Kansas City, Missouri]] (Host: [[Big 12 Conference]])
+**'''West Regional''', [[SAP Center]], [[San Jose, California]] (Host: [[Pac-12 Conference]])
+*March 24 and 26
+**'''East Regional''', [[Madison Square Garden]], New York City (Hosts: [[St. John's University (New York City)|St. John's University]] and [[Big East Conference]])
+**'''South Regional''', [[FedExForum]], [[Memphis, Tennessee]] (Host: [[University of Memphis]])
+
+'''National Semifinals and Championship''' (Final Four and Championship)
+*April 1 and 3
+**[[University of Phoenix Stadium]], [[Glendale, Arizona]] (Host: [[Arizona State University]])
+
+The city of Glendale, a Phoenix suburb, became the 30th host city, and the University of Phoenix Stadium became the 39th host venue, to host a Final Four. For the second straight year, no regional games were held in domed stadiums, a move dictated in 2013 by the NCAA to limit use of the stadiums for the regional rounds.<ref>{{cite web|last1=Katz|first1=Andy|title=3-point shot: UConn gets APR on track|url=http://www.espn.com/blog/collegebasketballnation/post/_/id/85451/3-point-shot-uconn-gets-apr-on-track|website=ESPN.com|accessdate=February 23, 2018}}</ref> The tournament featured two new arenas in previously visited markets. For the first time the tournament was held at the Bankers Life Fieldhouse, the home of the [[Indiana Pacers]]. This marks the first time since 1982 that a venue other than the [[RCA Dome]] or [[Lucas Oil Stadium]] hosted games within the city of Indianapolis. It also became the fifth venue within the city to host games, temporarily tying Indianapolis with Houston for the most different venues used within a city; Houston will add a sixth venue when the [[Toyota Center]] hosts games in the 2020 tournament.  The tournament also returned to Sacramento, moving to the brand new Golden 1 Center, home of the [[Sacramento Kings]], replacing [[Sleep Train Arena]] as the city's primary indoor sports venue.  The 2017 tournament marked the last time that the Bradley Center will be used for tournament games, as it is being replaced by the [[Wisconsin Entertainment and Sports Center]] in late 2018. The WESC is scheduled to host the tournament in 2022.
+
+The tournament also saw a shift in location of first round games from [[Greensboro, North Carolina]] to [[Greenville, South Carolina]]. Greensboro originally was awarded First and Second Round games, but the games were relocated due to NCAA objections over [[North Carolina]]'s passage of [[Public Facilities Privacy & Security Act|HB2]]. This was also the first time a South Carolina venue hosted the tournament in 15 years, after the state removed [[Modern display of the Confederate flag#Removal from South Carolina State Capitol|the Confederate battle flag from the South Carolina State House grounds]] in July 2015 and the NCAA implemented a policy of not hosting championship games in the state in response to the display in 2002.
+
+==Qualification and selection==
+{{details|2017 NCAA Division I Men's Basketball Tournament: qualifying teams}}
+
+Eight teams, out of 351 in Division I, were ineligible to participate in the 2017 tournament due to failing to meet [[Academic Progress Rate|APR]] requirements, self-imposed postseason bans, or reclassification from a lower division.{{refn|group=n|name="Ineligible"|These 8 teams are ineligible for the following reasons:
+; [[Academic Progress Rate]]<ref>{{Cite web |title=Division I student-athletes still making gains in APR|url=https://www.ncaa.org/about/resources/media-center/news/division-i-student-athletes-still-making-gains-apr |date=April 20, 2016 |publisher=NCAA}}</ref>
+: [[2016–17 Alcorn State Braves basketball team|Alcorn State]]
+: [[2016–17 Savannah State Tigers men's basketball team|Savannah State]]
+<!--; Other NCAA infractions-->
+; Self-imposed bans
+: [[2016–17 Northern Colorado Bears men's basketball team|Northern Colorado]]<ref>{{Cite news |url=http://www.denverpost.com/2016/10/08/northern-colorado-basketball-penalties/ |title=University of Northern Colorado imposed penalties on itself over NCAA violations |agency=The Associated Press |newspaper=Denver Post |date=October 8, 2016 |access-date=February 28, 2017}}</ref>
+: [[2016–17 Cal State Northridge Matadors men's basketball team|Cal State Northridge]]<ref>{{Cite news |url=http://www.latimes.com/sports/la-sp-csun-basketball-violation-20160108-story.html |title=CSUN admits violations in men's basketball program, self-imposes postseason ban |newspaper=Los Angeles Times |date=January 8, 2016 |access-date=February 28, 2017}}</ref>
+; [[List of schools reclassifying their athletic programs to NCAA Division I|Reclassification]]<ref>{{cite web |title=Multidivision and Reclassifying for 2015–16 |url=https://www.ncaa.org/sites/default/files/DI%20MULTIDIVISION%202015-16.pdf |publisher=NCAA |accessdate=February 27, 2016}}</ref>
+: [[2016–17 Abilene Christian Wildcats men's basketball team|Abilene Christian]]
+: [[2016–17 Grand Canyon Antelopes men's basketball team|Grand Canyon]]
+: [[2016–17 Incarnate Word Cardinals men's basketball team|Incarnate Word]]
+: [[2016–17 UMass Lowell River Hawks men's basketball team|UMass Lowell]]}} [[2016–17 Hawaii Rainbow Warriors basketball team|Hawaii]] had previously been banned from entering the tournament as a penalty for infractions, but the NCAA later reversed its ban.<ref>{{cite web |title=Former Hawaii head men's basketball coach violated NCAA ethical conduct rules |url=http://www.ncaa.com/news/basketball-men/article/2015-12-22/former-hawaii-head-mens-basketball-coach-violated-ncaa |date=December 22, 2015 |publisher=NCAA}}</ref><ref>{{cite web |title=Hawaii men's basketball eligible for postseason after Committee on Infractions reconsideration |url=https://www.ncaa.org/about/resources/media-center/news/hawaii-men-s-basketball-eligible-postseason-after-committee-infractions-reconsideration?division=d1 |date=March 3, 2017 |publisher=NCAA}}</ref>
+
+===Automatic qualifiers===
+The following 32 teams were automatic qualifiers for the 2017 NCAA field by virtue of winning their conference's automatic bid.<ref>{{cite web |title=March Madness 2017: Conference tournament scores, schedule, NCAA tournament automatic qualifiers|url=http://www.ncaa.com/news/basketball-men/article/2017-02-20/march-madness-conference-tournament-schedule-ncaa-tournament |publisher=NCAA |accessdate=February 28, 2017 |date=February 20, 2017}}</ref>
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|align=left|[[2017 America East Men's Basketball Tournament|America East]]
+|align=left|[[2016–17 Vermont Catamounts men's basketball team|Vermont]]
+|6th
+|[[2011–12 Vermont Catamounts men's basketball team|2012]]
+|-
+|align=left|[[2017 American Athletic Conference Men's Basketball Tournament|American]]
+|align=left|[[2016–17 SMU Mustangs men's basketball team|SMU]]
+|12th
+|[[2014–15 SMU Mustangs men's basketball team|2015]]
+|-
+|align=left|[[2017 Atlantic 10 Men's Basketball Tournament|Atlantic 10]]
+|align=left|[[2016–17 Rhode Island Rams men's basketball team|Rhode Island]]
+|9th
+|[[Rhode Island Rams men's basketball|1999]]
+|-
+|align=left|[[2017 ACC Men's Basketball Tournament|ACC]]
+|align=left|[[2016–17 Duke Blue Devils men's basketball team|Duke]]
+|41st
+|[[2015–16 Duke Blue Devils men's basketball team|2016]]
+|-
+|align=left|[[2017 Atlantic Sun Men's Basketball Tournament|Atlantic Sun]]
+|align=left|[[2016–17 Florida Gulf Coast Eagles men's basketball team|Florida Gulf Coast]]
+|3rd
+|[[2015–16 Florida Gulf Coast Eagles men's basketball team|2016]]
+|-
+|align=left|[[2017 Big 12 Men's Basketball Tournament|Big 12]]
+|align=left|[[2016–17 Iowa State Cyclones men's basketball team|Iowa State]]
+|19th
+|[[2015–16 Iowa State Cyclones men's basketball team|2016]]
+|-
+|align=left|[[2017 Big East Men's Basketball Tournament|Big East]]
+|align=left|[[2016–17 Villanova Wildcats men's basketball team|Villanova]]
+|37th
+|[[2015–16 Villanova Wildcats men's basketball team|2016]]
+|-
+|align=left|[[2017 Big Sky Conference Men's Basketball Tournament|Big Sky]]
+|align=left|[[2016–17 North Dakota Fighting Hawks men's basketball team|North Dakota]]
+|1st 
+|Never
+|-
+|align=left|[[2017 Big South Conference Men's Basketball Tournament|Big South]]
+|align=left|[[2016–17 Winthrop Eagles men's basketball team|Winthrop]]
+|10th
+|[[2009–10 Winthrop Eagles men's basketball team|2010]]
+|-
+|align=left|[[2017 Big Ten Conference Men's Basketball Tournament|Big Ten]]
+|align=left|[[2016–17 Michigan Wolverines men's basketball team|Michigan]]
+|27th
+|[[2015–16 Michigan Wolverines men's basketball team|2016]]
+|-
+|align=left|[[2017 Big West Conference Men's Basketball Tournament|Big West]]
+|align=left|[[2016–17 UC Davis Aggies men's basketball team|UC Davis]]
+|1st
+|Never
+|-
+|align=left|[[2017 CAA Men's Basketball Tournament|CAA]]
+|align=left|[[2016–17 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
+|6th
+|[[2015–16 UNC Wilmington Seahawks men's basketball team|2016]]
+|-
+|align=left|[[2017 Conference USA Men's Basketball Tournament|C-USA]]
+|align=left|[[2016–17 Middle Tennessee Blue Raiders men's basketball team|Middle Tennessee]]
+|9th
+|[[2015–16 Middle Tennessee Blue Raiders men's basketball team|2016]]
+|-
+|align=left|[[2017 Horizon League Men's Basketball Tournament|Horizon]]
+|align=left|[[2016–17 Northern Kentucky Norse men's basketball team|Northern Kentucky]]
+|1st
+|Never {{refn|group=a|First year of eligibility for NCAA-sponsored Division I postseason play}}
+|-
+|align=left|[[2017 Ivy League Men's Basketball Tournament|Ivy League]]{{refn|group=a|Inaugural conference tournament}}
+|align=left|[[2016–17 Princeton Tigers men's basketball team|Princeton]]
+|25th
+|[[2010–11 Princeton Tigers men's basketball team|2011]]
+|-
+|align=left|[[2017 MAAC Men's Basketball Tournament|MAAC]]
+|align=left|[[2016–17 Iona Gaels men's basketball team|Iona]]
+|12th
+|[[2015–16 Iona Gaels men's basketball team|2016]]
+|-
+|align=left|[[2017 MAC Men's Basketball Tournament|MAC]]
+|align=left|[[2016–17 Kent State Golden Flashes men's basketball team|Kent State]]
+|6th
+|[[Kent State Golden Flashes men's basketball#NCAA Tournament|2008]]
+|-
+|align=left|[[2017 MEAC Men's Basketball Tournament|MEAC]]
+|align=left|[[2016–17 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+|2nd
+|[[2013–14 North Carolina Central Eagles men's basketball team|2014]]
+|-
+|align=left|[[2017 Missouri Valley Conference Men's Basketball Tournament|Missouri Valley]]
+|align=left|[[2016–17 Wichita State Shockers men's basketball team|Wichita State]]
+|14th
+|[[2015–16 Wichita State Shockers men's basketball team|2016]]
+|-
+|align=left|[[2017 Mountain West Conference Men's Basketball Tournament|Mountain West]]
+|align=left|[[2016–17 Nevada Wolf Pack men's basketball team|Nevada]]
+|7th
+|[[Nevada Wolf Pack men's basketball#NCAA Division I tournament results|2007]]
+|-
+|align=left|[[2017 Northeast Conference Men's Basketball Tournament|NEC]]
+|align=left|[[2016–17 Mount St. Mary's Mountaineers men's basketball team|Mount St. Mary's]]
+|5th
+|[[2013–14 Mount St. Mary's Mountaineers men's basketball team|2014]]
+|-
+|align=left|[[2017 Ohio Valley Conference Men's Basketball Tournament|Ohio Valley]]
+|align=left|[[2016–17 Jacksonville State Gamecocks men's basketball team|Jacksonville State]]
+|1st
+|Never
+|-
+|align=left|[[2017 Pac-12 Conference Men's Basketball Tournament|Pac-12]]
+|align=left|[[2016–17 Arizona Wildcats men's basketball team|Arizona]]
+|34th
+|[[2015–16 Arizona Wildcats men's basketball team|2016]]
+|-
+|align=left|[[2017 Patriot League Men's Basketball Tournament|Patriot]]
+|align=left|[[2016–17 Bucknell Bison men's basketball team|Bucknell]]
+|7th
+|[[2012–13 Bucknell Bison men's basketball team|2013]]
+|-
+|align=left|[[2017 SEC Men's Basketball Tournament|SEC]]
+|align=left|[[2016–17 Kentucky Wildcats men's basketball team|Kentucky]]
+|57th
+|[[2015–16 Kentucky Wildcats men's basketball team|2016]]
+|-
+|align=left|[[2017 Southern Conference Men's Basketball Tournament|Southern]]
+|align=left|[[2016–17 East Tennessee State Buccaneers basketball team|East Tennessee State]]
+|10th
+|[[East Tennessee State Buccaneers basketball#NCAA Division I tournament results|2010]]
+|-
+|align=left|[[2017 Southland Conference Men's Basketball Tournament|Southland]]
+|align=left|[[2016–17 New Orleans Privateers men's basketball team|New Orleans]]
+|5th
+|[[New Orleans Privateers|1996]]
+|-
+|align=left|[[2017 SWAC Men's Basketball Tournament|SWAC]]
+|align=left|[[2016–17 Texas Southern Tigers men's basketball team|Texas Southern]]
+|7th
+|[[2014–15 Texas Southern Tigers basketball team|2015]]
+|-
+|align=left|[[2017 Summit League Men's Basketball Tournament|Summit League]]
+|align=left|[[2016–17 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|4th
+|[[2015–16 South Dakota State Jackrabbits men's basketball team|2016]]
+|-
+|align=left|[[2017 Sun Belt Conference Men's Basketball Tournament|Sun Belt]]
+|align=left|[[2016–17 Troy Trojans men's basketball team|Troy]]
+| 2nd
+|[[Troy Trojans men's basketball|2003]]
+|-
+|align=left|[[2017 West Coast Conference Men's Basketball Tournament|WCC]]
+|align=left|[[2016–17 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|20th
+|[[2015–16 Gonzaga Bulldogs men's basketball team|2016]]
+|-
+|align=left|[[2017 WAC Men's Basketball Tournament|WAC]]
+|align=left|[[2016–17 New Mexico State Aggies men's basketball team|New Mexico State]]
+|23rd
+|[[2014–15 New Mexico State Aggies men's basketball team|2015]]
+|}
+;Notes
+{{reflist|group=a}}
+
+===Tournament seeds===
+{|class="wikitable sortable plainrowheaders"
+|+East Regional – [[Madison Square Garden]], New York City
+|-
+!scope="col"|Seed
+!scope="col"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+!scope="col"|Overall rank
+|-
+|align=center|1
+|[[2016–17 Villanova Wildcats men's basketball team|Villanova]]
+|[[2016–17 Big East Conference men's basketball season|Big East]]
+|align=center|31–3
+|Auto
+|align=center|1
+|-
+|align=center|2
+|[[2016–17 Duke Blue Devils men's basketball team|Duke]]
+|[[2016–17 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|27–8
+|Auto
+|align=center|7
+|-
+|align=center|3
+|[[2016–17 Baylor Bears men's basketball team|Baylor]]
+|[[2016–17 Big 12 Conference men's basketball season|Big 12]]
+|align=center|25–7
+|At-Large
+|align=center|12
+|-
+|align=center|4
+|[[2016–17 Florida Gators men's basketball team|Florida]]
+|[[2016–17 Southeastern Conference men's basketball season|SEC]]
+|align=center|24–8
+|At-Large
+|align=center|14
+|-
+|align=center|5
+|[[2016–17 Virginia Cavaliers men's basketball team|Virginia]]
+|[[2016–17 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|22–10
+|At-Large
+|align=center|17
+|-
+|align=center|6
+|[[2016–17 SMU Mustangs men's basketball team|SMU]]
+|[[2016–17 American Athletic Conference men's basketball season|American]]
+|align=center|30–4
+|Auto
+|align=center|21
+|-
+|align=center|7
+|[[2016–17 South Carolina Gamecocks men's basketball team|South Carolina]]
+|[[2016–17 Southeastern Conference men's basketball season|SEC]]
+|align=center|22–10
+|At-Large
+|align=center|26
+|-
+|align=center|8
+|[[2016–17 Wisconsin Badgers men's basketball team|Wisconsin]]
+|[[2016–17 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|25–9
+|At-Large
+|align=center|29
+|-
+|align=center|9
+|[[2016–17 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+|[[2016–17 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|22–10
+|At-Large
+|align=center|36
+|-
+|align=center|10
+|[[2016–17 Marquette Golden Eagles men's basketball team|Marquette]]
+|[[2016–17 Big East Conference men's basketball season|Big East]]
+|align=center|19–12
+|At-Large
+|align=center|39
+|-
+|rowspan=2 align=center|11*
+|[[2016–17 Providence Friars men's basketball team|Providence]]
+|[[2016–17 Big East Conference men's basketball season|Big East]]
+|align=center|20–12
+|At-Large
+|align=center|42
+|-
+|[[2016–17 USC Trojans men's basketball team|USC]]
+|[[2016–17 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|24–9
+|At-Large
+|align=center|45
+|-
+|align=center|12
+|[[2016–17 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
+|[[2016–17 Colonial Athletic Association men's basketball season|CAA]]
+|align=center|29–5
+|Auto
+|align=center|49
+|-
+|align=center|13
+|[[2016–17 East Tennessee State Buccaneers basketball team|East Tennessee State]]
+|[[Southern Conference|Southern]]
+|align=center|27–7
+|Auto
+|align=center|52
+|-
+|align=center|14
+|[[2016–17 New Mexico State Aggies men's basketball team|New Mexico State]]
+|[[Western Athletic Conference|WAC]]
+|align=center|28–5
+|Auto
+|align=center|55
+|-
+|align=center|15
+|[[2016–17 Troy Trojans men's basketball team|Troy]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|22–14
+|Auto
+|align=center|60
+|-
+|rowspan=2 align=center|16*
+|[[2016–17 Mount St. Mary's Mountaineers men's basketball team|Mount St. Mary's]]
+|[[2016–17 Northeast Conference men's basketball season|NEC]]
+|align=center|19–15
+|Auto
+|align=center|68
+|-
+|[[2016–17 New Orleans Privateers men's basketball team|New Orleans]]
+|[[Southland Conference|Southland]]
+|align=center|20–11
+|Auto
+|align=center|67
+|-
+|}
+
+{|class="wikitable sortable plainrowheaders"
+|+West Regional – [[SAP Center]], [[San Jose, California]]
+|-
+!scope="col"|Seed
+!scope="col"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+!scope="col"|Overall rank
+|-
+|align=center|1
+|[[2016–17 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|[[2016–17 West Coast Conference men's basketball season|WCC]]
+|align=center|32–1
+|Auto
+|align=center|4
+|-
+|align=center|2
+|[[2016–17 Arizona Wildcats men's basketball team|Arizona]]
+|[[2016–17 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|30–4
+|Auto
+|align=center|6
+|-
+|align=center|3
+|[[2016–17 Florida State Seminoles men's basketball team|Florida State]]
+|[[2016–17 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|25–8
+|At-Large
+|align=center|10
+|-
+|align=center|4
+|[[2016–17 West Virginia Mountaineers men's basketball team|West Virginia]]
+|[[2016–17 Big 12 Conference men's basketball season|Big 12]]
+|align=center|26–8
+|At-Large
+|align=center|15
+|-
+|align=center|5
+|[[2016–17 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
+|[[2016–17 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|25–9
+|At-Large
+|align=center|19
+|-
+|align=center|6
+|[[2016–17 Maryland Terrapins men's basketball team|Maryland]]
+|[[2016–17 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|24–8
+|At-Large
+|align=center|23
+|-
+|align=center|7
+|[[2016–17 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+|[[2016–17 West Coast Conference men's basketball season|WCC]]
+|align=center|28–4
+|At-Large
+|align=center|25
+|-
+|align=center|8
+|[[2016–17 Northwestern Wildcats men's basketball team|Northwestern]]
+||[[2016–17 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|23–11
+|At-Large
+|align=center|32
+|-
+|align=center|9
+|[[2016–17 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+|[[2016–17 Southeastern Conference men's basketball season|SEC]]
+|align=center|19–15
+|At-Large
+|align=center|33
+|-
+|align=center|10
+|[[2016–17 VCU Rams men's basketball team|VCU]]
+|[[2016–17 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|26–8
+|At-Large
+|align=center|40
+|-
+|align=center|11
+|[[2016–17 Xavier Musketeers men's basketball team|Xavier]]
+|[[2016–17 Big East Conference men's basketball season|Big East]]
+|align=center|21–13
+|At-Large
+|align=center|41
+|-
+|align=center|12
+|[[2016–17 Princeton Tigers men's basketball team|Princeton]]
+|[[Ivy League]]
+|align=center|23–6
+|Auto
+|align=center|50
+|-
+|align=center|13
+|[[2016–17 Bucknell Bison men's basketball team|Bucknell]]
+|[[Patriot League|Patriot]]
+|align=center|26–8
+|Auto
+|align=center|51
+|-
+|align=center|14
+|[[2016–17 Florida Gulf Coast Eagles men's basketball team|Florida Gulf Coast]]
+|[[2016–17 Atlantic Sun Conference men's basketball season|Atlantic Sun]]
+|align=center|26–7
+|Auto
+|align=center|56
+|-
+|align=center|15
+|[[2016–17 North Dakota Fighting Hawks men's basketball team|North Dakota]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|22–9
+|Auto
+|align=center|62
+|-
+|align=center|16
+|[[2016–17 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|[[Summit League]]
+|align=center|18–16
+|Auto
+|align=center|64
+|-
+|}
+
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional – [[Sprint Center]], [[Kansas City, Missouri]]
+|-
+!scope="col"|Seed
+!scope="col"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+!scope="col"|Overall rank
+|-
+|align=center|1
+|[[2016–17 Kansas Jayhawks men's basketball team|Kansas]]
+|[[2016–17 Big 12 Conference men's basketball season|Big 12]]
+|align=center|28–4
+|At-Large
+|align=center|2
+|-
+|align=center|2
+|[[2016–17 Louisville Cardinals men's basketball team|Louisville]]
+|[[2016–17 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|24–8
+|At-Large
+|align=center|8
+|-
+|align=center|3
+|[[2016–17 Oregon Ducks men's basketball team|Oregon]]
+|[[2016–17 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|29–5
+|At-Large
+|align=center|9
+|-
+|align=center|4
+|[[2016–17 Purdue Boilermakers men's basketball team|Purdue]]
+|[[2016–17 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|25–7
+|At-Large
+|align=center|16
+|-
+|align=center|5
+|[[2016–17 Iowa State Cyclones men's basketball team|Iowa State]]
+|[[2016–17 Big 12 Conference men's basketball season|Big 12]]
+|align=center|23–10
+|Auto
+|align=center|20
+|-
+|align=center|6
+|[[2016–17 Creighton Bluejays men's basketball team|Creighton]]
+|[[2016–17 Big East Conference men's basketball season|Big East]]
+|align=center|25–9
+|At-Large
+|align=center|24
+|-
+|align=center|7
+|[[2016–17 Michigan Wolverines men's basketball team|Michigan]]
+|[[2016–17 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|24–11
+|Auto
+|align=center|27
+|-
+|align=center|8
+|[[2016–17 Miami Hurricanes men's basketball team|Miami (FL)]]
+|[[2016–17 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|21–11
+|At-Large
+|align=center|30
+|-
+|align=center|9
+|[[2016–17 Michigan State Spartans men's basketball team|Michigan State]]
+|[[2016–17 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|19–14
+|At-Large
+|align=center|35
+|-
+|align=center|10
+|[[2016–17 Oklahoma State Cowboys basketball team|Oklahoma State]]
+|[[2016–17 Big 12 Conference men's basketball season|Big 12]]
+|align=center|20–12
+|At-Large
+|align=center|37
+|-
+|align=center|11
+|[[2016–17 Rhode Island Rams men's basketball team|Rhode Island]]
+|[[2016–17 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|24–9
+|Auto
+|align=center|44
+|-
+|align=center|12
+|[[2016–17 Nevada Wolf Pack men's basketball team|Nevada]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|28–6
+|Auto
+|align=center|47
+|-
+|align=center|13
+|[[2016–17 Vermont Catamounts men's basketball team|Vermont]]
+|[[America East Conference|America East]]
+|align=center|29–5
+|Auto
+|align=center|53
+|-
+|align=center|14
+|[[2016–17 Iona Gaels men's basketball team|Iona]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|22–12
+|Auto
+|align=center|58
+|-
+|align=center|15
+|[[2016–17 Jacksonville State Gamecocks men's basketball team|Jacksonville State]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|20–14
+|Auto
+|align=center|61
+|-
+|rowspan=2 align=center|16*
+|[[2016–17 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|align=center|25–8
+|Auto
+|align=center|66
+|-
+|[[2016–17 UC Davis Aggies men's basketball team|UC Davis]]
+|[[Big West Conference|Big West]]
+|align=center|22–12
+|Auto
+|align=center|65
+|-
+|}
+
+{|class="wikitable sortable plainrowheaders"
+|+South Regional – [[FedExForum]], [[Memphis, Tennessee]]
+|-
+!scope="col"|Seed
+!scope="col"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+!scope="col"|Overall rank
+|-
+|align=center|1
+|[[2016–17 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[2016–17 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|27–7
+|At-Large
+|align=center|3
+|-
+|align=center|2
+|[[2016–17 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[2016–17 Southeastern Conference men's basketball season|SEC]]
+|align=center|29–5
+|Auto
+|align=center|5
+|-
+|align=center|3
+|[[2016–17 UCLA Bruins men's basketball team|UCLA]]
+|[[2016–17 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|29–4
+|At-Large
+|align=center|11
+|-
+|align=center|4
+|[[2016–17 Butler Bulldogs men's basketball team|Butler]]
+|[[2016–17 Big East Conference men's basketball season|Big East]]
+|align=center|23–8
+|At-Large
+|align=center|13
+|-
+|align=center|5
+|[[2016–17 Minnesota Golden Gophers men's basketball team|Minnesota]]
+|[[2016–17 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|24–9
+|At-Large
+|align=center|18
+|-
+|align=center|6
+|[[2016–17 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|[[2016–17 American Athletic Conference men's basketball season|American]]
+|align=center|29–5
+|At-Large
+|align=center|22
+|-
+|align=center|7
+|[[2016–17 Dayton Flyers men's basketball team|Dayton]]
+|[[2016–17 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|24–7
+|At-Large
+|align=center|28
+|-
+|align=center|8
+|[[2016–17 Arkansas Razorbacks men's basketball team|Arkansas]]
+|[[2016–17 Southeastern Conference men's basketball season|SEC]]
+|align=center|25–9
+|At-Large
+|align=center|31
+|-
+|align=center|9
+|[[2016–17 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[2016–17 Big East Conference men's basketball season|Big East]]
+|align=center|21–11
+|At-Large
+|align=center|34
+|-
+|align=center|10
+|[[2016–17 Wichita State Shockers men's basketball team|Wichita State]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|30–4
+|Auto
+|align=center|38
+|-
+|rowspan=2 align=center|11*
+|[[2016–17 Kansas State Wildcats men's basketball team|Kansas State]]
+|[[2016–17 Big 12 Conference men's basketball season|Big 12]]
+|align=center|20–13
+|At-Large
+|align=center|46
+|-
+|[[2016–17 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+|[[2016–17 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|19–13
+|At-Large
+|align=center|43
+|-
+|align=center|12
+|[[2016–17 Middle Tennessee Blue Raiders men's basketball team|Middle Tennessee]]
+|[[2016–17 Conference USA men's basketball season|Conference USA]]
+|align=center|30–4
+|Auto
+|align=center|48
+|-
+|align=center|13
+|[[2016–17 Winthrop Eagles men's basketball team|Winthrop]]
+|[[Big South Conference|Big South]]
+|align=center|26–6
+|Auto
+|align=center|54
+|-
+|align=center|14
+|[[2016–17 Kent State Golden Flashes men's basketball team|Kent State]]
+|[[Mid-American Conference|MAC]]
+|align=center|22–13
+|Auto
+|align=center|57
+|-
+|align=center|15
+|[[2016–17 Northern Kentucky Norse men's basketball team|Northern Kentucky]]
+|[[Horizon League|Horizon]]
+|align=center|24–10
+|Auto
+|align=center|59
+|-
+|align=center|16
+|[[2016–17 Texas Southern Tigers men's basketball team|Texas Southern]]
+|[[Southwestern Athletic Conference|SWAC]]
+|align=center|23–11
+|Auto
+|align=center|63
+|-
+|}
+
+<nowiki>*</nowiki>See [[#First Four – Dayton, Ohio|First Four]]
+
+==Bracket==
+All times are listed as [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4:00|UTC−4]])<br>
+<nowiki>*</nowiki> – Denotes overtime period
+
+===First Four – Dayton, Ohio===
+{{align|left|{{2TeamBracket | RD1= March 14 – East Region
+| team-width = 150
+| RD1-seed1='''16'''
+| RD1-team1='''[[2016–17 Mount St. Mary's Mountaineers men's basketball team|Mount St. Mary's]]'''
+| RD1-score1='''67'''
+| RD1-seed2=16 
+| RD1-team2=[[2016–17 New Orleans Privateers men's basketball team|New Orleans]]
+| RD1-score2=66
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 14 – South Region
+| team-width = 150
+| RD1-seed1=11
+| RD1-team1='''[[2016–17 Kansas State Wildcats men's basketball team|Kansas State]]'''
+| RD1-score1='''95'''
+| RD1-seed2=11
+| RD1-team2=[[2016–17 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+| RD1-score2=88
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 15 – Midwest Region
+| team-width = 150
+| RD1-seed1=16
+| RD1-team1=[[2016–17 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+| RD1-score1=63
+| RD1-seed2=16
+| RD1-team2='''[[2016–17 UC Davis Aggies men's basketball team|UC Davis]]'''
+| RD1-score2='''67'''
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 15 – East Region
+| team-width = 150
+| RD1-seed1=11
+| RD1-team1=[[2016–17 Providence Friars men's basketball team|Providence]]
+| RD1-score1=71
+| RD1-seed2=11
+| RD1-team2='''[[2016–17 USC Trojans men's basketball team|USC]]'''
+| RD1-score2='''75'''
+}}}}{{clear left}}
+
+===East Regional – New York City, New York===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 16–17
+| RD2=Second Round<br />Round of 32<br />March 18–19
+| RD3=Regional Semifinals<br />Sweet 16<br />March 24
+| RD4=Regional Final<br />Elite 8<br />March 26
+| subgroup1=[[KeyBank Center|Buffalo]] – Thu/Sat
+| subgroup2=[[Amway Center|Orlando]] – Thu/Sat
+| subgroup3=[[BOK Center|Tulsa]] – Fri/Sun
+| subgroup4=[[Bon Secours Wellness Arena|Greenville]] – Fri/Sun
+| RD1-seed01='''1'''
+| RD1-team01='''[[2016–17 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-score01='''76'''
+| RD1-seed02=16
+| RD1-team02=[[2016–17 Mount St. Mary's Mountaineers men's basketball team|Mount St. Mary's]]
+| RD1-score02=56
+
+| RD1-seed03='''8'''
+| RD1-team03='''[[2016–17 Wisconsin Badgers men's basketball team|Wisconsin]]'''
+| RD1-score03='''84'''
+| RD1-seed04=9
+| RD1-team04=[[2016–17 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+| RD1-score04=74
+
+| RD1-seed05='''5'''
+| RD1-team05='''[[2016–17 Virginia Cavaliers men's basketball team|Virginia]]'''
+| RD1-score05='''76'''
+| RD1-seed06=12
+| RD1-team06=[[2016–17 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
+| RD1-score06=71
+
+| RD1-seed07='''4'''
+| RD1-team07='''[[2016–17 Florida Gators men's basketball team|Florida]]'''
+| RD1-score07='''80'''
+| RD1-seed08=13
+| RD1-team08=[[2016–17 East Tennessee State Buccaneers basketball team|East Tennessee State]]
+| RD1-score08=65
+
+| RD1-seed09=6
+| RD1-team09=[[2016–17 SMU Mustangs men's basketball team|SMU]]
+| RD1-score09=65
+| RD1-seed10='''11'''
+| RD1-team10='''[[2016–17 USC Trojans men's basketball team|USC]]'''
+| RD1-score10='''66'''
+
+| RD1-seed11='''3'''
+| RD1-team11='''[[2016–17 Baylor Bears men's basketball team|Baylor]]'''
+| RD1-score11='''91'''
+| RD1-seed12=14
+| RD1-team12=[[2016–17 New Mexico State Aggies men's basketball team|New Mexico State]]
+| RD1-score12=73
+
+| RD1-seed13='''7'''
+| RD1-team13='''[[2016–17 South Carolina Gamecocks men's basketball team|South Carolina]]'''
+| RD1-score13='''93'''
+| RD1-seed14=10
+| RD1-team14=[[2016–17 Marquette Golden Eagles men's basketball team|Marquette]]
+| RD1-score14=73
+
+| RD1-seed15='''2'''
+| RD1-team15='''[[2016–17 Duke Blue Devils men's basketball team|Duke]]'''
+| RD1-score15='''87'''
+| RD1-seed16=15
+| RD1-team16=[[2016–17 Troy Trojans men's basketball team|Troy]]
+| RD1-score16=65
+
+| RD2-seed01=1
+| RD2-team01=Villanova
+| RD2-score01=62
+| RD2-seed02='''8'''
+| RD2-team02='''Wisconsin'''
+| RD2-score02='''65'''
+
+| RD2-seed03=5
+| RD2-team03=Virginia
+| RD2-score03=39
+| RD2-seed04='''4'''
+| RD2-team04='''Florida'''
+| RD2-score04='''65'''
+
+| RD2-seed05=11
+| RD2-team05=USC
+| RD2-score05=78
+| RD2-seed06='''3'''
+| RD2-team06='''Baylor'''
+| RD2-score06='''82'''
+
+| RD2-seed07='''7'''
+| RD2-team07='''South Carolina'''
+| RD2-score07='''88'''
+| RD2-seed08=2
+| RD2-team08=Duke
+| RD2-score08=81
+
+| RD3-seed01=8
+| RD3-team01=Wisconsin
+| RD3-score01=83
+| RD3-seed02='''4'''
+| RD3-team02='''Florida'''
+| RD3-score02='''84*'''
+
+| RD3-seed03=3
+| RD3-team03=Baylor
+| RD3-score03=50
+| RD3-seed04='''7'''
+| RD3-team04='''South Carolina'''
+| RD3-score04='''70'''
+
+| RD4-seed01=4
+| RD4-team01=Florida
+| RD4-score01=70
+| RD4-seed02='''7'''
+| RD4-team02='''South Carolina'''
+| RD4-score02='''77'''
+}}
+
+====East Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 26
+ | time = 2:20 pm [[Eastern Daylight Time|EDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2017/03/26/south-carolina-florida/boxscore Box score]
+ | team1 = '''#7 South Carolina Gamecocks'''
+ | score1 = '''77'''
+ | team2 = #4 Florida Gators
+ | score2 = 70
+ | points1 = [[Sindarius Thornwell|S. Thornwell]] – 26
+ | rebounds1 = [[Chris Silva|C. Silva]] – 9
+ | assist1 = D. Notice – 3
+ | otherstat1 = 
+ | points2 = J. Leon – 18
+ | rebounds2 = K. Hayes – 8
+ | assist2 = [[Kasey Hill|K. Hill]] – 5
+ | H1 = 33–40
+ | H2 = 44–30
+ | place = Madison Square Garden – New York City
+ | attendance = 20,047
+ | referee = Ron Groover, Jeffrey Anderson, Mike Eades
+ | TV = CBS
+}}
+
+====East Regional all tournament team====
+* [[Sindarius Thornwell]] (Sr, South Carolina) – East Regional most outstanding player<ref name=ereg>{{cite web|url=https://www.seccountry.com/sec/south-carolina-florida-dominate-east-region-team|title=South Carolina, Florida dominate All-East Region team|author=Andrew Astleford|date=March 26, 2017|work=SECCountry.com|accessdate=March 26, 2017}}</ref>
+* [[P. J. Dozier]] (So, South Carolina)<ref name=ereg/>
+* KeVaughn Allen (So, Florida)<ref name=ereg/>
+* Chris Chiozza (Jr, Florida)<ref name=ereg/>
+* [[Nigel Hayes]] (Sr, Wisconsin)<ref name=ereg/>
+
+===West Regional – San Jose, California===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 16
+| RD2=Second Round<br />Round of 32<br />March 18
+| RD3=Regional Semifinals<br />Sweet 16<br />March 23
+| RD4=Regional Final<br />Elite 8<br />March 25
+| subgroup1=[[Vivint Smart Home Arena|Salt Lake City]] – Thu/Sat
+| subgroup2=[[KeyBank Center|Buffalo]] – Thu/Sat
+| subgroup3=[[Amway Center|Orlando]] – Thu/Sat
+| subgroup4=[[Vivint Smart Home Arena|Salt Lake City]] – Thu/Sat
+| RD1-seed01='''1'''
+| RD1-team01='''[[2016–17 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-score01='''66'''
+| RD1-seed02=16
+| RD1-team02=[[2016–17 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+| RD1-score02=46
+
+| RD1-seed03='''8'''
+| RD1-team03='''[[2016–17 Northwestern Wildcats men's basketball team|Northwestern]]'''
+| RD1-score03='''68'''
+| RD1-seed04=9
+| RD1-team04=[[2016–17 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+| RD1-score04=66
+
+| RD1-seed05='''5'''
+| RD1-team05='''[[2016–17 Notre Dame Fighting Irish men's basketball team|Notre Dame]]'''
+| RD1-score05='''60'''
+| RD1-seed06=12
+| RD1-team06=[[2016–17 Princeton Tigers men's basketball team|Princeton]]
+| RD1-score06=58
+
+| RD1-seed07='''4'''
+| RD1-team07='''[[2016–17 West Virginia Mountaineers men's basketball team|West Virginia]]'''
+| RD1-score07='''86'''
+| RD1-seed08=13
+| RD1-team08=[[2016–17 Bucknell Bison men's basketball team|Bucknell]]
+| RD1-score08=80
+
+| RD1-seed09=6
+| RD1-team09=[[2016–17 Maryland Terrapins men's basketball team|Maryland]]
+| RD1-score09=65
+| RD1-seed10='''11'''
+| RD1-team10='''[[2016–17 Xavier Musketeers men's basketball team|Xavier]]'''
+| RD1-score10='''76'''
+
+| RD1-seed11='''3'''
+| RD1-team11='''[[2016–17 Florida State Seminoles men's basketball team|Florida State]]'''
+| RD1-score11='''86'''
+| RD1-seed12=14
+| RD1-team12=[[2016–17 Florida Gulf Coast Eagles men's basketball team|Florida Gulf Coast]]
+| RD1-score12=80
+
+| RD1-seed13='''7'''
+| RD1-team13='''[[2016–17 Saint Mary's Gaels men's basketball team|Saint Mary's]]'''
+| RD1-score13='''85'''
+| RD1-seed14=10
+| RD1-team14=[[2016–17 VCU Rams men's basketball team|VCU]]
+| RD1-score14=77
+
+| RD1-seed15='''2'''
+| RD1-team15='''[[2016–17 Arizona Wildcats men's basketball team|Arizona]]'''
+| RD1-score15='''100'''
+| RD1-seed16=15
+| RD1-team16=[[2016–17 North Dakota Fighting Hawks men's basketball team|North Dakota]]
+| RD1-score16=82
+
+| RD2-seed01='''1'''
+| RD2-team01='''Gonzaga'''
+| RD2-score01='''79'''
+| RD2-seed02=8
+| RD2-team02=Northwestern
+| RD2-score02=73
+
+| RD2-seed03=5
+| RD2-team03=Notre Dame
+| RD2-score03=71
+| RD2-seed04='''4'''
+| RD2-team04='''West Virginia'''
+| RD2-score04='''83'''
+
+| RD2-seed05='''11'''
+| RD2-team05='''Xavier'''
+| RD2-score05='''91'''
+| RD2-seed06=3
+| RD2-team06=Florida State
+| RD2-score06=66
+
+| RD2-seed07=7
+| RD2-team07=Saint Mary's
+| RD2-score07=60
+| RD2-seed08='''2'''
+| RD2-team08='''Arizona'''
+| RD2-score08='''69'''
+
+| RD3-seed01='''1'''
+| RD3-team01='''Gonzaga'''
+| RD3-score01='''61'''
+| RD3-seed02=4
+| RD3-team02=West Virginia
+| RD3-score02=58
+
+| RD3-seed03='''11'''
+| RD3-team03='''Xavier'''
+| RD3-score03='''73'''
+| RD3-seed04=2
+| RD3-team04=Arizona
+| RD3-score04=71
+
+| RD4-seed01='''1'''
+| RD4-team01='''Gonzaga'''
+| RD4-score01='''83'''
+| RD4-seed02=11
+| RD4-team02=Xavier
+| RD4-score02=59
+}}
+
+====West Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 25
+ | time = 3:09 pm [[Pacific Daylight Time|PDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2017/03/25/xavier-gonzaga/boxscore Box score]
+ | team1 = #11 Xavier Musketeers
+ | score1 = 59
+ | team2 = '''#1 Gonzaga Bulldogs'''
+ | score2 = '''83'''
+ | points1 = J.P. Macura – 18
+ | rebounds1 = K. Gates, [[Trevon Bluiett|T. Bluiett]] – 7
+ | assist1 = J.P. Macura, Q. Goodin – 2
+ | otherstat1 = 
+ | points2 = [[Nigel Williams-Goss|N. Williams-Goss]] – 23
+ | rebounds2 = N. Williams-Goss – 8
+ | assist2 = N. Williams-Goss – 4
+ | H1 = 39–49
+ | H2 = 20–34
+ | place = SAP Center – San Jose, California
+ | attendance = 17,011
+ | referee = James Breeding, Kipp Kissinger, Michael Stephens
+ | TV = TBS
+}}
+
+====West Regional all tournament team====
+* [[Johnathan Williams]] (Jr, Gonzaga) – West Regional most outstanding player<ref name="West all-tournament">{{cite news|url=http://www.spokesman.com/stories/2017/mar/25/johnathan-williams-was-the-best-in-the-west/ |title=Johnathan Williams was the Best in the West |first=Jacob |last=Thorpe |newspaper=[[The Spokesman-Review]] |location=[[Spokane, Washington]] |date=March 25, 2017 |accessdate=March 26, 2017}}</ref>
+* [[Trevon Bluiett]] (Jr, Xavier)<ref name="West all-tournament"/>
+* J. P. Macura (Jr, Xavier)<ref name="West all-tournament"/>
+* Jordan Mathews (Sr, Gonzaga)<ref name="West all-tournament"/>
+* [[Nigel Williams-Goss]] (Jr, Gonzaga)<ref name="West all-tournament"/>
+
+===Midwest Regional – Kansas City, Missouri===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 16–17
+| RD2=Second Round<br />Round of 32<br />March 18–19
+| RD3=Regional Semifinals<br />Sweet 16<br />March 23
+| RD4=Regional Final<br />Elite 8<br />March 25
+| subgroup1=[[BOK Center|Tulsa]] – Fri/Sun
+| subgroup2=[[Bradley Center|Milwaukee]] – Thu/Sat
+| subgroup3=[[Golden 1 Center|Sacramento]] – Fri/Sun
+| subgroup4=[[Bankers Life Fieldhouse|Indianapolis]] – Fri/Sun
+| RD1-seed01='''1'''
+| RD1-team01='''[[2016–17 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-score01='''100'''
+| RD1-seed02=16
+| RD1-team02=[[2016–17 UC Davis Aggies men's basketball team|UC Davis]]
+| RD1-score02=62
+
+| RD1-seed03=8
+| RD1-team03=[[2016–17 Miami Hurricanes men's basketball team|Miami (FL)]]
+| RD1-score03=58
+| RD1-seed04='''9'''
+| RD1-team04='''[[2016–17 Michigan State Spartans men's basketball team|Michigan State]]'''
+| RD1-score04='''78'''
+
+| RD1-seed05='''5'''
+| RD1-team05='''[[2016–17 Iowa State Cyclones men's basketball team|Iowa State]]'''
+| RD1-score05='''84'''
+| RD1-seed06=12
+| RD1-team06=[[2016–17 Nevada Wolf Pack men's basketball team|Nevada]]
+| RD1-score06=73
+
+| RD1-seed07='''4'''
+| RD1-team07='''[[2016–17 Purdue Boilermakers men's basketball team|Purdue]]'''
+| RD1-score07='''80'''
+| RD1-seed08=13
+| RD1-team08=[[2016–17 Vermont Catamounts men's basketball team|Vermont]]
+| RD1-score08=70
+
+| RD1-seed09=6
+| RD1-team09=[[2016–17 Creighton Bluejays men's basketball team|Creighton]]
+| RD1-score09=72
+| RD1-seed10='''11'''
+| RD1-team10='''[[2016–17 Rhode Island Rams men's basketball team|Rhode Island]]'''
+| RD1-score10='''84'''
+
+| RD1-seed11='''3'''
+| RD1-team11='''[[2016–17 Oregon Ducks men's basketball team|Oregon]]'''
+| RD1-score11='''93'''
+| RD1-seed12=14
+| RD1-team12=[[2016–17 Iona Gaels men's basketball team|Iona]]
+| RD1-score12=77
+
+| RD1-seed13='''7'''
+| RD1-team13='''[[2016–17 Michigan Wolverines men's basketball team|Michigan]]'''
+| RD1-score13='''92'''
+| RD1-seed14=10
+| RD1-team14=[[2016–17 Oklahoma State Cowboys basketball team|Oklahoma State]]
+| RD1-score14=91
+
+| RD1-seed15='''2'''
+| RD1-team15='''[[2016–17 Louisville Cardinals men's basketball team|Louisville]]'''
+| RD1-score15='''78'''
+| RD1-seed16=15
+| RD1-team16=[[2016–17 Jacksonville State Gamecocks men's basketball team|Jacksonville State]]
+| RD1-score16=63
+
+| RD2-seed01='''1'''
+| RD2-team01='''Kansas'''
+| RD2-score01='''90'''
+| RD2-seed02=9
+| RD2-team02=Michigan State
+| RD2-score02=70
+
+| RD2-seed03=5
+| RD2-team03=Iowa State
+| RD2-score03=76
+| RD2-seed04='''4'''
+| RD2-team04='''Purdue'''
+| RD2-score04='''80'''
+
+| RD2-seed05=11
+| RD2-team05=Rhode Island
+| RD2-score05=72
+| RD2-seed06='''3'''
+| RD2-team06='''Oregon''' 
+| RD2-score06='''75'''
+
+| RD2-seed07='''7'''
+| RD2-team07='''Michigan'''
+| RD2-score07='''73'''
+| RD2-seed08=2
+| RD2-team08=Louisville
+| RD2-score08=69
+
+| RD3-seed01='''1'''
+| RD3-team01='''Kansas'''
+| RD3-score01='''98'''
+| RD3-seed02=4
+| RD3-team02=Purdue
+| RD3-score02=66
+
+| RD3-seed03='''3'''
+| RD3-team03='''Oregon'''
+| RD3-score03='''69'''
+| RD3-seed04=7
+| RD3-team04=Michigan
+| RD3-score04=68
+
+| RD4-seed01=1
+| RD4-team01=Kansas
+| RD4-score01=60
+| RD4-seed02='''3'''
+| RD4-team02='''Oregon'''
+| RD4-score02='''74'''
+}}
+
+====Midwest Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 25
+ | time = 7:49 pm [[Central Daylight Time|CDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2017/03/25/oregon-kansas/boxscore Box score]
+ | team1 = '''#3 Oregon Ducks'''
+ | score1 = '''74'''
+ | team2 = #1 Kansas Jayhawks
+ | score2 = 60
+ | points1 = [[Tyler Dorsey|T. Dorsey]] – 27
+ | rebounds1 = [[Jordan Bell|J. Bell]] – 13
+ | assist1 = J. Bell, [[Dillon Brooks|D. Brooks]] – 4
+ | otherstat1 = 
+ | points2 = [[Frank Mason III|F. Mason III]] – 21
+ | rebounds2 = [[Josh Jackson (basketball)|J. Jackson]] – 12
+ | assist2 = J. Jackson – 5
+ | H1 = 44–33
+ | H2 = 30–27
+ | place = Sprint Center – Kansas City, Missouri
+ | attendance = 18,643
+ | referee = Randy McCall, Terry Oglesby, [[Ted Valentine]]
+ | TV = TBS
+}}
+
+====Midwest Regional all tournament team====
+* [[Jordan Bell]] (Jr., Oregon) – Midwest Regional most outstanding player<ref name=mw>{{cite web|url=http://www.kansascity.com/sports/college/ncaa/article140847653.html|title=KU's Frank Mason and Josh Jackson make NCAA All-Midwest Regional team|author=Shane Keyser|date=March 25, 2017|work=[[Kansas City Star]]|accessdate=March 26, 2017}}</ref>
+* [[Frank Mason III]] (Sr, Kansas)<ref name=mw/>
+* [[Dillon Brooks]] (Jr, Oregon)<ref name=mw/>
+* [[Tyler Dorsey]] (So., Oregon)<ref name=mw/>
+* [[Josh Jackson (basketball)|Josh Jackson]] (Fr, Kansas)<ref name=mw/>
+
+===South Regional – Memphis, Tennessee===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 16–17
+| RD2=Second Round<br />Round of 32<br />March 18–19
+| RD3=Regional Semifinals<br />Sweet 16<br />March 24
+| RD4=Regional Final<br />Elite 8<br />March 26
+| subgroup1=[[Bon Secours Wellness Arena|Greenville]] – Fri/Sun
+| subgroup2=[[Bradley Center|Milwaukee]] – Thu/Sat
+| subgroup3=[[Golden 1 Center|Sacramento]] – Fri/Sun
+| subgroup4=[[Bankers Life Fieldhouse|Indianapolis]] – Fri/Sun
+| RD1-seed01='''1'''
+| RD1-team01='''[[2016–17 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score01='''103'''
+| RD1-seed02=16
+| RD1-team02=[[2016–17 Texas Southern Tigers men's basketball team|Texas Southern]]
+| RD1-score02=64
+
+| RD1-seed03='''8'''
+| RD1-team03='''[[2016–17 Arkansas Razorbacks men's basketball team|Arkansas]]
+| RD1-score03='''77'''
+| RD1-seed04=9
+| RD1-team04=[[2016–17 Seton Hall Pirates men's basketball team|Seton Hall]]
+| RD1-score04=71
+
+| RD1-seed05=5
+| RD1-team05=[[2016–17 Minnesota Golden Gophers men's basketball team|Minnesota]]
+| RD1-score05=72
+| RD1-seed06='''12'''
+| RD1-team06='''[[2016–17 Middle Tennessee Blue Raiders men's basketball team|Middle Tennessee]]'''
+| RD1-score06='''81'''
+
+| RD1-seed07='''4'''
+| RD1-team07='''[[2016–17 Butler Bulldogs men's basketball team|Butler]]'''
+| RD1-score07='''76'''
+| RD1-seed08=13
+| RD1-team08=[[2016–17 Winthrop Eagles men's basketball team|Winthrop]]
+| RD1-score08=64
+
+| RD1-seed09='''6'''
+| RD1-team09='''[[2016–17 Cincinnati Bearcats men's basketball team|Cincinnati]]'''
+| RD1-score09='''75'''
+| RD1-seed10=11
+| RD1-team10=[[2016–17 Kansas State Wildcats men's basketball team|Kansas State]]
+| RD1-score10=61
+
+| RD1-seed11='''3'''
+| RD1-team11='''[[2016–17 UCLA Bruins men's basketball team|UCLA]]'''
+| RD1-score11='''97'''
+| RD1-seed12=14
+| RD1-team12=[[2016–17 Kent State Golden Flashes men's basketball team|Kent State]]
+| RD1-score12=80
+
+| RD1-seed13=7
+| RD1-team13=[[2016–17 Dayton Flyers men's basketball team|Dayton]]
+| RD1-score13=58
+| RD1-seed14='''10'''
+| RD1-team14='''[[2016–17 Wichita State Shockers men's basketball team|Wichita State]]'''
+| RD1-score14='''64'''
+
+| RD1-seed15='''2'''
+| RD1-team15='''[[2016–17 Kentucky Wildcats men's basketball team|Kentucky]]'''
+| RD1-score15='''79'''
+| RD1-seed16=15
+| RD1-team16=[[2016–17 Northern Kentucky Norse men's basketball team|Northern Kentucky]]
+| RD1-score16=70
+
+| RD2-seed01='''1'''
+| RD2-team01='''North Carolina'''
+| RD2-score01='''72'''
+| RD2-seed02=8
+| RD2-team02=Arkansas
+| RD2-score02=65
+
+| RD2-seed03=12
+| RD2-team03=Middle Tennessee
+| RD2-score03=65
+| RD2-seed04='''4'''
+| RD2-team04='''Butler'''
+| RD2-score04='''74'''
+
+| RD2-seed05=6
+| RD2-team05=Cincinnati
+| RD2-score05=67
+| RD2-seed06='''3'''
+| RD2-team06='''UCLA'''
+| RD2-score06='''79'''
+
+| RD2-seed07=10
+| RD2-team07=Wichita State
+| RD2-score07=62
+| RD2-seed08='''2'''
+| RD2-team08='''Kentucky'''
+| RD2-score08='''65'''
+
+| RD3-seed01='''1'''
+| RD3-team01='''North Carolina'''
+| RD3-score01='''92'''
+| RD3-seed02=4
+| RD3-team02=Butler
+| RD3-score02=80
+
+| RD3-seed03=3
+| RD3-team03=UCLA
+| RD3-score03=75
+| RD3-seed04='''2'''
+| RD3-team04='''Kentucky'''
+| RD3-score04='''86'''
+
+| RD4-seed01='''1'''
+| RD4-team01='''North Carolina'''
+| RD4-score01='''75'''
+| RD4-seed02=2
+| RD4-team02=Kentucky
+| RD4-score02=73
+}}
+
+====South Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 26
+ | time = 4:05 pm [[Central Daylight Time|CDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2017/03/26/kentucky-north-carolina/boxscore Box score]
+ | team1 = #2 Kentucky Wildcats
+ | score1 = 73
+ | team2 = '''#1 North Carolina Tar Heels'''
+ | score2 = '''75'''
+ | points1 = [[Edrice Adebayo|E. Adebayo]], [[De'Aaron Fox|D. Fox]] – 13
+ | rebounds1 = E. Adebayo – 7
+ | assist1 = [[Isaiah Briscoe|I. Briscoe]] – 8
+ | otherstat1 = 
+ | points2 = [[Justin Jackson (basketball, born 1995)|J. Jackson]] – 19
+ | rebounds2 = [[Kennedy Meeks|K. Meeks]] – 17
+ | assist2 = J. Jackson – 4
+ | H1 = 33–38
+ | H2 = 40–37
+ | place = FedExForum – Memphis, Tennessee
+ | attendance = 16,412
+ | referee = John Higgins, Keith Kimble, Mike Reed
+ | TV = CBS
+}}
+
+====South Regional all tournament team====
+* [[Luke Maye]] (So., North Carolina) – South Regional most outstanding player<ref name="South all-tournament">{{cite web|url=http://www.kentucky.com/sports/college/kentucky-sports/uk-basketball-men/article140952493.html|title=Fox on UK's foul trouble: ‘I’m not blaming the officials, man’|author=Jerry Tipton|date=March 26, 2017|work=[[Lexington Herald-Leader]]|accessdate=March 27, 2017}}</ref>
+* [[De'Aaron Fox]] (Fr, Kentucky)<ref name="South all-tournament"/>
+* [[Isaac Humphries]] (So., Kentucky)<ref name="South all-tournament"/>
+* [[Joel Berry II]] (Jr, North Carolina)<ref name="South all-tournament"/>
+* [[Justin Jackson (basketball, born 1995)|Justin Jackson]] (Jr, North Carolina)<ref name="South all-tournament"/>
+
+==Final four==
+[[File:Glendale-University of Phoenix Stadium.jpg|250px|thumb|right|[[University of Phoenix Stadium]], the site of the 2017 Final Four]]
+During the Final Four round, regardless of the seeds of the participating teams, the champion of the top overall top seed's region (Villanova's East Region) plays against the champion of the fourth-ranked top seed's region (Gonzaga's West Region), and the champion of the second overall top seed's region (Kansas's Midwest Region) plays against the champion of the third-ranked top seed's region (North Carolina's South Region).
+
+===University of Phoenix Stadium – Glendale, Arizona===
+
+{{4TeamBracket
+| RD1=National Semifinals<br />April 1
+| RD2=National Championship Game<br />April 3
+| score-width=25
+| team-width=130
+| RD1-seed1=E7
+| RD1-team1=[[2016–17 South Carolina Gamecocks men's basketball team|South Carolina]]
+| RD1-score1=73
+| RD1-seed2='''W1'''
+| RD1-team2='''[[2016–17 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-score2='''77'''
+
+| RD1-seed3=MW3
+| RD1-team3=[[2016–17 Oregon Ducks men's basketball team|Oregon]]
+| RD1-score3=76
+| RD1-seed4='''S1'''
+| RD1-team4='''[[2016–17 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score4='''77'''
+
+| RD2-seed1=W1
+| RD2-team1=Gonzaga
+| RD2-score1=65
+| RD2-seed2='''S1'''
+| RD2-team2='''North Carolina'''
+| RD2-score2='''71'''
+}}
+
+====Final four====
+
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, April 1
+ | time = 3:09 pm [[Mountain Time Zone|MST]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2017/04/01/south-carolina-gonzaga/boxscore Box score]
+ | team1 = #7 South Carolina Gamecocks
+ | score1 = 73
+ | team2 = '''#1 Gonzaga Bulldogs'''
+ | score2 = '''77'''
+ | points1 = [[P. J. Dozier|P. Dozier]] – 17
+ | rebounds1 = [[Chris Silva|C. Silva]] – 13
+ | assist1 = D. Notice – 3
+ | otherstat1 =
+ | points2 = [[Nigel Williams-Goss|N. Williams-Goss]] – 23
+ | rebounds2 = [[Zach Collins|Z. Collins]] – 13
+ | assist2 = N. Williams-Goss – 6
+ | H1 = 36–45
+ | H2 = 37–32
+ | place = University of Phoenix Stadium – Glendale, Arizona
+ | attendance = 77,612
+ | referee = John Higgins, Doug Sirmons, Jeff Anderson
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #fff
+ | date = Saturday, April 1
+ | time = 5:49 pm [[Mountain Time Zone|MST]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2017/04/01/oregon-north-carolina/boxscore Box score]
+ | team1 = #3 Oregon Ducks
+ | score1 = 76
+ | team2 = '''#1 North Carolina Tar Heels'''
+ | score2 = '''77'''
+ | points1 = [[Tyler Dorsey|T. Dorsey]] – 21
+ | rebounds1 = [[Jordan Bell|J. Bell]] – 16
+ | assist1 = D. Ennis – 3
+ | otherstat1 =
+ | points2 = [[Kennedy Meeks|K. Meeks]] – 25
+ | rebounds2 = K. Meeks – 14
+ | assist2 = [[Theo Pinson|T. Pinson]] – 5
+ | H1 = 36–39
+ | H2 = 40–38
+ | place = University of Phoenix Stadium – Glendale, Arizona
+ | attendance = 77,612
+ | referee = Ron Groover, Tony Padilla, Ted Valentine
+ | TV = CBS
+}}
+
+====National Championship====
+
+{{Main article|2017 NCAA  Division I Men's Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, April 3
+ | time = 6:20 pm [[Mountain Time Zone|MST]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2017/04/03/gonzaga-michigan/boxscore Box score]
+ | team1 = #1 Gonzaga Bulldogs
+ | score1 = 65
+ | team2 = '''#1 North Carolina Tar Heels'''
+ | score2 = '''71'''
+ | points1 = [[Nigel Williams-Goss|N. Williams-Goss]] – 15
+ | rebounds1 = N. Williams-Goss – 9
+ | assist1 = N. Williams-Goss – 6
+ | otherstat1 =
+ | points2 = [[Joel Berry II|J. Berry II]] – 22
+ | rebounds2 = [[Kennedy Meeks|K. Meeks]] – 10
+ | assist2 = J. Berry II – 6
+ | H1 = 35–32
+ | H2 = 30–39
+ | place = University of Phoenix Stadium – Glendale, Arizona
+ | attendance = 76,168
+ | referee = Verne Harris, Michael Stephens, Mike Eades
+ | TV = CBS
+}}
+
+====Final Four all-tournament team====
+* [[Joel Berry II]] (Jr, North Carolina) – [[NCAA Basketball Tournament Most Outstanding Player|Final Four Most Outstanding Player]]<ref name=finalfouratt>{{cite web |url=https://www.thescore.com/news/1250724 |title=Joel Berry named Final Four Most Outstanding Player|publisher=theScore.com |date=April 4, 2017 |accessdate=April 5, 2017}}</ref>
+* [[Nigel Williams-Goss]] (Jr, Gonzaga)<ref name=finalfouratt/>
+* [[Justin Jackson (basketball, born 1995)|Justin Jackson]] (Jr, North Carolina)<ref name=finalfouratt/>
+* [[Kennedy Meeks]] (Sr, North Carolina)<ref name=finalfouratt/>
+* [[Zach Collins]] (Fr, Gonzaga)<ref name=finalfouratt/>
+
+==Record by conference==
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+!scope="col"|Conference
+!scope="col"|Bids
+!scope="col"|Record
+!scope="col"|Win %
+!scope="col"|R64
+!scope="col"|R32
+!scope="col"|S16
+!scope="col"|E8
+!scope="col"|F4
+!scope="col"|CG
+!scope="col"|NC
+|-
+!scope="row"|[[Atlantic Coast Conference|ACC]]
+|9
+|11–8
+|{{winpct|11|8}}
+|8
+|6
+|1
+|1
+|1
+|1
+|1
+|-
+!scope="row"|[[West Coast Conference|WCC]]
+|2
+|6–2
+|{{winpct|6|2}}
+|2
+|2
+|1
+|1
+|1
+|1
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Pac-12 Conference|Pac-12]]
+|4
+|10–4
+|{{winpct|10|4}}
+|4
+|4
+|3
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Southeastern Conference|SEC]]
+|5
+|11–5
+|{{winpct|11|5}}
+|5
+|4
+|3
+|3
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Big 12 Conference|Big 12]]
+|6
+|9–6
+|{{winpct|9|6}}
+|6
+|4
+|3
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Big East Conference|Big East]]
+|7
+|6–7
+|{{winpct|6|7}}
+|6
+|3
+|2
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Big Ten Conference|Big Ten]]
+|7
+|8–7
+|{{winpct|8|7}}
+|7
+|5
+|3
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Atlantic 10 Conference|Atlantic 10]]
+|3
+|1–3
+|{{winpct|1|3}}
+|3
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[American Athletic Conference|American]]
+|2
+|1–2
+|{{winpct|1|2}}
+|2
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Conference USA|C-USA]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Missouri Valley Conference|Missouri Valley]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Big West Conference|Big West]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Northeast Conference|NEC]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|}
+{{reflist|group=note|close}}
+*The R64, R32, S16, E8, F4, CG, and NC columns indicate how many teams from each conference were in the round of 64 (first round), round of 32 (second round), Sweet 16, Elite Eight, Final Four, championship game, and national champion, respectively.
+*The "Record" column includes wins in the First Four for the Big 12, Big West, NEC, and Pac-12 conferences and losses in the First Four for the ACC and Big East conferences.
+*The MEAC and Southland each had one representative, both eliminated in the First Four with a record of 0–1.
+*The America East, Atlantic Sun, Big Sky, Big South, CAA, Horizon, Ivy League, MAAC, MAC, Mountain West, Ohio Valley, Patriot, Southern, Summit, Sun Belt, SWAC, and WAC conferences each had one representative, eliminated in the First Round with a record of 0–1.
+
+==Media coverage==
+===Television===
+[[CBS Sports]] and [[Turner Sports]] held joint U.S. television broadcast rights to the Tournament under the ''[[NCAA March Madness (CBS/Turner)|NCAA March Madness]]'' brand. As part of a cycle beginning in 2016, CBS held rights to the Final Four and championship game.<ref>{{cite web|title=CBS Sports, Turner Sports announce programming schedule for 2014, 2015|url=http://www.ncaa.com/news/basketball-men/article/2013-05-07/cbs-sports-turner-sports-announce-programming-schedule-2014|publisher=National Collegiate Athletic Association|date=May 7, 2013|accessdate=April 1, 2015}}</ref><ref>{{cite web|title=CBS Sports and Turner Sports Announce 2016 NCAA Division I Men's Basketball Championship Commentator Team|url=http://www.ncaa.com/news/basketball-men/article/2016-03-08/cbs-sports-and-turner-sports-announce-2016-ncaa-division-i|publisher=NCAA|accessdate=March 9, 2016|date=March 8, 2016}}</ref><ref>{{cite web|title=March Madness: Jim Nantz, Grant Hill, Casey Stern and Debbie Antonelli highlight March Madness Commentator Teams|url=http://www.ncaa.com/news/basketball-men/article/2017-03-02/march-madness-jim-nantz-grant-hill-casey-stern-and-debbie|publisher=NCAA|accessdate=March 2, 2017|date=March 2, 2017}}</ref><ref name="2017 TV">{{cite web|last1=Maiman|first1=Beth|title=March Madness TV schedule: How to watch and live stream every game in the NCAA men's basketball tournament|url=http://www.ncaa.com/news/basketball-men/article/march-madness-2017-tv-schedule-how-watch-and-live-stream|publisher=NCAA|accessdate=March 9, 2017|date=March 8, 2017}}</ref> As CBS did not want its audience to be diffused across multiple outlets, there were no localized "Team Stream" telecasts of the Final Four or championship games on Turner channels as in previous years.<ref name="si-nostream">{{cite magazine |title=Media Circus: Breaking down CBS and Turner's March Madness broadcast package |url=https://www.si.com/tech-media/2017/03/12/ncaa-tournament-cbs-turner-broadcasting-coverage-media-circus |magazine=Sports Illustrated |date=March 12, 2017 |accessdate=March 13, 2017}}</ref>
+
+Following criticism of the two-hour format of the 2016 edition, the Selection Sunday broadcast was shortened to 90 minutes. CBS Sports executive Harold Bryant promised that the unveiling of the bracket would be conducted in an "efficient" manner, and leave more time to discuss and preview the tournament.<ref name="sportingnews-shorter">{{cite magazine |title=CBS cuts bloated Selection Sunday show to 90 minutes from two hours |url=http://www.sportingnews.com/ncaa-basketball/news/cbs-sports-sunday-selection-show-ncaa-march-madness-turner-sports-charles-barkley-david-levy-2-hours-90-minutes/kpuuuo59godeznx2ytkpgeau |magazine=Sporting News |date=March 7, 2017 |accessdate=March 8, 2017}}</ref>
+
+* First Four – [[TruTV]]
+* First and Second rounds – [[CBS]], [[TBS (U.S. TV channel)|TBS]], [[TNT (U.S. TV network)|TNT]], and TruTV
+* Regional Semifinals and Finals (Sweet Sixteen and Elite Eight) – CBS and TBS
+* National Semifinals (Final Four) – CBS
+* National Championship – CBS
+
+====Studio hosts====
+* [[Greg Gumbel]] (New York City and Glendale) – First Round, Second Round, Regionals, Final Four and National Championship Game
+* [[Ernie Johnson Jr.]] (New York City, Atlanta, and Glendale) – First Round, Second Round, Regional Semi-Finals, Final Four and National Championship Game
+* [[Casey Stern]] (Atlanta) – First Four, First Round and Second Round
+* [[Adam Zucker]] (Glendale) – Final Four
+
+====Studio analysts====
+* [[Charles Barkley]] (New York City and Glendale) – First Round, Second Round, Regionals, Final Four and National Championship Game
+* [[Seth Davis]] (Atlanta and Glendale) – First Four, First Round, Second Round, Regional Semi-Finals, Final Four and National Championship Game
+* [[Brendan Haywood]] (Atlanta) – First Four, First Round, Second Round and Regional Semi-Finals
+* [[Clark Kellogg]] (New York City and Glendale) – First Round, Second Round, Regionals, Final Four and National Championship Game
+* [[Jimmy Patsos]] (Atlanta) – Second Round
+* [[Bruce Pearl]] (Atlanta) – First Round
+* [[Kenny Smith]] (New York City and Glendale) – First Round, Second Round, Regionals, Final Four and National Championship Game
+* [[Steve Smith (basketball)|Steve Smith]] (Glendale) – Final Four
+* [[Wally Szczerbiak]] (New York City and Atlanta) – First Four, Second Round
+* [[Buzz Williams]] (Atlanta) – Regional Semi-Finals
+* [[Jay Wright (basketball)|Jay Wright]] (Glendale) – Final Four
+
+====Commentary teams====
+* [[Jim Nantz]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – First and Second Rounds at Indianapolis, Indiana; South Regional at Memphis, Tennessee; Final Four and National Championship at Glendale, Arizona
+* [[Brian Anderson (broadcaster)|Brian Anderson]]/[[Chris Webber]] or [[Clark Kellogg]]/[[Lewis Johnson]] – First Four at Dayton, Ohio (Tuesday); First and Second Rounds at Greenville, South Carolina; West Regional at San Jose, California
+** Kellogg called the First Four (Tuesday) with Webber doing the First, Second and Regionals.
+* [[Verne Lundquist]]/[[Jim Spanarkel]]/[[Allie LaForce]] – First and Second Rounds at Buffalo, New York; East Regional at New York City, New York
+* [[Kevin Harlan]]/[[Reggie Miller]]/[[Dan Bonner]]/[[Dana Jacobson]] – First and Second Rounds at Tulsa, Oklahoma; Midwest Regional at Kansas City, Missouri
+* [[Ian Eagle]]/[[Steve Lavin]]/[[Evan Washburn]] – First and Second Rounds at Orlando, Florida
+* [[Spero Dedes]]/[[Steve Smith (basketball)|Steve Smith]]/[[Len Elmore]]/[[Rosalyn Gold-Onwude]] – First Four at Dayton, Ohio (Wednesday); First and Second Rounds at Sacramento, California
+* [[Andrew Catalon]]/[[Steve Lappas]]/[[Jamie Erdahl]] – First and Second Rounds at Salt Lake City, Utah
+* [[Carter Blackburn]]/[[Mike Gminski]]/[[Debbie Antonelli]]/[[Lisa Byington]] – First and Second Rounds at Milwaukee, Wisconsin
+
+===Radio===
+[[Westwood One (current)|Westwood One]] had exclusive radio rights to the entire tournament. For the first time in the history of the tournament, broadcasts of the Final Four and championship game were available in Spanish.<ref>{{cite web |title=Westwood One and the NCAA make history with first Spanish language audio call of NCAA Men's Final Four |url=http://www.ncaa.com/news/basketball-men/article/2017-02-28/westwood-one-and-ncaa-make-history-first-spanish-language |publisher=NCAA |accessdate=March 1, 2017 |date=February 28, 2017}}</ref>
+
+{{col-begin}}
+{{col-2}}
+
+====First Four====
+*[[Ted Emrich]] and [[Austin Croshere]] – at Dayton, Ohio
+
+====First and Second rounds====
+*[[Scott Graham]] and [[Donny Marshall]] – Buffalo, New York
+*[[Brandon Gaudin]] and [[Kelly Tripucka]] – Milwaukee, Wisconsin
+*[[Tom McCarthy (broadcaster)|Tom McCarthy]] and [[Will Perdue]] – Orlando, Florida
+*[[Kevin Kugler]] and [[Dan Dickau]] – Salt Lake City, Utah
+*[[John Sadak]] and [[Eric Montross]]/[[John Thompson (basketball)|John Thompson]] – Greenville, South Carolina (Montross – Friday night; Thompson – Friday Afternoon & Sunday)
+*[[Chris Carrino]] and [[Jim Jackson (basketball)|Jim Jackson]] – Indianapolis, Indiana
+*[[Craig Way]] and [[P. J. Carlesimo]] – Tulsa, Oklahoma
+*[[Jason Benetti]] and [[Mike Montgomery]] – Sacramento, California
+{{col-2}}
+
+====Regionals====
+*Ian Eagle and Donny Marshall – East Regional at New York City, New York
+*Tom McCarthy and Will Purdue – Midwest Regional at Kansas City, Missouri
+*[[Gary Cohen]] and P. J. Carlesimo – South Regional at Memphis, Tennessee
+*Kevin Kugler and Jim Jackson – West Regional at San Jose, California
+
+====Final four====
+*Kevin Kugler, Clark Kellogg, and [[Jim Gray (sportscaster)|Jim Gray]] – Glendale, Arizona
+{{col-end}}
+
+===Internet===
+====Video====
+Live video of games was available for streaming through the following means:<ref name="2017 TV" />
+* NCAA March Madness Live (website and app, no CBS games on [[digital media player]]s; access to games on Turner channels requires [[TV Everywhere]] authentication through provider)
+* [[CBS All Access]] (only CBS games, service subscription required)
+* [[CBSSports.com|CBS Sports website]] and app (only CBS games)
+* [[Bleacher Report]] website and ''Team Stream'' app (only Turner games, access requires subscription)
+* Watch TBS website and app (only TBS games, requires TV Everywhere authentication)
+* Watch TNT website and app (only TNT games, requires TV Everywhere authentication)
+* Watch truTV website and app (only truTV games, requires TV Everywhere authentication)
+* Websites and apps of cable, satellite, and OTT providers of CBS & Turner (access requires subscription)
+
+====Audio====
+Live audio of games was available for streaming through the following means:
+* NCAA March Madness Live (website and app)
+* Westwood One Sports website
+* [[TuneIn]] (website and app)
+* Websites and apps of Westwood One Sports affiliates
+
+==See also==
+* [[2017 NCAA Division II Men's Basketball Tournament]]
+* [[2017 NCAA Division III Men's Basketball Tournament]]
+* [[2017 NCAA Division I Women's Basketball Tournament]]
+* [[2017 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|2017 NCAA Division III Women's Basketball Tournament]]
+* [[2017 National Invitation Tournament]]
+* [[2017 Women's National Invitation Tournament]]
+* [[2017 NAIA Division I Men's Basketball Tournament]]
+* [[2017 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2017 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2017 NAIA Division II Women's Basketball Tournament]]
+* [[2017 College Basketball Invitational]]
+* [[2017 CollegeInsider.com Postseason Tournament]]
+
+{{Portal|College basketball}}
+
+==Notes==
+{{reflist|group=n}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{Official website|http://www.phoenixfinalfour.com}}
+
+{{NCAA Division I Men's Basketball Tournament navbox}}
+{{2017 NCAA Division I men's basketball tournament navbox}}
+{{2016–17 NCAA Division I championships navbox}}
+
+{{DEFAULTSORT:2017 NCAA Division I Men's Basketball Tournament}}
+[[Category:2016–17 NCAA Division I men's basketball season|Ncaa Tournament]]
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:Basketball in Arizona]]
+[[Category:2017 in sports in Arizona]]

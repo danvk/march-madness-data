@@ -1,0 +1,1933 @@
+{{use mdy dates|date=March 2016}}
+{{Infobox NCAA Basketball Tournament
+| Year = 2016
+| Season = 2015–16
+| Image = File:2016 Final Four Logo.png
+| ImageSize = 175px
+| Caption = 2016 Final Four logo
+| Teams = 68
+| FinalFourArena = [[NRG Stadium]]
+| FinalFourCity = [[Houston|Houston, Texas]]
+| Champions = [[2015–16 Villanova Wildcats men's basketball team|Villanova]]
+| TitleCount = 2nd 
+| ChampGameCount = 3rd
+| ChampFFCount = 5th
+| RunnerUp = [[2015–16 North Carolina Tar Heels men's basketball team|North Carolina]]
+| GameCount = 10th
+| RunnerFFCount = 19th
+| Semifinal1 = [[2015–16 Oklahoma Sooners men's basketball team|Oklahoma]]
+| FinalFourCount = 5th
+| Semifinal2 = [[2015–16 Syracuse Orange men's basketball team|Syracuse]]
+| FinalFourCount2 = 6th
+| Coach = [[Jay Wright (basketball)|Jay Wright]] 
+| CoachCount = 1st
+| MOP = [[Ryan Arcidiacono]]
+| MOPTeam = (Villanova)
+| Attendance =
+| OneTopScorer =
+| TwoTopScorers =
+| TopScorer =
+| TopScorerTeam =
+| TopScorer2 =
+| TopScorer2Team =
+| Points =
+}}
+The '''2016 NCAA Division I Men's Basketball Tournament''' involved 68 teams playing in a [[single-elimination tournament]] to determine the men's [[National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] [[college basketball]] national champion for the [[2015–16 NCAA Division I men's basketball season|2015–16 season]]. The 78th edition of the Tournament began on March 15, 2016, and concluded with the [[2016 NCAA Men's Division I Basketball Championship Game|championship game]] on April 4 at [[NRG Stadium]] in [[Houston|Houston, Texas]].<ref>{{cite web|title=Division I Men's Basketball|url=https://www.ncaa.org/championships/division-i-mens-basketball|publisher=[[NCAA]]|accessdate=February 26, 2016}}</ref>
+
+Upsets were the story of the first round of the Tournament;<ref>{{cite web|url=https://www.sbnation.com/college-basketball/2016/3/19/11267698/ncaa-tournament-2016-march-madness-scores-upsets-highlights-schedule-bracket|title=NCAA Tournament 2016: The best and worst from the wildest day in March Madness history|author=Mike Rutherford|date=March 19, 2016|publisher=[[Vox Media]]|work=[[SB Nation]]|accessdate=March 28, 2016}}</ref> No. 15 seed [[2015–16 Middle Tennessee Blue Raiders men's basketball team|Middle Tennessee]] upset No. 2 seed [[2015–16 Michigan State Spartans men's basketball team|Michigan State]] in the biggest upset, just the eighth ever win for a No. 15 seed over a No. 2.<ref name="auto">{{cite web|url=https://www.sbnation.com/college-basketball/2016/3/18/11265176/middle-tennessee-state-upset-michigan-state-ncaa-tournament-march-madness|title=Middle Tennessee State's win over Michigan State is the biggest upset in NCAA Tournament history|author=Mike Rutherford|date=March 18, 2016|publisher=Vox Media|work=SBNation|accessdate=March 28, 2016}}</ref> At least one 9, 10, 11, 12, 13, 14, and 15 seed won a first-round game for the third time ever and the first time since [[2013 NCAA Division I Men's Basketball Tournament|2013]]. Also, every seed except a 16 won at least one game in the First Round.
+
+In the Final Four, [[2015–16 Villanova Wildcats men's basketball team|Villanova]] defeated [[2015–16 Oklahoma Sooners men's basketball team|Oklahoma]], while [[2015–16 North Carolina Tar Heels men's basketball team|North Carolina]] defeated [[2015–16 Syracuse Orange men's basketball team|Syracuse]]. Villanova then defeated North Carolina to win the championship on a three-point buzzer beater by [[Kris Jenkins (basketball)|Kris Jenkins]].<ref>http://espn.go.com/blog/collegebasketballnation/post/_/id/114612/villanovas-national-championship-kris-jenkins-heroics-conclude-instant-classic</ref> Pundits called the game one of the best in tournament history, going on to say this was one of the most competitive finals ever.<ref>http://www.sportingnews.com/ncaa-basketball-news/4700887-villanova-vs-north-carolina-unc-greatest-national-championship-game-ever</ref><ref>http://ftw.usatoday.com/2016/04/villanova-unc-tops-the-list-of-the-10-best-ncaa-championship-games-ever</ref>
+
+==2016 NCAA Tournament schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=2016 First Four (orange) and First and Second rounds March 17 and 19 (green) March 18 and 20 (blue) |places= 
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.73556|lon_deg=-84.2|position=left|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.823611|lon_deg=-71.418333|position=left|background=#FFFFFF|label=Providence|link=Dunkin' Donuts Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.592667|lon_deg=-93.621139|position=left|background=#FFFFFF|label=Des Moines|link=Wells Fargo Arena (Des Moines)}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.803333|lon_deg=-78.721944|position=left|background=#FFFFFF|label=Raleigh|link=PNC Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.748611|lon_deg=-105.0075|position=left|background=#FFFFFF|label=Denver|link=Pepsi Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=40.68265|lon_deg=-73.974689|position=left|background=#FFFFFF|label=Brooklyn|link=Barclays Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.626667|lon_deg=-90.2025|position=left|background=#FFFFFF|label=St. Louis|link=Scottrade Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=35.463333|lon_deg=-97.515|position=left|background=#FFFFFF|label=Oklahoma City|link=Chesapeake Energy Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=47.666222|lon_deg=-117.422778|position=left|background=#FFFFFF|label=Spokane|link=Spokane Veterans Memorial Arena}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2016 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=41.880556|lon_deg=-87.674167|position=left|background=#FFFFFF|label=Chicago|link United Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.807778|lon_deg=-117.876667|position=right|background=#FFFFFF|label=Anaheim|link Honda Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.901111|lon_deg=-75.171944|position=left|background=#FFFFFF|label=Philadelphia|link Wells Fargo Center (Philadelphia)}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.2575|lon_deg=-85.753889|position=left|background=#FFFFFF|label=Louisville|link KFC Yum! Center}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=29.684772|lon_deg=-95.410833|position=left|background=#FFFFFF|label=Houston|link NRG Stadium}}
+}}
+
+Previously, the Round of 64 was known as the '''Second Round''' since the [[2011 NCAA Division I Men's Basketball Tournament|2011 edition]], but it was reverted to the moniker '''First Round''' for this coming tournament. The First Four was previously named the '''First Round'''.
+
+'''First Four'''
+*March 15 and 16
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+'''First and Second Rounds'''
+*March 17 and 19
+**  [[Dunkin' Donuts Center]], [[Providence, Rhode Island]] (Host: [[Providence College]])
+** [[Wells Fargo Arena (Des Moines, Iowa)|Wells Fargo Arena]], [[Des Moines, Iowa]], (Host: [[Iowa State University]])
+** [[PNC Arena]], [[Raleigh, North Carolina]], (Host: [[North Carolina State University]])
+** [[Pepsi Center]], [[Denver|Denver, Colorado]], (Host: [[Mountain West Conference]])
+*March 18 and 20
+** [[Barclays Center]], [[Brooklyn|Brooklyn, New York]], (Host: [[Atlantic 10 Conference]])
+** [[Scottrade Center]], [[St. Louis|St. Louis, Missouri]], (Host: [[Missouri Valley Conference]])
+** [[Chesapeake Energy Arena]], [[Oklahoma City|Oklahoma City, Oklahoma]], (Host: [[Big 12 Conference]]) 
+** [[Spokane Veterans Memorial Arena]], [[Spokane, Washington]], (Host: [[University of Idaho]])
+
+'''Regional Semifinals and Finals''' (Sweet Sixteen and Elite Eight)
+*March 24 and 26
+**'''South Regional''', [[KFC Yum! Center]], [[Louisville, Kentucky]], (Host: [[University of Louisville]])
+**'''West Regional''', [[Honda Center]], [[Anaheim, California]], (Host: [[Big West Conference]])
+*March 25 and 27
+**'''East Regional''', [[Wells Fargo Center (Philadelphia)|Wells Fargo Center]], [[Philadelphia|Philadelphia, Pennsylvania]], (Host: [[La Salle University]])
+**'''Midwest Regional''', [[United Center]], [[Chicago]], (Host: [[Big Ten Conference]])
+
+'''National Semifinals and Championship''' (Final Four and Championship)
+*April 2 and 4
+**[[NRG Stadium]], [[Houston|Houston, Texas]] (Hosts: [[Rice University]], [[Texas Southern University]], [[University of Houston]])
+
+NRG Stadium in Houston hosted the Final Four for the second time in 2016, Houston's third Final Four overall. The 2016 tournament was the first tournament since 1995 where no domed stadiums were used in the regional rounds. The tournament also featured two new venues. For the second time in three years, the tournament came to New York City, with games played at Brooklyn's Barclays Center, the home of the [[Brooklyn Nets]]. The tournament came to the state of Iowa for the first time since 1972, and the first time ever in the city of Des Moines, when it came to the Wells Fargo Arena, home to the [[Iowa Wolves]] of the [[NBA G League]] and the [[Iowa Wild]] of the [[American Hockey League]]. Of the 14 venues used in the tournament, only the NRG Stadium and the Chesapeake Energy Arena do not have future tournament games planned as of 2018.
+
+==Notables==
+[[2016 America East Men's Basketball Tournament|America East Conference]] champion [[2015–16 Stony Brook Seawolves men's basketball team|Stony Brook]] and [[2016 WAC Men's Basketball Tournament|WAC]] champion [[2015–16 Cal State Bakersfield Roadrunners men's basketball team|Cal State Bakersfield]] made their first NCAA Tournament appearances in school history.<ref>{{cite web|url=https://www.si.com/college-basketball/2016/02/10/midmajor-stony-brook-seawolves-jameel-warney|title=Jameel Warney leads Stony Brook toward first NCAA tournament|author=Molly Geary|date=February 10, 2016|work=[[Sports Illustrated]]|accessdate=April 4, 2016}}</ref><ref>{{cite web|url=http://www.foxsports.com/college-basketball/story/cal-state-bakersfield-wins-wac-tournament-beats-new-mexico-state-031316|title=Cal State Bakersfield wins WAC tournament, beats New Mexico State|author=[[Fox Sports]]|accessdate=April 4, 2016}}</ref>
+
+[[2015–16 Yale Bulldogs men's basketball team|Yale]] made its first NCAA appearance since 1962 as winners of the [[Ivy League]], which, for the final time, did not stage a conference tournament. Of those that do hold a tournament, [[2016 Horizon League Men's Basketball Tournament|Horizon League]] champion [[2015–16 Green Bay Phoenix men's basketball team|Green Bay]] made its first appearance since [[1996 NCAA Division I Men's Basketball Tournament|1996]] and [[2015–16 Oregon State Beavers men's basketball team|Oregon State]] made its first appearance since [[1990 NCAA Division I Men's Basketball Tournament|1990]].
+
+[[2015–16 Yale Bulldogs men's basketball team|Yale]] also earned its first Tournament win in school history with a 79–75 win over [[2015–16 Baylor Bears basketball team|Baylor]]. [[2015–16 Hawaii Rainbow Warriors basketball team|Hawaii]] likewise earned its first NCAA Tournament win by defeating [[2015–16 California Golden Bears men's basketball team|California]] 77–66. Arkansas-Little Rock won its first Tournament game in 30 years and Middle Tennessee won its first Tournament game in 27 years.
+
+In the Midwest Region, No. 15 seed Middle Tennessee upset No. 2 seed Michigan State for just the eighth ever win for a No. 15 seed over a No. 2.<ref name="auto"/>  More than one-third of ESPN Tournament Challenge brackets predicted Michigan State to make the Final Four.<ref name="auto1">{{Cite web|url=http://espn.go.com/blog/collegebasketballnation/post/_/id/113002/tournament-challenge-six-perfect-brackets-left-after-middle-tennessee-upset|title=Tournament Challenge: Six perfect brackets left after Middle Tennessee upset|website=ESPN.com|access-date=2016-03-21}}</ref>
+
+In the East Region, No. 14 seed [[2015–16 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]] upset No. 3 seed [[2015–16 West Virginia Mountaineers men's basketball team|West Virginia]], marking the fourth straight tournament in which a No. 14 seed upset a No. 3 seed.<ref>{{cite web|url=https://www.si.com/college-basketball/2016/03/18/ncaa-tournament-west-virginia-stephen-f-austin-thomas-walkup|title=Stephen F. Austin rides stingy defense to upset of West Virginia|author=Gabriel Baumgaertner|date=March 18, 2016|work=Sports Illustrated|accessdate=April 4, 2016}}</ref>
+
+By winning the Midwest Regional final, [[2015–16 Syracuse Orange men's basketball team|Syracuse]] became the first No. 10 seed in history to advance to the Final Four. However, three lower seeds, all No. 11, have advanced to that stage (in [[1986 NCAA Men's Division I Basketball Tournament|1986]], [[2006 NCAA Division I Men's Basketball Tournament|2006]], and [[2011 NCAA Division I Men's Basketball Tournament|2011]]).<ref name="auto2">{{cite web|url=http://chicago.suntimes.com/sports/syracuse-becomes-first-no-10-seed-to-reach-final-four/|title=Syracuse becomes first No. 10 seed to reach Final Four|work=[[Chicago Sun-Times]]|accessdate=March 28, 2016}}</ref>
+
+[[2015–16 Kansas Jayhawks men's basketball team|Kansas]] extended its streak of consecutive tournament appearances to 27 in a row, making every NCAA Tournament dating back to [[1990 NCAA Men's Division I Basketball Tournament|1990]].<ref>{{cite web|url=http://kansas.247sports.com/Article/Kansas-kicks-off-the-NCAA-Tournament-Thursday-afternoon-44297764|title=Kansas kicks off the NCAA Tournament Thursday afternoon|work=[[247Sports.com]]|accessdate=April 4, 2016}}</ref> This tied the record for most consecutive NCAA Tournament appearances held by [[North Carolina Tar Heels men's basketball|North Carolina]] (1975–2001).<ref>{{cite web|url=http://www.ncaa.com/news/basketball-men/article/2015-12-28/college-basketball-longest-active-ncaa-tournament-streaks|title=College Basketball: Longest active NCAA Tournament streaks|work=NCAA|accessdate=April 4, 2016}}</ref>
+
+This Tournament marked the first championship for Villanova in 31 years. It was also the first championship by a school without a [[NCAA Division I Football Bowl Subdivision|Division I FBS]] [[College football|football]] team since [[1998–99 Connecticut Huskies men's basketball team|Connecticut]] in [[1999 NCAA Division I Men's Basketball Tournament|1999]]. Villanova fields a [[NCAA Division I#Football Championship Subdivision|Division I FCS]] [[Villanova Wildcats football|football team]], as did [[Connecticut Huskies football|UConn]] before [[2002 NCAA Division I-A football season|2002]].
+
+==Qualifying and selection procedure== 
+{{details|2016 NCAA Division I Men's Basketball Tournament: qualifying teams}}
+Out of 336 eligible Division I teams, 68 participate in the tournament. Of the total, 15 Division I teams were ineligible due to failing to meet [[Academic Progress Rate|APR]] requirements, self-imposed postseason bans, or reclassification from a lower division.{{ref|a}}
+
+Of the 32 automatic bids, 31 were given to programs that won their [[List of NCAA conferences|conference]] tournaments. For the final time, the [[Ivy League]] awarded its NCAA Tournament bid to the team with the best regular-season record and did not hold a tournament (unless playoffs games were needed to resolve tied champions). The Ivy League will hold a postseason tournament for the first time after the 2016–17 Ivy League season.<ref>{{cite press release |url=http://ivyleaguesports.com/information/general_releases/2015-16/releases/The_Ivy_League_Adds_Mens-Womens_Basketball_Tournaments_Beginning_in_2017 |title=The Ivy League Adds Men's, Women's Basketball Tournaments Beginning in 2017 |publisher=[[Ivy League]] |date=March 10, 2016 |accessdate=March 10, 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160311041901/http://ivyleaguesports.com/information/general_releases/2015-16/releases/The_Ivy_League_Adds_Mens-Womens_Basketball_Tournaments_Beginning_in_2017 |archivedate=March 11, 2016 |df=mdy-all }}</ref> The remaining 36 bids were granted on an "at-large" basis, which were extended by the NCAA Selection Committee to the teams it deems to be the best 36 teams that did not receive automatic bids.
+
+Eight teams—the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams—played in the First Four (the successor to what had been popularly known as "[[NCAA Men's Division I Basketball Opening Round game|play-in games]]" through the [[2010 NCAA Men's Division I Basketball Tournament|2010 Tournament]]). The winners of these games advanced to the First Round (Round of 64). The [[NCAA basketball tournament selection process|Selection Committee]] also seeded the entire field from 1 to 68.<ref>{{cite web|url=https://www.ncaa.org/about/resources/media-center/mens-basketball-selections-101-selections|title=Men's Basketball Selections 101 – Selections|work=NCAA – The Official Site of the NCAA|accessdate=April 4, 2016}}</ref>
+
+===Automatic qualifiers===
+The following teams were automatic qualifiers for the 2016 NCAA field by virtue of winning their conference's automatic bid:<ref>https://www.si.com/college-basketball/2016/03/07/2016-ncaa-tournament-auto-bids</ref>
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|align=left|[[2016 ACC Men's Basketball Tournament|ACC]]
+|align=left|[[2015–16 North Carolina Tar Heels men's basketball team|North Carolina]] 
+|47th 
+|2015
+|-
+|align=left|[[2016 America East Men's Basketball Tournament|America East]]
+|align=left|[[2015–16 Stony Brook Seawolves men's basketball team|Stony Brook]]
+|1st
+|N/A
+|-
+|align=left|[[2016 Atlantic 10 Men's Basketball Tournament|Atlantic 10]]
+|align=left|[[2015–16 Saint Joseph's Hawks men's basketball team|Saint Joseph's]]
+|21st
+|2014
+|-
+|align=left|[[2016 American Athletic Conference Men's Basketball Tournament|American]]
+|align=left|[[2015–16 Connecticut Huskies men's basketball team|Connecticut]]
+|33rd
+|2014
+|-
+|align=left|[[2016 Atlantic Sun Men's Basketball Tournament|Atlantic Sun]]
+|align=left|[[2015–16 Florida Gulf Coast Eagles men's basketball team|Florida Gulf Coast]] 
+|2nd 
+|2013
+|-
+|align=left|[[2016 Big 12 Men's Basketball Tournament|Big 12]]
+|align=left|[[2015–16 Kansas Jayhawks men's basketball team|Kansas]]
+|45th
+|2015
+|-
+|align=left|[[2016 Big East Men's Basketball Tournament|Big East]]
+|align=left|[[2015–16 Seton Hall Pirates men's basketball team|Seton Hall]]
+|10th
+|2006
+|-
+|align=left|[[2016 Big Sky Conference Men's Basketball Tournament|Big Sky]]
+|align=left|[[2015–16 Weber State Wildcats men's basketball team|Weber State]]
+|16th
+|2014
+|-
+|align=left|[[2016 Big South Conference Men's Basketball Tournament|Big South]]
+|align=left|[[2015–16 UNC Asheville Bulldogs men's basketball team|UNC Asheville]] 
+|4th
+|2012
+|-
+|align=left|[[2016 Big Ten Conference Men's Basketball Tournament|Big Ten]]
+|align=left|[[2015–16 Michigan State Spartans men's basketball team|Michigan State]]
+|30th
+|2015
+|-
+|align=left|[[2016 Big West Conference Men's Basketball Tournament|Big West]]
+|align=left|[[2015–16 Hawaii Rainbow Warriors basketball team|Hawaii]]
+|5th
+|2002
+|-
+|align=left|[[2016 CAA Men's Basketball Tournament|CAA]]
+|align=left|[[2015–16 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
+|5th 
+|2006
+|-
+|align=left|[[2016 Conference USA Men's Basketball Tournament|C-USA]]
+|align=left|[[2015–16 Middle Tennessee Blue Raiders men's basketball team|Middle Tennessee]] 
+|8th
+|2013
+|-
+|align=left|[[2016 Horizon League Men's Basketball Tournament|Horizon]]
+|align=left|[[2015–16 Green Bay Phoenix men's basketball team|Green Bay]] 
+|5th
+|1996
+|-
+|align=left|[[Ivy League Men's Basketball Champions|Ivy League]]
+|align=left|[[2015–16 Yale Bulldogs men's basketball team|Yale]]
+|4th
+|1962
+|-
+|align=left|[[2016 MAAC Men's Basketball Tournament|MAAC]]
+|align=left|[[2015–16 Iona Gaels men's basketball team|Iona]]
+|11th
+|2013
+|-
+|align=left|[[2016 MAC Men's Basketball Tournament|MAC]]
+|align=left|[[2015–16 Buffalo Bulls men's basketball team|Buffalo]]
+|2nd
+|2015
+|-
+|align=left|[[2016 MEAC Men's Basketball Tournament|MEAC]]
+|align=left|[[2015–16 Hampton Pirates men's basketball team|Hampton]]
+|6th
+|2015
+|-
+|align=left|[[2016 Missouri Valley Conference Men's Basketball Tournament|Missouri Valley]]
+|align=left|[[2015–16 Northern Iowa Panthers men's basketball team|Northern Iowa]]
+|8th
+|2015
+|-
+|align=left|[[2016 Mountain West Conference Men's Basketball Tournament|Mountain West]]
+|align=left|[[2015–16 Fresno State Bulldogs men's basketball team|Fresno State]]
+|6th
+|2001
+|-
+|align=left|[[2016 Northeast Conference Men's Basketball Tournament|NEC]]
+|align=left|[[2015–16 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
+|5th
+|2005
+|-
+|align=left|[[2016 Ohio Valley Conference Men's Basketball Tournament|Ohio Valley]]
+|align=left|[[2015–16 Austin Peay Governors basketball team|Austin Peay]]
+|6th
+|2008
+|-
+|align=left|[[2016 Pac-12 Conference Men's Basketball Tournament|Pac-12]]
+|align=left|[[2015–16 Oregon Ducks men's basketball team|Oregon]] 
+|14th 
+|2015
+|-
+|align=left|[[2016 Patriot League Men's Basketball Tournament|Patriot]]
+|align=left|[[2015–16 Holy Cross Crusaders men's basketball team|Holy Cross]] 
+|13th
+|2007
+|-
+|align=left|[[2016 SEC Men's Basketball Tournament|SEC]]
+|align=left|[[2015–16 Kentucky Wildcats men's basketball team|Kentucky]]
+|56th
+|2015
+|-
+|align=left|[[2016 Southern Conference Men's Basketball Tournament|Southern]]
+|align=left|[[2015–16 Chattanooga Mocs basketball team|Chattanooga]]
+|11th
+|2009
+|-
+|align=left|[[2016 Southland Conference Men's Basketball Tournament|Southland]]
+|align=left|[[2015–16 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]
+|4th
+|2015
+|-
+|align=left|[[2016 SWAC Men's Basketball Tournament|SWAC]]
+|align=left|[[2015–16 Southern Jaguars basketball team|Southern]]
+|9th
+|2013
+|-
+|align=left|[[2016 Summit League Men's Basketball Tournament|Summit League]]
+|align=left|[[2015–16 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|3rd
+|2013
+|-
+|align=left|[[2016 Sun Belt Conference Men's Basketball Tournament|Sun Belt]]
+|align=left|[[2015–16 Little Rock Trojans men's basketball team|Little Rock]]
+|5th
+|2011
+|-
+|align=left|[[2016 West Coast Conference Men's Basketball Tournament|WCC]]
+|align=left|[[2015–16 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|19th
+|2015
+|-
+|align=left|[[2016 WAC Men's Basketball Tournament|WAC]]
+|align=left|[[2015–16 Cal State Bakersfield Roadrunners men's basketball team|Cal State Bakersfield]]
+|1st
+|N/A
+|-
+|}
+
+===Tournament seeds===
+{| class="wikitable sortable"
+|+South Regional – [[KFC Yum! Center]], [[Louisville, Kentucky]]
+|-
+!Seed
+!School
+!Conference
+!Record
+!Berth type
+!Overall rank
+|-
+|align=center|1
+|[[2015–16 Kansas Jayhawks men's basketball team|Kansas]]
+|[[2015–16 Big 12 Conference men's basketball season|Big 12]]
+|align=center|30–4
+|Auto
+|align=center|1
+|-
+|align=center|2
+|[[2015–16 Villanova Wildcats men's basketball team|Villanova]]
+|[[2015–16 Big East Conference men's basketball season|Big East]]
+|align=center|29–5
+|At-large
+|align=center|7
+|-
+|align=center|3
+|[[2015–16 Miami Hurricanes men's basketball team|Miami]]
+|[[2015–16 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|25–7
+|At-large
+|align=center|10
+|-
+|align=center|4
+|[[2015–16 California Golden Bears men's basketball team|California]]
+|[[2015–16 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|23–10
+|At-large
+|align=center|14
+|-
+|align=center|5
+|[[2015–16 Maryland Terrapins men's basketball team|Maryland]]
+|[[2015–16 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|25–8
+|At-large
+|align=center|19
+|-
+|align=center|6
+|[[2015–16 Arizona Wildcats men's basketball team|Arizona]]
+|[[2015–16 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|25–8
+|At-large
+|align=center|23
+|-
+|align=center|7
+|[[2015–16 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[2015–16 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|21–10
+|At-large
+|align=center|27
+|-
+|align=center|8
+|[[2015–16 Colorado Buffaloes men's basketball team|Colorado]]
+|[[2015–16 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|22–11
+|At-large
+|align=center|30
+|-
+|align=center|9
+|[[2015–16 Connecticut Huskies men's basketball team|Connecticut]] 
+|[[2015–16 American Athletic Conference men's basketball season|American]]
+|align=center|24–10
+|Auto
+|align=center|36
+|-
+|align=center|10
+|[[2015–16 Temple Owls men's basketball team|Temple]]
+|[[2015–16 American Athletic Conference men's basketball season|American]]
+|align=center|21–11
+|At-large
+|align=center|38
+|-
+|rowspan=2 align=center|11*
+|[[2015–16 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+|[[2015–16 Southeastern Conference men's basketball season|SEC]]
+|align=center|19–13
+|At-large
+|align=center|41
+|-
+|[[2015–16 Wichita State Shockers men's basketball team|Wichita State]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|24–8
+|At-large
+|align=center|43
+|-
+|align=center|12
+|[[2015–16 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|[[Summit League]]
+|align=center|26–7
+|Auto
+|align=center|50
+|-
+|align=center|13
+|[[2015–16 Hawaii Rainbow Warriors basketball team|Hawaii]]
+|[[Big West Conference|Big West]]
+|align=center|27–5
+|Auto
+|align=center|52
+|-
+|align=center|14
+|[[2015–16 Buffalo Bulls men's basketball team|Buffalo]]
+|[[Mid-American Conference|MAC]]
+|align=center|20–14
+|Auto
+|align=center|56
+|-
+|align=center|15
+|[[2015–16 UNC Asheville Bulldogs men's basketball team|UNC Asheville]]
+|[[Big South Conference|Big South]]
+|align=center|22–11
+|Auto
+|align=center|61
+|-
+|align=center|16
+|[[2015–16 Austin Peay Governors basketball team|Austin Peay]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|18–17
+|Auto
+|align=center|63
+|-
+|}
+
+{| class="wikitable sortable"
+|+West Regional – [[Honda Center]], [[Anaheim, California]]
+|-
+!Seed
+!School
+!Conference
+!Record
+!Berth type
+!Overall rank
+|-
+|align=center|1
+|[[2015–16 Oregon Ducks men's basketball team|Oregon]]
+|[[2015–16 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|28–6
+|Auto
+|align=center|4
+|-
+|align=center|2
+|[[2015–16 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[2015–16 Big 12 Conference men's basketball season|Big 12]]
+|align=center|25–7
+|At-large
+|align=center|6
+|-
+|align=center|3
+|[[2015–16 Texas A&M Aggies men's basketball team|Texas A&M]]
+|[[2015–16 Southeastern Conference men's basketball season|SEC]]
+|align=center|26–8
+|At-large
+|align=center|12
+|-
+|align=center|4
+|[[2015–16 Duke Blue Devils men's basketball team|Duke]]
+|[[2015–16 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|23–10
+|At-large
+|align=center|13
+|-
+|align=center|5
+|[[2015–16 Baylor Bears basketball team|Baylor]]
+|[[2015–16 Big 12 Conference men's basketball season|Big 12]]
+|align=center|22–11
+|At-large
+|align=center|20
+|-
+|align=center|6
+|[[2015–16 Texas Longhorns men's basketball team|Texas]]
+|[[2015–16 Big 12 Conference men's basketball season|Big 12]]
+|align=center|20–12
+|At-large
+|align=center|21
+|-
+|align=center|7
+|[[2015–16 Oregon State Beavers men's basketball team|Oregon State]]
+|[[2015–16 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|19–12
+|At-large
+|align=center|28
+|-
+|align=center|8
+|[[2015–16 Saint Joseph's Hawks men's basketball team|Saint Joseph's]]
+|[[2015–16 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|27–7
+|Auto
+|align=center|32
+|-
+|align=center|9
+|[[2015–16 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|[[2015–16 American Athletic Conference men's basketball season|American]]
+|align=center|22–10
+|At-large
+|align=center|35
+|-
+|align=center|10
+|[[2015–16 VCU Rams men's basketball team|VCU]] 
+|[[2015–16 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|24–10
+|At-large
+|align=center|40
+|-
+|align=center|11
+|[[2015–16 Northern Iowa Panthers men's basketball team|Northern Iowa]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|22–12
+|Auto
+|align=center|46
+|-
+|align=center|12
+|[[2015–16 Yale Bulldogs men's basketball team|Yale]]
+|[[Ivy League]]
+|align=center|22–6
+|Auto
+|align=center|49
+|-
+|align=center|13
+|[[2015–16 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
+|[[2015–16 Colonial Athletic Association men's basketball season|CAA]]
+|align=center|25–7
+|Auto
+|align=center|51
+|-
+|align=center|14
+|[[2015–16 Green Bay Phoenix men's basketball team|Green Bay]]
+|[[Horizon League|Horizon]]
+|align=center|23–12
+|Auto
+|align=center|55
+|-
+|align=center|15
+|[[2015–16 Cal State Bakersfield Roadrunners men's basketball team|Cal State Bakersfield]]
+|[[Western Athletic Conference|WAC]]
+|align=center|24–8
+|Auto
+|align=center|60
+|-
+|rowspan=2 align=center|16*
+|[[2015–16 Holy Cross Crusaders men's basketball team|Holy Cross]] 
+|[[Patriot League|Patriot]]
+|align=center|14–19
+|Auto
+|align=center|68
+|-
+|[[2015–16 Southern Jaguars basketball team|Southern]]
+|[[Southwestern Athletic Conference|SWAC]]
+|align=center|22–12
+|Auto
+|align=center|67
+|-
+|}
+
+{|class="wikitable sortable"
+|+East Regional – [[Wells Fargo Center (Philadelphia)|Wells Fargo Center]], [[Philadelphia]]
+|-
+!Seed
+!School
+!Conference
+!Record
+!Berth type
+!Overall rank
+|-
+|align=center|1
+|[[2015–16 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[2015–16 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|28–6
+|Auto
+|align=center|2
+|-
+|align=center|2
+|[[2015–16 Xavier Musketeers men's basketball team|Xavier]]
+|[[2015–16 Big East Conference men's basketball season|Big East]]
+|align=center|27–5
+|At-large
+|align=center|8
+|-
+|align=center|3
+|[[2015–16 West Virginia Mountaineers men's basketball team|West Virginia]]
+|[[2015–16 Big 12 Conference men's basketball season|Big 12]]
+|align=center|26–8
+|At-large
+|align=center|9
+|-
+|align=center|4
+|[[2015–16 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[2015–16 Southeastern Conference men's basketball season|SEC]]
+|align=center|26–8
+|Auto
+|align=center|15
+|-
+|align=center|5
+|[[2015–16 Indiana Hoosiers men's basketball team|Indiana]]
+|[[2015–16 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|25–7
+|At-large
+|align=center|17
+|-
+|align=center|6
+|[[2015–16 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
+|[[2015–16 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|21–11
+|At-large
+|align=center|22
+|-
+|align=center|7
+|[[2015–16 Wisconsin Badgers men's basketball team|Wisconsin]] 
+|[[2015–16 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|20–12
+|At-large
+|align=center|25
+|-
+|align=center|8
+|[[2015–16 USC Trojans men's basketball team|USC]]
+|[[2015–16 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|21–12
+|At-large
+|align=center|31
+|-
+|align=center|9
+|[[2015–16 Providence Friars men's basketball team|Providence]] 
+|[[2015–16 Big East Conference men's basketball season|Big East]]
+|align=center|23–10
+|At-large
+|align=center|33
+|-
+|align=center|10
+|[[2015–16 Pittsburgh Panthers men's basketball team|Pittsburgh]] 
+|[[2015–16 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|21–11
+|At-large
+|align=center|37
+|-
+|rowspan=2 align=center|11*
+|[[2015–16 Michigan Wolverines men's basketball team|Michigan]]
+|[[2015–16 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|22–12
+|At-large
+|align=center|42
+|-
+|[[2015–16 Tulsa Golden Hurricane men's basketball team|Tulsa]]
+|[[2015–16 American Athletic Conference men's basketball season|American]]
+|align=center|20–11
+|At-large
+|align=center|45
+|-
+|align=center|12
+|[[2015–16 Chattanooga Mocs basketball team|Chattanooga]] 
+|[[Southern Conference|Southern]]
+|align=center|29–5
+|Auto
+|align=center|47
+|-
+|align=center|13
+|[[2015–16 Stony Brook Seawolves men's basketball team|Stony Brook]]
+|[[America East Conference|America East]]
+|align=center|26–6
+|Auto
+|align=center|53
+|-
+|align=center|14
+|[[2015–16 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]
+|[[2015–16 Southland Conference men's basketball season|Southland]]
+|align=center|27–5
+|Auto
+|align=center|58
+|-
+|align=center|15
+|[[2015–16 Weber State Wildcats men's basketball team|Weber State]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|26–8
+|Auto
+|align=center|62
+|-
+|rowspan=2 align=center|16*
+|[[2015–16 Florida Gulf Coast Eagles men's basketball team|Florida Gulf Coast]]
+|[[2015–16 Atlantic Sun Conference men's basketball season|Atlantic Sun]]
+|align=center|20–13
+|Auto
+|align=center|65
+|-
+|[[2015–16 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
+|[[2015–16 Northeast Conference men's basketball season|NEC]]
+|align=center|18–14
+|Auto
+|align=center|66
+|-
+|}
+
+{|class="wikitable sortable"
+|+Midwest Regional – [[United Center]], [[Chicago]]
+|-
+!Seed
+!School
+!Conference
+!Record
+!Berth type
+!Overall rank
+|-
+|align=center|1
+|[[2015–16 Virginia Cavaliers men's basketball team|Virginia]]
+|[[2015–16 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|26–7
+|At-large
+|align=center|3
+|-
+|-
+|align=center|2
+|[[2015–16 Michigan State Spartans men's basketball team|Michigan State]]
+|[[2015–16 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|29–5
+|Auto
+|align=center|5
+|-
+|align=center|3
+|[[2015–16 Utah Utes men's basketball team|Utah]]
+|[[2015–16 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|26–8
+|At-large
+|align=center|11
+|-
+|align=center|4
+|[[2015–16 Iowa State Cyclones men's basketball team|Iowa State]]
+|[[2015–16 Big 12 Conference men's basketball season|Big 12]]
+|align=center|21–11
+|At-large
+|align=center|16
+|-
+|align=center|5
+|[[2015–16 Purdue Boilermakers men's basketball team|Purdue]]
+|[[2015–16 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|26–8
+|At-large
+|align=center|18
+|-
+|align=center|6
+|[[2015–16 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[2015–16 Big East Conference men's basketball season|Big East]]
+|align=center|25–8
+|Auto
+|align=center|24
+|-
+|align=center|7
+|[[2015–16 Dayton Flyers men's basketball team|Dayton]]
+|[[2015–16 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|25–7
+|At-large
+|align=center|26
+|-
+|align=center|8
+|[[2015–16 Texas Tech Red Raiders basketball team|Texas Tech]]
+|[[2015–16 Big 12 Conference men's basketball season|Big 12]]
+|align=center|19–12
+|At-large
+|align=center|29
+|-
+|align=center|9
+|[[2015–16 Butler Bulldogs men's basketball team|Butler]]
+|[[2015–16 Big East Conference men's basketball season|Big East]]
+|align=center|21–10
+|At-large
+|align=center|34
+|-
+|align=center|10
+|[[2015–16 Syracuse Orange men's basketball team|Syracuse]]
+|[[2015–16 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|19–13
+|At-large
+|align=center|39
+|-
+|align=center|11
+|[[2015–16 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|[[2015–16 West Coast Conference men's basketball season|WCC]]
+|align=center|26–7
+|Auto
+|align=center|44
+|-
+|align=center|12
+|[[2015–16 Little Rock Trojans men's basketball team|Little Rock]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|29–4
+|Auto
+|align=center|48
+|-
+|align=center|13
+|[[2015–16 Iona Gaels men's basketball team|Iona]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|22–10
+|Auto
+|align=center|54
+|-
+|align=center|14
+|[[2015–16 Fresno State Bulldogs men's basketball team|Fresno State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|25–9
+|Auto
+|align=center|57
+|-
+|align=center|15
+|[[2015–16 Middle Tennessee Blue Raiders men's basketball team|Middle Tennessee]]
+|[[2015–16 Conference USA men's basketball season|C-USA]]
+|align=center|24–9
+|Auto
+|align=center|59
+|-
+|align=center|16
+|[[2015–16 Hampton Pirates men's basketball team|Hampton]]
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|align=center|21–10
+|Auto
+|align=center|64
+|-
+|}
+
+<nowiki>*</nowiki>See [[2016 NCAA Men's Division I Basketball Tournament#First Four – Dayton|First Four]]
+
+==Bracket==
+All times are listed as [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4:00|UTC−4]])<br>
+<nowiki>*</nowiki> – Denotes overtime period
+
+===First Four – Dayton, Ohio===
+{{align|left|{{2TeamBracket | RD1= March 15 – South Region
+| team-width = 150
+| RD1-seed1=11
+| RD1-team1=[[2015–16 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+| RD1-score1= 50
+| RD1-seed2=11 
+| RD1-team2='''[[2015–16 Wichita State Shockers men's basketball team|Wichita State]]'''
+| RD1-score2= '''70'''
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 15  – East Region
+| team-width = 150
+| RD1-seed1=16
+| RD1-team1='''[[2015–16 Florida Gulf Coast Eagles men's basketball team|Florida Gulf Coast]]'''
+| RD1-score1= '''96'''
+| RD1-seed2=16
+| RD1-team2=[[2015–16 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
+| RD1-score2= 65
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 16 – East Region
+| team-width = 150
+| RD1-seed1=11
+| RD1-team1='''[[2015–16 Michigan Wolverines men's basketball team|Michigan]]'''
+| RD1-score1='''67'''
+| RD1-seed2=11
+| RD1-team2=[[2015–16 Tulsa Golden Hurricane men's basketball team|Tulsa]]
+| RD1-score2=62
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 16 – West Region
+| team-width = 150
+| RD1-seed1=16
+| RD1-team1='''[[2015–16 Holy Cross Crusaders men's basketball team|Holy Cross]]'''
+| RD1-score1='''59'''
+| RD1-seed2=16
+| RD1-team2=[[2015–16 Southern Jaguars basketball team|Southern]]
+| RD1-score2=55
+}}}}{{clear left}}
+
+===South Regional – Louisville, Kentucky===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 17–18
+| RD2=Second Round<br />Round of 32<br />March 19–20
+| RD3=Regional Semifinals<br />Sweet 16<br />March 24
+| RD4=Regional Final<br />Elite 8<br />March 26
+| subgroup1= [[Wells Fargo Arena (Des Moines)|Des Moines]] – Thu/Sat
+| subgroup2= [[Spokane Veterans Memorial Arena|Spokane]] – Fri/Sun
+| subgroup3= [[Dunkin' Donuts Center|Providence]] – Thu/Sat
+| subgroup4= [[Barclays Center|Brooklyn]] – Fri/Sun
+| RD1-seed01='''1'''
+| RD1-team01='''[[2015–16 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-score01='''105'''
+| RD1-seed02=16
+| RD1-team02=[[2015–16 Austin Peay Governors basketball team|Austin Peay]]
+| RD1-score02=79
+
+| RD1-seed03=8
+| RD1-team03=[[2015–16 Colorado Buffaloes men's basketball team|Colorado]]
+| RD1-score03=67
+| RD1-seed04='''9'''
+| RD1-team04='''[[2015–16 Connecticut Huskies men's basketball team|Connecticut]]'''
+| RD1-score04='''74'''
+
+| RD1-seed05='''5'''
+| RD1-team05='''[[2015–16 Maryland Terrapins men's basketball team|Maryland]]'''
+| RD1-score05='''79'''
+| RD1-seed06=12
+| RD1-team06=[[2015–16 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+| RD1-score06=74
+
+| RD1-seed07=4
+| RD1-team07=[[2015–16 California Golden Bears men's basketball team|California]]
+| RD1-score07=66
+| RD1-seed08='''13'''
+| RD1-team08='''[[2015–16 Hawaii Rainbow Warriors basketball team|Hawaii]]'''
+| RD1-score08='''77'''
+
+| RD1-seed09=6
+| RD1-team09=[[2015–16 Arizona Wildcats men's basketball team|Arizona]]
+| RD1-score09=55
+| RD1-seed10='''11'''
+| RD1-team10='''[[2015–16 Wichita State Shockers men's basketball team|Wichita State]]'''
+| RD1-score10='''65'''
+
+| RD1-seed11='''3'''
+| RD1-team11='''[[2015–16 Miami Hurricanes men's basketball team|Miami (FL)]]'''
+| RD1-score11='''79'''
+| RD1-seed12=14
+| RD1-team12=[[2015–16 Buffalo Bulls men's basketball team|Buffalo]]
+| RD1-score12=72
+
+| RD1-seed13='''7'''
+| RD1-team13='''[[2015–16 Iowa Hawkeyes men's basketball team|Iowa]]'''
+| RD1-score13='''72*'''
+| RD1-seed14=10
+| RD1-team14=[[2015–16 Temple Owls men's basketball team|Temple]]
+| RD1-score14=70
+
+| RD1-seed15='''2'''
+| RD1-team15='''[[2015–16 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-score15='''86'''
+| RD1-seed16=15
+| RD1-team16=[[2015–16 UNC Asheville Bulldogs men's basketball team|UNC Asheville]]
+| RD1-score16=56
+
+| RD2-seed01='''1'''
+| RD2-team01='''Kansas'''
+| RD2-score01='''73'''
+| RD2-seed02=9
+| RD2-team02=Connecticut
+| RD2-score02=61
+
+| RD2-seed03='''5'''
+| RD2-team03='''Maryland'''
+| RD2-score03='''73'''
+| RD2-seed04=13
+| RD2-team04=Hawaii
+| RD2-score04=60
+
+| RD2-seed05=11
+| RD2-team05=Wichita State
+| RD2-score05=57
+| RD2-seed06='''3'''
+| RD2-team06='''Miami (FL)'''
+| RD2-score06='''65'''
+
+| RD2-seed07=7
+| RD2-team07=Iowa
+| RD2-score07=68
+| RD2-seed08='''2'''
+| RD2-team08='''Villanova'''
+| RD2-score08='''87'''
+
+| RD3-seed01='''1'''
+| RD3-team01='''Kansas'''
+| RD3-score01='''79'''
+| RD3-seed02=5
+| RD3-team02=Maryland
+| RD3-score02=63
+
+| RD3-seed03=3
+| RD3-team03=Miami (FL)
+| RD3-score03=69
+| RD3-seed04='''2'''
+| RD3-team04='''Villanova'''
+| RD3-score04='''92'''
+
+| RD4-seed01=1
+| RD4-team01=Kansas
+| RD4-score01=59
+| RD4-seed02='''2'''
+| RD4-team02='''Villanova'''
+| RD4-score02='''64'''
+}}
+
+====South Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 26
+ | time = 8:49 pm [[Eastern Time Zone|EDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2016/03/26/villanova-kansas/boxscore Box Score]
+ | team1 = '''#2 Villanova Wildcats'''
+ | score1 = '''64'''
+ | team2 = #1 Kansas Jayhawks
+ | score2 = 59
+ | points1 = [[Ryan Arcidiacono|R. Arcidiacono]], [[Josh Hart (basketball)|J. Hart]], [[Kris Jenkins (basketball)|K. Jenkins]] – 13
+ | rebounds1 = [[Daniel Ochefu|D. Ochefu]] – 8
+ | assist1 = K. Jenkins – 3
+ | otherstat1 = 
+ | points2 = [[Devonte' Graham|D. Graham]] – 17
+ | rebounds2 = L. Lucas – 12
+ | assist2 = [[Frank Mason III|F. Mason III]] – 4
+ | H1 = 32–25
+ | H2 = 32–34
+ | place = KFC Yum! Center – Louisville, KY
+ | attendance = 19,422
+ | referee = Jeff Clark, Terry Wymer, Chris Rastatter
+ | TV = CBS
+}}
+
+====South Regional all tournament team====
+*[[Kris Jenkins (basketball)|Kris Jenkins]] (Jr, Villanova) – South Regional most outstanding player<ref name=southatt>{{cite web|url=http://philadelphia.suntimes.com/villanova-wildcats/7/96/277237/ncaa-tournament-2016-4-villanova-players-named-to-south-regional-all-tournament-team|title=NCAA Tournament 2016: 4 Villanova players named to South Regional All-Tournament Team|date=March 27, 2016|work=Philadelphia|accessdate=March 28, 2016|deadurl=yes|archiveurl=https://web.archive.org/web/20160409135352/http://philadelphia.suntimes.com/villanova-wildcats/7/96/277237/ncaa-tournament-2016-4-villanova-players-named-to-south-regional-all-tournament-team|archivedate=April 9, 2016|df=mdy-all}}</ref>
+*[[Ryan Arcidiacono]] (Sr, Villanova)<ref name=southatt/>
+*[[Josh Hart (basketball)|Josh Hart]] (Jr, Villanova)<ref name=southatt/>
+*[[Daniel Ochefu]] (Sr, Villanova)<ref name=southatt/>
+*[[Devonte' Graham]] (So, Kansas)<ref name=southatt/>
+
+===West Regional – Anaheim, California===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 17–18
+| RD2=Second Round<br />Round of 32<br />March 19–20
+| RD3=Regional Semifinals<br />Sweet 16<br />March 24
+| RD4=Regional Final<br />Elite 8<br />March 26
+| subgroup1= [[Spokane Veterans Memorial Arena|Spokane]] – Fri/Sun
+| subgroup2= [[Dunkin' Donuts Center|Providence]] – Thu/Sat
+| subgroup3= [[Chesapeake Energy Arena|Oklahoma City]] – Fri/Sun
+| subgroup4= [[Chesapeake Energy Arena|Oklahoma City]] – Fri/Sun
+| RD1-seed01='''1'''
+| RD1-team01='''[[2015–16 Oregon Ducks men's basketball team|Oregon]]'''
+| RD1-score01='''91'''
+| RD1-seed02=16
+| RD1-team02=[[2015–16 Holy Cross Crusaders men's basketball team|Holy Cross]]
+| RD1-score02=52
+
+| RD1-seed03='''8'''
+| RD1-team03='''[[2015–16 Saint Joseph's Hawks men's basketball team|Saint Joseph's]]'''
+| RD1-score03='''78'''
+| RD1-seed04=9
+| RD1-team04=[[2015–16 Cincinnati Bearcats men's basketball team|Cincinnati]]
+| RD1-score04=76
+
+| RD1-seed05=5
+| RD1-team05=[[2015–16 Baylor Bears basketball team|Baylor]]
+| RD1-score05=75
+| RD1-seed06='''12'''
+| RD1-team06='''[[2015–16 Yale Bulldogs men's basketball team|Yale]]'''
+| RD1-score06='''79'''
+
+| RD1-seed07='''4'''
+| RD1-team07='''[[2015–16 Duke Blue Devils men's basketball team|Duke]]'''
+| RD1-score07='''93'''
+| RD1-seed08=13
+| RD1-team08=[[2015–16 UNC Wilmington Seahawks men's basketball team|UNC Wilmington]]
+| RD1-score08=85
+
+| RD1-seed09=6
+| RD1-team09=[[2015–16 Texas Longhorns men's basketball team|Texas]]
+| RD1-score09=72
+| RD1-seed10='''11'''
+| RD1-team10='''[[2015–16 Northern Iowa Panthers men's basketball team|Northern Iowa]]'''
+| RD1-score10='''75'''
+
+| RD1-seed11='''3'''
+| RD1-team11='''[[2015–16 Texas A&M Aggies men's basketball team|Texas A&M]]'''
+| RD1-score11='''92'''
+| RD1-seed12=14
+| RD1-team12=[[2015–16 Green Bay Phoenix men's basketball team|Green Bay]]
+| RD1-score12=65
+
+| RD1-seed13=7
+| RD1-team13=[[2015–16 Oregon State Beavers men's basketball team|Oregon State]]
+| RD1-score13=67
+| RD1-seed14='''10'''
+| RD1-team14='''[[2015–16 VCU Rams men's basketball team|VCU]]''' 
+| RD1-score14='''75'''
+
+| RD1-seed15='''2'''
+| RD1-team15='''[[2015–16 Oklahoma Sooners men's basketball team|Oklahoma]]'''
+| RD1-score15='''82'''
+| RD1-seed16=15
+| RD1-team16=[[2015–16 Cal State Bakersfield Roadrunners men's basketball team|Cal State Bakersfield]]
+| RD1-score16=68
+
+| RD2-seed01='''1'''
+| RD2-team01='''Oregon'''
+| RD2-score01='''69'''
+| RD2-seed02=8
+| RD2-team02=Saint Joseph's
+| RD2-score02=64
+
+| RD2-seed03=12
+| RD2-team03=Yale
+| RD2-score03=64
+| RD2-seed04='''4'''
+| RD2-team04='''Duke'''
+| RD2-score04='''71'''
+
+| RD2-seed05=11
+| RD2-team05=Northern Iowa
+| RD2-score05=88
+| RD2-seed06='''3'''
+| RD2-team06='''Texas A&M'''
+| RD2-score06='''92**'''
+
+| RD2-seed07=10
+| RD2-team07=VCU
+| RD2-score07=81
+| RD2-seed08='''2'''
+| RD2-team08='''Oklahoma'''
+| RD2-score08='''85'''
+
+| RD3-seed01='''1'''
+| RD3-team01='''Oregon'''
+| RD3-score01='''82'''
+| RD3-seed02=4
+| RD3-team02=Duke
+| RD3-score02=68
+
+| RD3-seed03=3
+| RD3-team03=Texas A&M
+| RD3-score03=63
+| RD3-seed04='''2'''
+| RD3-team04='''Oklahoma'''
+| RD3-score04='''77'''
+
+| RD4-seed01=1
+| RD4-team01=Oregon
+| RD4-score01=68
+| RD4-seed02='''2'''
+| RD4-team02='''Oklahoma'''
+| RD4-score02='''80'''
+}}
+
+====West Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 26
+ | time = 3:09 pm [[Pacific Time|PDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2016/03/26/oklahoma-oregon/boxscore Box Score]
+ | team1 = '''#2 Oklahoma Sooners'''
+ | score1 = '''80'''
+ | team2 = #1 Oregon Ducks
+ | score2 = 68
+ | points1 = [[Buddy Hield|B. Hield]] – 37
+ | rebounds1 = C. James – 10
+ | assist1 = [[Isaiah Cousins|I. Cousins]] – 7
+ | otherstat1 = 
+ | points2 = [[Elgin Cook|E. Cook]] – 24
+ | rebounds2 = [[Jordan Bell|J. Bell]] – 12
+ | assist2 = [[Dillon Brooks|D. Brooks]], E. Cook – 4
+ | H1 = 48–30
+ | H2 = 32–38
+ | place = Honda Center – Anaheim, CA
+ | attendance = 16,232
+ | referee = Tony Padilla, Mike Eades, Ray Natili
+ | TV = CBS
+}}
+
+====West Regional all tournament team====
+*[[Buddy Hield]] (Sr, Oklahoma) – West Regional most outstanding player<ref name=westatt>{{cite web|url=http://www.crimsonandcreammachine.com/2016/3/26/11312062/trio-of-oklahoma-sooners-named-to-west-regional-all-tournament-team|title=Trio of Oklahoma Sooners Named To West Regional All-Tournament Team|author=Rich DeCray|date=March 27, 2016|work=Crimson And Cream Machine|accessdate=March 28, 2016}}</ref>
+*[[Isaiah Cousins]] (Sr, Oklahoma)<ref name=westatt/>
+*Jordan Woodard (Jr, Oklahoma)<ref name=westatt/>
+*[[Elgin Cook]] (Sr, Oregon)<ref name=westatt/>
+*[[Brandon Ingram]] (Fr, Duke)<ref name=westatt/>
+
+===East Regional – Philadelphia, Pennsylvania===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 17–18
+| RD2=Second Round<br />Round of 32<br />March 19–20
+| RD3=Regional Semifinals<br />Sweet 16<br />March 25
+| RD4=Regional Final<br />Elite 8<br />March 27
+| subgroup1= [[PNC Arena|Raleigh]] – Thu/Sat
+| subgroup2= [[Wells Fargo Arena (Des Moines)|Des Moines]] – Thu/Sat
+| subgroup3= [[Barclays Center|Brooklyn]] – Fri/Sun
+| subgroup4= [[Scottrade Center|St. Louis]] – Fri/Sun
+| RD1-seed01='''1'''
+| RD1-team01='''[[2015–16 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score01='''83'''
+| RD1-seed02=16
+| RD1-team02= [[2015–16 Florida Gulf Coast Eagles men's basketball team|Florida Gulf Coast]]
+| RD1-score02=67
+
+| RD1-seed03=8
+| RD1-team03=[[2015–16 USC Trojans men's basketball team|USC]]
+| RD1-score03=69
+| RD1-seed04='''9'''
+| RD1-team04='''[[2015–16 Providence Friars men's basketball team|Providence]]'''
+| RD1-score04='''70'''
+
+| RD1-seed05='''5'''
+| RD1-team05='''[[2015–16 Indiana Hoosiers men's basketball team|Indiana]]'''
+| RD1-score05='''99'''
+| RD1-seed06=12
+| RD1-team06=[[2015–16 Chattanooga Mocs basketball team|Chattanooga]]
+| RD1-score06=74
+
+| RD1-seed07='''4'''
+| RD1-team07='''[[2015–16 Kentucky Wildcats men's basketball team|Kentucky]]'''
+| RD1-score07='''85'''
+| RD1-seed08=13
+| RD1-team08=[[2015–16 Stony Brook Seawolves men's basketball team|Stony Brook]]
+| RD1-score08=57
+
+| RD1-seed09='''6'''
+| RD1-team09='''[[2015–16 Notre Dame Fighting Irish men's basketball team|Notre Dame]]'''
+| RD1-score09='''70'''
+| RD1-seed10=11
+| RD1-team10=[[2015–16 Michigan Wolverines men's basketball team|Michigan]]
+| RD1-score10=63
+
+| RD1-seed11=3
+| RD1-team11=[[2015–16 West Virginia Mountaineers men's basketball team|West Virginia]]
+| RD1-score11=56
+| RD1-seed12='''14'''
+| RD1-team12='''[[2015–16 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]'''
+| RD1-score12='''70'''
+
+| RD1-seed13='''7'''
+| RD1-team13='''[[2015–16 Wisconsin Badgers men's basketball team|Wisconsin]]'''
+| RD1-score13='''47'''
+| RD1-seed14=10
+| RD1-team14=[[2015–16 Pittsburgh Panthers men's basketball team|Pittsburgh]]
+| RD1-score14=43
+
+| RD1-seed15='''2'''
+| RD1-team15='''[[2015–16 Xavier Musketeers men's basketball team|Xavier]]'''
+| RD1-score15='''71'''
+| RD1-seed16=15
+| RD1-team16=[[2015–16 Weber State Wildcats men's basketball team|Weber State]]
+| RD1-score16=53
+
+| RD2-seed01='''1'''
+| RD2-team01='''North Carolina'''
+| RD2-score01='''85'''
+| RD2-seed02=9
+| RD2-team02=Providence
+| RD2-score02=66
+
+| RD2-seed03='''5'''
+| RD2-team03='''Indiana'''
+| RD2-score03='''73'''
+| RD2-seed04=4
+| RD2-team04=Kentucky
+| RD2-score04=67
+
+| RD2-seed05='''6'''
+| RD2-team05='''Notre Dame'''
+| RD2-score05='''76'''
+| RD2-seed06=14
+| RD2-team06=Stephen F. Austin
+| RD2-score06=75
+
+| RD2-seed07='''7'''
+| RD2-team07='''Wisconsin'''
+| RD2-score07='''66'''
+| RD2-seed08=2
+| RD2-team08=Xavier
+| RD2-score08=63
+
+| RD3-seed01='''1'''
+| RD3-team01='''North Carolina'''
+| RD3-score01='''101'''
+| RD3-seed02=5
+| RD3-team02=Indiana
+| RD3-score02=86
+
+| RD3-seed03='''6'''
+| RD3-team03='''Notre Dame'''
+| RD3-score03='''61'''
+| RD3-seed04=7
+| RD3-team04=Wisconsin
+| RD3-score04=56
+
+| RD4-seed01='''1'''
+| RD4-team01='''North Carolina'''
+| RD4-score01='''88'''
+| RD4-seed02=6
+| RD4-team02=Notre Dame
+| RD4-score02=74
+}}
+
+====East Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 27
+ | time = 8:49 pm EDT
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2016/03/27/notre-dame-north-carolina/boxscore Box Score]
+ | team1 = #6 Notre Dame Fighting Irish
+ | score1 = 74
+ | team2 = '''#1 North Carolina Tar Heels'''
+ | score2 = '''88'''
+ | points1 = [[Demetrius Jackson|D. Jackson]] – 26
+ | rebounds1 = [[Bonzie Colson|B. Colson]] – 5
+ | assist1 = D. Jackson – 4
+ | otherstat1 = 
+ | points2 = [[Brice Johnson|B. Johnson]] – 25
+ | rebounds2 = B. Johnson – 12
+ | assist2 = [[Joel Berry II|J. Berry II]] – 8
+ | H1 = 38–43
+ | H2 = 36–45
+ | place = Wells Fargo Center – Philadelphia, PA
+ | attendance = 20,743
+ | referee = Tom Eades, Ed Corbett, Michael Stephens
+ | TV = TBS
+}}
+
+====East Regional all tournament team====
+*[[Brice Johnson]] (Sr, North Carolina) – East Regional most outstanding player<ref>{{cite web|url=http://www.newsobserver.com/sports/college/acc/unc/unc-now/article68603777.html|title=Brice Johnson makes UNC NCAA tournament history|work=newsobserver|accessdate=March 28, 2016}}</ref>
+*[[Marcus Paige]] (Sr, North Carolina)<ref name=eastatt>{{cite web|url=http://scores.suntimes.com/basketball/ncaab-boxscores.aspx?page=/data/ncaab/results/2015-2016/recap915242.html|title=NCAA College Basketball Box Scores|work=Chicago Sun-Times|accessdate=March 28, 2016}}</ref>
+*[[V. J. Beachem]] (Jr, Notre Dame)<ref name=eastatt/>
+*[[Demetrius Jackson]] (Jr, Notre Dame)<ref name=eastatt/>
+*[[Yogi Ferrell]] (Sr, Indiana)<ref name=eastatt/>
+
+===Midwest Regional – Chicago, Illinois===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 17–18
+| RD2=Second Round<br />Round of 32<br />March 19–20
+| RD3=Regional Semifinals<br />Sweet 16<br />March 25
+| RD4=Regional Final<br />Elite 8<br />March 27
+| subgroup1= [[PNC Arena|Raleigh]] – Thu/Sat
+| subgroup2= [[Pepsi Center|Denver]] – Thu/Sat
+| subgroup3= [[Pepsi Center|Denver]] – Thu/Sat
+| subgroup4= [[Scottrade Center|St. Louis]] – Fri/Sun
+| RD1-seed01='''1'''
+| RD1-team01='''[[2015–16 Virginia Cavaliers men's basketball team|Virginia]]'''
+| RD1-score01='''81'''
+| RD1-seed02=16
+| RD1-team02=[[2015–16 Hampton Pirates men's basketball team|Hampton]]
+| RD1-score02=45
+
+| RD1-seed03=8
+| RD1-team03=[[2015–16 Texas Tech Red Raiders basketball team|Texas Tech]]
+| RD1-score03=61
+| RD1-seed04='''9'''
+| RD1-team04='''[[2015–16 Butler Bulldogs men's basketball team|Butler]]'''
+| RD1-score04='''71'''
+
+| RD1-seed05=5
+| RD1-team05=[[2015–16 Purdue Boilermakers men's basketball team|Purdue]]
+| RD1-score05=83
+| RD1-seed06='''12'''
+| RD1-team06='''[[2015–16 Little Rock Trojans men's basketball team|Little Rock]]'''
+| RD1-score06='''85**'''
+
+| RD1-seed07='''4'''
+| RD1-team07='''[[2015–16 Iowa State Cyclones men's basketball team|Iowa State]]'''
+| RD1-score07='''94'''
+| RD1-seed08=13
+| RD1-team08=[[2015–16 Iona Gaels men's basketball team|Iona]]
+| RD1-score08=81
+
+| RD1-seed09=6
+| RD1-team09=[[2015–16 Seton Hall Pirates men's basketball team|Seton Hall]]
+| RD1-score09=52
+| RD1-seed10='''11'''
+| RD1-team10='''[[2015–16 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-score10='''68'''
+
+| RD1-seed11='''3'''
+| RD1-team11='''[[2015–16 Utah Utes men's basketball team|Utah]]'''
+| RD1-score11='''80'''
+| RD1-seed12=14
+| RD1-team12=[[2015–16 Fresno State Bulldogs men's basketball team|Fresno State]]
+| RD1-score12=69
+
+| RD1-seed13=7
+| RD1-team13=[[2015–16 Dayton Flyers men's basketball team|Dayton]]
+| RD1-score13=51
+| RD1-seed14='''10'''
+| RD1-team14='''[[2015–16 Syracuse Orange men's basketball team|Syracuse]]'''
+| RD1-score14='''70'''
+
+| RD1-seed15=2
+| RD1-team15=[[2015–16 Michigan State Spartans men's basketball team|Michigan State]]
+| RD1-score15=81
+| RD1-seed16='''15'''
+| RD1-team16='''[[2015–16 Middle Tennessee Blue Raiders men's basketball team|Middle Tennessee]]'''
+| RD1-score16='''90'''
+
+| RD2-seed01='''1'''
+| RD2-team01='''Virginia'''
+| RD2-score01='''77'''
+| RD2-seed02=9
+| RD2-team02=Butler
+| RD2-score02=69
+
+| RD2-seed03=12
+| RD2-team03=Little Rock
+| RD2-score03=61
+| RD2-seed04='''4'''
+| RD2-team04='''Iowa State'''
+| RD2-score04='''78'''
+
+| RD2-seed05='''11'''
+| RD2-team05='''Gonzaga'''
+| RD2-score05='''82'''
+| RD2-seed06=3
+| RD2-team06=Utah
+| RD2-score06=59
+
+| RD2-seed07='''10'''
+| RD2-team07='''Syracuse'''
+| RD2-score07='''75'''
+| RD2-seed08=15
+| RD2-team08=Middle Tennessee
+| RD2-score08=50
+
+| RD3-seed01='''1'''
+| RD3-team01='''Virginia'''
+| RD3-score01='''84'''
+| RD3-seed02=4
+| RD3-team02=Iowa State
+| RD3-score02=71
+
+| RD3-seed03=11
+| RD3-team03=Gonzaga
+| RD3-score03=60
+| RD3-seed04='''10'''
+| RD3-team04='''Syracuse'''
+| RD3-score04='''63'''
+
+| RD4-seed01=1
+| RD4-team01=Virginia
+| RD4-score01=62
+| RD4-seed02='''10'''
+| RD4-team02='''Syracuse'''
+| RD4-score02='''68'''
+}}
+
+====Midwest Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 27
+ | time = 5:09 pm [[Central Time Zone|CDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2016/03/27/syracuse-virginia/boxscore Box Score]
+ | team1 = '''#10 Syracuse Orange'''
+ | score1 = '''68'''
+ | team2 = #1 Virginia Cavaliers
+ | score2 = 62
+ | points1 = [[Malachi Richardson|M. Richardson]] – 23
+ | rebounds1 = T. Roberson – 8
+ | assist1 = [[Michael Gbinije|M. Gbinije]] – 6
+ | otherstat1 = 
+ | points2 = [[London Perrantes|L. Perrantes]] – 18
+ | rebounds2 = [[Malcolm Brogdon|M. Brogdon]] – 7 	
+ | assist2 = M. Brogdon – 7 	
+ | H1 = 21–35
+ | H2 = 47–27
+ | place = United Center – Chicago, IL
+ | attendance = 20,155
+ | referee = Mike Roberts, John Higgens, John Gaffney
+ | TV = TBS
+}}
+
+====Midwest Regional all tournament team====
+*[[Malachi Richardson]] (Fr, Syracuse) – Midwest Regional most outstanding player<ref name=midwestatt>{{cite web|url=https://nypost.com/2016/03/28/jim-boeheims-halftime-fury-adds-chapter-to-his-legend/|title=Jim Boeheim's halftime fury adds chapter to his legend|date=March 28, 2016|work=New York Post|accessdate=March 28, 2016}}</ref>
+*[[Michael Gbinije]] (Sr, Syracuse)<ref name=midwestatt/>
+*[[London Perrantes]] (Jr, Virginia)<ref name=midwestatt/>
+*[[Georges Niang]] (Sr, Iowa State)<ref name=midwestatt/>
+*[[Domantas Sabonis]] (So, Gonzaga)<ref name=midwestatt/>
+
+==Final four==
+During the Final Four round, regardless of the seeds of the participating teams, the champion of the top overall top seed's region (Kansas's South Region) plays against the champion of the fourth-ranked top seed's region (Oregon's West Region), and the champion of the second overall top seed's region (North Carolina's East Region) plays against the champion of the third-ranked top seed's region (Virginia's Midwest Region).
+
+===NRG Stadium – Houston, Texas===
+{{4TeamBracket
+| RD1=National Semifinals<br />April 2
+| RD2=National Championship Game<br />April 4
+| score-width=25
+| team-width=130
+| RD1-seed1='''S2'''
+| RD1-team1='''[[2015–16 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-score1='''95'''
+| RD1-seed2=W2
+| RD1-team2=[[2015–16 Oklahoma Sooners men's basketball team|Oklahoma]]
+| RD1-score2=51
+
+| RD1-seed3='''E1'''
+| RD1-team3='''[[2015–16 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score3='''83'''
+| RD1-seed4=MW10
+| RD1-team4=[[2015–16 Syracuse Orange men's basketball team|Syracuse]]
+| RD1-score4=66
+
+| RD2-seed1='''S2'''
+| RD2-team1='''Villanova'''
+| RD2-score1='''77'''
+| RD2-seed2=E1
+| RD2-team2=North Carolina
+| RD2-score2=74
+}}
+
+====Final four====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, April 2
+ | time = 5:09 pm CDT
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2016/04/02/villanova-oklahoma/boxscore Box Score]
+ | team1 = '''#2 Villanova Wildcats'''
+ | score1 = '''95'''
+ | team2 = #2 Oklahoma Sooners
+ | score2 = 51
+ | points1 = [[Josh Hart (basketball)|J. Hart]] – 23
+ | rebounds1 = [[Kris Jenkins (basketball)|K. Jenkins]], J. Hart – 8
+ | assist1 = J. Hart – 4
+ | otherstat1 =
+ | points2 = J. Woodard – 12
+ | rebounds2 = [[Buddy Hield|B. Hield]] – 7
+ | assist2 = B. Hield, J. Woodard – 2
+ | H1 = 42–28
+ | H2 = 53–23
+ | place = NRG Stadium – Houston, TX
+ | attendance = 75,505
+ | referee = Tom Eades, Tony Padilla, Mark Whitehead
+ | TV = TBS
+}}
+{{basketballbox
+ | bg = #fff
+ | date = Saturday, April 2
+ | time = 7:49 pm CDT
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2016/04/02/syracuse-north-carolina/boxscore Box Score]
+ | team1 = #10 Syracuse Orange
+ | score1 = 66
+ | team2 = '''#1 North Carolina Tar Heels'''
+ | score2 = '''83'''
+ | points1 = [[Trevor Cooney|T. Cooney]] – 22
+ | rebounds1 = T. Roberson – 9
+ | assist1 = [[Michael Gbinije|M. Gbinije]] – 2
+ | otherstat1 =
+ | points2 = [[Brice Johnson|B. Johnson]], [[Justin Jackson (basketball, born 1995)|J. Jackson]] – 16
+ | rebounds2 = B. Johnson – 9
+ | assist2 = [[Joel Berry II|J. Berry II]] – 10
+ | H1 = 28–39
+ | H2 = 38–44
+ | place = NRG Stadium – Houston, TX
+ | attendance = 75,505
+ | referee = Jeff Clark, Roger Ayers, Mike Eades
+ | TV = TBS
+}}
+
+The Villanova–Oklahoma result was not only the most one-sided in the tournament so far, but also in the history of the men's Final Four. The Wildcats shot 71.4% for the game, surpassed in Final Four games only by the [[1984–85 Villanova Wildcats men's basketball team|Wildcats']] 78.6% performance in the [[1985 NCAA Men's Division I Basketball Championship Game|1985 final]] against [[1984–85 Georgetown Hoyas men's basketball team|Georgetown]]. The 44-point margin was also greater than the combined margin of defeat in Oklahoma's seven previous losses in 2015–16. In addition, the 2016 semifinals were the first since 2008 to both be decided by double-digit margins, and the combined 61-point margin broke a men's Final Four record set in 1949.<ref>{{cite web|url=https://sports.yahoo.com/news/why-the-2016-ncaa-final-four-could-be-the-worst-ever-055156530.html?soc_src=mail&soc_trk=ma |title=Why the 2016 NCAA Final Four could be the worst ever |first=Pat |last=Forde |authorlink=Pat Forde |publisher=[[Yahoo! Sports]] |date=April 3, 2016 |accessdate=April 4, 2016}}</ref>
+
+====National Championship====
+{{main article|2016 NCAA Division I Men's Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, April 4
+ | time = 8:19 pm CDT
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2016/04/04/villanova-north-carolina/boxscore Box Score]
+ | team1 = '''#2 Villanova Wildcats'''
+ | score1 = '''77'''
+ | team2 = #1 North Carolina Tar Heels
+ | score2 = 74
+ | points1 = [[Phil Booth (basketball)|P. Booth]] – 20
+ | rebounds1 = [[Josh Hart (basketball)|J. Hart]] – 8
+ | assist1 = [[Ryan Arcidiacono|R. Arcidiacono]], [[Daniel Ochefu|D. Ochefu]] – 2
+ | otherstat1 =
+ | points2 = [[Marcus Paige|M. Paige]] – 21
+ | rebounds2 = [[Brice Johnson|B. Johnson]] – 8
+ | assist2 = M. Paige – 6
+ | H1 = 34–39
+ | H2 = 43–35
+ | place = NRG Stadium – Houston, TX
+ | attendance = 74,340
+ | referee = Michael Stephens, John Higgins, Terry Wymer
+ | TV = TBS
+}}
+
+The Wildcats' Championship run was the most dominant in NCAA Tournament history, with a total point differential of +124 (breaking the 2009 record set by the North Carolina Tar Heels of [[2009 NCAA Men's Division I Basketball Tournament#Tournament notes|+121]]<ref name=PointDiff>{{Cite web | url=http://www.databasesports.com/ncaab/tourney.htm?yr=2009 |title=2009 NCAA Men's Division I Basketball Tournament |publisher= Database Sports}}</ref>).
+
+====Final Four all-tournament team====
+* [[Ryan Arcidiacono]] (Sr, Villanova) – [[NCAA Basketball Tournament Most Outstanding Player|Final Four Most Outstanding Player]]<ref name=finalfouratt>{{cite web |url=http://www.syracuse.com/marchmadness/index.ssf/2016/04/ryan_arcidiacono_named_most_outstanding_player_of_2016_ncaa_final_four.html |title=Ryan Arcidiacono named Most Outstanding Player of 2016 NCAA Final Four |publisher=Syracuse.com |date=April 4, 2016 |accessdate=April 5, 2016}}</ref>
+* [[Josh Hart (basketball)|Josh Hart]] (Jr, Villanova)<ref name=finalfouratt />
+* [[Phil Booth (basketball)|Phil Booth]] (So, Villanova)<ref name=finalfouratt />
+* [[Joel Berry II]] (So, North Carolina)<ref name=finalfouratt />
+* [[Brice Johnson]] (Sr, North Carolina)<ref name=finalfouratt />
+
+==Record by conference==
+{|class="wikitable sortable" style="text-align:center;"
+!Conference
+!Bids<ref>{{cite news|title=2016 NCAA Tournament: Bids broken down by conferences|url=http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25516516/ncaa-tournament-bids-broken-down-by-conferences|work=CBS Sports|first=Chip|last=Patterson|date=March 14, 2016}}</ref>
+!Record
+!Win %
+!R64
+!R32
+!S16
+!E8
+!F4
+!CG
+!NC
+|-
+|align="left"|Big East
+|5
+|9–4
+|{{winpct|9|4}}
+|5
+|4
+|1
+|1
+|1
+|1
+|1
+|-
+|align="left"|ACC
+|7
+|19–7
+|{{winpct|19|7}}
+|7
+|6
+|6
+|4
+|2
+|1
+||{{sort|-1|–}}
+|-
+|align="left"|Big 12
+|7
+|9–7
+|{{winpct|9|7}}
+|7
+|3
+|3
+|2
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Pac-12
+|7
+|4–7
+|{{winpct|4|7}}
+|7
+|2
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Big Ten
+|7
+|8–7
+|{{winpct|8|7}}
+|7
+|4
+|3
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|SEC
+|3
+|3–3
+|{{winpct|3|3}}
+|2
+|2
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|WCC
+|1
+|2–1
+|{{winpct|2|1}}
+|1
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Atlantic 10
+|3
+|2–3
+|{{winpct|2|3}}
+|3
+|2
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Missouri Valley
+|2
+|2–2
+|{{winpct|2|2}}
+|2
+|2
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|American
+|4
+|1–4
+|{{winpct|1|4}}
+|3
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Big West
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|C-USA
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Ivy League
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Southland
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Sun Belt
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Atlantic Sun
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|align="left"|Patriot
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|}
+{{reflist|group=note|close}}
+*The R64, R32, S16, E8, F4, CG, and NC columns indicate how many teams from each conference were in the round of 64 (first round), round of 32 (second round), Sweet 16, Elite Eight, Final Four, championship game, and national champion, respectively.
+*The "Record" column includes wins in the First Four for the Big Ten, Missouri Valley, Atlantic Sun, and Patriot conferences and losses in the First Four for the SEC and American conferences.
+*The [[Northeast Conference|NEC]] and [[Southwestern Athletic Conference|SWAC]] each had one representative, both eliminated in the First Four with a record of 0–1.
+*The [[America East Conference|America East]], [[Big Sky Conference|Big Sky]], [[Big South Conference|Big South]], [[Colonial Athletic Association|CAA]], [[Horizon League|Horizon]], [[Metro Atlantic Athletic Conference|MAAC]], [[Mid-American Conference|MAC]], [[Mid-Eastern Athletic Conference|MEAC]], [[Mountain West Conference|Mountain West]], [[Ohio Valley Conference|Ohio Valley]], [[Southern Conference|Southern]], [[Summit League|Summit]], and [[Western Athletic Conference|WAC]] conferences each had one representative, eliminated in the First Round with a record of 0–1.
+
+==Media coverage==
+===Television===
+[[CBS Sports]] and [[Turner Sports]] held joint U.S. television broadcast rights to the Tournament under the [[NCAA March Madness (CBS/Turner)|''NCAA March Madness'']] brand. Beginning in 2016, rights to the Final Four and championship game began to alternate between Turner and CBS, with Turner networks broadcasting the 2016 Final Four and championship; a conventional telecast aired on [[TBS (U.S. TV channel)|TBS]], accompanied by "Team Stream" broadcasts on [[TNT (U.S. TV network)|TNT]] and [[TruTV]] which featured commentary and coverage focused on each participating team. Turner employed this multi-channel presentation of the semifinals in 2014 and 2015, but this was the first time it was used for the final.<ref name="aa-commentators">{{cite web|title=CBS/Turner unveil 2016 NCAA Tournament announcers; Brian Anderson to call Elite Eight|url=http://awfulannouncing.com/2016/cbsturner-unveil-2016-ncaa-tournament-announcers-brian-anderson-to-call-elite-eight.html|website=Awful Announcing|accessdate=March 9, 2016}}</ref> It marked the first time in tournament history that the national championship game aired on cable channels, and ended CBS' streak of broadcasting 34 consecutive National Championship games.<ref>{{cite web|title=CBS Sports, Turner Sports announce programming schedule for 2014, 2015|url=http://www.ncaa.com/news/basketball-men/article/2013-05-07/cbs-sports-turner-sports-announce-programming-schedule-2014|publisher=National Collegiate Athletic Association|date=May 7, 2013|accessdate=April 1, 2015}}</ref><ref>{{cite web|title=CBS Sports and Turner Sports Announce 2016 NCAA Division I Men's Basketball Championship Commentator Team|url=http://www.ncaa.com/news/basketball-men/article/2016-03-08/cbs-sports-and-turner-sports-announce-2016-ncaa-division-i|publisher=NCAA|accessdate=March 9, 2016|date=March 8, 2016}}</ref>
+
+For 2016, the selection show on CBS was expanded into a two-hour broadcast—a move which proved unpopular with viewers due to the decreased speed at which the participating teams were unveiled. These issues were exacerbated by a [[Internet leak|leak]] of the full bracket shortly into the broadcast, which spread on [[Twitter]]. Although ratings for the selection show had steadily decreased over the past four years, the 3.7 overnight rating for the broadcast was the lowest in 20 years.<ref name="wp-ssratings">{{cite news|title=Ratings for CBS's NCAA tournament selection show were almost as bad as show itself|url=https://www.washingtonpost.com/news/early-lead/wp/2016/03/14/ratings-for-cbss-ncaa-tournament-selection-show-were-almost-as-bad-as-show-itself/|date=March 14, 2016|work=Washington Post}}</ref><ref name="lat-twohour">{{cite news|title=NCAA says it's investigating the bracket leak that saved us from the two-hour Selection Sunday show|url=http://www.latimes.com/sports/sportsnow/la-sp-sn-ncaa-tournament-bracket-leak-20160314-story.html|date=March 14, 2016|work=Los Angeles Times}}</ref> CBS Sports chairman Sean McManus admitted that the extended special was a failure, stating that "we haven't had any specific discussions but I think we all agree it would serve all of us well including the fan to release the brackets in a little more timely manner".<ref name="wp-2032extend">{{cite news|title=CBS and Turner Sports lock down NCAA tournament through 2032|url=https://www.washingtonpost.com/news/early-lead/wp/2016/04/12/cbs-and-turner-sports-lock-down-ncaa-tournament-through-2032/|accessdate=April 12, 2016|work=Washington Post|date=April 12, 2016}}</ref>
+
+====Studio hosts====
+*[[Greg Gumbel]] (New York City and Houston) – First Round, Second Round, Regionals, Final Four and National Championship Game
+*[[Ernie Johnson Jr.]] (New York City, Atlanta, and Houston) – First Round, Second Round, Regional Semi-Finals, Final Four and National Championship Game
+*[[Matt Winer]] (Atlanta) – First Four, First Round and Second Round
+
+====Studio analysts====
+*[[Charles Barkley]] (New York City and Houston) – First Round, Second Round, Regionals, Final Four and National Championship Game
+*[[Swin Cash]] (Atlanta) – First Four
+*[[Seth Davis]] (Atlanta and Houston) – First Four, First Round, Second Round, Regional Semi-Finals, Final Four and National Championship Game
+*[[Johnny Dawkins]] (New York City) – Second Round
+*[[Doug Gottlieb]] (New York City) – Regionals
+*[[Ron Hunter]] (Atlanta) – First Round
+*[[Clark Kellogg]] (New York City and Houston) – First Round, Second Round, Regionals, Final Four and National Championship Game
+*[[Reggie Miller]] (Houston) – Final Four and National Championship Game
+*[[Kenny Smith]] (New York City and Houston) – First Round, Second Round, Regionals, Final Four and National Championship Game
+*[[Steve Smith (basketball)|Steve Smith]] (Houston) – Final Four and National Championship Game
+*[[Kevin Stallings]] (Atlanta) – Second Round
+*[[Wally Szczerbiak]] (Atlanta) – First Four, First Round, Second Round and Regional Semi-Finals
+*[[Buzz Williams]] (Atlanta) – Regional Semi-Finals
+
+====Commentary teams====
+*[[Jim Nantz]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – First and Second Rounds at Des Moines, Iowa; South Regional at Louisville, Kentucky; Final Four and National Championship at Houston
+*[[Brian Anderson (broadcaster)|Brian Anderson]]/[[Steve Smith (basketball)|Steve Smith]]/[[Dana Jacobson]] – First and Second Rounds at St. Louis, Missouri; East Regional at Philadelphia, Pennsylvania
+*[[Verne Lundquist]]/[[Jim Spanarkel]]/[[Allie LaForce]] – First and Second Rounds at Brooklyn, New York; West Regional at Anaheim, California
+*[[Kevin Harlan]]/[[Reggie Miller]]/[[Dan Bonner]]/[[Lewis Johnson]] – First and Second Rounds at Raleigh, North Carolina; Midwest Regional at Chicago
+*[[Ian Eagle]]/[[Chris Webber]]/[[Len Elmore]]/[[Evan Washburn]] – First and Second Rounds at Providence, Rhode Island
+*[[Spero Dedes]]/[[Doug Gottlieb]]/[[Rosalyn Gold-Onwude]] – First and Second Rounds at Spokane, Washington
+*[[Andrew Catalon]]/[[Steve Lappas]]/[[Jamie Erdahl]] – First Four at Dayton, Ohio (Tuesday); First and Second Rounds at Denver, Colorado
+*[[Carter Blackburn]]/[[Mike Gminski]]/[[Jaime Maggio]] – First Four at Dayton, Ohio (Wednesday); First and Second Rounds at Oklahoma City.
+
+=====''Team Stream'' broadcasts=====
+;Final Four
+*Chad McKee/[[Eduardo Nájera]]/Jessica Coody – Oklahoma Team Stream on TNT
+*[[Scott Graham]]/[[Brian Finneran]]/Kacie McDonnell – Villanova Team Stream on truTV
+*[[Wes Durham]]/[[Brendan Haywood]]/Dwayne Ballen – North Carolina Team Stream on TNT
+*[[Tom Werme]]/[[Roosevelt Bouie]]/[[Donovan McNabb]] – Syracuse Team Stream on truTV
+;National Championship Game
+*[[Wes Durham]]/[[Brendan Haywood]]/Dwayne Ballen – North Carolina Team Stream on TNT
+*[[Scott Graham]]/[[Brian Finneran]]/Kacie McDonnell – Villanova Team Stream on truTV
+
+===Radio===
+[[Westwood One (current)|Westwood One]] had exclusive radio rights to the entire tournament.<ref>{{cite web|title=NCAA, Westwood One extend deal|url=http://www.ncaa.com/news/ncaa/article/2011-01-13/ncaa-westwood-one-extend-deal|publisher=NCAA|accessdate=February 26, 2016|date=January 13, 2011}}</ref>
+
+{{col-begin}}
+{{col-2}}
+
+====First Four====
+*[[Craig Way]] and [[Kevin Grevey]] – at Dayton, Ohio
+
+====First and Second rounds====
+*[[Scott Graham]] and [[Donny Marshall]] – Providence, Rhode Island
+*[[Brandon Gaudin]] and [[Mike Montgomery]] – Des Moines, Iowa
+*[[John Sadak]] and [[Eric Montross]]/[[John Thompson (basketball)|John Thompson]] – Raleigh, North Carolina (Montross – Thursday afternoon; Thompson – Thursday night & Saturday)
+*[[Kevin Kugler]] and [[Jim Jackson (basketball)|Jim Jackson]] – Denver, Colorado
+*[[Chris Carrino]] and [[Kelly Tripucka]] – Brooklyn, New York City, New York
+*[[Wayne Larrivee]] and [[Will Perdue]] – St. Louis, Missouri
+*[[Tom McCarthy (broadcaster)|Tom McCarthy]] and [[P. J. Carlesimo]] – Oklahoma City, Oklahoma
+*[[Kevin Calabro]] and [[Dan Dickau]] – Spokane, Washington
+{{col-2}}
+
+====Regionals====
+*Tom McCarthy and John Thompson – East Regional at Philadelphia, Pennsylvania
+*[[Gary Cohen]] and Jim Jackson – Midwest Regional at Chicago, Illinois
+*Ian Eagle and P. J. Carlesimo – South Regional at Louisville, Kentucky
+*Kevin Kugler and Donny Marshall – West Regional at Anaheim, California
+
+====Final four====
+*Kevin Kugler, John Thompson, Clark Kellogg, and [[Jim Gray (sportscaster)|Jim Gray]] – Houston, Texas
+{{col-end}}
+
+===Local radio===
+{| class="wikitable" style="text-align:center"
+|-
+! Seed !! School !! Station !! Play–by–play !! Color analyst !! Studio host
+|-
+| colspan="6" | '''South Region'''
+|-
+| 2 || [[2015–16 Villanova Wildcats men's basketball team|Villanova]] || [[WTEL (AM)|WTEL–AM]] 610 and Villanova IMG Sports Network || Ryan Fannon || Whitey Rigsby || Joe Weil
+|-
+| colspan="6" | '''East Region'''
+|-
+| 1 || [[2015–16 North Carolina Tar Heels men's basketball team|North Carolina]] || [[WCHL (AM)|WCHL–AM]] 1360 and Tar Heel Sports Network || [[Jones Angell]] || [[Eric Montross]] ||
+|}
+
+===Internet===
+The games were streamed on the NCAA March Madness Live website and app, with streams for Turner games also available on the Bleacher Report website and Team Stream app, and CBS games available on the CBS Sports website and app.<ref>{{cite web|title=NCAA® March Madness® Live™ to Provide Access to the 2016 NCAA Division I Men's Basketball Championship Across More Platforms Than Ever Before|url=http://www.ncaa.com/news/basketball-men/article/2016-03-07/ncaar-march-madnessr-livetm-provide-access-2016-ncaa-division|publisher=NCAA|accessdate=March 8, 2016|date=March 7, 2016}}</ref>
+Games on [[TBS (U.S. TV channel)|TBS]] were available on Watch TBS app. Games on [[TNT (U.S. TV network)|TNT]] were made available on Watch TNT app. Games on [[TruTV]] were available on Watch TruTV app. Westwood One's radio broadcasts, including a "National Mix" channel consisting of whip-around coverage during the first and second rounds, was available on its website and on the [[TuneIn]] app.
+
+The games were also viewable on the [[PlayStation 3]], [[PlayStation 4]], [[PlayStation Vita]] and [[Xbox One]] video game consoles via the [[PlayStation Vue]] (PS3/PS4; all games), [[Sling TV]] (XB1; TBS, TNT, TruTV games) and TuneIn (Vita/XB1; all games) apps.
+
+==See also==
+* [[2016 NCAA Division II Men's Basketball Tournament]]
+* [[2016 NCAA Division III Men's Basketball Tournament]]
+* [[2016 NCAA Division I Women's Basketball Tournament]]
+* [[2016 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|2016 NCAA Division III Women's Basketball Tournament]]
+* [[2016 National Invitation Tournament]]
+* [[2016 Women's National Invitation Tournament]]
+* [[2016 NAIA Division I Men's Basketball Tournament]]
+* [[2016 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2016 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2016 NAIA Division II Women's Basketball Tournament]]
+* [[2016 College Basketball Invitational]]
+* [[2016 CollegeInsider.com Postseason Tournament]]
+* [[2016 Vegas 16 Tournament]]
+
+==Notes==
+:1.{{note|a}}The 15 teams that were ineligible, and the reasons for ineligibility:
+; [[Academic Progress Rate]]<ref>{{cite web|last1=Brutlag Hosick|first1=Michelle|title=Raising the bar|url=https://www.ncaa.org/about/resources/media-center/news/raising-bar|publisher=NCAA|accessdate=February 27, 2016|date=May 27, 2015}}</ref>
+: [[2015–16 Alcorn State Braves basketball team|Alcorn State]]
+: [[2015–16 Central Arkansas Bears basketball team|Central Arkansas]]
+: [[2015–16 Florida A&M Rattlers basketball team|Florida A&M]]
+: [[2015–16 Stetson Hatters men's basketball team|Stetson]]
+; Other NCAA infractions
+: [[2015–16 SMU Mustangs men's basketball team|SMU]]<ref>{{cite web|last1=James|first1=Emily|title=SMU commits men's basketball and golf violations|url=https://www.ncaa.org/about/resources/media-center/news/smu-commits-men-s-basketball-and-golf-violations|publisher=NCAA|accessdate=February 27, 2016|date=September 29, 2015}}</ref>
+; Self-imposed bans
+: [[2015–16 Louisville Cardinals men's basketball team|Louisville]]<ref>{{cite web|last1=Pemberton|first1=Kim|title=University Makes Major Announcement on Friday|url=http://www.gocards.com/news/2016/2/5/athletics_0205161430.aspx|publisher=Louisville Athletics|accessdate=February 27, 2016|date=February 5, 2016}}</ref>
+: [[2015–16 Missouri Tigers men's basketball team|Missouri]]<ref>{{cite web|author1=Missouri Athletics|title=Missouri basketball announces details of NCAA review, self-imposed penalties|url=http://www.ncaa.com/news/basketball-men/article/2016-01-13/missouri-basketball-announces-details-ncaa-review-self|publisher=NCAA|accessdate=March 1, 2016|date=January 13, 2016}}</ref>
+:[[2015–16 Cal State Northridge Matadors men's basketball team|Cal State Northridge]]<ref>{{cite web|title=CSUN Men's Basketball Self-Imposes 2016 Post-Season Basketball Ban|url=http://www.gomatadors.com/news/2016/1/7/GEN_0107161202.aspx?path=general|publisher=CSUN Athletics|accessdate=March 9, 2016|date=January 7, 2016}}</ref>
+:[[2015–16 Pacific Tigers men's basketball team|Pacific]]<ref>{{cite web|title=Athletics Administers Self-Imposed Penalties On Men's Basketball|url=http://www.pacifictigers.com/sports/m-baskbl/2015-16/releases/20151217qp129x|publisher=Pacific Athletics|accessdate=March 9, 2016|date=December 17, 2015}}</ref>
+: [[2015–16 Southern Miss Golden Eagles basketball team|Southern Miss]]<ref>{{cite web|last1=Norlander|first1=Matt|title=Southern Miss self-imposes postseason ban for 2nd straight year|url=http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25367636/southern-miss-self-imposes-postseason-ban-for-second-straight-year|website=CBSSports.com|publisher=CBS Interactive|date=November 8, 2015}}</ref>
+; Reclassification<ref>{{cite web|title=Multidivision and Reclassifying for 2015–16|url=https://www.ncaa.org/sites/default/files/DI%20MULTIDIVISION%202015-16.pdf|publisher=NCAA|accessdate=February 27, 2016}}</ref>
+: [[2015–16 Abilene Christian Wildcats men's basketball team|Abilene Christian]]
+: [[2015–16 Grand Canyon Antelopes men's basketball team|Grand Canyon]]
+: [[2015–16 Incarnate Word Cardinals men's basketball team|Incarnate Word]]
+: [[2015–16 UMass Lowell River Hawks men's basketball team|UMass Lowell]]
+: [[2015–16 Northern Kentucky Norse men's basketball team|Northern Kentucky]]
+
+==References==
+{{reflist|30em}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2016 NCAA Division I men's basketball tournament navbox}}
+{{2015–16 NCAA Division I championship navbox}}
+
+{{DEFAULTSORT:2016 ncaa Men's Division I Basketball Tournament}}
+[[Category:2015–16 NCAA Division I men's basketball season|Ncaa Tournament]]
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:Basketball in Houston]]
+[[Category:2016 in sports in Texas]]
+[[Category:2010s in Houston]]

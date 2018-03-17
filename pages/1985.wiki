@@ -1,0 +1,990 @@
+{{Infobox NCAA Basketball Tournament |
+| Year=1985
+| Image=
+| ImageSize=
+| Caption=
+| Teams=64
+| FinalFourArena=[[Rupp Arena]]
+| FinalFourCity=[[Lexington, Kentucky]]
+| Champions=[[1984–85 Villanova Wildcats men's basketball team|Villanova]]
+| TitleCount=1st
+| ChampGameCount=1st
+| ChampFFCount=2nd
+| RunnerUp=[[1984–85 Georgetown Hoyas men's basketball team|Georgetown]]
+| GameCount=4th
+| RunnerFFCount=4th
+| Semifinal1=[[Memphis Tigers men's basketball|Memphis State]] (Vacated)
+| FinalFourCount=2nd 
+| Semifinal2=[[1984–85 St. John's Redmen basketball team|St. John's]]
+| FinalFourCount2=2nd
+| Coach=[[Rollie Massimino]]
+| CoachCount=1st
+| MOP=[[Ed Pinckney]]
+| MOPTeam=Villanova
+| Attendance=422,519
+| OneTopScorer=*
+| TwoTopScorers=
+| TopScorer=[[Chris Mullin (basketball)|Chris Mullin]]
+| TopScorerTeam=St. John's
+| Points=110
+}}
+The '''1985 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. This was the first year the field was expanded to 64 teams, from 53 in the previous year's tournament. It began on March 14, 1985, and ended with the [[1985 NCAA Men's Division I Basketball Championship Game|championship game]] on April 1 in [[Lexington, Kentucky]]. A total of 63 games were played.
+
+Eighth-seed [[1984–85 Villanova Wildcats men's basketball team|Villanova]], coached by [[Rollie Massimino]], won their first national title with a 66&ndash;64 victory in the [[1985 NCAA Men's Division I Basketball Championship Game|final game]] over [[1984–85 Georgetown Hoyas men's basketball team|Georgetown]], coached by [[John Thompson (basketball)|John Thompson]]. [[Ed Pinckney]] of Villanova was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]]. The game, often cited as "The Perfect Game", is widely considered among the greatest upsets in college basketball history, and is the second biggest point-spread upset in Championship Game history.<ref>[https://www.si.com/longform/2015/1985/villanova/ Sports Illustrated]</ref><ref>[http://ftw.usatoday.com/2016/04/31-years-later-villanova-wildcats-played-another-perfect-game-at-the-final-four-oklahoma-buddy-hield USA Today]</ref> This Villanova team remains the lowest-seeded team to win the tournament. The Wildcats are also notable as the last Division I men's national champion to date to represent a school that did not sponsor varsity [[College football|football]] at the time of its title (Villanova had dropped [[Villanova Wildcats football|football]] after the 1980 season and did not reinstate the sport until the 1985 season, the first after the championship game). The game is also notable as the last played without a [[shot clock]].
+
+This year's Final Four saw an unprecedented and unmatched three teams from the same conference, with [[Big East Conference|Big East]] members Villanova and Georgetown joined by [[1984–85 St. John's Redmen basketball team|St. John's]]. The only "interloper" in the Big East party was [[Memphis Tigers men's basketball|Memphis State]], then of the [[Metro Conference]]. (Memphis State's 1985 Final Four appearance was vacated due to using ineligible players, as were all of its tournament appearances from 1982–1986.)
+
+This was also the first year that one of the regionals was named "Southeast", replacing "Mideast." This name was used until [[1998 NCAA Men's Division I Basketball Tournament|1998]], when the regional was renamed "South." This was also the last tournament until 2010 to feature two private schools in the title game. This tournament was also the last until 2012 to feature no teams in the sweet 16 from the Mountain or Pacific Time Zones.
+
+This tournament's East Region is the only one in NCAA Tournament history in which the higher-seeded team won every game.
+
+==Locations==
+
+{{Location map+|USA|width=450|float=right|caption=1985 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=bottom|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.758948|lon_deg=-84.191607|position=bottom|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.110703|lon_deg=-106.609991|position=bottom|background=#FFFFFF|label=Albuquerque|link=The Pit (arena)|University Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.763711|lon_deg=-72.685093|position=top|background=#FFFFFF|label=Hartford|link=XL Center|Hartford Civic Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=29.760427|lon_deg=-95.369803|position=right|background=#FFFFFF|label=Houston|link=Hofheinz Pavilion}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.676355|lon_deg=-86.251990|position=left|background=#FFFFFF|label=South Bend|link=Edmund P. Joyce Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.153982|lon_deg=-95.992775|position=bottom|background=#FFFFFF|label=Tulsa|link=Mabee Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.760779|lon_deg=-111.891047|position=top|background=#FFFFFF|label=Salt Lake City|link=Jon M. Huntsman Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=1985 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=32.780262|lon_deg=-96.800978|position=bottom|background=#FFFFFF|label=Dallas|link=Reunion Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=41.823989|lon_deg=-71.412834|position=bottom|background=#FFFFFF|label=Providence|link=Dunkin' Donuts Center|Providence Civic Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.520661|lon_deg=-86.802490|position=top|background=#FFFFFF|label=Birmingham|link=Birmingham Jefferson Convention Complex|BJCC Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.738436|lon_deg=-104.984859|position=bottom|background=#FFFFFF|label=Denver|link=McNichols Sports Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=38.040584|lon_deg=-84.503716|position=bottom|background=#FFFFFF|label=Lexington|link=Rupp Arena}}
+}}
+
+===First & Second Rounds===
+{| class="wikitable"
+! Region !! Site !! Venue
+|-
+! rowspan="2" | East
+|[[Atlanta|Atlanta, Georgia]]
+|[[Omni Coliseum]]
+|-
+|[[Hartford, Connecticut]]
+|[[XL Center|Hartford Civic Center]]
+|-
+! rowspan="2" | Midwest
+|[[Dayton, Ohio]]
+|[[UD Arena|University of Dayton Arena]]
+|-
+|[[South Bend, Indiana]]
+|[[Edmund P. Joyce Center|Athletic & Convocation Center]]
+|-
+! rowspan="2" | Southeast
+|[[Houston|Houston, Texas]]
+|[[Hofheinz Pavilion]]
+|-
+|[[Tulsa, Oklahoma]]
+|[[Mabee Center]]
+|-
+! rowspan="2" | West
+|[[Albuquerque, New Mexico]]
+|[[The Pit (arena)|University Arena ("The Pit")]]
+|-
+|[[Salt Lake City|Salt Lake City, Utah]]
+|[[Jon M. Huntsman Center|Special Events Center]]
+|}
+
+===Regional Sites and Final Four===
+{| class="wikitable"
+! Region !! Site !! Venue
+|-
+| '''East''' 
+|[[Providence, Rhode Island]]
+|[[Dunkin' Donuts Center|Providence Civic Center]]
+|-
+| '''Midwest'''
+|[[Dallas|Dallas, Texas]]
+|[[Reunion Arena]]
+|-
+| '''Southeast'''
+|[[Birmingham, Alabama]]
+|[[Birmingham–Jefferson Convention Complex|BJCC Coliseum]]
+|-
+| '''West'''
+|[[Denver|Denver, Colorado]]
+|[[McNichols Sports Arena]]
+|-
+| '''Final Four'''
+|[[Lexington, Kentucky]]
+|[[Rupp Arena]]
+|}
+
+Lexington became the 21st host city, and Rupp Arena the 23rd host venue, for the Final Four. Lexington is the smallest metropolitan area to host a Final Four, and due to the use of domed football stadiums, it is unlikely to host a Final Four again despite the size of Rupp Arena.  The 1985 tournament was the last time an off-campus arena (or, for that matter, any arena) whose primary tenant was a college team was used for a tournament. (The [[Meadowlands Arena|Continental Airlines Arena]] (in 1996) was the main arena for [[Seton Hall Pirates]], but they were not the primary tenants.) This tournament also marks the last time a domed stadium was not used for any tournament games; before 1985, the four previous tournaments and the 1971 tournament were the only tournaments to include them. The other implication of this is that it was the only tournament between 1984 and 1993 to not feature an NFL stadium. Denver was the only new city or venue host games in 1985. At the time, the city did not host a NCAA Division I institution, making it just one of a handful of host cities all-time to do so. 1985 would be the last time the Providence Civic Center would host the regional rounds; all subsequent tournaments would be early rounds. The tournament would also mark the last time the University of Tulsa's Mabee Center would host games; the tournament would not return to the city until 2011, when the [[BOK Center]] hosted.
+
+==Teams==
+{| class=wikitable
+! Region !! Seed !! Team !! Coach !! Finished !! Final Opponent !! Score
+|-
+! colspan=7 | East
+|-
+| East || 1|| [[1984–85 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Runner Up||8 [[1984–85 Villanova Wildcats men's basketball team|Villanova]]||L 66–64
+|-
+| East || 2|| [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]] || [[Bobby Cremins]] || Regional Runner-up||1 [[1984–85 Georgetown Hoyas men's basketball team|Georgetown]]||L 60–54
+|-
+| East || 3|| [[1984–85 Illinois Fighting Illini men's basketball team|Illinois]] || [[Lou Henson]] || Sweet Sixteen||2 [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]]||L 61–53
+|-
+| East || 4|| [[Loyola Ramblers men's basketball|Loyola–Chicago]] || [[Gene Sullivan (basketball)|Gene Sullivan]] || Sweet Sixteen||1 [[1984–85 Georgetown Hoyas men's basketball team|Georgetown]]||L 65–53
+|-
+| East || 5|| [[SMU Mustangs men's basketball|SMU]] || [[Dave Bliss]] || Round of 32||4 [[Loyola Ramblers men's basketball|Loyola–Chicago]]||L 70–57
+|-
+| East || 6|| [[Georgia Bulldogs basketball|Georgia]] || [[Hugh Durham]] || Round of 32||3 [[1984–85 Illinois Fighting Illini men's basketball team|Illinois]]||L 74–58
+|-
+| East || 7|| [[Syracuse Orange men's basketball|Syracuse]] || [[Jim Boeheim]] || Round of 32||2 [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]]||L 70–53
+|-
+| East || 8|| [[Temple Owls men's basketball|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Round of 32||1 [[1984–85 Georgetown Hoyas men's basketball team|Georgetown]]||L 63–46
+|-
+| East || 9|| [[Virginia Tech Hokies men's basketball|Virginia Tech]] || [[Charles Moir]] || Round of 64||8 [[Temple Owls men's basketball|Temple]]||L 60–57
+|-
+| East || 10|| [[DePaul Blue Demons men's basketball|DePaul]] || [[Joey Meyer (basketball)|Joey Meyer]] || Round of 64||7 [[Syracuse Orange men's basketball|Syracuse]]||L 70–65
+|-
+| East || 11|| [[Wichita State Shockers men's basketball|Wichita State]] || [[Gene Smithson]] || Round of 64||6 [[Georgia Bulldogs basketball|Georgia]]||L 67–59
+|-
+| East || 12|| [[Old Dominion Monarchs basketball|Old Dominion]] || [[Paul Webb (basketball)|Paul Webb]] || Round of 64||5 [[SMU Mustangs men's basketball|SMU]]||L 85–68
+|-
+| East || 13|| [[Iona Gaels men's basketball|Iona]] || [[Pat Kennedy]] || Round of 64||4 [[Loyola Ramblers men's basketball|Loyola–Chicago]]||L 59–58
+|-
+| East || 14|| [[Northeastern Huskies men's basketball|Northeastern]] || [[Jim Calhoun]] || Round of 64||3 [[1984–85 Illinois Fighting Illini men's basketball team|Illinois]]||L 76–57
+|-
+| East || 15|| [[Mercer Bears men's basketball|Mercer]] || [[Bill Bibb]] || Round of 64||2 [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]]||L 65–58
+|-
+| East || 16|| [[Lehigh Mountain Hawks men's basketball|Lehigh]] || Tom Schneider || Round of 64||1 [[1984–85 Georgetown Hoyas men's basketball team|Georgetown]]||L 68–43
+|-
+! colspan=7 | Midwest
+|-
+| Midwest || 1|| [[1984–85 Oklahoma Sooners men's basketball team|Oklahoma]] || [[Billy Tubbs]] || Regional Runner-up||2 [[Memphis Tigers men's basketball|Memphis State]]||L 63–61
+|-
+| Midwest || 2|| [[Memphis Tigers men's basketball|Memphis State]] || [[Dana Kirk (basketball)|Dana Kirk]] || National Semifinals||8 [[1984–85 Villanova Wildcats men's basketball team|Villanova]]||L 52–45
+|-
+| Midwest || 3|| [[1984–85 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || Round of 32||11 [[Boston College Eagles men's basketball|Boston College]]||L 74–73
+|-
+| Midwest || 4|| [[Ohio State Buckeyes men's basketball|Ohio State]] || [[Eldon Miller]] || Round of 32||5 [[Louisiana Tech Bulldogs basketball|Louisiana Tech]]||L 79–67
+|-
+| Midwest || 5|| [[Louisiana Tech Bulldogs basketball|Louisiana Tech]] || [[Andy Russo]] || Sweet Sixteen||1 [[1984–85 Oklahoma Sooners men's basketball team|Oklahoma]]||L 86–84
+|-
+| Midwest || 6|| [[1984–85 Texas Tech Red Raiders basketball team|Texas Tech]] || [[Gerald Myers]] || Round of 64||11 [[Boston College Eagles men's basketball|Boston College]]||L 55–53
+|-
+| Midwest || 7|| [[UAB Blazers men's basketball|UAB]] || [[Gene Bartow]] || Round of 32||2 [[Memphis Tigers men's basketball|Memphis State]]||L 67–66
+|-
+| Midwest || 8|| [[USC Trojans men's basketball|USC]] || [[Stan Morrison]] || Round of 64||9 [[Illinois State Redbirds men's basketball|Illinois State]]||L 58–55
+|-
+| Midwest || 9|| [[Illinois State Redbirds men's basketball|Illinois State]] || [[Bob Donewald]] || Round of 32||1 [[1984–85 Oklahoma Sooners men's basketball team|Oklahoma]]||L 75–69
+|-
+| Midwest || 10|| [[1984–85 Michigan State Spartans men's basketball team|Michigan State]] || [[Jud Heathcote]] || Round of 64||7 [[UAB Blazers men's basketball|UAB]]||L 70–68
+|-
+| Midwest || 11|| [[Boston College Eagles men's basketball|Boston College]] || [[Gary Williams (basketball)|Gary Williams]] || Sweet Sixteen||2 [[Memphis Tigers men's basketball|Memphis State]]||L 59–57
+|-
+| Midwest || 12|| [[Pittsburgh Panthers men's basketball|Pittsburgh]] || [[Roy Chipman]] || Round of 64||5 [[Louisiana Tech Bulldogs basketball|Louisiana Tech]]||L 78–54
+|-
+| Midwest || 13|| [[Iowa State Cyclones men's basketball|Iowa State]] || [[Johnny Orr (basketball, born 1927)|Johnny Orr]] || Round of 64||4 [[Ohio State Buckeyes men's basketball|Ohio State]]||L 75–64
+|-
+| Midwest || 14|| [[Pepperdine Waves men's basketball|Pepperdine]] || [[Jim Harrick]] || Round of 64||3 [[1984–85 Duke Blue Devils men's basketball team|Duke]]||L 75–62
+|-
+| Midwest || 15|| [[Penn Quakers men's basketball|Penn]] || [[Craig Littlepage]] || Round of 64||2 [[Memphis Tigers men's basketball|Memphis State]]||L 67–55
+|-
+| Midwest || 16|| [[North Carolina A&T Aggies men's basketball|North Carolina A&T]] || [[Don Corbett]] || Round of 64||1 [[1984–85 Oklahoma Sooners men's basketball team|Oklahoma]]||L 96–83
+|-
+! colspan=7 | Southeast
+|-
+| Southeast || 1|| [[1984–85 Michigan Wolverines men's basketball team|Michigan]] || [[Bill Frieder]] || Round of 32||8 [[1984–85 Villanova Wildcats men's basketball team|Villanova]]||L 59–55
+|-
+| Southeast || 2|| [[North Carolina Tar Heels men's basketball|North Carolina]] || [[Dean Smith]] || Regional Runner-up||8 [[1984–85 Villanova Wildcats men's basketball team|Villanova]]||L 56–44
+|-
+| Southeast || 3|| [[Kansas Jayhawks men's basketball|Kansas]] || [[Larry Brown (basketball)|Larry Brown]] || Round of 32||11 [[1984–85 Auburn Tigers men's basketball team|Auburn]]||L 66–64
+|-
+| Southeast || 4|| [[LSU Tigers basketball|LSU]] || [[Dale Brown (basketball)|Dale Brown]] || Round of 64||13 [[Navy Midshipmen men's basketball|Navy]]||L 78–55
+|-
+| Southeast || 5|| [[1984–85 Maryland Terrapins men's basketball team|Maryland]] || [[Lefty Driesell]] || Sweet Sixteen||8 [[1984–85 Villanova Wildcats men's basketball team|Villanova]]||L 46–43
+|-
+| Southeast || 6|| [[Purdue Boilermakers men's basketball|Purdue]] || [[Gene Keady]] || Round of 64||11 [[1984–85 Auburn Tigers men's basketball team|Auburn]]||L 59–58
+|-
+| Southeast || 7|| [[Notre Dame Fighting Irish men's basketball|Notre Dame]] || [[Digger Phelps]] || Round of 32||2 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 60–58
+|-
+| Southeast || 8|| [[1984–85 Villanova Wildcats men's basketball team|Villanova]] || [[Rollie Massimino]] || '''Champion'''||1 [[1984–85 Georgetown Hoyas men's basketball team|Georgetown]]||W 66–64
+|-
+| Southeast || 9|| [[Dayton Flyers men's basketball|Dayton]] || [[Don Donoher]] || Round of 64||8 [[1984–85 Villanova Wildcats men's basketball team|Villanova]]||L 51–49
+|-
+| Southeast || 10|| [[Oregon State Beavers men's basketball|Oregon State]] || [[Ralph Miller]] || Round of 64||7 [[Notre Dame Fighting Irish men's basketball|Notre Dame]]||L 79–70
+|-
+| Southeast || 11|| [[1984–85 Auburn Tigers men's basketball team|Auburn]] || [[Sonny Smith]] || Sweet Sixteen||2 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 62–56
+|-
+| Southeast || 12|| [[Miami RedHawks men's basketball|Miami (OH)]] || [[Jerry Peirson]] || Round of 64||5 [[1984–85 Maryland Terrapins men's basketball team|Maryland]]||L 69–68
+|-
+| Southeast || 13|| [[Navy Midshipmen men's basketball|Navy]] || [[Paul Evans (basketball coach)|Paul Evans]] || Round of 32||5 [[1984–85 Maryland Terrapins men's basketball team|Maryland]]||L 64–59
+|-
+| Southeast || 14|| [[Ohio Bobcats men's basketball|Ohio]] || [[Danny Nee]] || Round of 64||3 [[Kansas Jayhawks men's basketball|Kansas]]||L 49–38
+|-
+| Southeast || 15|| [[Middle Tennessee Blue Raiders men's basketball|Middle Tennessee State]] || [[Bruce Stewart (basketball)|Bruce Stewart]] || Round of 64||2 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 76–57
+|-
+| Southeast || 16|| [[Fairleigh Dickinson Knights men's basketball|Fairleigh Dickinson]] || [[Tom Green (basketball coach)|Tom Green]] || Round of 64||1 [[1984–85 Michigan Wolverines men's basketball team|Michigan]]||L 59–55
+|-
+! colspan=7 | West
+|-
+| West || 1|| [[1984–85 St. John's Redmen basketball team|St. John's]] || [[Lou Carnesecca]] || National Semifinals||1 [[1984–85 Georgetown Hoyas men's basketball team|Georgetown]]||L 77–59
+|-
+| West || 2|| [[VCU Rams men's basketball|VCU]] || [[J. D. Barnett]] || Round of 32||7 [[Alabama Crimson Tide men's basketball|Alabama]]||L 63–59
+|-
+| West || 3|| [[NC State Wolfpack men's basketball|NC State]] || [[Jim Valvano]] || Regional Runner-up||1 [[1984–85 St. John's Redmen basketball team|St. John's]]||L 69–60
+|-
+| West || 4|| [[UNLV Runnin' Rebels basketball|UNLV]] || [[Jerry Tarkanian]] || Round of 32||12 [[1984–85 Kentucky Wildcats men's basketball team|Kentucky]]||L 64–61
+|-
+| West || 5|| [[Washington Huskies men's basketball|Washington]] || [[Marv Harshman]] || Round of 64||12 [[1984–85 Kentucky Wildcats men's basketball team|Kentucky]]||L 66–58
+|-
+| West || 6|| [[Tulsa Golden Hurricane men's basketball|Tulsa]] || [[Nolan Richardson]] || Round of 64||11 [[UTEP Miners men's basketball|UTEP]]||L 79–75
+|-
+| West || 7|| [[Alabama Crimson Tide men's basketball|Alabama]] || [[Wimp Sanderson]] || Sweet Sixteen||3 [[NC State Wolfpack men's basketball|NC State]]||L 61–55
+|-
+| West || 8|| [[1984–85 Iowa Hawkeyes men's basketball team|Iowa]] || [[George Raveling]] || Round of 64||9 [[Arkansas Razorbacks men's basketball|Arkansas]]||L 63–54
+|-
+| West || 9|| [[Arkansas Razorbacks men's basketball|Arkansas]] || [[Eddie Sutton]] || Round of 32||1 [[1984–85 St. John's Redmen basketball team|St. John's]]||L 68–65
+|-
+| West || 10|| [[Arizona Wildcats men's basketball|Arizona]] || [[Lute Olson]] || Round of 64||7 [[Alabama Crimson Tide men's basketball|Alabama]]||L 50–41
+|-
+| West || 11|| [[UTEP Miners men's basketball|UTEP]] || [[Don Haskins]] || Round of 32||3 [[NC State Wolfpack men's basketball|NC State]]||L 86–73
+|-
+| West || 12|| [[1984–85 Kentucky Wildcats men's basketball team|Kentucky]] || [[Joe B. Hall]] || Sweet Sixteen||1 [[1984–85 St. John's Redmen basketball team|St. John's]]||L 86–70
+|-
+| West || 13|| [[San Diego State Aztecs men's basketball|San Diego State]]  || [[Smokey Gaines]] || Round of 64||4 [[UNLV Runnin' Rebels basketball|UNLV]]||L 85–80
+|-
+| West || 14|| [[Nevada Wolf Pack men's basketball|Nevada]] || [[Sonny Allen]] || Round of 64||3 [[NC State Wolfpack men's basketball|NC State]]||L 65–56
+|-
+| West || 15|| [[Marshall Thundering Herd men's basketball|Marshall]] || [[Rick Huckabay]] || Round of 64||2 [[VCU Rams men's basketball|VCU]]||L 81–65
+|-
+| West || 16|| [[Southern Jaguars basketball|Southern]] || [[Bob Hopkins|Robert Hopkins]] || Round of 64||1 [[1984–85 St. John's Redmen basketball team|St. John's]]||L 83–59
+|}
+
+==Bracket==
+<nowiki>*</nowiki> – Denotes overtime period
+
+===East Regional – Providence, Rhode Island===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals  | RD1-seed01=1
+ | subgroup1= '''[[XL Center|Hartford]]'''
+ | subgroup2= '''[[XL Center|Hartford]]'''
+ | subgroup3= '''[[Omni Coliseum|Atlanta]]'''
+ | subgroup4= '''[[Omni Coliseum|Atlanta]]'''
+| RD1-team01='''Georgetown'''
+ | RD1-score01='''68'''
+ | RD1-seed02=16
+ | RD1-team02=Lehigh
+ | RD1-score02=43
+ | RD1-seed03=8
+ | RD1-team03='''Temple'''
+ | RD1-score03='''60'''
+ | RD1-seed04=9
+ | RD1-team04=Virginia Tech
+ | RD1-score04=57
+ | RD1-seed05=5
+ | RD1-team05='''SMU'''
+ | RD1-score05='''85'''
+ | RD1-seed06=12
+ | RD1-team06=Old Dominion
+ | RD1-score06=68
+ | RD1-seed07=4
+ | RD1-team07='''Loyola–Chicago'''
+ | RD1-score07='''59'''
+ | RD1-seed08=13
+ | RD1-team08=Iona
+ | RD1-score08=58
+ | RD1-seed09=6
+ | RD1-team09='''Georgia'''
+ | RD1-score09='''67'''
+ | RD1-seed10=11
+ | RD1-team10=Wichita State
+ | RD1-score10=59
+ | RD1-seed11=3
+ | RD1-team11='''Illinois'''
+ | RD1-score11='''76'''
+ | RD1-seed12=14
+ | RD1-team12=Northeastern
+ | RD1-score12=57
+ | RD1-seed13=7
+ | RD1-team13='''Syracuse'''
+ | RD1-score13='''70'''
+ | RD1-seed14=10
+ | RD1-team14=DePaul
+ | RD1-score14=65
+ | RD1-seed15=2
+ | RD1-team15='''Georgia Tech'''
+ | RD1-score15='''65'''
+ | RD1-seed16=15
+ | RD1-team16=Mercer
+ | RD1-score16=58
+ | RD2-seed01=1
+ | RD2-team01='''Georgetown'''
+ | RD2-score01='''63'''
+ | RD2-seed02=8
+ | RD2-team02=Temple
+ | RD2-score02=46
+ | RD2-seed03=5
+ | RD2-team03=SMU
+ | RD2-score03=57
+ | RD2-seed04=4
+ | RD2-team04='''Loyola–Chicago'''
+ | RD2-score04='''70'''
+ | RD2-seed05=6
+ | RD2-team05=Georgia
+ | RD2-score05=58
+ | RD2-seed06=3
+ | RD2-team06='''Illinois'''
+ | RD2-score06='''74'''
+ | RD2-seed07=7
+ | RD2-team07=Syracuse
+ | RD2-score07=53
+ | RD2-seed08=2
+ | RD2-team08='''Georgia Tech'''
+ | RD2-score08='''70'''
+ | RD3-seed01=1
+ | RD3-team01='''Georgetown'''
+ | RD3-score01='''65'''
+ | RD3-seed02=4
+ | RD3-team02=Loyola–Chicago
+ | RD3-score02=53
+ | RD3-seed03=3
+ | RD3-team03=Illinois
+ | RD3-score03=53
+ | RD3-seed04=2
+ | RD3-team04='''Georgia Tech'''
+ | RD3-score04='''61'''
+ | RD4-seed01=1
+ | RD4-team01='''Georgetown'''
+ | RD4-score01='''60'''
+ | RD4-seed02=2
+ | RD4-team02=Georgia Tech
+ | RD4-score02=54
+}}
+
+====Regional Final Summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 23
+ | time = 
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-03-23-georgetown.html box score]
+ | team1 = '''#1 Georgetown Hoyas'''
+ | score1 =  '''60'''
+ | team2 = #2 Georgia Tech Yellow Jackets 
+ | score2 = 54
+ | points1 = [[Patrick Ewing|P. Ewing]] – 14
+ | rebounds1 = R. Dalton – 6
+ | assist1 = [[Michael Jackson (basketball)|M. Jackson]] – 5
+ | otherstat1 = 
+ | points2 = [[John Salley|J. Salley]] – 15
+ | rebounds2 = [[John Salley|J. Salley]] – 5
+ | assist2 = S. Petway – 4
+ | otherstat2 = '''Halftime Score:''' 29-29
+ | place = Providence Civic Center – Providence, Rhode Island
+ | attendance = 
+ | referee = 
+ | TV = CBS
+}}
+
+===West Regional – Denver, Colorado===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals  | RD1-seed01=1
+ | subgroup1= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup2= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup3= '''[[The Pit (arena)|Albuquerque]]'''
+ | subgroup4= '''[[The Pit (arena)|Albuquerque]]'''
+| RD1-team01='''St John's'''
+ | RD1-score01='''83'''
+ | RD1-seed02=16
+ | RD1-team02=Southern
+ | RD1-score02=59
+ | RD1-seed03=8
+ | RD1-team03=Iowa
+ | RD1-score03=54
+ | RD1-seed04=9
+ | RD1-team04='''Arkansas'''
+ | RD1-score04='''63'''
+ | RD1-seed05=5
+ | RD1-team05=Washington
+ | RD1-score05=58
+ | RD1-seed06=12
+ | RD1-team06='''Kentucky'''
+ | RD1-score06='''66'''
+ | RD1-seed07=4
+ | RD1-team07='''UNLV'''
+ | RD1-score07='''85'''
+ | RD1-seed08=13
+ | RD1-team08=San Diego State
+ | RD1-score08=80
+ | RD1-seed09=6
+ | RD1-team09=Tulsa
+ | RD1-score09=75
+ | RD1-seed10=11
+ | RD1-team10='''UTEP'''
+ | RD1-score10='''79'''
+ | RD1-seed11=3
+ | RD1-team11='''NC State'''
+ | RD1-score11='''65'''
+ | RD1-seed12=14
+ | RD1-team12=Nevada
+ | RD1-score12=56
+ | RD1-seed13=7
+ | RD1-team13='''Alabama'''
+ | RD1-score13='''50'''
+ | RD1-seed14=10
+ | RD1-team14=Arizona
+ | RD1-score14=41
+ | RD1-seed15=2
+ | RD1-team15='''VCU'''
+ | RD1-score15='''81'''
+ | RD1-seed16=15
+ | RD1-team16=Marshall
+ | RD1-score16=65
+ | RD2-seed01=1
+ | RD2-team01='''St John's'''
+ | RD2-score01='''68'''
+ | RD2-seed02=9
+ | RD2-team02=Arkansas
+ | RD2-score02=65
+ | RD2-seed03=12
+ | RD2-team03='''Kentucky'''
+ | RD2-score03='''64'''
+ | RD2-seed04=4
+ | RD2-team04=UNLV
+ | RD2-score04=61
+ | RD2-seed05=11
+ | RD2-team05=UTEP
+ | RD2-score05=73
+ | RD2-seed06=3
+ | RD2-team06='''NC State'''
+ | RD2-score06='''86'''
+ | RD2-seed07=7
+ | RD2-team07='''Alabama'''
+ | RD2-score07='''63'''
+ | RD2-seed08=2
+ | RD2-team08=VCU
+ | RD2-score08=59
+ | RD3-seed01=1
+ | RD3-team01='''St John's'''
+ | RD3-score01='''86'''
+ | RD3-seed02=12
+ | RD3-team02=Kentucky
+ | RD3-score02=70
+ | RD3-seed03=3
+ | RD3-team03='''NC State'''
+ | RD3-score03='''61'''
+ | RD3-seed04=7
+ | RD3-team04=Alabama
+ | RD3-score04=55
+ | RD4-seed01=1
+ | RD4-team01='''St John's'''
+ | RD4-score01='''69'''
+ | RD4-seed02=3
+ | RD4-team02=NC State
+ | RD4-score02=60
+}}
+
+====First Round Summary====
+{{basketballbox
+ | bg = #CA8C26
+ | date = Thursday, March 14
+ | time = 12:07 PM MST/2:07 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-03-14-southern.html box score]
+ | team1 = '''#1 St. John's Redmen'''
+ | score1 =  '''83'''
+ | team2 = #16 Southern Jaguars
+ | score2 = 59
+ | points1 = [[Walter Berry (basketball)|W. Berry]] – 24
+ | rebounds1 = W. Berry – 13
+ | assist1 = [[Chris Mullin (basketball)|C. Mullin]] – 6
+ | otherstat1 = 
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' St. John's, 34-18
+ | place = Special Events Center – Salt Lake City, Utah
+ | attendance = 6,928
+ | referee =
+ | TV = NCAA Productions<br>ESPN
+}}
+
+====Second Round Summary====
+{{basketballbox
+ | bg = #CA8C26
+ | date = Saturday, March 16
+ | time = 2:30 PM MST/4:30 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-03-16-arkansas.html box score]
+ | team1 = '''#1 St. John's Redmen'''
+ | score1 =  '''68'''
+ | team2 = #9 Arkansas Razorbacks
+ | score2 = 65
+ | points1 =
+ | rebounds1 =
+ | assist1 =
+ | otherstat1 =
+ | points2 =
+ | rebounds2 =
+ | assist2 =
+ | otherstat2 = '''Halftime Score:''' St. John's, 32-26
+ | place = Special Events Center – Salt Lake City, Utah
+ | attendance = 9,226
+ | referee =
+ | TV = CBS
+}}
+
+====Regional Semifinal Summary====
+{{basketballbox
+ | bg = #CA8C26
+ | date = Friday, March 22
+ | time = 8:09 PM MST/10:09 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-03-22-kentucky.html box score]
+ | team1 = '''#1 St. John's Redmen'''
+ | score1 =  '''86'''
+ | team2 = #12 Kentucky Wildcats
+ | score2 = 70
+ | points1 = [[Chris Mullin (basketball)|C. Mullin]] – 30
+ | rebounds1 = [[Walter Berry (basketball)|W. Berry]] – 7
+ | assist1 = C. Mullin – 7
+ | otherstat1 = 
+ | points2 = [[Kenny Walker|K. Walker]] – 23
+ | rebounds2 = K. Walker – 8
+ | assist2 = R. Harden – 7
+ | otherstat2 = '''Halftime Score:''' St. John's, 39-38
+ | place = McNichols Sports Arena – Denver, Colorado
+ | attendance = 17,022
+ | referee = John Clougherty, Bobby Dibler, Willis McJunkin
+ | TV = CBS
+}}
+
+====Regional Final Summary====
+{{basketballbox
+ | bg = #CA8C26
+ | date = Sunday, March 24
+ | time = 2:03 PM MST/4:03 PM EST
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-03-24-north-carolina-state.html box score]
+ | team1 = '''#1 St. John's Redmen'''
+ | score1 =  '''69'''
+ | team2 = #3 NC State Wolfpack
+ | score2 = 60
+ | points1 = [[Chris Mullin (basketball)|C. Mullin]] – 25
+ | rebounds1 = [[Bill Wennington|B. Wennington]] – 10
+ | assist1 = M. Moses, [[Mark Jackson (basketball)|M. Jackson]] – 5
+ | otherstat1 = 
+ | points2 = [[Lorenzo Charles|L. Charles]] – 15
+ | rebounds2 = [[Lorenzo Charles|L. Charles]], [[Cozell McQueen|C. McQueen]] – 11
+ | assist2 = [[Spud Webb|S. Webb]] – 9
+ | otherstat2 = '''Halftime Score:''' St. John's, 30-29
+ | place = McNichols Sports Arena – Denver, Colorado
+ | attendance = 17,022
+ | referee = John Clougherty, Bobby Dibler, Willis McJunkin
+ | TV = CBS
+}}
+
+===Southeast Regional – Birmingham, Alabama===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals  | RD1-seed01=1
+ | subgroup1= '''[[University of Dayton Arena|Dayton]]'''
+ | subgroup2= '''[[University of Dayton Arena|Dayton]]'''
+ | subgroup3= '''[[Edmund P. Joyce Center|South Bend]]'''
+ | subgroup4= '''[[Edmund P. Joyce Center|South Bend]]'''
+| RD1-team01='''Michigan'''
+ | RD1-score01='''59'''
+ | RD1-seed02=16
+ | RD1-team02=Fairleigh Dickinson
+ | RD1-score02=55
+ | RD1-seed03=8
+ | RD1-team03='''Villanova'''
+ | RD1-score03='''51'''
+ | RD1-seed04=9
+ | RD1-team04=Dayton
+ | RD1-score04=49
+ | RD1-seed05=5
+ | RD1-team05='''Maryland'''
+ | RD1-score05='''69'''
+ | RD1-seed06=12
+ | RD1-team06=Miami (OH)
+ | RD1-score06=68*
+ | RD1-seed07=4
+ | RD1-team07=LSU
+ | RD1-score07=55
+ | RD1-seed08=13
+ | RD1-team08='''Navy'''
+ | RD1-score08='''78'''
+ | RD1-seed09=6
+ | RD1-team09=Purdue
+ | RD1-score09=58
+ | RD1-seed10=11
+ | RD1-team10='''Auburn'''
+ | RD1-score10='''59'''
+ | RD1-seed11=3
+ | RD1-team11='''Kansas'''
+ | RD1-score11='''49'''
+ | RD1-seed12=14
+ | RD1-team12=Ohio
+ | RD1-score12=38
+ | RD1-seed13=7
+ | RD1-team13='''Notre Dame'''
+ | RD1-score13='''79'''
+ | RD1-seed14=10
+ | RD1-team14=Oregon State
+ | RD1-score14=70
+ | RD1-seed15=2
+ | RD1-team15='''North Carolina'''
+ | RD1-score15='''76'''
+ | RD1-seed16=15
+ | RD1-team16=Middle Tennessee State
+ | RD1-score16=57
+ | RD2-seed01=1
+ | RD2-team01=Michigan
+ | RD2-score01=55
+ | RD2-seed02=8
+ | RD2-team02='''Villanova'''
+ | RD2-score02='''59'''
+ | RD2-seed03=5
+ | RD2-team03='''Maryland'''
+ | RD2-score03='''64'''
+ | RD2-seed04=13
+ | RD2-team04=Navy
+ | RD2-score04=59
+ | RD2-seed05=11
+ | RD2-team05='''Auburn'''
+ | RD2-score05='''66'''
+ | RD2-seed06=3
+ | RD2-team06=Kansas
+ | RD2-score06=64
+ | RD2-seed07=7
+ | RD2-team07=Notre Dame
+ | RD2-score07=58
+ | RD2-seed08=2
+ | RD2-team08='''North Carolina'''
+ | RD2-score08='''60'''
+ | RD3-seed01=8
+ | RD3-team01='''Villanova'''
+ | RD3-score01='''46'''
+ | RD3-seed02=5
+ | RD3-team02=Maryland
+ | RD3-score02=43
+ | RD3-seed03=11
+ | RD3-team03=Auburn
+ | RD3-score03=56
+ | RD3-seed04=2
+ | RD3-team04='''North Carolina'''
+ | RD3-score04='''62'''
+ | RD4-seed01=8
+ | RD4-team01='''Villanova'''
+ | RD4-score01='''56'''
+ | RD4-seed02=2
+ | RD4-team02=North Carolina
+ | RD4-score02=44
+}}
+
+====Regional Final Summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 24
+ | time = 
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-03-24-north-carolina.html box score]
+ | team1 = '''#8 Villanova Wildcats'''
+ | score1 =  '''56'''
+ | team2 = #2 North Carolina Tar Heels
+ | score2 = 44
+ | points1 = [[Harold Pressley|H. Pressley]] – 15
+ | rebounds1 = [[Ed Pinckney|E. Pinckney]] – 7
+ | assist1 = [[Ed Pinckney|E. Pinckney]], [[Harold Jensen|H. Jensen]] – 3
+ | otherstat1 = 
+ | points2 = [[Brad Daugherty (basketball)|B. Daugherty]] – 17
+ | rebounds2 = [[Brad Daugherty (basketball)|B. Daugherty]] – 12
+ | assist2 = [[Joe Wolf|J. Wolf]], [[Kenny Smith|K. Smith]] – 5
+ | otherstat2 = '''Halftime Score:''' North Carolina, 22-17
+ | place = BJCC Coliseum – Birmingham, Alabama
+ | attendance = 
+ | referee = 
+ | TV = CBS
+}}
+
+===Midwest Regional – Dallas, Texas===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals  | RD1-seed01=1
+ | subgroup1= '''[[Mabee Center|Tulsa]]'''
+ | subgroup2= '''[[Mabee Center|Tulsa]]'''
+ | subgroup3= '''[[Hofheinz Pavilion|Houston]]'''
+ | subgroup4= '''[[Hofheinz Pavilion|Houston]]'''
+| RD1-team01='''Oklahoma'''
+ | RD1-score01='''96'''
+ | RD1-seed02=16
+ | RD1-team02=North Carolina A&T
+ | RD1-score02=83
+ | RD1-seed03=8
+ | RD1-team03=Southern California
+ | RD1-score03=55
+ | RD1-seed04=9
+ | RD1-team04='''Illinois State'''
+ | RD1-score04='''58'''
+ | RD1-seed05=5
+ | RD1-team05='''Louisiana Tech'''
+ | RD1-score05='''78'''
+ | RD1-seed06=12
+ | RD1-team06=Pittsburgh
+ | RD1-score06=54
+ | RD1-seed07=4
+ | RD1-team07='''Ohio State'''
+ | RD1-score07='''75'''
+ | RD1-seed08=13
+ | RD1-team08=Iowa State
+ | RD1-score08=64
+ | RD1-seed09=6
+ | RD1-team09=Texas Tech
+ | RD1-score09=53
+ | RD1-seed10=11
+ | RD1-team10='''Boston College'''
+ | RD1-score10='''55'''
+ | RD1-seed11=3
+ | RD1-team11='''Duke'''
+ | RD1-score11='''75'''
+ | RD1-seed12=14
+ | RD1-team12=Pepperdine
+ | RD1-score12=62
+ | RD1-seed13=7
+ | RD1-team13='''UAB'''
+ | RD1-score13='''70'''
+ | RD1-seed14=10
+ | RD1-team14=Michigan State
+ | RD1-score14=68
+ | RD1-seed15=2
+ | RD1-team15='''Memphis State'''
+ | RD1-score15='''67'''
+ | RD1-seed16=15
+ | RD1-team16=Penn
+ | RD1-score16=55
+ | RD2-seed01=1
+ | RD2-team01='''Oklahoma'''
+ | RD2-score01='''75'''
+ | RD2-seed02=9
+ | RD2-team02=Illinois State
+ | RD2-score02=69
+ | RD2-seed03=5
+ | RD2-team03='''Louisiana Tech'''
+ | RD2-score03='''79'''
+ | RD2-seed04=4
+ | RD2-team04=Ohio State
+ | RD2-score04=67
+ | RD2-seed05=11
+ | RD2-team05='''Boston College'''
+ | RD2-score05='''74'''
+ | RD2-seed06=3
+ | RD2-team06=Duke
+ | RD2-score06=73
+ | RD2-seed07=7
+ | RD2-team07=UAB
+ | RD2-score07=66*
+ | RD2-seed08=2
+ | RD2-team08='''Memphis State'''
+ | RD2-score08='''67'''
+ | RD3-seed01=1
+ | RD3-team01='''Oklahoma'''
+ | RD3-score01='''86'''
+ | RD3-seed02=5
+ | RD3-team02=Louisiana Tech
+ | RD3-score02=84*
+ | RD3-seed03=11
+ | RD3-team03=Boston College
+ | RD3-score03=57
+ | RD3-seed04=2
+ | RD3-team04='''Memphis State'''
+ | RD3-score04='''59'''
+ | RD4-seed01=1
+ | RD4-team01=Oklahoma
+ | RD4-score01=61
+ | RD4-seed02=2
+ | RD4-team02='''Memphis State'''
+ | RD4-score02='''63'''
+}}
+
+====Regional Final Summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 23
+ | time = 
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-03-23-memphis.html box score]
+ | team1 = '''#2 Memphis State Tigers'''
+ | score1 =  '''63'''
+ | team2 = #1 Oklahoma Sooners
+ | score2 = 61
+ | points1 = D. Kennedy – 16
+ | rebounds1 = [[Waymon Tisdale|W. Tisdale]] – 12
+ | assist1 = [[Tim McCalister|T. McCalister]], [[Anthony Bowie|A. Bowie]] – 5
+ | otherstat1 = 
+ | points2 = [[Keith Lee|K. Lee]] – 23
+ | rebounds2 = [[Keith Lee|K. Lee]] – 11
+ | assist2 = [[Andre Turner|A. Turner]] – 12
+ | otherstat2 = '''Halftime Score:''' 33-33
+ | place = Reunion Arena – Dallas, Texas
+ | attendance = 
+ | referee = 
+ | TV = CBS
+}}
+
+===Final Four @ Lexington, Kentucky===
+{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game 
+ | RD1-seed1=E1
+ | RD1-team1='''Georgetown'''
+ | RD1-score1='''77'''
+ | RD1-seed2=W1
+ | RD1-team2=St John's
+ | RD1-score2=59
+ | RD1-seed3=S8
+ | RD1-team3='''Villanova'''
+ | RD1-score3='''52'''
+ | RD1-seed4=M2
+ | RD1-team4=Memphis State
+ | RD1-score4=45
+ | RD2-seed1=E1
+ | RD2-team1=Georgetown
+ | RD2-score1=64
+ | RD2-seed2=S8
+ | RD2-team2='''Villanova'''
+ | RD2-score2='''66'''
+}}
+
+===Game Summaries===
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 30
+ | time = 
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-03-30-memphis.html box score]
+ | team1 = '''#8 Villanova Wildcats'''
+ | score1 =  '''52'''
+ | team2 = #2 Memphis State Tigers
+ | score2 = 45
+ | points1 = [[Dwayne McClain|D. McClain]] – 19
+ | rebounds1 = [[Ed Pinckney|E. Pinckney]] – 9
+ | assist1 = M. Plansky, [[Gary McLain|G. McLain]], [[Dwayne McClain|D. McClain]] – 2
+ | otherstat1 =  
+ | points2 = [[Andre Turner|A. Turner]] – 11
+ | rebounds2 = [[Vincent Askew]], [[William Bedford (basketball)|W. Bedford]], [[Keith Lee|K. Lee]] – 7
+ | assist2 = [[Vincent Askew|V. Askew]] – 7
+ | otherstat2 = '''Halftime Score:''' 23-23
+ | place = Rupp Arena – Lexington, Kentucky
+ | attendance = 
+ | referee = 
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Saturday, March, 30
+ | time = 
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-03-30-georgetown.html box score]
+ | team1 = '''#1 Georgetown Hoyas'''
+ | score1 =  '''77'''
+ | team2 = #1 St. John's Redmen
+ | score2 = 59
+ | points1 = [[Reggie Williams (basketball, born 1964)|R. Williams]] – 20
+ | rebounds1 = [[David Wingate (basketball)|D. Wingate]] – 6
+ | assist1 = [[Michael Jackson (basketball)|M. Jackson]] – 11
+ | otherstat1 = 
+ | points2 = W. Glass – 13
+ | rebounds2 = [[Walter Berry (basketball)|W. Berry]] – 6
+ | assist2 = [[Mark Jackson (basketball)|M. Jackson]] – 5
+ | otherstat2 = '''Halftime Score:''' Georgetown, 32-28
+ | place = Rupp Arena – Lexington, Kentucky
+ | attendance = 
+ | referee = 
+ | TV = CBS
+}}
+
+===National Championship===
+{{Main article|1985 NCAA Men's Division I Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, April 1
+ | time = 
+ | report = [http://www.sports-reference.com/cbb/boxscores/1985-04-01-georgetown.html Box score]
+ | team1 = '''#8 Villanova Wildcats'''
+ | score1 =  '''66'''
+ | team2 = #1 Georgetown Hoyas
+ | score2 = 64
+ | points1 = [[Dwayne McClain|D. McClain]] – 17
+ | rebounds1 = [[Ed Pinckney|E. Pinckney]] – 6
+ | assist1 = [[Ed Pinckney|E. Pinckney]] – 5
+ | otherstat1 =  
+ | points2 = [[David Wingate (basketball)|D. Wingate]] – 16
+ | rebounds2 = [[Bill Martin (basketball)|B. Martin]], [[Patrick Ewing|P. Ewing]] – 5
+ | assist2 = [[Michael Jackson (basketball)|M. Jackson]] – 9
+ | otherstat2 = '''Halftime Score:''' Villanova, 29-28
+ | place = Rupp Arena – Lexington, Kentucky
+ | attendance = 
+ | referee = 
+ | TV = CBS
+}}
+
+==Announcers==
+===Television===
+[[CBS Sports]]
+*[[Brent Musburger]] First Round (Kentucky–Washington), (Arizona–Alabama), Second Round & [[Dick Stockton]] Regional, Final Four served as studio hosts and [[Bill Raftery]] Regional, Final Four served as studio analyst.
+*[[Dick Stockton]]/[[Brent Musburger]] and [[Billy Packer]] – Stockton/Packer, First Round (Kentucky–Washington), Second Round at Salt Lake City, Utah & Houston, Texas; Musburger/Packer, East Regionals at Providence, Rhode Island, Southeast Regional Finals at Birmingham, Alabama, Final Four at Lexington, Kentucky
+*[[Gary Bender]] and [[Doug Collins (basketball)|Doug Collins]] – Second Round at South Bend, Indiana & Dayton, Ohio, West Regionals at Denver, Colorado
+*[[Frank Glieber]] and [[James Brown (sportscaster)|James Brown]] – Second Round at Hartford, Connecticut, Midwest Regionals at Dallas, Texas
+*[[Pat Summerall]]/[[Verne Lundquist]] and [[Larry Conley]] – Summerall/Conley, Second Round at Atlanta, Georgia; Lundquist/Conley, Southeast Regional Semifinals (Auburn–North Carolina) at Birmingham, Alabama
+*[[Verne Lundquist]] and [[Steve Grote]] – First Round (Arizona–Alabama) & Second Round at Albuquerque, New Mexico
+*[[Tim Ryan (sportscaster)|Tim Ryan]] and [[Bill Raftery]] – Second Round at Tulsa, Oklahoma
+[[ESPN]] and NCAA Productions
+*[[Bob Ley]] (NCAA Tournament Today/NCAA Tournament Tonight) served as studio host and [[Dick Vitale]] served as studio analyst.
+* – First Round (Lehigh–Georgetown) & (Old Dominion–SMU) at Hartford, Connecticut
+* – First Round (Virginia Tech–Temple) & (Iona–Loyola-Chicago) at Hartford, Connecticut
+* – First Round (Northeastern–Illinois) & (Mercer–Georgia Tech) at Atlanta, Georgia
+* – First Round (Wichita State–Georgia) & (DePaul–Syracuse) at Atlanta, Georgia
+* – First Round (Iowa State–Ohio State) & (Illinois State–Southern California) at Tulsa, Oklahoma
+* – First Round (Pittsburgh–Louisiana Tech) & (North Carolina A&T–Oklahoma) at Tulsa, Oklahoma
+* – First Round (Penn–Memphis State) & (Pepperdine–Duke) at Houston, Texas
+* – First Round (Michigan State–UAB) & (Boston College–Texas Tech) at Houston, Texas
+* – First Round (Navy–Louisiana State) & (Dayton–Villanova) at Dayton, Ohio
+* – First Round (Miami (OH)–Maryland) & (Fairleigh Dickinson–Michigan) at Dayton, Ohio
+* – First Round (Ohio–Kansas) & (Oregon State–Notre Dame) at South Bend, Indiana
+* – First Round (Auburn–Purdue) & (Middle Tennessee–North Carolina) at South Bend, Indiana
+* – First Round (Southern–St. John's) at Salt Lake City, Utah
+* – First Round (Arkansas–Iowa) & (San Diego State–UNLV) at Salt Lake City, Utah
+* – First Round (Nevada–NC State) at Albuquerque, New Mexico
+* – First Round (UTEP–Tulsa) & (Marshall–VCU) at Albuquerque, New Mexico
+* – Midwest Regional Semifinals (Louisiana Tech–Oklahoma) at Dallas, Texas
+* – Southeast Regional Semifinals (Villanova–Maryland) at Birmingham, Alabama
+
+===Radio===
+====Regionals====
+[[CBS Radio Network|CBS Radio]]
+* – East Regionals at Providence, Rhode Island
+* – Midwest Regionals at Dallas, Texas
+* – Southeast Regionals at Birmingham, Alabama
+* – West Regionals at Denver, Colorado
+
+====Final Four====
+* – at Lexington, Kentucky
+
+{| class="wikitable"
+|- bgcolor="#efefef"
+!Region
+!Seed
+!Teams
+!Flagship station
+!Play-by-play announcer
+!Color analyst(s)
+|-
+
+==Further reading==
+*{{cite book |last=Pinckney |first=Ed |authorlink=Ed Pinckney |author2=Gordon, Robert |title=Ed Pinckney's Tales from the Villanova Hardwood: The Story of the 1985 NCAA champs |year=2004 |publisher=Sports Publishing |location=Champaign |isbn=1-58261-809-7 }}
+
+==See also==
+* [[1985 NCAA Division II Men's Basketball Tournament]]
+* [[1985 NCAA Division III Men's Basketball Tournament]]
+* [[1985 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|1985 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|1985 NCAA Division III Women's Basketball Tournament]]
+* [[1985 National Invitation Tournament]]
+* [[National Women's Invitation Tournament|1985 National Women's Invitation Tournament]]
+* [[1985 NAIA Division I Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|1985 NAIA Division I Women's Basketball Tournament]]
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{1985 Villanova Wildcats men's basketball navbox}}
+
+==References==
+{{Reflist}}
+
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:1984–85 NCAA Division I men's basketball season|Ncaa]]
+[[Category:Basketball in the Dallas–Fort Worth metroplex]]
+[[Category:Basketball in Houston]]

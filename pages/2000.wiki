@@ -1,0 +1,1282 @@
+{{see also|2000 NCAA Division I Men's Basketball Championship Game}}
+{{Infobox NCAA Basketball Tournament |
+| Year=2000
+| Image=2000FinalFour.png
+| ImageSize=150px
+| Caption=2000 Final Four logo
+| Teams=64
+| FinalFourArena=[[RCA Dome]]
+| FinalFourCity=[[Indianapolis, Indiana]]
+| Champions=[[1999–2000 Michigan State Spartans men's basketball team|Michigan State]]
+| TitleCount=2nd
+| ChampGameCount=2nd
+| RunnerUp=[[1999–2000 Florida Gators men's basketball team|Florida]]
+| GameCount=1st
+| RunnerFFCount=2nd
+| Semifinal1=[[North Carolina Tar Heels men's basketball|North Carolina]]
+| FinalFourCount=15th
+| Semifinal2=[[1999–2000 Wisconsin Badgers men's basketball team|Wisconsin]]
+| FinalFourCount2=2nd
+| Coach=[[Tom Izzo]]
+| CoachCount=1st
+| MOP=[[Mateen Cleaves]]
+| MOPTeam=Michigan State
+| Attendance=624,777
+| OneTopScorer=*
+| TwoTopScorers=
+| TopScorer=[[Morris Peterson]]
+| TopScorerTeam=Michigan State}}
+The '''2000 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 16, 2000, and ended with the [[2000 NCAA Men's Division I Basketball Championship Game|championship game]] on April 3 in [[Indianapolis, Indiana]] at the [[RCA Dome]]. A total of 63 games were played.
+
+Due to a string of upsets throughout the tournament, only one top-four seed advanced to the Final Four. That was [[Michigan State Spartans men's basketball|Michigan State]], who finished the season as the #1 team in the nation and was given the top seed in the Midwest Region and the top overall seed. The highest seeded of the other three Final Four teams was [[Florida Gators men's basketball|Florida]], who won the East Region as the fifth seed. Two eight-seeds made the Final Four, with [[Wisconsin Badgers men's basketball|Wisconsin]] and [[North Carolina Tar Heels men's basketball|North Carolina]] rounding the bracket out. Wisconsin won the West Region while North Carolina won the South Region, with both regions seeing their top three seeds eliminated during the first weekend of play.
+
+Michigan State won their first national championship since 1979 by defeating Florida 89-76 in the final game. [[Mateen Cleaves]] of Michigan State was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]], while [[Morris Peterson]] was its leading scorer.
+
+Despite the string of upsets, no seed lower than 11 won a game in the tournament. The only 11 seed to win was [[Pepperdine Waves men's basketball|Pepperdine]], which defeated [[Indiana Hoosiers men's basketball|Indiana]] in the East Region's first round in what turned out to be [[Bob Knight]]'s last game coaching the Hoosiers before his firing that offseason. Also, two teams that qualified as 10 seeds advanced to the Sweet Sixteen as [[Seton Hall Pirates men's basketball|Seton Hall]] in the East and [[Gonzaga Bulldogs men's basketball|Gonzaga]] in the West both advanced.
+
+Because of the upsets, the Elite Eight consisted of one top seed (Michigan State), one second seed ([[Iowa State Cyclones men's basketball|Iowa State]]), one third seed ([[Oklahoma State Cowboys men's basketball|Oklahoma State]]), one fifth seed (Florida), one sixth seed ([[Purdue Boilermakers men's basketball|Purdue]]), one seventh seed ([[Tulsa Golden Hurricane men's basketball|Tulsa]]), and two eighth seeds (Wisconsin and North Carolina).
+
+==Locations==
+
+{{Location map+|USA|width=450|float=right|caption=2000 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.221743|lon_deg=-110.926479|position=left|background=#FFFFFF|label=Tucson|link=McKale Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.760779|lon_deg=-111.891047|position=left|background=#FFFFFF|label=Salt Lake City|link=Jon M. Huntsman Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=44.983334|lon_deg=-93.266670|position=left|background=#FFFFFF|label=Minneapolis|link=Hubert H. Humphrey Metrodome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.499320|lon_deg=-81.694361|position=left|background=#FFFFFF|label=Cleveland|link=Wolstein Center|CSU Convocation Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.162664|lon_deg=-86.781602|position=top|background=#FFFFFF|label=Nashville|link=Bridgestone Arena|Gaylord Entertainment Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.520661|lon_deg=-86.802490|position=bottom|background=#FFFFFF|label=Birmingham|link=Birmingham–Jefferson Convention Complex|BJCC Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.099860|lon_deg=-80.244216|position=right|background=#FFFFFF|label=Winston-Salem|link=Lawrence Joel Veterans Memorial Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.886447|lon_deg=-78.878369|position=right|background=#FFFFFF|label=Buffalo|link=First Niagara Center|HSBC Arena}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2000 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=35.110703|lon_deg=-106.609991|position=right|background=#FFFFFF|label=Albuquerque|link=The Pit (arena)|The Pit}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=30.267153|lon_deg=-97.743061|position=bottom|background=#FFFFFF|label=Austin|link=Frank Erwin Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=42.687532|lon_deg=-83.234103|position=left|background=#FFFFFF|label=Auburn Hills|link=The Palace at Auburn Hills}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=43.048122|lon_deg=-76.147424|position=right|background=#FFFFFF|label=Syracuse|link=Carrier Dome}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=left|background=#FFFFFF|label=Indianapolis|link=RCA Dome}}
+}}
+
+===First & Second Rounds===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+! rowspan="2" | East
+|[[Buffalo, New York]]
+|[[KeyBank Center|HSBC Arena]]
+|-
+|[[Winston-Salem, North Carolina]]
+|[[Lawrence Joel Veterans Memorial Coliseum]]
+|-
+! rowspan="2" | Midwest
+|[[Cleveland|Cleveland, Ohio]]
+|[[Wolstein Center|CSU Convocation Center]]
+|-
+|[[Minneapolis|Minneapolis, Minnesota]]
+|[[Hubert H. Humphrey Metrodome]]
+|-
+! rowspan="2" | South
+|[[Birmingham, Alabama]]
+|[[Birmingham–Jefferson Convention Complex|BJCC Arena]]
+|-
+|[[Nashville, Tennessee]]
+|[[Bridgestone Arena|Gaylord Entertainment Center]]
+|-
+! rowspan="2" | West
+|[[Salt Lake City|Salt Lake City, Utah]]
+|[[Jon M. Huntsman Center]]
+|-
+|[[Tucson, Arizona]]
+|[[McKale Center]]
+|}
+
+===Regional Sites and Final Four===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+| '''East''' 
+|[[Syracuse, New York]]
+|[[Carrier Dome]]
+|-
+| '''Midwest'''
+|[[Auburn Hills, Michigan]]
+|[[The Palace of Auburn Hills]]
+|-
+| '''South'''
+|[[Austin, Texas]]
+|[[Frank Erwin Center]]
+|-
+| '''West'''
+|[[Albuquerque, New Mexico]]
+|[[The Pit (arena)|University Arena ("The Pit")]]
+|-
+| '''Final Four'''
+|[[Indianapolis|Indianapolis, Indiana]]
+|[[RCA Dome]]
+|}
+
+For the third time in a decade, and fourth time overall, Indianapolis was the host city of the Final Four. The tournament saw one new host city and three new host venues included for the first time. The tournament came to Cleveland for the first time ever, hosted on the campus of [[Cleveland State University]]. This marked the first new host venue on a college campus since the first appearance of Thompson–Boling Arena in 1990, and the first host city to debut on a college campus since Boise in 1983. The tournament returned to Nashville at the then-four-year-old Gaylord Entertainment Center downtown, with previous tournaments having been hosted in Memorial Gym on the campus of [[Vanderbilt University]]. And for the first time since 1954, the tournament returned to Buffalo, at the HSBC Arena. The first round tournament games coincided with the date of the arena's name change; previously it had been known as Marine Midland Arena. For the fifth, and as of 2018 most recent, time, both the Huntsman Center and McKale Center were chosen as the two first and second round hosts of the West regionals. All 13 venues have gone on to host more tournament games since this season.
+
+==Teams==
+
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | East Regional – [[Syracuse, New York|Syracuse]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1999–2000 Duke Blue Devils men's basketball team|Duke]]
+| [[Mike Krzyzewski]]
+| [[Atlantic Coast Conference|ACC]]
+| 27-4
+| [[2000 ACC Men's Basketball Tournament|Automatic]]
+|-
+|#2
+| [[1999–2000 Temple Owls men's basketball team|Temple]]
+| [[John Chaney (basketball, born 1932)|John Chaney]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 26-5
+| Automatic
+|-
+|#3
+| {{cbb link|1999|team=Oklahoma State Cowboys|school=Oklahoma State University|title=Oklahoma State}}
+| [[Eddie Sutton]]
+| [[Big 12 Conference|Big 12]]
+| 24-6
+| At-Large
+|-
+|#4
+| [[1999–2000 Illinois Fighting Illini men's basketball team|Illinois]]
+| [[Lon Kruger]]
+| [[Big Ten Conference|Big Ten]]
+| 21-9
+| At-Large
+|-
+|#5
+| [[1999–2000 Florida Gators men's basketball team|Florida]]
+| [[Billy Donovan]]
+| [[Southeastern Conference|SEC]]
+| 24-7
+| At-Large
+|-
+|#6
+| [[1999–2000 Indiana Hoosiers men's basketball team|Indiana]]
+| [[Bob Knight]]
+| [[Big Ten Conference|Big Ten]]
+| 20-8
+| At-Large
+|-
+|#7
+| [[1999–2000 Oregon Ducks men's basketball team|Oregon]]
+| [[Ernie Kent]]
+| [[Pac-12 Conference|Pac-10]]
+| 22-7
+| At-Large
+|-
+|#8
+| [[1999–2000 Kansas Jayhawks men's basketball team|Kansas]]
+| [[Roy Williams (coach)|Roy Williams]]
+| [[Big 12 Conference|Big 12]]
+| 23-9
+| At-Large
+|-
+|#9
+| {{cbb link|1999|team=DePaul Blue Demons|school=DePaul University|title=DePaul}}
+| [[Pat Kennedy]]
+| [[Conference USA]]
+| 21-10
+| At-Large
+|-
+|#10
+| [[1999–2000 Seton Hall Pirates men's basketball team|Seton Hall]]
+| [[Tommy Amaker]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 20-9
+| At-Large
+|-
+|#11
+| {{cbb link|1999|team=Pepperdine Waves|school=Pepperdine University|title=Pepperdine}}
+| [[Jan van Breda Kolff]]
+| [[West Coast Conference|West Coast]]
+| 24-8
+| At-Large
+|-
+|#12
+| {{cbb link|1999|team=Butler Bulldogs|school=Butler University|title=Butler}}
+| [[Barry Collier (basketball)|Barry Collier]]
+| [[Horizon League|MCC]]
+| 23-7
+| Automatic
+|-
+|#13
+| {{cbb link|1999|team=Penn Quakers|school=University of Pennsylvania|title=Penn}}
+| [[Fran Dunphy]]
+| [[Ivy League]]
+| 21-7
+| Automatic
+|-
+|#14
+| {{cbb link|1999|team=Hofstra Pride|school=Hofstra University|title=Hofstra}}
+| [[Jay Wright (coach)|Jay Wright]]
+| [[America East Conference|America East]]
+| 24-6
+| Automatic
+|-
+|#15
+| {{cbb link|1999|team=Lafayette Leopards|school=Lafayette College|title=Lafayette}}
+| [[Fran O'Hanlon]]
+| [[Patriot League]]
+| 24-6
+| Automatic
+|-
+|#16
+| {{cbb link|1999|team=Lamar Cardinals|school=Lamar University|title=Lamar}}
+| [[Mike Deane]]
+| [[Southland Conference|Southland]]
+| 15-15
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | South Regional – [[Austin, Texas|Austin]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| {{cbb link|1999|team=Stanford Cardinal|school=Stanford University|title=Stanford}}
+| [[Mike Montgomery]]
+| [[Pac-12 Conference|Pac-10]]
+| 26-3
+| At-Large
+|-
+|#2
+| [[1999–2000 Cincinnati Bearcats men's basketball team|Cincinnati]]
+| [[Bob Huggins]]
+| [[Conference USA]]
+| 28-3
+| At-Large
+|-
+|#3
+| {{cbb link|1999|team=Ohio State Buckeyes|school=Ohio State University|title=Ohio State}}
+| [[Jim O'Brien (basketball, born 1949)|Jim O'Brien]]
+| [[Big Ten Conference|Big Ten]]
+| 22-6
+| At-Large
+|-
+|#4
+| {{cbb link|1999|team=Tennessee Volunteers|school=University of Tennessee|title=Tennessee}}
+| [[Jerry Green (coach)|Jerry Green]]
+| [[Southeastern Conference|SEC]]
+| 24-6
+| At-Large
+|-
+|#5
+| [[1999–2000 Connecticut Huskies men's basketball team|Connecticut]]
+| [[Jim Calhoun]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 24-9
+| At-Large
+|-
+|#6
+| {{cbb link|1999|team=Miami Hurricanes|school=University of Miami|title=Miami (FL)}}
+| [[Leonard Hamilton]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 21-10
+| At-Large
+|-
+|#7
+| {{cbb link|1999|team=Tulsa Golden Hurricane|school=University of Tulsa|title=Tulsa}}
+| [[Bill Self]]
+| [[Western Athletic Conference|WAC]]
+| 29-4
+| At-Large
+|-
+|#8
+| {{cbb link|1999|team=North Carolina Tar Heels|school=University of North Carolina at Chapel Hill|title=North Carolina}}
+| [[Bill Guthridge]]
+| [[Atlantic Coast Conference|ACC]]
+| 18-13
+| At-Large
+|-
+|#9
+| [[1999–2000 Missouri Tigers men's basketball team|Missouri]]
+| [[Quin Snyder]]
+| [[Big 12 Conference|Big 12]]
+| 18-12
+| At-Large
+|-
+|#10
+| {{cbb link|1999|team=UNLV Runnin' Rebels|school=University of Nevada-Las Vegas|title=UNLV}}
+| [[Bill Bayno]]
+| [[Mountain West Conference|Mountain West]]
+| 20-9
+| At-Large
+|-
+|#11
+| [[1999–2000 Arkansas Razorbacks men's basketball team|Arkansas]]
+| [[Nolan Richardson]]
+| [[Southeastern Conference|SEC]]
+| 19-14
+| Automatic
+|-
+|#12
+| {{cbb link|1999|team=Utah State Aggies|school=Utah State University|title=Utah State}}
+| [[Stew Morrill]]
+| [[Big West Conference|Big West]]
+| 28-5
+| Automatic
+|-
+|#13
+| {{cbb link|1999|team=Louisiana-Lafayette Ragin' Cajuns|school=University of Louisiana at Lafayette|title=Louisiana-Lafayette}}
+| [[Jessie Evans (basketball)|Jessie Evans]]
+| [[Sun Belt Conference|Sun Belt]]
+| 25-8
+| Automatic
+|-
+|#14
+| {{cbb link|1999|team=Appalachian State Mountaineers|school=Appalachian State University|title=Appalachian State}}
+| [[Buzz Peterson]]
+| [[Southern Conference|Southern]]
+| 23-8
+| Automatic
+|-
+|#15
+| {{cbb link|1999|team=UNC Wilmington Seahawks|school=University of North Carolina at Wilmington|title=UNC-Wilmington}}
+| [[Jerry Wainwright]]
+| [[Colonial Athletic Association|CAA]]
+| 18-12
+| Automatic
+|-
+|#16
+| {{cbb link|1999|team=South Carolina State Bulldogs|school=South Carolina State University|title=South Carolina State}}
+| [[Cy Alexander]]
+| [[Mid-Eastern Athletic Conference|MEAC]]
+| 20-13
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | Midwest Regional – [[Auburn Hills, Michigan|Auburn Hills]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| [[1999–2000 Michigan State Spartans men's basketball team|Michigan State]]
+| [[Tom Izzo]]
+| [[Big Ten Conference|Big Ten]]
+| 26-7
+| Automatic
+|-
+|#2
+| [[1999–2000 Iowa State Cyclones men's basketball team|Iowa State]]
+| [[Larry Eustachy]]
+| [[Big 12 Conference|Big 12]]
+| 29-4
+| Automatic
+|-
+|#3
+| [[1999–2000 Maryland Terrapins men's basketball team|Maryland]]
+| [[Gary Williams (basketball)|Gary Williams]]
+| [[Atlantic Coast Conference|ACC]]
+| 24-9
+| At-Large
+|-
+|#4
+| {{cbb link|1999|team=Syracuse Orangemen|school=Syracuse University|title=Syracuse}}
+| [[Jim Boeheim]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 24-5
+| At-Large
+|-
+|#5
+| [[1999–2000 Kentucky Wildcats men's basketball team|Kentucky]]
+| [[Tubby Smith]]
+| [[Southeastern Conference|SEC]]
+| 22-9
+| At-Large
+|-
+|#6
+| [[1999–2000 UCLA Bruins men's basketball team|UCLA]]
+| [[Steve Lavin]]
+| [[Pac-12 Conference|Pac-10]]
+| 19-11
+| At-Large
+|-
+|#7
+| [[1999–2000 Auburn Tigers men's basketball team|Auburn]]
+| [[Cliff Ellis]]
+| [[Southeastern Conference|SEC]]
+| 23-9
+| At-Large
+|-
+|#8
+| {{cbb link|1999|team=Utah Utes|school=University of Utah|title=Utah}}
+| [[Rick Majerus]]
+| [[Mountain West Conference|Mountain West]]
+| 22-8
+| At-Large
+|-
+|#9
+| {{cbb link|1999|team=Saint Louis Billikens|school=Saint Louis University|title=Saint Louis}}
+| [[Lorenzo Romar]]
+| [[Conference USA]]
+| 19-13
+| Automatic
+|-
+|#10
+| {{cbb link|1999|team=Creighton Bluejays|school=Creighton University|title=Creighton}}
+| [[Dana Altman]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 23-9
+| Automatic
+|-
+|#11
+| {{cbb link|1999|team=Ball State Cardinals|school=Ball State University|title=Ball State}}
+| [[Ray McCallum]]
+| [[Mid-American Conference|Mid-American]]
+| 22-8
+| Automatic
+|-
+|#12
+| {{cbb link|1999|team=St. Bonaventure Bonnies|school=St. Bonaventure University|title=St. Bonaventure}}
+| [[Jim Baron]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 21-9
+| At-Large
+|-
+|#13
+| {{cbb link|1999|team=Samford Bulldogs|school=Samford University|title=Samford}}
+| [[Jimmy Tillette]]
+| [[Atlantic Sun Conference|TAAC]]
+| 21-10
+| Automatic
+|-
+|#14
+| {{cbb link|1999|team=Iona Gaels|school=Iona College|title=Iona}}
+| [[Jeff Ruland]]
+| [[Metro Atlantic Athletic Conference|MAAC]]
+| 20-10
+| Automatic
+|-
+|#15
+| {{cbb link|1999|team=Central Connecticut State Blue Devils|school=Central Connecticut State University|title=Central Connecticut State}}
+| [[Howie Dickenman]]
+| [[Northeast Conference|NEC]]
+| 25-5
+| Automatic
+|-
+|#16
+| {{cbb link|1999|team=Valparaiso Crusaders|school=Valparaiso University|title=Valparaiso}}
+| [[Homer Drew]]
+| [[The Summit League|Mid-Continent]]
+| 19-12
+| Automatic
+|}
+{| class="wikitable"
+|-
+! colspan="6" style="background:#ffdead;" | West Regional – [[Albuquerque, New Mexico|Albuquerque]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Bid Type
+|-
+|#1
+| {{cbb link|1999|team=Arizona Wildcats|school=University of Arizona|title=Arizona}}
+| [[Lute Olson]]
+| [[Pac-12 Conference|Pac-10]]
+| 26-6
+| Automatic
+|-
+|#2
+| [[1999–2000 St. John's Red Storm men's basketball team|St. John's]]
+| [[Mike Jarvis]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 24-7
+| Automatic
+|-
+|#3
+| {{cbb link|1999|team=Oklahoma Sooners|school=University of Oklahoma|title=Oklahoma}}
+| [[Kelvin Sampson]]
+| [[Big 12 Conference|Big 12]]
+| 26-6
+| At-Large
+|-
+|#4
+| {{cbb link|1999|team=LSU Tigers|school=Louisiana State University|title=LSU}}
+| [[John Brady (basketball coach)|John Brady]]
+| [[Southeastern Conference|SEC]]
+| 26-5
+| At-Large
+|-
+|#5
+| [[1999–2000 Texas Longhorns men's basketball team|Texas]]
+| [[Rick Barnes]]
+| [[Big 12 Conference|Big 12]]
+| 23-8
+| At-Large
+|-
+|#6
+| [[1999–2000 Purdue Boilermakers men's basketball team|Purdue]]
+| [[Gene Keady]]
+| [[Big Ten Conference|Big Ten]]
+| 21-9
+| At-Large
+|-
+|#7
+| [[1999–2000 Louisville Cardinals men's basketball team|Louisville]]
+| [[Denny Crum]]
+| [[Conference USA]]
+| 19-11
+| At-Large
+|-
+|#8
+| [[1999–2000 Wisconsin Badgers men's basketball team|Wisconsin]]
+| [[Dick Bennett]]
+| [[Big Ten Conference|Big Ten]]
+| 18-13
+| At-Large
+|-
+|#9
+| {{cbb link|1999|team=Fresno State Bulldogs|school=California State University, Fresno|title=Fresno State}}
+| [[Jerry Tarkanian]]
+| [[Western Athletic Conference|WAC]]
+| 24-9
+| At-Large
+|-
+|#10
+| {{cbb link|1999|team=Gonzaga Bulldogs|school=Gonzaga University|title=Gonzaga}}
+| [[Mark Few]]
+| [[West Coast Conference|West Coast]]
+| 24-8
+| Automatic
+|-
+|#11
+| {{cbb link|1999|team=Dayton Flyers|school=University of Dayton|title=Dayton}}
+| [[Oliver Purnell]]
+| [[Atlantic 10 Conference|Atlantic 10]]
+| 22-8
+| At-Large
+|-
+|#12
+| {{cbb link|1999|team=Indiana State Sycamores|school=Indiana State University|title=Indiana State}}
+| [[Royce Waltman]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 22-9
+| At-Large
+|-
+|#13
+| {{cbb link|1999|team=Southeast Missouri State Redhawks|school=Southeast Missouri State University|title=Southeast Missouri State}}
+| [[Gary Garner]]
+| [[Ohio Valley Conference|Ohio Valley]]
+| 22-6
+| Automatic
+|-
+|#14
+| {{cbb link|1999|team=Winthrop Eagles|school=Winthrop University|title=Winthrop}}
+| [[Gregg Marshall]]
+| [[Big South Conference|Big South]]
+| 21-8
+| Automatic
+|-
+|#15
+| {{cbb link|1999|team=Northern Arizona Lumberjacks|school=Northern Arizona University|title=Northern Arizona}}
+| [[Mike Adras]]
+| [[Big Sky Conference|Big Sky]]
+| 20-10
+| Automatic
+|-
+|#16
+| {{cbb link|1999|team=Jackson State Tigers|school=Jackson State University|title=Jackson State}}
+| [[Andy Stoglin]]
+| [[Southwestern Athletic Conference|SWAC]]
+| 17-15
+| Automatic
+|}
+
+==Bids by conference==
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Bids by Conference
+|-
+!style="background: #e3e3e3;"|Bids
+!style="background: #e3e3e3;"|Conference(s)
+|-
+| 6
+| [[Big Ten]], [[Big 12]], [[Southeastern Conference|SEC]]
+|-
+| 5
+| [[Big East Conference (1979–2013)|Big East]]
+|-
+| 4
+| [[Conference USA|C-USA]], [[Pac-10]]
+|-
+| 3
+| [[Atlantic Coast Conference|ACC]], [[Atlantic 10]]
+|-
+| 2
+|  [[Mountain West]], [[Missouri Valley Conference|Missouri Valley]], [[Western Athletic Conference|WAC]], [[West Coast Conference|WCC]]
+|-
+| 1
+| 19 others
+|-
+|}
+
+==Final Four==
+At [[RCA Dome]], [[Indianapolis, Indiana]]
+
+===National Semifinals===
+*April 1, [[Michigan State University|Michigan State]] (M1) 53, [[University of Wisconsin–Madison|Wisconsin]] (W8) 41
+*:In the first half it appeared that the Cinderella run of the [[University of Wisconsin–Madison|Wisconsin Badgers]] had a great chance of continuing. Wisconsin's slow down offense, smothering defense tempo held the game to a [[Michigan State University|Michigan State Spartans]] 19-17 lead. However, the only number one seed left in the tournament opened the second half with a 13-2 run, including 10 points from senior [[Morris Peterson]]. After the run, Michigan State coasted home against Wisconsin's limited offense.<ref name="CNNSI4.1-1">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2000/04/01/may_wbg/|title= 2000 NCAA National Semifinals: (MW1) Michigan State 53, (W8) Wisconsin 41|accessdate=2008-03-06}}</ref>
+**[[University of Florida|Florida]] (E5) 71, [[University of North Carolina at Chapel Hill|North Carolina]] (S8) 59
+*:Despite being behind 18-3 to start the game and trailing at halftime, the [[University of North Carolina at Chapel Hill|North Carolina Tar Heels]] took control of the early minutes of the second half, and managed to sneak ahead 48-42 on standout freshman guard [[Joseph Forte]]'s second consecutive three-pointer with 15:44 to play. However, the [[University of Florida|Florida Gators]] answered back with a 9-0 run to give them the lead for good. The Gators held the Tar Heels to just six points over a 9½ minute span to put them in great shape. Foul trouble ultimately doomed the Tar Heels, and the Gators advanced to their first ever National Championship game.<ref name="CNNSI4.1-2">{{cite web|author=[[CNN Sports Illustrated]] |publisher=CNNSI.com |url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2000/04/01/fak_nav/ |title=2000 NCAA National Semifinals: (E5) Florida 71, (S8) North Carolina 59 |accessdate=2008-03-06 |archiveurl=https://web.archive.org/web/20080326231735/http://sportsillustrated.cnn.com/basketball/college/men/recaps/2000/04/01/fak_nav/ |archivedate=26 March 2008 |deadurl=no |df= }}</ref>
+
+===Championship Game===
+{{main article|2000 NCAA Men's Division I Basketball Championship Game}}
+*April 3, 2000
+**Michigan State (M1) 89, Florida (E5) 76
+*:Michigan State senior [[Mateen Cleaves]] limped his way to the [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]] (MOP) of the 2000 NCAA Tournament. Cleaves sprained his ankle with 16:18 to play in the 2nd half, and this was after Florida had trimmed Michigan State's double digit halftime lead to 50-44. Cleaves returned about four minutes later, and immediately helped lead the Spartans on a 16-6 run to put the game out of reach. The lone top-seed remaining would bring order to a tournament filled with upsets as they salted away the victory for the school's second National Championship ([[1979 NCAA Men's Division I Basketball Tournament|1979]]). Michigan State coach [[Tom Izzo]] earned his first title, from his second straight final four appearance. Morris Peterson led the Spartans with 21 points.<ref name="CNNSI4.3">{{cite web|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/college/men/recaps/2000/04/03/may_fak/|title=2000 NCAA National Championship: (MW1) Michigan State 89, (E5) Florida 76|accessdate=2008-03-06}}</ref>
+
+==Bracket==
+===East Regional – Syracuse, New York===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals 
+ | subgroup1= '''[[Lawrence Joel Veterans Memorial Coliseum|Winston-Salem]]'''
+ | subgroup2= '''[[Lawrence Joel Veterans Memorial Coliseum|Winston-Salem]]'''
+ | subgroup3= '''[[First Niagara Center|Buffalo]]'''
+ | subgroup4= '''[[First Niagara Center|Buffalo]]'''
+ | RD1-seed01=1
+ | RD1-team01='''Duke'''
+ | RD1-score01=82
+ | RD1-seed02=16
+ | RD1-team02=Lamar
+ | RD1-score02=55
+ | RD1-seed03=8
+ | RD1-team03='''Kansas'''
+ | RD1-score03=81
+ | RD1-seed04=9
+ | RD1-team04=DePaul
+ | RD1-score04=77
+ | RD1-seed05=5
+ | RD1-team05='''Florida'''
+ | RD1-score05=69*
+ | RD1-seed06=12
+ | RD1-team06=Butler
+ | RD1-score06=68
+ | RD1-seed07=4
+ | RD1-team07='''Illinois'''
+ | RD1-score07=68
+ | RD1-seed08=13
+ | RD1-team08=Pennsylvania
+ | RD1-score08=58
+ | RD1-seed09=6
+ | RD1-team09=Indiana
+ | RD1-score09=57
+ | RD1-seed10=11
+ | RD1-team10='''Pepperdine'''
+ | RD1-score10=77
+ | RD1-seed11=3
+ | RD1-team11='''Oklahoma State'''
+ | RD1-score11=86
+ | RD1-seed12=14
+ | RD1-team12=Hofstra
+ | RD1-score12=66
+ | RD1-seed13=7
+ | RD1-team13=Oregon
+ | RD1-score13=71
+ | RD1-seed14=10
+ | RD1-team14='''Seton Hall'''
+ | RD1-score14=72
+ | RD1-seed15=2
+ | RD1-team15='''Temple'''
+ | RD1-score15=73
+ | RD1-seed16=15
+ | RD1-team16=Lafayette
+ | RD1-score16=47
+ | RD2-seed01=1
+ | RD2-team01='''Duke'''
+ | RD2-score01=69
+ | RD2-seed02=8
+ | RD2-team02=Kansas
+ | RD2-score02=64
+ | RD2-seed03=5
+ | RD2-team03='''Florida'''
+ | RD2-score03=93
+ | RD2-seed04=4
+ | RD2-team04=Illinois
+ | RD2-score04=76
+ | RD2-seed05=11
+ | RD2-team05=Pepperdine
+ | RD2-score05=67
+ | RD2-seed06=3
+ | RD2-team06='''Oklahoma State'''
+ | RD2-score06=75
+ | RD2-seed07=10
+ | RD2-team07='''Seton Hall'''
+ | RD2-score07=67
+ | RD2-seed08=2
+ | RD2-team08=Temple
+ | RD2-score08=65
+ | RD3-seed01=1
+ | RD3-team01=Duke
+ | RD3-score01=78
+ | RD3-seed02=5
+ | RD3-team02='''Florida'''
+ | RD3-score02=87
+ | RD3-seed03=3
+ | RD3-team03='''Oklahoma State'''
+ | RD3-score03=68
+ | RD3-seed04=10
+ | RD3-team04=Seton Hall
+ | RD3-score04=66
+ | RD4-seed01=5
+ | RD4-team01='''Florida'''
+ | RD4-score01=77
+ | RD4-seed02=3
+ | RD4-team02=Oklahoma State
+ | RD4-score02=65
+}}
+
+===South Regional – Austin, Texas===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals 
+ | subgroup1= '''[[Birmingham–Jefferson Convention Complex|Birmingham]]'''
+ | subgroup2= '''[[Birmingham–Jefferson Convention Complex|Birmingham]]'''
+ | subgroup3= '''[[Bridgestone Arena|Nashville]]'''
+ | subgroup4= '''[[Bridgestone Arena|Nashville]]'''
+ | RD1-seed01=1
+ | RD1-team01='''Stanford'''
+ | RD1-score01=84
+ | RD1-seed02=16
+ | RD1-team02=South Carolina St
+ | RD1-score02=65
+ | RD1-seed03=8
+ | RD1-team03='''North Carolina'''
+ | RD1-score03=84
+ | RD1-seed04=9
+ | RD1-team04=Missouri
+ | RD1-score04=70
+ | RD1-seed05=5
+ | RD1-team05='''Connecticut'''
+ | RD1-score05=75
+ | RD1-seed06=12
+ | RD1-team06=Utah St
+ | RD1-score06=67
+ | RD1-seed07=4
+ | RD1-team07='''Tennessee'''
+ | RD1-score07=63
+ | RD1-seed08=13
+ | RD1-team08=Louisiana-Lafayette
+ | RD1-score08=58
+ | RD1-seed09=6
+ | RD1-team09='''Miami-FL'''
+ | RD1-score09=75
+ | RD1-seed10=11
+ | RD1-team10=Arkansas
+ | RD1-score10=71
+ | RD1-seed11=3
+ | RD1-team11='''Ohio St'''
+ | RD1-score11=87
+ | RD1-seed12=14
+ | RD1-team12=Appalachian St
+ | RD1-score12=61
+ | RD1-seed13=7
+ | RD1-team13='''Tulsa'''
+ | RD1-score13=89
+ | RD1-seed14=10
+ | RD1-team14=UNLV
+ | RD1-score14=62
+ | RD1-seed15=2
+ | RD1-team15='''Cincinnati'''
+ | RD1-score15=64
+ | RD1-seed16=15
+ | RD1-team16=UNC-Wilmington
+ | RD1-score16=47
+ | RD2-seed01=1
+ | RD2-team01=Stanford
+ | RD2-score01=53
+ | RD2-seed02=8
+ | RD2-team02='''North Carolina'''
+ | RD2-score02=60
+ | RD2-seed03=5
+ | RD2-team03=Connecticut
+ | RD2-score03=51
+ | RD2-seed04=4
+ | RD2-team04='''Tennessee'''
+ | RD2-score04=65
+ | RD2-seed05=6
+ | RD2-team05='''Miami-FL'''
+ | RD2-score05=75
+ | RD2-seed06=3
+ | RD2-team06=Ohio St
+ | RD2-score06=62
+ | RD2-seed07=7
+ | RD2-team07='''Tulsa'''
+ | RD2-score07=69
+ | RD2-seed08=2
+ | RD2-team08=Cincinnati
+ | RD2-score08=61
+ | RD3-seed01=8
+ | RD3-team01='''North Carolina'''
+ | RD3-score01=74
+ | RD3-seed02=4
+ | RD3-team02=Tennessee
+ | RD3-score02=69
+ | RD3-seed03=6
+ | RD3-team03=Miami-FL
+ | RD3-score03=71
+ | RD3-seed04=7
+ | RD3-team04='''Tulsa'''
+ | RD3-score04=80
+ | RD4-seed01=8
+ | RD4-team01='''North Carolina'''
+ | RD4-score01=59
+ | RD4-seed02=7
+ | RD4-team02=Tulsa
+ | RD4-score02=55
+}}
+
+===Midwest Regional – Auburn Hills, Michigan===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals 
+ | subgroup1= '''[[Wolstein Center|Cleveland]]'''
+ | subgroup2= '''[[Wolstein Center|Cleveland]]'''
+ | subgroup3= '''[[Hubert H. Humphrey Metrodome|Minneapolis]]'''
+ | subgroup4= '''[[Hubert H. Humphrey Metrodome|Minneapolis]]'''
+ | RD1-seed01=1
+ | RD1-team01='''Michigan State'''
+ | RD1-score01=65
+ | RD1-seed02=16
+ | RD1-team02=Valparaiso
+ | RD1-score02=38
+ | RD1-seed03=8
+ | RD1-team03='''Utah'''
+ | RD1-score03=48
+ | RD1-seed04=9
+ | RD1-team04=St. Louis
+ | RD1-score04=45
+ | RD1-seed05=5
+ | RD1-team05='''Kentucky'''
+ | RD1-score05=85
+ | RD1-seed06=12
+ | RD1-team06=St. Bonaventure
+ | RD1-score06=80**
+ | RD1-seed07=4
+ | RD1-team07='''Syracuse'''
+ | RD1-score07=79
+ | RD1-seed08=13
+ | RD1-team08=Samford
+ | RD1-score08=65
+ | RD1-seed09=6
+ | RD1-team09='''UCLA'''
+ | RD1-score09=65
+ | RD1-seed10=11
+ | RD1-team10=Ball State
+ | RD1-score10=57
+ | RD1-seed11=3
+ | RD1-team11='''Maryland'''
+ | RD1-score11=74
+ | RD1-seed12=14
+ | RD1-team12=Iona
+ | RD1-score12=59
+ | RD1-seed13=7
+ | RD1-team13='''Auburn'''
+ | RD1-score13=72
+ | RD1-seed14=10
+ | RD1-team14=Creighton
+ | RD1-score14=69
+ | RD1-seed15=2
+ | RD1-team15='''Iowa State'''
+ | RD1-score15=88
+ | RD1-seed16=15
+ | RD1-team16=Central Connecticut St
+ | RD1-score16=78
+ | RD2-seed01=1
+ | RD2-team01='''Michigan State'''
+ | RD2-score01=73
+ | RD2-seed02=8
+ | RD2-team02=Utah
+ | RD2-score02=61
+ | RD2-seed03=5
+ | RD2-team03=Kentucky
+ | RD2-score03=50
+ | RD2-seed04=4
+ | RD2-team04='''Syracuse'''
+ | RD2-score04=52
+ | RD2-seed05=6
+ | RD2-team05='''UCLA'''
+ | RD2-score05=105
+ | RD2-seed06=3
+ | RD2-team06=Maryland
+ | RD2-score06=70
+ | RD2-seed07=7
+ | RD2-team07=Auburn
+ | RD2-score07=60
+ | RD2-seed08=2
+ | RD2-team08='''Iowa State'''
+ | RD2-score08=79
+ | RD3-seed01=1
+ | RD3-team01='''Michigan State'''
+ | RD3-score01=75
+ | RD3-seed02=4
+ | RD3-team02=Syracuse
+ | RD3-score02=58
+ | RD3-seed03=6
+ | RD3-team03=UCLA
+ | RD3-score03=56
+ | RD3-seed04=2
+ | RD3-team04='''Iowa State'''
+ | RD3-score04=80
+ | RD4-seed01=1
+ | RD4-team01='''Michigan State'''
+ | RD4-score01=75
+ | RD4-seed02=2
+ | RD4-team02=Iowa State
+ | RD4-score02=64
+}}
+
+===West Regional – Albuquerque, New Mexico===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals 
+ | subgroup1= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup2= '''[[Jon M. Huntsman Center|Salt Lake City]]'''
+ | subgroup3= '''[[McKale Center|Tucson]]'''
+ | subgroup4= '''[[McKale Center|Tucson]]'''
+ | RD1-seed01=1
+ | RD1-team01='''Arizona'''
+ | RD1-score01=71
+ | RD1-seed02=16
+ | RD1-team02=Jackson St.
+ | RD1-score02=47
+ | RD1-seed03=8
+ | RD1-team03='''Wisconsin'''
+ | RD1-score03=66
+ | RD1-seed04=9
+ | RD1-team04=Fresno St.
+ | RD1-score04=56
+ | RD1-seed05=5
+ | RD1-team05='''Texas'''
+ | RD1-score05=77
+ | RD1-seed06=12
+ | RD1-team06=Indiana St.
+ | RD1-score06=61
+ | RD1-seed07=4
+ | RD1-team07='''LSU'''
+ | RD1-score07=64
+ | RD1-seed08=13
+ | RD1-team08=Southeast Missouri St.
+ | RD1-score08=61
+ | RD1-seed09=6
+ | RD1-team09='''Purdue'''
+ | RD1-score09=62
+ | RD1-seed10=11
+ | RD1-team10=Dayton
+ | RD1-score10=61
+ | RD1-seed11=3
+ | RD1-team11='''Oklahoma'''
+ | RD1-score11=74
+ | RD1-seed12=14
+ | RD1-team12=Winthrop
+ | RD1-score12=50
+ | RD1-seed13=7
+ | RD1-team13=Louisville
+ | RD1-score13=66
+ | RD1-seed14=10
+ | RD1-team14='''Gonzaga'''
+ | RD1-score14=77
+ | RD1-seed15=2
+ | RD1-team15='''St John's'''
+ | RD1-score15=61
+ | RD1-seed16=15
+ | RD1-team16=Northern Arizona
+ | RD1-score16=56
+ | RD2-seed01=1
+ | RD2-team01=Arizona
+ | RD2-score01=59
+ | RD2-seed02=8
+ | RD2-team02='''Wisconsin'''
+ | RD2-score02=66
+ | RD2-seed03=5
+ | RD2-team03=Texas
+ | RD2-score03=67
+ | RD2-seed04=4
+ | RD2-team04='''LSU'''
+ | RD2-score04=72
+ | RD2-seed05=6
+ | RD2-team05='''Purdue'''
+ | RD2-score05=66
+ | RD2-seed06=3
+ | RD2-team06=Oklahoma
+ | RD2-score06=62
+ | RD2-seed07=10
+ | RD2-team07='''Gonzaga'''
+ | RD2-score07=82
+ | RD2-seed08=2
+ | RD2-team08=St John's
+ | RD2-score08=76
+ | RD3-seed01=8
+ | RD3-team01='''Wisconsin'''
+ | RD3-score01=61
+ | RD3-seed02=4
+ | RD3-team02=LSU
+ | RD3-score02=48
+ | RD3-seed03=6
+ | RD3-team03='''Purdue'''
+ | RD3-score03=75
+ | RD3-seed04=10
+ | RD3-team04=Gonzaga
+ | RD3-score04=66
+ | RD4-seed01=8
+ | RD4-team01='''Wisconsin'''
+ | RD4-score01=64
+ | RD4-seed02=6
+ | RD4-team02=Purdue
+ | RD4-score02=60
+}}
+
+===Final Four at Indianapolis, Indiana===
+{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game
+
+ | RD1-seed1='''E5'''
+ | RD1-team1='''Florida'''
+ | RD1-score1='''71'''
+ | RD1-seed2=S8
+ | RD1-team2=North Carolina
+ | RD1-score2=59
+ | RD1-seed3='''M1'''
+ | RD1-team3='''Michigan State'''
+ | RD1-score3='''53'''
+ | RD1-seed4=W8
+ | RD1-team4=Wisconsin
+ | RD1-score4=41
+ | RD2-seed1=E5
+ | RD2-team1=Florida
+ | RD2-score1=76
+ | RD2-seed2='''M1'''
+ | RD2-team2='''Michigan State'''
+ | RD2-score2='''89'''
+}}
+
+==Television==
+[[CBS Sports]] had exclusive TV coverage.  They were carried on a regional basis until the "Elite Eight", at which point all games were shown nationally.
+
+*[[Jim Nantz]] and [[Billy Packer]] – First & Second Round at Winston-Salem, North Carolina; East Regional at Syracuse, New York; Final Four at Indianapolis, Indiana
+*[[Verne Lundquist]] and [[Bill Raftery]] – First & Second Round at Minneapolis, Minnesota; Midwest Regional at Auburn Hills, Michigan
+*[[Dick Enberg]] and [[James Worthy]] – First & Second Round at Birmingham, Alabama; South Regional at Austin, Texas
+*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Dan Bonner]] – First & Second Round at Tucson, Arizona; West Regional at Albuquerque, New Mexico
+*[[Kevin Harlan]] and [[Jon Sundvold]] – First & Second Round at Cleveland, Ohio
+*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Buffalo, New York
+*[[Tim Brando]] and [[Rolando Blackman]] – First & Second Round at Nashville, Tennessee
+*[[Craig Bolerjack]] and [[Barry Booker]] – First & Second Round at Salt Lake City, Utah
+
+[[Greg Gumbel]] once again served as the studio host, joined by analyst [[Clark Kellogg]].
+
+==Radio==
+[[Westwood One (1976–2011)|Westwood One]] had exclusive radio coverage.
+{| class="wikitable"
+|- bgcolor="#efefef"
+!Play-by-play announcer
+!Color analyst(s)
+!Round(s)
+!Site(s)
+|-
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|-
+| [[John Rooney (sportscaster)|John Rooney]]
+|
+| Midwest 1st/2nd rounds
+| Cleveland
+|-
+| [[Wayne Larrivee]]
+|
+| Midwest 1st/2nd Rounds
+| Minneapolis
+|-
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|-
+| [[Kevin Harlan]]
+| [[Jon Sundvold]]
+| Midwest Regional
+| Auburn Hills, Michigan
+|-
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|-
+| [[John Rooney (sportscaster)|John Rooney]] (Michigan State-Wisconsin & Michigan State-Florida)<br />[[Marty Brennaman]] (Florida-North Carolina)
+| [[Bill Raftery]] (Michigan State-Wisconsin & Michigan State-Florida)<br />[[Dave Gavitt]] (Florida-North Carolina)
+| Final Four
+| Indianapolis
+|}
+
+[[Tommy Tighe]] once again served as studio host.
+
+==Local radio==
+{| class="wikitable"
+|- bgcolor="#efefef"
+!Region
+!Seed
+!Teams
+!Flagship station
+!Play-by-play announcer
+!Color analyst(s)
+|-
+| E
+| 5
+| [[Florida Gators|Florida]]
+| [[WRUF (AM)|WRUF&ndash;AM]] ([[Florida Gators|Florida]])
+| [[Mick Hubert]]
+| Mark Wise
+|-
+| S
+| 8
+| [[North Carolina Tar Heels|North Carolina]]
+| [[WCHL (AM)|WCHL&ndash;AM]] ([[North Carolina Tar Heels|North Carolina]])
+| [[Woody Durham]]
+| [[Mick Mixon]]
+|-
+| MW
+| 1
+| [[Michigan State University|Michigan State]]
+| [[WJIM (AM)|WJIM&ndash;AM]]/[[WJIM-FM]] ([[Michigan State University|Michigan State]])
+| [[Mark Champion]]
+| [[Gus Ganakas]]
+|-
+| MW
+| 4
+| [[Syracuse University|Syracuse]]
+| ([[Syracuse University|Syracuse]])
+|
+|
+|-
+| MW
+| 5
+| [[University of Kentucky|Kentucky]]
+| ([[University of Kentucky|Kentucky]])
+|
+|
+|-
+| MW
+| 8
+| [[University of Utah|Utah]]
+| ([[University of Utah|Utah]])
+|
+|
+|-
+| MW
+| 9
+| [[Saint Louis University|Saint Louis]]
+| ([[Saint Louis University|Saint Louis]])
+|
+|
+|-
+| MW
+| 12
+| [[St. Bonaventure University|St. Bonaventure]]
+| [[WHDL]]–AM 1450/[[WPIG]]–FM 95.7 ([[St. Bonaventure University|St. Bonaventure]])
+| Gary Nease
+| John Watson
+|-
+| MW
+| 13
+| [[Samford University|Samford]]
+| [[WVSU-FM|WVSU]]–FM 91.1 ([[Samford University|Samford]])
+| Scott Griffin
+| Mike Royer
+|-
+| MW
+| 16
+| [[Valparaiso University|Valparaiso]]
+| ([[Valparaiso University|Valparaiso]])
+|
+|
+|-
+| W
+| 4
+| [[LSU Tigers men's basketball|LSU]]
+| [[WDGL]]-FM 98.1, [[WWL-AM]] 870
+| Jim Hawthorne
+| Kevin Ford
+|-
+| W
+| 8
+| [[Wisconsin Badgers|Wisconsin]]
+| [[WIBA (AM)|WIBA&ndash;AM]]/[[WOLX-FM]] ([[Wisconsin Badgers|Wisconsin]])
+| Matt Lepay
+| Mike Lucas
+|}
+
+==See also==
+* [[2000 NCAA Division II Men's Basketball Tournament]]
+* [[2000 NCAA Division III Men's Basketball Tournament]]
+* [[2000 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|2000 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|2000 NCAA Division III Women's Basketball Tournament]]
+* [[2000 National Invitation Tournament]]
+* [[Women's National Invitation Tournament|2000 Women's National Invitation Tournament]]
+* [[2000 NAIA Division I Men's Basketball Tournament]]
+* [[NAIA Men's Basketball Championships#Division II|2000 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2000 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2000 NAIA Division II Women's Basketball Tournament]]
+
+==References==
+{{Reflist}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2000 Michigan State Spartans men's basketball navbox}}
+
+{{DEFAULTSORT:2000 Ncaa Men's Division I Basketball Tournament}}
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:1999–2000 NCAA Division I men's basketball season|Ncaa]]
+[[Category:Basketball in Austin, Texas|NCAA]]
+[[Category:Basketball in Indianapolis|NCAA]]

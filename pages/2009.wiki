@@ -1,0 +1,1492 @@
+{{Infobox NCAA Basketball Tournament
+| Year=2009
+| Image=2009 Final Four logo.png
+| ImageSize=150
+| Caption=2009 Final Four logo
+| Teams=65
+| FinalFourArena=[[Ford Field]]
+| FinalFourCity=[[Detroit, Michigan]]
+| Champions= [[2008-09 North Carolina Tar Heels men's basketball team|North Carolina]]
+| TitleCount=5th
+| ChampGameCount=9th
+| ChampFFCount=18th
+| RunnerUp=[[2008-09 Michigan State Spartans men's basketball team|Michigan State]]
+| GameCount=3rd
+| RunnerFFCount=7th
+| Semifinal1=[[2008-09 Connecticut Huskies men's basketball team|Connecticut]]
+| FinalFourCount=3rd
+| Semifinal2=[[2008-09 Villanova Wildcats men's basketball team|Villanova]]
+| FinalFourCount2=4th
+| Coach=[[Roy Williams (coach)|Roy Williams]]
+| CoachCount=2nd
+| MOP=[[Wayne Ellington]]
+| MOPTeam=North Carolina
+| Attendance=708,296
+| OneTopScorer=*
+| TwoTopScorers=
+| TopScorer=Wayne Ellington
+| TopScorerTeam=North Carolina
+| Points=115
+}}
+
+The '''2009 NCAA Division I Men's Basketball Tournament''' was a tournament involving 65 schools playing in a [[single-elimination tournament]] to determine the national champion of men's NCAA Division I [[college basketball]] as a culmination of the [[2008–09 NCAA Division I men's basketball season|2008–09 basketball season]]. It began on March 17, 2009, and concluded with the [[2009 NCAA Men's Division I Basketball Championship Game|championship game]] on April 6 at [[Ford Field]] in [[Detroit]], [[Michigan]], where the University of North Carolina defeated [[2008–09 Michigan State Spartans men's basketball team|Michigan State]] to become the champion. The 2009 tournament marked the first time not only for a Final Four having a minimum seating capacity of 70,000 but also by having most of the tournament in the February Sweeps of the Nielsen Ratings due to the [[digital television transition in the United States]] on June 12, 2009, which also made this the last NCAA Basketball Tournament, in all three divisions, to air in analog television. The [[University of Detroit Mercy]] hosted the Final Four, which was the 71st edition.
+
+Prior to the start of the tournament, the top ranked team was [[2008–09 Louisville Cardinals men's basketball team|Louisville]] in both the [[AP Top 25]] and the [[Coaches' Poll|ESPN/USA Today Coaches']] Polls, followed by [[2008-09 North Carolina Tar Heels men's basketball team|North Carolina]], [[Memphis Tigers men's basketball|Memphis]], and [[2008–09 Pittsburgh Panthers men's basketball team|Pittsburgh]].<ref>[http://sports.espn.go.com/ncb/rankings?seasonYear=2009 2009 NCAA Men's Basketball Rankings (Mar. 16) on ESPN.com]</ref> Only the Tar Heels of North Carolina were the regional winners and played in the Final Four. The Tar Heels completed one of the most dominant runs in the tournament's history by winning each of their games by at least twelve points.
+
+For the first time since seeding began, all #1-#3 seeds made it into the Sweet 16, and for the third consecutive time, all #1 seeds made the Elite Eight.
+
+Four schools made their NCAA tournament debut, all respective conference champions: Binghamton (America East), Morgan State (MEAC), Stephen F. Austin (Southland), and North Dakota State (Summit), a school in its first season of Division I eligibility.
+
+==Tournament procedure and locations==
+{{details|NCAA Men's Division I Basketball Championship#Tournament format}}
+{{Location map+|USA|width=450|float=right|caption=2009 subregionals — Green 19/21 March — Orange 20/22 March|places=
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.059722|lon_deg=-79.825556|position=bottom|background=#FFFFFF|label=Greensboro|link=Greensboro Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.0975|lon_deg=-94.580278|position=left|background=#FFFFFF|label=Kansas City|link=Sprint Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.901111|lon_deg=-75.171944|position=top|background=#FFFFFF|label=Philadelphia|link=Wachovia Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=45.531667|lon_deg=-122.666667|position=right|background=#FFFFFF|label=Portland|link=Rose Garden Arena}}
+{{Location map~|USA|mark=orange pog.svg|lat_deg=43.603567|lon_deg=-116.198892|position=bottom|background=#FFFFFF|label=Boise|link=Taco Bell Arena}}
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.735556|lon_deg=-84.2|position=left|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
+{{Location map~|USA|mark=orange pog.svg|lat_deg=25.781389|lon_deg=-80.188056|position=right|background=#FFFFFF|label=Miami|link=American Airlines Arena}}
+{{Location map~|USA|mark=orange pog.svg|lat_deg=44.973889|lon_deg=-93.258056|position=left|background=#FFFFFF|label=Minneapolis|link=Hubert H. Humphrey Metrodome}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2009 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=42.366303|lon_deg=-71.062228|position=top|background=#FFFFFF|label=Boston|link=TD  Garden}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.5275|lon_deg=-112.2625|position=left|background=#FFFFFF|label=Glendale|link=University of Phoenix Stadium}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=35.138333|lon_deg=-90.050556|position=left|background=#FFFFFF|label=Memphis|link=FedExForum}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.760056|lon_deg=-86.163806|position=left|background=#FFFFFF|label=Indianapolis|link=Lucas Oil Stadium}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=42.34|lon_deg=-83.045556|position=top|background=#FFFFFF|label='''Detroit'''|link=Ford Field}}
+}}
+Sixty-five teams were selected for the tournament. Thirty of the teams earned automatic bids by winning their [[List of NCAA conferences|conference]] tournaments. The automatic bid of the [[Ivy League]], which does not conduct a postseason tournament, went to {{cbb link|2008|sex=men|team=Cornell Big Red|school=Cornell University|title=Cornell}}, its regular season champion. The remaining 34 teams were granted "at-large" bids by the NCAA Selection Committee.
+
+Two teams play an opening-round game, popularly called the "[[NCAA Men's Division I Basketball Opening Round Game|play-in game]]". The winner of that game advances to the main draw of the tournament as a 16 seed and plays a top seed in one of the regionals. The 2009 game was played on Tuesday, March 17, at the [[University of Dayton Arena]] in [[Dayton, Ohio]], as it has since its inception in [[2001 NCAA Men's Division I Basketball Tournament|2001]].
+
+All 64 teams were seeded 1 to 16 within their regions; the winner of the play-in game automatically received a 16 seed. The [[NCAA basketball tournament selection process|Selection Committee]] seeded the entire field from 1 to 65. SEC commissioner [[Michael Slive]] served his last year as chairman of the committee.
+
+
+The first and second round games were played at the following sites:<ref>{{cite web|title=NCAA Championships |url=http://www.ncaa.com/champ/m-baskbl-d1-champ.html |work= |archiveurl=https://www.webcitation.org/5iiVE6mFu?url=http://www.ncaa.com/champ/m-baskbl-d1-champ.html |archivedate=2009-08-02 |deadurl=no |accessdate=2009-05-31 |df= }}</ref>
+;First and Second Rounds: Thursday and Saturday, March 19 and 21, 2009
+:[[Greensboro Coliseum Complex|Greensboro Coliseum]], [[Greensboro, North Carolina]], North Carolina (host: [[Atlantic Coast Conference]])
+:[[Sprint Center]], [[Kansas City, Missouri]], Missouri (host: [[Big 12 Conference]])
+:[[Wells Fargo Center (Philadelphia)|Wachovia Center]], [[Philadelphia|Philadelphia, Pennsylvania]] (host: [[Saint Joseph's University|St. Joseph's University]])
+:[[Moda Center|Rose Garden]], [[Portland, Oregon]], Oregon (host: [[University of Oregon]])
+;First and Second Rounds: Friday and Sunday, March 20 and 22, 2009
+:[[Taco Bell Arena]], [[Boise, Idaho]], Idaho (host: [[Boise State University]])
+:[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]], Ohio (host: [[University of Dayton]])
+:[[American Airlines Arena]], [[Miami|Miami, Florida]] (host: [[Florida International University]])
+:[[Hubert H. Humphrey Metrodome]], [[Minneapolis|Minneapolis, Minnesota]] (host: [[University of Minnesota]])
+
+The four regionals are officially named after their areas, a practice which resumed in 2007. Between 2004 and 2006, the regionals were named for their host cities. The following were the sites for the 2009 regionals:
+;Regionals: Thursday and Saturday, March 26 and 28, 2009
+:'''East''', [[TD Garden|TD Banknorth Garden]], [[Boston|Boston, Massachusetts]] (host: [[Boston College]])
+:'''West''', [[University of Phoenix Stadium]], [[Glendale, Arizona]], Arizona (host: [[Arizona State University]])<!--Originally referred to by the old name "Cardinal Stadium" in official NCAA materials and on NCAA.com, apparently because the naming rights sponsor is a for-profit university with no athletic programs. However, this has been changed in the version of the site retrieved on February 7, 2009.-->
+;Regionals: Friday and Sunday, March 27 and 29, 2009
+:'''South''', [[FedExForum]], [[Memphis, Tennessee]] (host: [[University of Memphis]])
+:'''Midwest''', [[Lucas Oil Stadium]], [[Indianapolis|Indianapolis, Indiana]] (hosts: [[Horizon League]] & [[Butler University]])
+
+Regional winners advanced to the Final Four, hosted at [[Ford Field]] in [[Detroit|Detroit, Michigan]] by the [[University of Detroit Mercy]] on April 4 (semifinals) and April 6 (National Championship). 
+
+Detroit was the 28th new host city, and Ford Field the 35th new venue, to host the Final Four. The tournament featured six new stadiums, including two domed stadiums. The Phoenix suburb of Glendale was host for the first time, with games being held at the University of Phoenix Stadium, home to football's [[Arizona Cardinals]]. Indianapolis also hosted at a new domed stadium, Lucas Oil Stadium, the replacement for the [[RCA Dome]]. After an eight year hiatus, the tournament returned to Memphis at the FedExForum, the third venue in the city to host the tournament. Kansas City also introduced a new arena, the Sprint Center, after the previous eight appearances at [[Kemper Arena]]. For only the second time, the city of Miami hosted games, this time at the American Airlines Arena, home to the NBA's [[Miami Heat]]. And for the first time since 1975, the tournament returned to Portland, at the new Rose Garden arena. As of 2018, this is the last tournament to feature Ford Field, the Metrodome and American Airlines Arena; Taco Bell Arena, which has not hosted since, will host in 2018. The Metrodome would close in early 2014, to be replaced with [[U.S. Bank Stadium]], which will host the 2019 Final Four.
+
+==Qualifying teams==
+[[File:2009NCAAmensBBtourneyteamsbystate.svg|center|450px]]
+
+{{details|2009 NCAA Men's Division I Basketball Tournament: qualifying teams}}
+
+=== Listed by grouping and seeding ===
+<onlyinclude>
+{|
+| valign=top |
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | East Regional – [[Boston]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth type
+|-
+|#1
+|Pittsburgh 
+|Big East
+|28–4
+|At-large
+|-
+|#2
+|Duke 
+|ACC
+|28–6
+|Tournament Winner
+|-
+|#3
+|Villanova
+|Big East
+|26–7
+|At-large
+|-
+|#4
+|Xavier
+|Atlantic 10
+|25–7
+|At-large
+|-
+|#5
+|Florida State
+|ACC
+|25–9
+|At-large
+|-
+|#6
+|UCLA
+|Pac-10
+|25–8
+|At-large
+|-
+|#7
+|Texas
+|Big 12
+|22–11
+|At-large
+|-
+|#8
+|Oklahoma State
+|Big 12
+|22–11
+|At-large
+|-
+|#9
+|Tennessee
+|SEC
+|21–12
+|At-large
+|-
+|#10
+|Minnesota
+|Big Ten
+|22–10
+|At-large
+|-
+|#11
+|Virginia Commonwealth
+|Colonial
+|24–9
+|Tournament Winner
+|-
+|#12
+|Wisconsin
+|Big Ten
+|19–12
+|At-large
+|-
+|#13
+|Portland State
+|Big Sky
+|23–9
+|Tournament Winner
+|-
+|#14
+|American
+|Patriot
+|24–7
+|Tournament Winner
+|-
+|#15
+|Binghamton
+|America East
+|23–8
+|Tournament Winner
+|-
+|#16
+|East Tennessee State
+|Atlantic Sun
+|23–10
+|Tournament Winner
+|}
+| valign=top |
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | West Regional – [[Glendale, Arizona|Glendale]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth type
+|-
+|#1
+|Connecticut
+|Big East
+|27–4
+|At-large
+|-
+|#2
+|Memphis
+|C-USA
+|31–3
+|Tournament Winner
+|-
+|#3
+|Missouri
+|Big 12
+|28–6
+|Tournament Winner
+|-
+|#4
+|Washington
+|Pac-10
+|25–8
+|At-large
+|-
+|#5
+|Purdue
+|Big Ten
+|25–9
+|Tournament Winner
+|-
+|#6
+|Marquette
+|Big East
+|24–9
+|At-large
+|-
+|#7
+|California
+|Pac-10
+|22–10
+|At-large
+|-
+|#8
+|BYU
+|Mountain West
+|25–7
+|At-large
+|-
+|#9
+|Texas A&M
+|Big 12
+|23–9
+|At-large
+|-
+|#10
+|Maryland
+|ACC
+|20–13
+|At-large
+|-
+|#11
+|Utah State
+|WAC
+|30–4
+|Tournament Winner
+|-
+|#12
+|Northern Iowa
+|Missouri Valley
+|23–10
+|Tournament Winner
+|-
+|#13
+|Mississippi State
+|SEC
+|23–12
+|Tournament Winner
+|-
+|#14
+|Cornell
+|Ivy League
+|21–9
+|Regular season Champion
+|-
+|#15
+|Cal State-Northridge
+|Big West
+|17–13
+|Tournament Winner
+|-
+|#16
+|Chattanooga
+|Southern
+|18–16
+|Tournament Winner
+|}
+|-
+| valign=top |
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Midwest Regional – [[Indianapolis]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth type
+|-
+|#1
+|Louisville
+|Big East
+|28–5
+|Tournament Winner
+|-
+|#2
+|Michigan State
+|Big Ten
+|26–6
+|At-large
+|-
+|#3
+|Kansas
+|Big 12
+|25–7
+|At-large
+|-
+|#4
+|Wake Forest
+|ACC
+|24–6
+|At-large
+|-
+|#5
+|Utah
+|Mountain West
+|24–9
+|Tournament Winner
+|-
+|#6
+|West Virginia
+|Big East
+|23–11
+|At-large
+|-
+|#7
+|Boston College
+|ACC
+|22–11
+|At-large
+|-
+|#8
+|Ohio State
+|Big Ten
+|22–10
+|At-large
+|-
+|#9
+|Siena
+|MAAC
+|26–7
+|Tournament Winner
+|-
+|#10
+|USC
+|Pac-10
+|21–12
+|Tournament Winner
+|-
+|#11
+|Dayton
+|Atlantic 10
+|26–7
+|At-large
+|-
+|#12
+|Arizona
+|Pac-10
+|19–13
+|At-large
+|-
+|#13
+|Cleveland State
+|Horizon
+|25–10
+|Tournament Winner
+|-
+|#14
+|North Dakota State
+|Summit
+|26–6
+|Tournament Winner
+|-
+|#15
+|Robert Morris
+|Northeast
+|24–10
+|Tournament Winner
+|-
+|rowspan=2|#16
+|Alabama State
+|SWAC
+|22–9
+|Tournament Winner
+|-
+|Morehead State
+|Ohio Valley
+|19–15
+|Tournament Winner
+|}
+| valign=top |
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | South Regional – [[Memphis, Tennessee|Memphis]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth type
+|-
+|#1
+|North Carolina
+|ACC
+|28–4
+|At-large
+|-
+|#2
+|Oklahoma
+|Big 12
+|27–5
+|At-large
+|-
+|#3
+|Syracuse
+|Big East
+|26–9
+|At-large
+|-
+|#4
+|Gonzaga
+|West Coast
+|26–5
+|Tournament Winner
+|-
+|#5
+|Illinois
+|Big Ten
+|24–9
+|At-large
+|-
+|#6
+|Arizona State
+|Pac-10
+|24–9
+|At-large
+|-
+|#7
+|Clemson
+|ACC
+|23–8
+|At-large
+|-
+|#8
+|LSU
+|SEC
+|26–7
+|At-large
+|-
+|#9
+|Butler
+|Horizon
+|26–5
+|At-large
+|-
+|#10
+|Michigan
+|Big Ten
+|20–13
+|At-large
+|-
+|#11
+|Temple
+|Atlantic 10
+|22–11
+|Tournament Winner
+|-
+|#12
+|Western Kentucky
+|Sun Belt
+|24–8
+|Tournament Winner
+|-
+|#13
+|Akron
+|Mid-American
+|23–12
+|Tournament Winner
+|-
+|#14
+|Stephen F. Austin
+|Southland
+|24–7
+|Tournament Winner
+|-
+|#15
+|Morgan State
+|MEAC
+|23–11
+|Tournament Winner
+|-
+|#16
+|Radford
+|Big South
+|21–11
+|Tournament Winner
+|}
+|}
+</onlyinclude>
+
+==Bracket==
+<!--'''''NOTE:''' Initials where noted are taken from official NCAA Bracket published below in External Links.''-->
+Results to date <ref>{{cite web|title=NCAA.com – The Official Web Site of the NCAA |url=http://www.ncaa.com/brackets/basketball/men/ |work= |archiveurl=https://www.webcitation.org/5iiVEWRYN?url=http://www.ncaa.com/brackets/basketball/men/ |archivedate=2009-08-02 |deadurl=no |accessdate=2009-05-31 |df= }}</ref>
+
+<nowiki>*</nowiki> – Denotes overtime period
+
+All times in [[Eastern Time Zone|U.S. EDT]].
+
+===Opening Round Game – Dayton, Ohio===
+Winner advanced to 16th seed in Midwest Regional vs. (1) [[2008-09 Louisville Cardinals men's basketball team|Louisville]].
+
+{{2TeamBracket | RD1=Opening Round Game<br />March 17
+| RD1-seed1=16a
+| RD1-team1='''{{cbb link|2008|sex=men|team=Morehead State Eagles|school=Morehead State University|title=Morehead State}}'''
+| RD1-score1='''58'''
+| RD1-seed2=16b
+| RD1-team2={{cbb link|2008|sex=men|team=Alabama State Hornets|school=Alabama State University|title=Alabama State}}
+| RD1-score2=41
+
+}}
+
+===Midwest Regional – Indianapolis, Indiana===
+{{16TeamBracket | RD1=First round<br />March 19–20
+| RD2=Second round<br />March 21–22
+| RD3=Regional semifinals<br />March 27
+| RD4=Regional finals<br />March 29
+| subgroup1= '''[[University of Dayton Arena|Dayton]]'''
+| subgroup2= '''[[American Airlines Arena|Miami]]'''
+| subgroup3= '''[[Hubert H. Humphrey Metrodome|Minneapolis]]'''
+| subgroup4= '''[[Hubert H. Humphrey Metrodome|Minneapolis]]'''
+| RD1-seed01 = 1
+| RD1-seed02 = 16
+| RD1-team01= '''[[2008–09 Louisville Cardinals men's basketball team|Louisville]]'''
+| RD1-team02= {{cbb link|2008|sex=men|team=Morehead State Eagles|school=Morehead State University|title=Morehead State}}
+| RD1-score01= '''74'''
+| RD1-score02= 54
+| RD1-seed03 = 8
+| RD1-seed04 = 9
+| RD1-team03= [[2008–09 Ohio State Buckeyes men's basketball team|Ohio State]]
+| RD1-team04= '''{{cbb link|2008|sex=men|team=Siena Saints|school=Siena College|title=Siena}}'''
+| RD1-score03= 72
+| RD1-score04= '''74**'''
+| RD1-seed05 = 5
+| RD1-seed06 = 12
+| RD1-team05= {{cbb link|2008|sex=men|team=Utah Utes|school=University of Utah|title=Utah}}
+| RD1-team06= '''[[2008–09 Arizona Wildcats men's basketball team|Arizona]]'''
+| RD1-score05= 71
+| RD1-score06= '''84'''
+| RD1-seed07 = 4
+| RD1-seed08 = 13
+| RD1-team07= [[2008–09 Wake Forest Demon Deacons men's basketball team|Wake Forest]]
+| RD1-team08= '''[[2008–09 Cleveland State Vikings men's basketball team|Cleveland State]]'''
+| RD1-score07= 69
+| RD1-score08='''84'''
+| RD1-seed09 = 6
+| RD1-seed10 = 11
+| RD1-team09= [[2008–09 West Virginia Mountaineers men's basketball team|West Virginia]]
+| RD1-team10= '''[[2008–09 Dayton Flyers men's basketball team|Dayton]]'''
+| RD1-score09= 60
+| RD1-score10= '''68'''
+| RD1-seed11 = 3
+| RD1-seed12 = 14
+| RD1-team11= '''[[2008–09 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-team12= [[2008–09 North Dakota State Bison men's basketball team|North Dakota State]]
+| RD1-score11= '''84'''
+| RD1-score12= 74
+| RD1-seed13 = 7
+| RD1-seed14 = 10
+| RD1-team13= [[2008–09 Boston College Eagles men's basketball team|Boston College]]
+| RD1-team14= '''[[2008–09 USC Trojans men's basketball team|USC]]'''
+| RD1-score13= 55
+| RD1-score14= '''72'''
+| RD1-seed15 = 2
+| RD1-seed16 = 15
+| RD1-team15= '''[[2008–09 Michigan State Spartans men's basketball team|Michigan State]]'''
+| RD1-team16= {{cbb link|2008|sex=men|team=Robert Morris Colonials|school=Robert Morris College|title=Robert Morris}}
+| RD1-score15= '''77'''
+| RD1-score16= 62
+| RD2-seed01= 1
+| RD2-team01= '''Louisville'''
+| RD2-seed02= 9
+| RD2-team02= Siena
+| RD2-score01= '''79'''
+| RD2-score02= 72
+| RD2-seed03= 12
+| RD2-team03= '''Arizona'''
+| RD2-seed04= 13
+| RD2-team04= Cleveland State
+| RD2-score03= '''71'''
+| RD2-score04= 57
+| RD2-seed05= 11
+| RD2-team05= Dayton
+| RD2-seed06= 3
+| RD2-team06= '''Kansas'''
+| RD2-score05= 43
+| RD2-score06= '''60'''
+| RD2-seed07= 10
+| RD2-team07= USC
+| RD2-seed08= 2
+| RD2-team08= '''Michigan State'''
+| RD2-score07= 69
+| RD2-score08= '''74'''
+| RD3-seed01= 1
+| RD3-team01= '''Louisville'''
+| RD3-seed02= 12
+| RD3-team02= Arizona
+| RD3-score01= '''103'''
+| RD3-score02= 64
+| RD3-seed03= 3
+| RD3-team03= Kansas
+| RD3-seed04= 2
+| RD3-team04= '''Michigan State'''
+| RD3-score03= 62
+| RD3-score04= '''67'''
+| RD4-seed01= 1
+| RD4-team01=Louisville
+| RD4-seed02= 2
+| RD4-team02= '''Michigan State'''
+| RD4-score01= 52
+| RD4-score02= '''64'''
+}}
+
+===West Regional – Glendale, Arizona===
+{{16TeamBracket | RD1=First round<br />March 19–20
+| RD2=Second round<br />March 21–22
+| RD3=Regional semifinals<br />March 26
+| RD4=Regional finals<br />March 28
+| subgroup1= '''[[Wachovia Center|Philadelphia]]'''
+| subgroup2= '''[[Rose Garden (arena)|Portland]]'''
+| subgroup3= '''[[Taco Bell Arena|Boise]]'''
+| subgroup4= '''[[Sprint Center|Kansas City]]'''
+| RD1-seed01 = 1
+| RD1-seed02 = 16
+| RD1-team01= '''[[2008–09 Connecticut Huskies men's basketball team|Connecticut]]'''
+| RD1-team02= {{cbb link|2008|sex=men|team=Chattanooga Mocs|school=University of Tennessee at Chattanooga |title=Chattanooga}}
+| RD1-score01= '''103'''
+| RD1-score02= 47
+| RD1-seed03 = 8
+| RD1-seed04 = 9
+| RD1-team03= [[2008–09 BYU Cougars men's basketball team|BYU]]
+| RD1-team04= '''[[2008–09 Texas A&M Aggies men's basketball team|Texas A&M]]'''
+| RD1-score03= 66
+| RD1-score04= '''79'''
+| RD1-seed05 = 5
+| RD1-seed06 = 12
+| RD1-team05= '''[[2008–09 Purdue Boilermakers men's basketball team|Purdue]]'''
+| RD1-team06= [[2008–09 Northern Iowa Panthers men's basketball team|Northern Iowa]]
+| RD1-score05= '''61'''
+| RD1-score06=56
+| RD1-seed07 = 4
+| RD1-seed08 = 13
+| RD1-team07= '''[[2008–09 Washington Huskies men's basketball team|Washington]]'''
+| RD1-team08= [[2008–09 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+| RD1-score07= '''71'''
+| RD1-score08= 58
+| RD1-seed09 = 6
+| RD1-seed10 = 11
+| RD1-team09= '''[[2008–09 Marquette Golden Eagles men's basketball team|Marquette]]'''
+| RD1-team10= {{cbb link|2008|sex=men|team=Utah State Aggies|school=Utah State University|title=Utah State}}
+| RD1-score09='''58'''
+| RD1-score10=57
+| RD1-seed11 = 3
+| RD1-seed12 = 14
+| RD1-team11= '''[[2008–09 Missouri Tigers men's basketball team|Missouri]]'''
+| RD1-team12= {{cbb link|2008|sex=men|team=Cornell Big Red|school=Cornell University|title=Cornell}}
+| RD1-score11= '''78'''
+| RD1-score12= 59
+| RD1-seed13 = 7
+| RD1-seed14 = 10
+| RD1-team13= {{cbb link|2008|sex=men|team=California Golden Bears|school=University of California, Berkeley|title=California}}
+| RD1-team14= '''[[2008–09 Maryland Terrapins men's basketball team|Maryland]]'''
+| RD1-score13= 71
+| RD1-score14= '''84'''
+| RD1-seed15 = 2
+| RD1-seed16 = 15
+| RD1-team15= '''[[2008–09 Memphis Tigers men's basketball team|Memphis]]'''
+| RD1-team16= {{cbb link|2008|sex=men|team=Cal State Northridge Matadors|school=California State University, Northridge|title=Cal State Northridge}}
+| RD1-score15= '''81'''
+| RD1-score16= 70
+| RD2-seed01= 1
+| RD2-team01= '''Connecticut'''
+| RD2-seed02= 9
+| RD2-team02= Texas A&M
+| RD2-score01= '''92'''
+| RD2-score02= 66
+| RD2-seed03= 5
+| RD2-team03= '''Purdue'''
+| RD2-seed04= 4
+| RD2-team04= Washington
+| RD2-score03= '''76'''
+| RD2-score04= 74
+| RD2-seed05= 6
+| RD2-team05= Marquette
+| RD2-seed06= 3
+| RD2-team06= '''Missouri'''
+| RD2-score05= 79
+| RD2-score06= '''83'''
+| RD2-seed07= 10
+| RD2-team07= Maryland
+| RD2-seed08= 2
+| RD2-team08= '''Memphis'''
+| RD2-score07= 70
+| RD2-score08= '''89'''
+| RD3-seed01= 1
+| RD3-team01= '''Connecticut'''
+| RD3-seed02= 5
+| RD3-team02= Purdue
+| RD3-score01= '''72'''
+| RD3-score02= 60
+| RD3-seed03= 3
+| RD3-team03= '''Missouri'''
+| RD3-seed04= 2
+| RD3-team04= Memphis
+| RD3-score03='''102'''
+| RD3-score04=91
+| RD4-seed01= 1
+| RD4-team01= '''Connecticut'''
+| RD4-seed02= 3
+| RD4-team02= Missouri
+| RD4-score01='''82'''
+| RD4-score02=75
+}}
+
+===East Regional – Boston, Massachusetts===
+{{16TeamBracket | RD1=First round<br />March 19–20
+| RD2=Second round<br />March 21–22
+| RD3=Regional semifinals<br />March 26
+| RD4=Regional finals<br />March 28
+| subgroup1= '''[[University of Dayton Arena|Dayton]]'''
+| subgroup2= '''[[Taco Bell Arena|Boise]]'''
+| subgroup3= '''[[Wachovia Center|Philadelphia]]'''
+| subgroup4= '''[[Greensboro Coliseum|Greensboro]]'''
+| RD1-seed01 = 1
+| RD1-seed02 = 16
+| RD1-team01= '''[[2008–09 Pittsburgh Panthers men's basketball team|Pittsburgh]]'''
+| RD1-team02= [[East Tennessee State Buccaneers|East Tennessee St.]]
+| RD1-score01= '''72'''
+| RD1-score02= 62
+| RD1-seed03 = 8
+| RD1-seed04 = 9
+| RD1-team03= '''{{cbb link|2008|sex=men|team=Oklahoma State Cowboys|school=Oklahoma State University|title=Oklahoma State}}'''
+| RD1-team04= [[2008–09 Tennessee Volunteers basketball team|Tennessee]]
+| RD1-score03= '''77'''
+| RD1-score04= 75
+| RD1-seed05 = 5
+| RD1-seed06 = 12
+| RD1-team05= {{cbb link|2008|sex=men|team=Florida State Seminoles|school=Florida State University|title=Florida St.}}
+| RD1-team06= '''[[2008–09 Wisconsin Badgers men's basketball team|Wisconsin]]'''
+| RD1-score05= 59
+| RD1-score06= '''61*'''
+| RD1-seed07 = 4
+| RD1-seed08 = 13
+| RD1-team07= '''[[2008–09 Xavier Musketeers men's basketball team|Xavier]]'''
+| RD1-team08= {{cbb link|2008|sex=men|team=Portland State Vikings|school=Portland State University|title=Portland St.}}
+| RD1-score07= '''77'''
+| RD1-score08= 59
+| RD1-seed09 = 6
+| RD1-seed10 = 11
+| RD1-team09= '''[[2008–09 UCLA Bruins men's basketball team|UCLA]]'''
+| RD1-team10= [[2008–09 VCU Rams men's basketball team|VCU]]
+| RD1-score09= '''65'''
+| RD1-score10= 64
+| RD1-seed11 = 3
+| RD1-seed12 = 14
+| RD1-team11 = '''[[2008–09 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-team12 = {{cbb link|2008|sex=men|team=American Eagles|school=American University|title=American}}
+| RD1-score11 = '''80'''
+| RD1-score12 = 67
+| RD1-seed13 = 7
+| RD1-seed14 = 10
+| RD1-team13 = '''[[2008–09 Texas Longhorns men's basketball team|Texas]]'''
+| RD1-team14 = [[2008–09 Minnesota Golden Gophers men's basketball team|Minnesota]]
+| RD1-score13 = '''76'''
+| RD1-score14 = 62
+| RD1-seed15 = 2
+| RD1-seed16 = 15
+| RD1-team15 = '''[[2008–09 Duke Blue Devils men's basketball team|Duke]]'''
+| RD1-team16 = {{cbb link|2008|sex=men|team=Binghamton Bearcats|school=Binghamton University|title=Binghamton}}
+| RD1-score15 = '''86'''
+| RD1-score16 = 62
+| RD2-seed01= 1
+| RD2-team01= '''Pittsburgh'''
+| RD2-seed02= 8
+| RD2-team02= Oklahoma State
+| RD2-score01= '''84'''
+| RD2-score02= 76
+| RD2-seed03= 12
+| RD2-team03= Wisconsin
+| RD2-seed04= 4
+| RD2-team04= '''Xavier'''
+| RD2-score03= 49
+| RD2-score04= '''60'''
+| RD2-seed05= 6
+| RD2-team05= UCLA
+| RD2-seed06 = 3
+| RD2-team06 = '''Villanova'''
+| RD2-score05= 69
+| RD2-score06= '''89'''
+| RD2-seed07 = 7
+| RD2-team07 = Texas
+| RD2-seed08 = 2
+| RD2-team08 = '''Duke'''
+| RD2-score07 = 69
+| RD2-score08 = '''74'''
+| RD3-seed01= 1
+| RD3-team01= '''Pittsburgh'''
+| RD3-seed02= 4
+| RD3-team02= Xavier
+| RD3-score01= '''60'''
+| RD3-score02= 55
+| RD3-seed03= 3
+| RD3-team03= '''Villanova'''
+| RD3-seed04= 2
+| RD3-team04= Duke
+| RD3-score03='''77'''
+| RD3-score04=54
+| RD4-seed01= 1
+| RD4-team01= Pittsburgh
+| RD4-seed02= 3
+| RD4-team02= '''Villanova'''
+| RD4-score01=76
+| RD4-score02='''78'''
+}}
+
+===South Regional – Memphis, Tennessee===
+{{16TeamBracket | RD1=First round<br />March 19–20
+| RD2=Second round<br />March 21–22
+| RD3=Regional semifinals<br />March 27
+| RD4=Regional finals<br />March 29
+| subgroup1= '''[[Greensboro Coliseum|Greensboro]]'''
+| subgroup2= '''[[Rose Garden (arena)|Portland]]'''
+| subgroup3= '''[[American Airlines Arena|Miami]]'''
+| subgroup4= '''[[Sprint Center|Kansas City]]'''
+| RD1-seed01 = 1
+| RD1-seed02 = 16
+| RD1-team01= '''[[2008–09 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-team02= {{cbb link|2008|sex=men|team=Radford Highlanders|school=Radford University|title=Radford}}
+| RD1-score01= '''101'''
+| RD1-score02=58
+| RD1-seed03 = 8
+| RD1-seed04 = 9
+| RD1-team03= '''[[2008–09 LSU Tigers men's basketball team|LSU]]'''
+| RD1-team04= [[2008–09 Butler Bulldogs men's basketball team|Butler]]
+| RD1-score03='''75'''
+| RD1-score04=71
+| RD1-seed05 = 5
+| RD1-seed06 = 12
+| RD1-team05= [[2008–09 Illinois Fighting Illini men's basketball team|Illinois]]
+| RD1-team06= '''{{cbb link|2008|sex=men|team=WKU Hilltoppers|school=Western Kentucky University|title=WKU}}'''
+| RD1-score05= 72
+| RD1-score06= '''76'''
+| RD1-seed07 = 4
+| RD1-seed08 = 13
+| RD1-team07 = '''[[2008–09 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-team08 = [[2008–09 Akron Zips men's basketball team|Akron]]
+| RD1-score07 = '''77'''
+| RD1-score08 = 64
+| RD1-seed09 = 6
+| RD1-seed10 = 11
+| RD1-team09= '''[[2008–09 Arizona State Sun Devils men's basketball team|Arizona State]]'''
+| RD1-team10= [[2008–09 Temple Owls men's basketball team|Temple]]
+| RD1-score09= '''66'''
+| RD1-score10=57
+| RD1-seed11 = 3
+| RD1-seed12 = 14
+| RD1-team11= '''[[2008–09 Syracuse Orange men's basketball team|Syracuse]]'''
+| RD1-team12= {{cbb link|2008|sex=men|team=Stephen F. Austin Lumberjacks|school=Stephen F. Austin State University|title=Stephen F. Austin}}
+| RD1-score11= '''59'''
+| RD1-score12= 44
+| RD1-seed13 = 7
+| RD1-seed14 = 10
+| RD1-team13 = [[2008–09 Clemson Tigers men's basketball team|Clemson]]
+| RD1-team14 = '''[[2008–09 Michigan Wolverines men's basketball team|Michigan]]'''
+| RD1-score13 = 59
+| RD1-score14 = '''62'''
+| RD1-seed15 = 2
+| RD1-seed16 = 15
+| RD1-team15 = '''[[2008–09 Oklahoma Sooners men's basketball team|Oklahoma]]'''
+| RD1-team16 = {{cbb link|2008|sex=men|team=Morgan State Bears|school=Morgan State University|title=Morgan State}}
+| RD1-score15 = '''82'''
+| RD1-score16 = 54
+| RD2-seed01= 1
+| RD2-team01= '''North Carolina'''
+| RD2-seed02= 8
+| RD2-team02= LSU
+| RD2-score01= '''84'''
+| RD2-score02= 70
+| RD2-seed03= 12
+| RD2-team03= WKU
+| RD2-seed04 = 4
+| RD2-team04 = '''Gonzaga'''
+| RD2-score03= 81
+| RD2-score04= '''83'''
+| RD2-seed05= 6
+| RD2-team05= Arizona State
+| RD2-seed06= 3
+| RD2-team06= '''Syracuse'''
+| RD2-score05= 67
+| RD2-score06= '''78'''
+| RD2-seed07 = 10
+| RD2-team07 = Michigan
+| RD2-seed08 = 2
+| RD2-team08 = '''Oklahoma'''
+| RD2-score07= 63
+| RD2-score08= '''73'''
+| RD3-seed01= 1
+| RD3-team01= '''North Carolina'''
+| RD3-seed02= 4
+| RD3-team02= Gonzaga
+| RD3-score01= '''98'''
+| RD3-score02= 77
+| RD3-seed03= 3
+| RD3-team03= Syracuse
+| RD3-seed04= 2
+| RD3-team04= '''Oklahoma'''
+| RD3-score03= 71
+| RD3-score04= '''84'''
+| RD4-seed01= 1
+| RD4-team01= '''North Carolina'''
+| RD4-seed02= 2
+| RD4-team02= Oklahoma
+| RD4-score01= '''72'''
+| RD4-score02= 60
+}}
+
+===Final Four – Ford Field, Detroit, Michigan===
+{{4TeamBracket
+| RD1=National Semifinals<br />April 4
+| RD2=National Championship Game<br />April 6
+| score-width=25
+| team-width=130
+| RD1-seed1= M2
+| RD1-team1= '''[[2008-09 Michigan State Spartans men's basketball team|Michigan St.]]'''
+| RD1-score1= '''82'''
+| RD1-seed2= W1
+| RD1-team2= [[2008–09 Connecticut Huskies men's basketball team|Connecticut]]
+| RD1-score2= 73
+| RD1-seed3= E3
+| RD1-team3= [[2008–09 Villanova Wildcats men's basketball team|Villanova]]
+| RD1-score3= 69
+| RD1-seed4= S1
+| RD1-team4= '''[[2008–09 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score4= '''83'''
+| RD2-seed1= M2
+| RD2-team1= Michigan St.
+| RD2-score1= 72
+| RD2-seed2= '''S1'''
+| RD2-team2= '''North Carolina'''
+| RD2-score2= '''89'''
+}}
+
+==Game summaries==
+
+===Midwest Region===
+[[Goran Suton]] of Michigan State was the Midwest regional most outstanding player.  He was joined by Spartan teammates [[Kalin Lucas]] and [[Travis Walton (basketball)|Travis Walton]], Louisville's [[Earl Clark]] and Kansas's [[Cole Aldrich]] on the NCAA Tournament All-Midwest Regional team.<ref>{{cite web|url=http://www.wibw.com/sports/headlines/42097582.html|title=Kansas Center Cole Aldrich Named to NCAA Tournament All-Midwest Regional Team|accessdate=2009-03-31|date=2009-03-29|publisher=[[WIBW-TV|WIBW]]}}</ref>
+
+====First round====
+To play the top-seeded Louisville Cardinals in the first round, Morehead State defeated Alabama State 58–43, with the Eagles keeping the Hornets without a lead the entire game. This marked the first time either team had played in the tournament in five years; the Eagles had not played since 1984.<ref>{{cite web |first= |last= |coauthors= |title=Morehead St. earns matchup with Louisville in tourney|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-03-31 |url=http://scores.espn.go.com/ncb/recap?gameId=290762011 | archiveurl= https://web.archive.org/web/20090323175709/http://scores.espn.go.com/ncb/recap?gameId=290762011| archivedate= 23 March 2009 <!--DASHBot-->| deadurl= no}}</ref> Morehead State fell to Louisville 74–54, the 100th time a 1 seed beat a 16 seed in the tournament since seeding began. However, the Eagles managed to keep the game close until halftime, when Louisville led by only 2 points. In the second half, the Cardinals began to apply their signature fullcourt pressure, forcing turnovers and outscoring Morehead State 22–6 at the beginning of the half. Leon Buchanan's 17 points for the Eagles were not enough to upset Louisville, whose top scorers, [[Samardo Samuels]] and [[Terrence Williams]], scored a combined 28 points. Morehead State has not beaten Louisville in 52 years until [[2011 NCAA Division I Men's Basketball Tournament|2011]].<ref>{{cite web |first= |last= |coauthors= |title=Louisville applies pressure in second half to cruise past Morehead State|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-03-31 |url=http://scores.espn.go.com/ncb/recap?gameId=294000047 | archiveurl= https://web.archive.org/web/20090325005535/http://scores.espn.go.com/ncb/recap?gameId=294000047| archivedate= 25 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+In two overtimes, the Siena Saints beat the Ohio State Buckeyes 74–72. Ohio State had the advantage of playing an hour from their campus, and received 25 points, nine rebounds, and eight assists from [[Evan Turner]]. The Saints made 6 out of 23 3-pointers and had 22 turnovers. Accordingly, Siena trailed for most of the game, but scored the last four points in regulation to force overtime. At the end of the first overtime, Siena's Ronald Moore drained his first 3-pointer to force a second overtime. With 3.9 seconds left in that overtime, he hit a second three from the same location to give the Saints a late 2-point lead. In an attempt to send the game into a third overtime, Turner shot a 15-footer immediately afterwards, but he missed it. This was Siena's fifth appearance in the tournament, after beating [[Vanderbilt University]] in 2008 as a 13 seed.<ref>{{cite web |first= |last= |coauthors= |title=Moore's clutch shots spur Siena by Ohio St. in 2OT|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-03-31 |url=http://scores.espn.go.com/ncb/recap?gameId=294000048 | archiveurl= https://web.archive.org/web/20090325005540/http://scores.espn.go.com/ncb/recap?gameId=294000048| archivedate= 25 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+The Arizona-Utah matchup was not as close. The Fifth-seeded Utah Utes were upset by twelfth-seeded Arizona Wildcats, one of the last teams to make it in the tournament and a questionable entry,<ref>{{cite web|title=Scouting Friday's Sweet 16 games – cleveland.com |url=http://www.cleveland.com/marchmadness/index.ssf/2009/03/scouting_fridays_sweet_16_game.html |work= |archiveurl=https://www.webcitation.org/5iiVG9san?url=http://www.cleveland.com/marchmadness/index.ssf/2009/03/scouting_fridays_sweet_16_game.html |archivedate=2009-08-02 |deadurl=no |accessdate=2009-05-31 |df= }}</ref> by a score of 84–71. The Utes closed the lead to two with roughly five minutes left in the game, but the Wildcats' answer was a 10–1 run. Utah's [[Luke Nevill]] committed two fouls less than four minutes into the game and scored only 12 points. [[Nic Wise]] of Arizona, meanwhile, led the team with 29 points, with 21 in the second half. Tyler Kepkay led the Utes with a team 19 points in his embarking performance.  <ref>{{cite web |first= |last= |coauthors= |title=Wise's 21 after half propel Arizona past fifth-seeded Utah|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-03-31 |url=http://scores.espn.go.com/ncb/recap?gameId=294000050| archiveurl= https://web.archive.org/web/20090325005545/http://scores.espn.go.com/ncb/recap?gameId=294000050| archivedate= 25 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+The Cleveland State-Wake Forest game was an even larger upset. In their second bid in the tournament, the Cleveland State Vikings shocked the Wake Forest Demon Deacons 84–69. This 15-point win ties for third-greatest victory margin for a 13 seed over a 4 seed. Wake Forest, once ranked first in the country, had 16 turnovers in the matchup, compared to six for the Vikings. [[James Johnson (basketball player)|James Johnson]] of the Demon Deacons scored 22 points, although this could not compensate for a substandard offense. Their scoring leader, [[Jeff Teague (basketball)|Jeff Teague]], finished with 10 points, half his average. For these reasons, Wake Forest never obtained a lead, while Cleveland State sank three consecutive 3-pointers in the early minutes of the game.<ref>{{cite web |first= |last= |coauthors= |title=Cleveland State races to early lead to knock out Wake Forest|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-03-31 |url=http://scores.espn.go.com/ncb/recap?gameId=294000051| archiveurl= https://web.archive.org/web/20090325085623/http://scores.espn.go.com/ncb/recap?gameId=294000051| archivedate= 25 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+For the first time in 19 years, Dayton advanced to the second round of the tournament with a win over West Virginia 68–60. This also ended West Virginia's first-round winning streak, which had lasted since 1992. [[Chris Wright (basketball, born 1988)|Chris Wright]] led the Dayton Flyers with 27 points, a career high, while also chalking up 10 rebounds. [[Charles Little (basketball player)|Charles Little]] also aided the Flyers with 18 points. [[Darryl Bryant]], who led West Virginia with 21 points, shot two consecutive three-pointers to bring Dayton's lead to 48–47 with 11:02 minutes left in the game. However, that was the closest the Mountaineers had to a lead outside the beginning of the game.<ref>{{cite web |first= |last= |coauthors= |title=Flyers shake Huggins hex, take down sixth-seeded West Virginia|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-03-31 |url=http://scores.espn.go.com/ncb/recap?gameId=294000054| archiveurl= https://web.archive.org/web/20090323143647/http://scores.espn.go.com/ncb/recap?gameId=294000054| archivedate= 23 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+In their first eligible year, North Dakota State appeared in the tournament, facing defending champion Kansas. The three-seeded Kansas Jayhawks staved off the fourteenth-seeded Bison's upset bid with an 84–74 victory. [[Ben Woodside]] shined with 37 points for the Bison, his sixth game of the season with at least 30 points. However, [[Sherron Collins]] and [[Cole Aldrich]] proved too much for North Dakota State, accounting for 65 percent of the Jayhawks' points with 32 and 23 respectively.<ref>{{cite web |first= |last= |coauthors= |title=Kansas holds off North Dakota State as Collins pours in 32|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-03-31 |url=http://scores.espn.go.com/ncb/recap?gameId=294000055| archiveurl= https://web.archive.org/web/20090323233521/http://scores.espn.go.com/ncb/recap?gameId=294000055| archivedate= 23 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+The tenth-seeded USC Trojans demolished the seventh-seeded Boston College Eagles by a score of 72–55, helped by [[Taj Gibson]]'s 10-for-10 shooting from the field, tied for the second-best NCAA tournament field-goal shooting performance in history. He led the team with 24 points and recorded six rebounds, five assists, and three blocks. [[Dwight Lewis]] also added 20 points for the Trojans. After leading 34–30 at halfime, the Eagles scored just a single field goal during one 13-minute stretch, as part of a 23.1 shooting percentage in the second half.<ref>{{cite web |first= |last= |coauthors= |title=USC rolls as Gibson's 10-for-10 shooting leads to upset of Boston College|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-03-31|url=http://scores.espn.go.com/ncb/recap?gameId=294000057| archiveurl= https://web.archive.org/web/20090325005552/http://scores.espn.go.com/ncb/recap?gameId=294000057| archivedate= 25 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+ 
+Robert Morris, the region's 15 seed, was blown away by second-seeded Michigan State 77–62. The game was tied with 4:44 left in the first half, but then the Colonials went almost 20 minutes without scoring a single point. The Spartans took advantage of this for a 21–0 run that sealed the game in their favor. The Colonials' Jeremy Chappell was the only team member to score double-digit points with 11, and he also led the team with six rebounds, two steals, and three blocks. [[Raymar Morgan]] was the Spartans' leading scorer with 16 points.<ref>{{cite web |first= |last= |coauthors= |title=Morgan, Michigan State bully Robert Morris in Midwest opener|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-04-02 |url=http://scores.espn.go.com/ncb/recap?gameId=294000058&confId=100}}</ref>
+
+====Second round====
+Ninth-seeded Siena faced top seed Louisville, with the Cardinals emerging victorious 79–72. Taking advantage of Louisville's 19 turnovers, the Saints came back from a 12-point deficit with 17:21 left in the game to snatch the lead around the 9-minute mark. [[Edwin Ubiles]] broke through Louisville's full-court pressure and added 24 points for Siena. [[Terrence Williams]], known as one of the most relaxed players on the Cardinals roster, saved his team by grabbing rebounds and making 3s. He led the team with 24 points, 15 rebounds, two steals, and four assists. [[Earl Clark]] also helped the Cardinals' cause with 12 points and 12 rebounds.<ref>{{cite web |first= |last= |coauthors= |title=Louisville reaches 2nd straight Sweet 16 behind Williams' double-double|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-04-02 |url=http://scores.espn.go.com/ncb/recap?gameId=294000049| archiveurl= https://web.archive.org/web/20090326083855/http://scores.espn.go.com/ncb/recap?gameId=294000049| archivedate= 26 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+In a 12 vs. 13 seed Cinderella matchup, Arizona handily defeated Cleveland State. The Wildcats' zone defense puzzled Cleveland State, and their fast breaks sealed the game. The smallest deficit the Vikings faced was 48–44 about midway through the second half, though the Wilcats then went on a 13–2 run led by [[Nic Wise]]'s five consecutive points. His 21 points led the team's four double-digit scorers. Arizona was excellent behind the free-throw line, finishing 24 for 28.<ref>{{cite web |first= |last= |coauthors= |title=Wildcats reach final 16 for 12th time since '88|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-04-03 |url=http://scores.espn.go.com/ncb/recap?gameId=294000052| archiveurl= https://web.archive.org/web/20090325174609/http://scores.espn.go.com/ncb/recap?gameId=294000052| archivedate= 25 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+[[Cole Aldrich]]'s [[triple-double]] with 13 points, 20 rebounds, and 10 blocked shots paved the way for a third-seeded Kansas win over 11 seed Dayton. This was only the sixth triple-double in NCAA tournament history. With 43 points, Dayton scored the fewest points they had all season, compared to Kansas's 60. Despite their small point total, the Flyers shot 72 times, its most all season, amounting to a 22.2 shooting percentage. The Jayhawks were also not having one of their better offensive games, with [[Sherron Collins]] being an exception; he made 25 points. This marked the third straight Sweet Sixteen appearance for Kansas.<ref>{{cite web |first= |last= |coauthors= |title=Aldrich's 13 points, 20 boards, 10 blocked shots lead KU to Sweet 16 |agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-04-03 |url=http://scores.espn.go.com/ncb/recap?gameId=294000056| archiveurl= https://web.archive.org/web/20090325110638/http://scores.espn.go.com/ncb/recap?gameId=294000056| archivedate= 25 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+Playing the tenth-seeded [[USC Trojans]], second-seeded Michigan State utilized [[Travis Walton (basketball)|Travis Walton]]'s career-high 18 points for a 74–69 win. Normally known as a defensive player and averaging 4.9 points per game, Walton shot 8 for 13 from the field. His team out-rebounded USC 33 to 23, and USC made only one three-point play. Star Trojan [[Taj Gibson]] was in foul trouble throughout much of the game, and yet his teammates rallied for 14 lead changes and 16 ties. [[Dwight Lewis]], who gave a 19-point performance overall, scored six consecutive points for USC for a late tie. The Spartans only earned a victory after the Trojans missed their last nine shots. With the win, Michigan State has made it to the Sweet 16 eight times of the last 12 years, more than any other team except Duke.<ref>{{cite web |first= |last= |coauthors= |title=Walton's career-high 18 lift Spartans over USC, into Sweet 16|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-04-04 |url=http://scores.espn.go.com/ncb/recap?gameId=294000059| archiveurl= https://web.archive.org/web/20090326085834/http://scores.espn.go.com/ncb/recap?gameId=294000059| archivedate= 26 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+====Regional semifinals (Sweet Sixteen)====
+Louisville, the region's top seed, routed twelfth-seeded Arizona 103–64. In NCAA tournament history, this was Louisville's largest win and Arizona's largest loss. It was no surprise, given the Cardinals' 57.6 field goal percentage and their 48% shooting behind the arc. Their fullcourt pressure forced 15 turnovers on the Wildcats the entire game, including nine in the first half. [[Earl Clark]] led the Cardinals with 19 points, whose ballhandling garnered 29 assists. This was the most lopsided Sweet 16 victory since 1972.<ref>{{cite web |first= |last= |coauthors= |title=Cardinals fly into Elite 8 with one-sided victory over Wildcats|agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-04-04 |url=http://scores.espn.go.com/ncb/recap?gameId=294000053| archiveurl= https://web.archive.org/web/20090331100301/http://scores.espn.go.com/ncb/recap?gameId=294000053| archivedate= 31 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+The Michigan State-Kansas matchup was much more intense. After overcoming a 13-point first half deficit, the Spartans won 67–62. They shot 16 of 17 from the foul line, and on their only miss they rebounded the ball and gave Raymar Morgan the only points of the night on a dunk. Such rallies in the second half narrowed the deficit and occasionally took the lead, although the Jayhawks responded and were up by 2 with 2 minutes left in the game. They were helped by [[Sherron Collins]] and [[Cole Aldrich]]'s combined 37 points. However, [[Kalin Lucas]] of the Spartans, who had scored 11 points in the first 39 minutes of the game, made seven straight points with 48 seconds left. [[Goran Suton]] also added nine rebounds, five steals, and a season-high 20 points for Michigan State.<ref>{{cite web |first= |last= |coauthors= |title=Lucas, Spartans eliminate Jayhawks with late free throws |agency=[[Associated Press]] |publisher=[[ESPN]]|year=2009 |accessdate=2009-04-04 |url=http://scores.espn.go.com/ncb/recap?gameId=294000060| archiveurl= https://web.archive.org/web/20090331101224/http://scores.espn.go.com/ncb/recap?gameId=294000060| archivedate= 31 March 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+====Regional final (Elite Eight)====
+Michigan State defeated overall number one seed Louisville, 64–52, to advance to their fifth Final Four since 1999. Michigan State held Louisville to their second lowest point total of the season with their man-to-man defense keeping them out of sync all game. Center Goran Suton had 19 points and Durrel Summers had 12 in the rout. Earl Clark had 19 for Louisville.
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 29
+ | time = 2:20&nbsp;pm
+ | report = [http://scores.espn.go.com/ncb/boxscore?gameId=294000061 box score]
+ | team1 = '''#2 Michigan State Spartans'''
+ | score1 =  '''64'''
+ | team2 = #1 Louisville Cardinals
+ | score2 = 52
+ | points1 = [[Goran Suton|G. Suton]] – 19
+ | rebounds1 = [[Goran Suton|G. Suton]], [[Draymond Green]] – 10
+ | assist1 = [[Kalin Lucas|K. Lucas]] – 5
+ | otherstat1 = 
+ | points2 = [[Earl Clark|E. Clark]] – 19
+ | rebounds2 = [[Samardo Samuels|S. Samuels]] – 7
+ | assist2 = [[Terrence Williams|T. Williams]] – 4
+ | otherstat2 = '''Halftime Score:''' Michigan State, 30-27
+ | place = Lucas Oil Stadium – Indianapolis, Indiana
+ | attendance = 36,084
+ | referee =  David Hall, Curtis Shaw, Tony Greene
+ | TV = CBS
+}}
+
+===West Region===
+[[A. J. Price]] was named MVP of the West Regional. He was joined by teammate [[Kemba Walker]], Missouri's [[DeMarre Carroll]] and [[J. T. Tiller]] and Memphis' [[Tyreke Evans]] on the NCAA West All-regional team.<ref>{{cite web|url=http://www.sportingnews.com/yourturn/viewtopic.php?t=532518|title=Notes from Glendale: Huskies thrive in Arizona |accessdate=2009-03-31|date=2009-03-28|work=[[Sporting News]]|author=Casacchia, Chris}}</ref>
+
+====First round====
+Forward [[Quincy Pondexter]] scored 23 points to lead his [[Washington Huskies]] to a first round 71–58 win over [[Mississippi State Bulldogs]] in the West Regional. Only Barry Stewart put up double digit points (14) for the Bulldogs.
+
+====Second round====
+[[Pac-10]] champions [[Washington Huskies men's basketball|Washington Huskies]] scored 46 points in the second half, but it was not enough to beat the [[2008–09 Purdue Boilermakers men's basketball team|Purdue Boilermakers]] in the second round of West Regional, falling short by two points (76–74). Leaders for Purdue were JaJuan Johnson with 22 points and Keaton Grant with 12 rebounds. [[Isaiah Thomas (basketball)|Isaiah Thomas]] with 24 points and [[Jon Brockman]] with 18 rebounds led the Huskies.
+
+====Regional semifinals (Sweet Sixteen)====
+Connecticut faced Purdue at University of Phoenix Stadium in a West Regional semifinal. It was UConn who took full advantage of many Purdue mistakes and, even though [[Robbie Hummel]] was able to shoot quite well scoring 17 points, it was [[Hasheem Thabeet]] and the Huskies who pulled away for a 72–60 win to move onto the regional finals.
+
+In the nightcap of the sweet sixteen matchups, two sets of Tigers met, pitting Missouri against Memphis in a matchup that saw teams with similar fast-paced styles meet. Missouri was able to pull away with a 27–7 run that gave them a 64–40 lead. Though Memphis attempted to claw back into the game through [[Tyreke Evans]]' 33 points, it was JT Tiller, [[DeMarre Carroll]], and Leo Lyons  that moved on to meet UConn in the regional final along with the rest of their Missouri Tigers.
+
+====Regional final (Elite Eight)====
+
+Kemba Walker came off the UConn bench to spark them to a victory over the 3 seeded Missouri Tigers.
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 28
+ | time = 4:40&nbsp;pm
+ | report = [http://scores.espn.go.com/ncb/boxscore?gameId=294000015 box score]
+ | team1 = '''#1 Connecticut Huskies'''
+ | score1 =  '''82'''
+ | team2 = #3 Missouri Tigers
+ | score2 = 75
+ | points1 = [[Kemba Walker|K. Walker]] – 23
+ | rebounds1 = [[Hasheem Thabeet|H. Thabeet]] – 13
+ | assist1 = [[Kemba Walker|K. Walker]] – 5
+ | otherstat1 = 
+ | points2 = M. Lawrence, [[Leo Lyons (basketball)|L. Lyons]] – 13
+ | rebounds2 = [[J.T. Tiller]] – 5
+ | assist2 = [[J.T. Tiller]] – 5
+ | otherstat2 = '''Halftime Score:''' Connecticut, 44-38
+ | place = University of Phoenix Stadium – Glendale, Arizona
+ | attendance = 18,886
+ | referee =  John Cahill, Mike Littlewood, Les Jones 
+ | TV = CBS
+}}
+
+===East Region===
+[[Scottie Reynolds]] was named Regional most outstanding player.  He was joined by teammates [[Dwayne Anderson]] and [[Dante Cunningham]], Panthers [[Sam Young (basketball)|Sam Young]] and [[DeJuan Blair]] on the NCAA East All-Regional team.<ref>{{cite web|url=http://www.detnews.com/article/20090328/OPINION03/903280485/1133/SPORTS0203/NCAA+East+Region+Insider++Villanova+bringing+back+the+1980s|title=NCAA East Region Insider: Villanova bringing back the 1980s|accessdate=2009-03-31|date=2009-03-28|work=[[Detroit News]]|author=Gerstner, Joanne C.}}</ref>
+
+====First round====
+[[UCLA Bruins]]' [[Alfred Aboya]] scored two free-throw points with 48 seconds remaining in the game to help UCLA get by [[Virginia Commonwealth University Rams|VCU]] in the first round at the East Regional in [[Philadelphia]]'s [[Wachovia Center]] with Maynor's potential game winning jumper bouncing off the rim at the buzzer. Top scorers in the game were [[Eric Maynor]] (21) for VCU and [[Josh Shipp (basketball)|Josh Shipp]] (16) for UCLA.
+
+[[Villanova Wildcats]], playing at home against an [[American University]] team that featured 5 seniors, fell behind early as American hit a barrage of 3 pointers. However, in the 2nd half, Villanova was able to take advantage of 20 free throws in the final 13 minutes of the game to win against American.<ref>[http://sports.espn.go.com/ncb/recap?gameId=294000024 Anderson, Cunningham lead way as Villanova ousts upset-minded American]</ref>
+
+No. 12 seed [[Wisconsin Badgers men's basketball|Wisconsin]] upset #5 seed [[Florida State Seminoles men's basketball|Florida St.]] 61–59 in OT. Down 31–19 at the half, the Badgers' [[Jason Bohannon]] made a three-point jumper to give Wisconsin the lead with 45 seconds left in regulation. Trevon Hughes fouled Toney Douglas, who made two free throws to send the game into over-time. In over-time, the Badgers trailed by one with just seconds left when Hughes made a twisting shot from the lane over two defenders to put the Badgers ahead 60–59. Hughes was also fouled on the shot, and made the resulting free throw to make the score 61–59.  Florida State had just enough time to run a full court in-bounds play but, the pass was deflected at half court thus securing the Badger victory.<ref name="uw-fsu_recap">{{cite web
+|url=http://www.cbssports.com/collegebasketball/gamecenter/recap/NCAAB_20090320_WI@FLST
+|title=Hughes' improbable shot in OT lifts 12th-seeded Wisconsin past FSU
+|last=CBSSports.com wire
+|date=2009-03-21
+|publisher=CBS Interactive
+|accessdate=2009-04-08
+}}</ref>
+
+====Second round====
+By six Wildcats scoring double-digit points, [[Villanova Wildcats|Villanova]] ended UCLA's hope of going to the Final Four for the fourth time in a row. [[Dante Cunningham]] had 18 points; Reggie Redding and [[Corey Fisher]] had 13; [[Corey Stokes]] put up 12; eleven points came from [[Scottie Reynolds]] and ten points were put up by Dwayne Anderson for the winning team. Josh Shipp had 18 points and Alfred Aboya had 8 rebounds for UCLA.
+
+====Regional semifinals (Sweet Sixteen)====
+[[2008–09 Villanova Wildcats men's basketball team|Villanova]] (#3) upset [[2008–09 Duke Blue Devils men's basketball team|Duke]] (#2), 77–54, to advance to the Regional Championship game to face [[2008–09 Pittsburgh Panthers men's basketball team|Pittsburgh]] (#1). The Wildcats, who were ahead by 3 at half-time, were led in scoring by [[Scottie Reynolds]] (16), [[Dante Cunningham]] (14) and Reggie Redding (11).
+
+====Regional final (Elite Eight)====
+Number one seed [[2008–09 Pittsburgh Panthers men's basketball team|Pittsburgh]] was upset by the [[Villanova Wildcats]], 78–76 in the East Regional Finals, denying the Panthers a chance for a first national championship in men's basketball. With five seconds remaining, [[Levance Fields]], who was fouled by [[Corey Fisher]], shot two free-throws to tie the game for Pitt. But [[Scottie Reynolds]]' one-second jumper was good to give Villanova an upset victory. Pitt's [[Sam Young (basketball)|Sam Young]] scored 28 points and [[DeJuan Blair]] had 20 points. [[Dwayne Anderson]] was top scorer for the Wildcats with 17 points.
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 28
+ | time = 7:05&nbsp;pm
+ | report = [http://scores.espn.go.com/ncb/boxscore?gameId=294000030 box score]
+ | team1 = '''#3 Villanova Wildcats'''
+ | score1 =  '''78'''
+ | team2 = #1 Pittsburgh Panthers
+ | score2 = 76
+ | points1 = [[Dwayne Anderson|D. Anderson]] – 17
+ | rebounds1 = R. Redding, [[Dwayne Anderson|D. Anderson]] – 6
+ | assist1 = R. Redding – 5
+ | otherstat1 = 
+ | points2 = [[Sam Young (basketball)|S. Young]] – 28
+ | rebounds2 = [[DeJuan Blair|D. Blair]] – 10
+ | assist2 = [[Levance Fields|L. Fields]] – 6
+ | otherstat2 = '''Halftime Score:''' Pittsburgh, 34-32
+ | place = TD Garden, Boston
+ | attendance = 18,871
+ | referee =  Tom O'Neill, Pat Driscoll, Randy Mccall 
+ | TV = CBS
+}}
+
+===South Region===
+[[Ty Lawson]] was the South regional [[MVP]] and he was joined on the All-regional team by teammates [[Danny Green (basketball)|Danny Green]] and [[Tyler Hansbrough]] as well as [[Blake Griffin]] and Syracuse's [[Jonny Flynn]].<ref>{{cite web|url=http://www.memphisflyer.com/memphis/Content?oid=oid%3A57976|title=NCAA South Regional: North Carolina 72, Oklahoma 60|accessdate=2009-03-31|date=2009-03-29|work=[[Memphis Flyer]]|author=Murtaugh, Frank}}</ref>
+
+====First round====
+WKU advanced to the second round for a second consecutive year as a 12 seed, beating 5th seeded Illinois.  10th seeded Michigan upset 7th seeded Clemson 62–59 in its first tournament win since 1998.  It was Michigan's first tournament appearance in 11 years after the school was rocked with sanctions and punishments from the Chris Webber scandal in the mid-2000s.
+
+====Second round====
+
+====Regional semifinals (Sweet Sixteen)====
+
+====Regional final (Elite Eight)====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 24
+ | time = 5:05&nbsp;pm
+ | report = [http://scores.espn.go.com/ncb/boxscore?gameId=294000046 box score]
+ | team1 = '''#1 North Carolina Tar Heels'''
+ | score1 =  '''72'''
+ | team2 = #2 Oklahoma Sooners
+ | score2 = 60
+ | points1 = [[Ty Lawson|T. Lawson]] – 19
+ | rebounds1 = [[Tyler Hansbrough|T. Hansbrough]] – 6
+ | assist1 = [[Ty Lawson|T. Lawson]] – 5
+ | otherstat1 = 
+ | points2 = [[Blake Griffin|B. Griffin]] – 23
+ | rebounds2 = [[Blake Griffin|B. Griffin]] – 16
+ | assist2 = A. Johnson, [[Willie Warren|W. Warren]] – 3
+ | otherstat2 = '''Halftime Score:''' North Carolina, 32-23
+ | place = FedEx Forum, Memphis, Tennessee
+ | attendance = 17,025
+ | referee =  Verne Harris, John Hughes, Tom Eades 
+ | TV = CBS
+}}
+
+===Final Four===
+All final four teams in the tournament had won at least one national championship. Entering the tournament, North Carolina had the most, with four ([[1957 NCAA Men's Division I Basketball Tournament|1957]], [[1982 NCAA Men's Division I Basketball Tournament|1982]], [[1993 NCAA Men's Division I Basketball Tournament|1993]], [[2005 NCAA Men's Division I Basketball Tournament|2005]]); Connecticut had two; ([[1999 NCAA Men's Division I Basketball Tournament|1999]], [[2004 NCAA Men's Division I Basketball Tournament|2004]]); Michigan State also had two; ([[1979 NCAA Men's Division I Basketball Tournament|1979]], [[2000 NCAA Men's Division I Basketball Tournament|2000]]), and Villanova won one; ([[1985 NCAA Men's Division I Basketball Tournament|1985]]).
+
+The Spartans had home court advantage by playing in their home state. Six teams have played the Final Four in their home states, but only four of them won. UCLA ([[1968 NCAA Men's Division I Basketball Tournament|1968]], [[1972 NCAA Men's Division I Basketball Tournament|1972]], [[1975 NCAA Men's Division I Basketball Tournament|1975]]) and North Carolina State ([[1974 NCAA Men's Division I Basketball Tournament|1974]]) won the national title, but Duke ([[1994 NCAA Men's Division I Basketball Tournament|1994]]) and Purdue ([[1980 NCAA Men's Division I Basketball Tournament|1980]]) lost in the Final Four. The biggest advantage came in 1968 and 1972 when UCLA played the championship game at the [[Los Angeles Memorial Sports Arena]], which is a short distance from [[Pauley Pavilion]], their home court since 1965.
+
+====Michigan State vs. Connecticut====
+{{Basketballbox|bg=#eee |date=April 4 |time=6:07 EDT |report=[http://scores.espn.go.com/ncb/boxscore?gameId=294000031 box score] |place=[[Ford Field]], [[Detroit, Michigan|Detroit]] |TV=[[CBS]]
+|team1= '''#2 [[Michigan State Spartans men's basketball|Michigan State]]''' |score1= '''82'''
+|team2= #1 [[Connecticut Huskies men's basketball|Connecticut]]|score2= 73
+| points1 = [[Kalin Lucas|K. Lucas]] – 21
+ | rebounds1 = [[Raymar Morgan|R. Morgan]] – 8
+ | assist1 = [[Travis Walton (basketball)|T. Walton]] – 8
+ | otherstat1 = 
+ | points2 = [[Hasheem Thabeet|H. Thabeet]] – 17
+ | rebounds2 = [[Stanley Robinson|S. Robinson]] – 13
+ | assist2 = [[Craig Austrie|C. Austrie]], [[Kemba Walker|K. Walker]] – 2
+ | otherstat2 = '''Halftime Score:''' Michigan State, 38-36
+ | attendance = 72,456
+ | referee = John Cahill, Mike Stuart, Les Jones
+}}
+[[Michigan State Spartans men's basketball|Michigan State]], with 7 minutes to play, finally took hold of the game and defeated the number one seed [[Connecticut Huskies men's basketball|Connecticut]] to advance to the championship game against North Carolina. The Spartans started the game with a 7-point run, but the Huskies would come back to take a lead in the first half. Michigan State took it back and was leading by two at the half. Connecticut had the lead twice early in the second period. Michigan State, led by guard [[Kalin Lucas]] with 21 points and forward [[Raymar Morgan]] with 18 points, was just too much at the end for the Huskies. Scoring for Connecticut was shared by [[Jeff Adrien]] (13), Stanley Robinson (15), [[Hasheem Thabeet]] (17) and A.J. Price (15).<ref>{{cite web |url=http://sports.espn.go.com/ncb/recap?gameId=294000031 |title=Morgan breaks out of slump as Michigan State topples Connecticut in Final Four |date=April 4, 2009 |agency=[[Associated Press]] |publisher=[[ESPN.com]] |accessdate=April 7, 2009| archiveurl= https://web.archive.org/web/20090407001756/http://sports.espn.go.com/ncb/recap?gameId=294000031| archivedate= 7 April 2009 <!--DASHBot-->| deadurl= no}}</ref>
+
+====Villanova vs. North Carolina====
+{{Basketballbox|bg=#eee |date=April 4 |time=8:47 EDT |report=[http://scores.espn.go.com/ncb/boxscore?gameId=294000062 box score] |place=[[Ford Field]], [[Detroit, Michigan|Detroit]] |TV=[[CBS]]
+|team2= #3 [[Villanova Wildcats men's basketball|Villanova]] |score2=69
+|team1= '''#1 [[North Carolina Tar Heels men's basketball|North Carolina]]''' |score1='''83'''
+| points2 = [[Scottie Reynolds|S. Reynolds]] – 17
+ | rebounds2 = [[Dante Cunningham|D. Cunningham]] – 12
+ | assist2 = [[Scottie Reynolds|S. Reynolds]] – 5
+ | otherstat2 = '''Halftime Score:''' North Carolina, 49-40
+ | points1 = [[Ty Lawson|T. Lawson]] – 22
+ | rebounds1 = [[Tyler Hansbrough|T. Hansbrough]] – 11
+ | assist1 = [[Ty Lawson|T. Lawson]] – 8
+ | otherstat1 = 
+ | attendance = 72,456
+ | referee = Scott Thornley, Karl Hess, Pat Driscoll
+}}
+
+After the first five minutes, [[2008-09 North Carolina Tar Heels men's basketball team|North Carolina]] used an 11-point run to end Villanova's hope for a national championship and put the Tar Heels into the championship game for a chance to win their fifth title in nine trips. [[Ty Lawson]] produced 22 points, followed by [[Wayne Ellington]] with 20 points and [[Tyler Hansbrough]] with 18 points. Hansbrough, the sixth-leading scorer in tournament history, pulled down 11 rebounds. For [[Roy Williams (coach)|Roy Williams]], who coached North Carolina to a national championship in 2005, it is back to the title game again.
+
+====Championship game – Michigan State vs. North Carolina====
+{{main article|2009 NCAA Men's Division I Basketball Championship Game}}
+[[File:Ford Field 2007.JPG|thumb|right|Ford Field was the host of the 2009 Final Four and Championship game.]]
+This 71st title game featured #1 seed [[North Carolina Tar Heels men's basketball|North Carolina]], which had a 4–4 record in the finals, versus #2 seed [[Michigan State Spartans|Michigan State]], which had a 2–0 record going into the game. It was also a matchup featuring future Hall of Fame coach [[Tom Izzo]], who guided Michigan State to the championship in 2000 in his 5 trips to the Final Four, against current Hall of Famer [[Roy Williams (coach)|Roy Williams]], who won the title in 2005 in 7 Final Fours. 
+
+To celebrate the 30th anniversary of the [[1979 NCAA Men's Division I Basketball Tournament#Final Four|1979 national title game]] between [[Michigan State Spartans]] and the [[Indiana State Sycamores|Sycamores of Indiana State]], Hall of Fame players [[Magic Johnson|Earvin "Magic" Johnson]] and [[Larry Bird]], who had played against each other, presented the game ball at the 2009 NCAA national championship game Monday night.<ref>{{cite web|title=Bird, Magic to present game ball at title game |url=https://www.ncaa.org/wps/ncaa?ContentID=48017 |work= |archiveurl=https://www.webcitation.org/5iiVFX8wo?url=http://www.ncaa.org/wps/ncaa?ContentID=48017 |archivedate=2009-08-02 |deadurl=no |accessdate=2009-05-31 |df= }}</ref>
+
+The game was a rematch of "[[Basketbowl#"BasketBowl II"|BasketBowl II]]", of 2009's [[ACC-Big Ten Challenge]], won by the Tar Heels 98–63. That game was also played at Ford Field.
+
+{{Basketballbox|bg=#eee |date=April 6 |time=9:21 EDT |place=[[Ford Field]], [[Detroit, Michigan|Detroit]] |TV=[[CBS]] |report=[http://espn.go.com/ncb/boxscore?gameId=294000063 Box score]
+|team2= #3 [[Michigan State Spartans|Michigan State]] |score2=72
+|team1= '''#1 [[North Carolina Tar Heels men's basketball|North Carolina]]'''|score1='''89'''
+ | points2 = [[Goran Suton|G. Suton]] – 17 
+ | rebounds2 = [[Goran Suton|G. Suton]] – 11 
+ | assist2 = [[Kalin Lucas|K. Lucas]] – 7
+ | otherstat2 = '''Halftime Score:''' North Carolina, 55-34
+ | points1 = [[Ty Lawson|T. Lawson]] 21
+ | rebounds1 = [[Ed Davis (basketball)|E. Davis]] – 8
+ | assist1 = [[Ty Lawson|T. Lawson]] – 6
+ | otherstat1 = 
+ | attendance = 72,922
+ | referee = Tom O'Neill, Curtis Shaw, Tony Greene 
+}}[[File:2009 NCAA Men's Division I Basketball Championship Game running score.PNG|thumb|250px|Running score of the championship game.]]
+
+[[North Carolina Tar Heels men's basketball|North Carolina]], with a first bucket from [[Deon Thompson]], took off and ran to a 21-point lead at the 10-minute mark. The lead grew to 24 with less than 5 minutes remaining in the first half, with most points coming from [[Wayne Ellington]] (15). The Spartans were behind 34–55 at the half, a tournament record lead for the Tar Heels. [[Goran Suton]] had the most points for Michigan State.
+
+In the second half, Michigan State made a comeback to within 13 points of North Carolina with 4:56 to go in the game, but was unable to overcome the record 21 turnovers. Roy Williams and his Tar Heels defeated the Spartans 89–72 to take home his second trophy for the university. [[Ty Lawson]] set a record with 8 steals.
+
+==All Tournament team==
+* [[Wayne Ellington]], ''[[2008–09 North Carolina Tar Heels men's basketball team|North Carolina]]'' ([[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]])
+* [[Tyler Hansbrough]], ''[[2008–09 North Carolina Tar Heels men's basketball team|North Carolina]]''
+* [[Ty Lawson]], ''[[2008–09 North Carolina Tar Heels men's basketball team|North Carolina]]''
+* [[Kalin Lucas]], ''[[2008–09 Michigan State Spartans men's basketball team|Michigan State]]''
+* [[Goran Suton]], ''[[2008–09 Michigan State Spartans men's basketball team|Michigan State]]''
+
+==Tournament notes==
+* Largest tournament point differential (+121) by the champion since 1996 (a new record was set in 2016 after the Villanova Wildcats defeated the North Carolina Tar Heels).
+* Highest attended National Semifinal Games (72,456) in Final Four history, breaking the old record of 64,959 (a new record was set in 2014).
+* Highest attended National Championship Game (72,922) in Final Four history breaking the old record of 64,959 (a new record was set in 2014).
+* Highest total Final Four attendance (145,378) ever breaking the old record of 129,918 (a new record was set in 2014).
+* [[Roy Williams (coach)|Roy Williams]] is one of three active [[NCAA men's basketball coaches win list#Most NCAA championships|coaches]] to win multiple titles ([[Billy Donovan]] and [[Mike Krzyzewski]] are others)
+* [[Nielsen ratings]] for the Championship Game were down 7% to 11.9/19 versus a 12.8/20 the previous year. The entire tournament averaged a 6.3/13, a 5% increase.<ref>[http://sports.espn.go.com/ncb/ncaatourney09/news/story?id=4050821 Title game down, overall ratings up]</ref>
+* [[Blake Griffin]] of [[Oklahoma Sooners men's basketball|Oklahoma]] was the winner of the [[John Wooden Award]], presented by the [[Los Angeles Athletic Club]] on Friday, April 10 in Los Angeles.
+* 708,296 fans in attendance over the course of 35 sessions.<ref>[https://www.ncaa.org/wps/ncaa?ContentID=49999 The NCAA News: Basketball attendance unaffected by economic slide],  May 12, 2009</ref>
+
+==Record by conference==
+{|class="wikitable sortable"
+|-
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|# of Bids
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Win %
+!style="background: #e3e3e3;"|R32
+!style="background: #e3e3e3;"|S16
+!style="background: #e3e3e3;"|E8
+!style="background: #e3e3e3;"|F4
+!style="background: #e3e3e3;"|CG
+|- align="center"
+|align="left"| [[2008–09 Atlantic Coast Conference men's basketball season|ACC]]
+| 7
+| 9–6
+| .600
+| 3
+| 2
+| 1
+| 1
+| 1
+|- align="center"
+|align="left"| [[2008–09 Big East Conference men's basketball season|Big East]]
+| 7
+| 17–7
+| .708
+| 6
+| 5
+| 4
+| 2
+| –
+|- align="center"
+|align="left"| [[2008–09 Big Ten Conference men's basketball season|Big Ten]]
+| 7
+| 9–7
+| .563
+| 4
+| 2
+| 1
+| 1
+| 1
+|- align="center"
+|align="left"| [[2008–09 Big 12 Conference men's basketball season|Big 12]]
+| 6
+| 11–6
+| .647
+| 6
+| 3
+| 2
+| –
+| –
+|- align="center"
+|align="left"| [[2008–09 Pacific-10 Conference men's basketball season|Pac-10]]
+| 6
+| 6–6
+| .500
+| 5
+| 1
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Atlantic 10 Conference|Atlantic 10]]
+| 3
+| 3–3
+| .500
+| 2
+| 1
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Southeastern Conference|SEC]]
+| 3
+| 1–3
+| .250
+| 1
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Horizon League|Horizon]]
+| 2
+| 1–2
+| .333
+| 1
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Mountain West Conference|Mountain West]]
+| 2
+| 0–2
+| .000
+| <span style="display:none">0</span>–
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Conference USA|C–USA]]
+| 1
+| 2–1
+| .667
+| 1
+| 1
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Metro Atlantic Athletic Conference|MAAC]]
+| 1
+| 1–1
+| .500
+| 1
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Ohio Valley Conference|Ohio Valley]]
+| 1
+| 1–1*
+| .500
+| <span style="display:none">0</span>–
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Sun Belt Conference|Sun Belt]]
+| 1
+| 1–1
+| .500
+| 1
+| <span style="display:none">0</span>–
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[West Coast Conference|WCC]]
+| 1
+| 2–1
+| .667
+| 1
+| 1
+| –
+| –
+| –
+|}
+
+<nowiki>*</nowiki>[[Morehead State Eagles|Morehead State]] won the Opening Round game.
+
+The [[America East Conference|America East]], [[Atlantic Sun Conference|Atlantic Sun]], [[Big Sky Conference|Big Sky]], [[Big South Conference|Big South]], [[Big West Conference|Big West]], [[Colonial Athletic Association|CAA]], [[Ivy League|Ivy]], [[Mid-American Conference|MAC]], [[Mid–Eastern Athletic Conference|MEAC]], [[Missouri Valley Conference|MVC]], [[Northeast Conference|NEC]], [[Patriot League|Patriot]], [[Southland Conference|Southland]], [[Southern Conference|SoCon]], [[Southwestern Athletic Conference|SWAC]], [[The Summit League|Summit]], and [[Western Athletic Conference|WAC]] conferences all went 0–1.
+
+The columns R32, S16, E8, F4, and CG respectively stand for the Round of 32, Sweet Sixteen, Elite Eight, Final Four, and Championship Game.
+
+==Media==
+
+===Television===
+Once again, except for the play-in game, which was telecast on [[ESPN]], [[CBS Sports|CBS]] and [[CBS College Sports Network]] served as broadcasters on television for the tournament. The only change from past years at the Final Four was that [[Jim Nantz]] worked with [[Clark Kellogg]] in the [[color commentary]] position instead of [[Billy Packer]], who left CBS in July 2008. 
+
+*Studio: [[Greg Gumbel]], [[Greg Anthony]] and [[Seth Davis]]   
+*[[Jim Nantz]] and [[Clark Kellogg]] and [[Tracy Wolfson]] (she was only used as sideline reporter for the Final Four and NCAA Championship game) – First & Second Round at Greensboro, North Carolina; South Regional at Memphis, Tennessee; Final Four at Detroit, Michigan
+*[[Dick Enberg]] or [[Carter Blackburn]] and [[Jay Bilas]] – Blackburn Thursday afternoon; Enberg Thursday night, First & Second round at Philadelphia, Pennsylvania; West Regional at Glendale, Arizona   
+*[[Verne Lundquist]] and [[Bill Raftery]] – First & Second Round at Dayton, Ohio; East Regional at Boston, Massachusetts
+*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Len Elmore]] – First & Second Round at Minneapolis, Minnesota; Midwest Regional at Indianapolis, Indiana   
+*[[Kevin Harlan]] and [[Dan Bonner]] – First & Second Round at Portland, Oregon   
+*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Miami, Florida
+*[[Craig Bolerjack]] and [[Bob Wenzel]] – First & Second Round at Boise, Idaho   
+*[[Tim Brando]] and [[Mike Gminski]] – First & Second Round at Kansas City, Missouri   
+   
+For the play-in game in Dayton, ESPN had [[Brent Musburger]], [[Steve Lavin]] and [[Erin Andrews]] working as the announcers. 
+
+Some CBS affiliates put additional game broadcasts on digital subchannels, or, as in the following two instances, on other stations:
+*[[WOIO]] and [[WUAB-TV|WUAB]] ([[Raycom Media]] [[duopoly]]): On March 20, WOIO aired Ohio State vs. Siena, while Cleveland State vs. Wake Forest was on WUAB at the same time.  The [[Cleveland]] area has a substantial number of OSU alumni, and [[Mansfield, Ohio|Mansfield]], although part of the Cleveland market, is equidistant to both [[Columbus, Ohio|Columbus]] and Cleveland.
+*[[KOTV-DT|KOTV]] and [[KQCW]] (Griffin Media duopoly): Also on March 20, KOTV aired Oklahoma State vs. Tennessee; at the same time, Kansas vs. North Dakota State was on KQCW.  The reason for this simulcast is that part of the Tulsa market includes [[Coffeyville, Kansas|Coffeyville]] and other communities at the southern end of Kansas.
+
+===Radio===
+[[Westwood One (1976–2011)|Westwood One]] was once again the radio home for the tournament.
+
+====Opening Round Game====
+*[[Marc Vandermeer]] and [[Steve Lappas]] – at Dayton, Ohio
+
+====First/Second Round====
+*[[Bill Rosinski]] and [[Kyle Macy]] – at Greensboro, North Carolina  
+*[[Kevin Kugler]] and [[Pete Gillen]] – at Kansas City, Missouri 
+*[[Wayne Larrivee]] and [[John Thompson (basketball)|John Thompson]] – at Philadelphia, Pennsylvania
+*[[Dave Sims]] and [[P.J. Carlesimo]] – at Portland, Oregon 
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Bill Frieder]] – at Boise, Idaho
+*[[Mark Champion]] and [[Kelly Tripucka]] – at Dayton, Ohio  
+*[[Tom McCarthy (broadcaster)|Tom McCarthy]] and [[Kevin Grevey]] – at Miami, Florida
+*[[Brad Sham]] and [[Reid Gettys]] – at Minneapolis, Minnesota
+
+====Regionals====
+*[[Kevin Kugler]] and [[John Thompson (basketball)|John Thompson]] – East Regional at Boston, Massachusetts
+*[[Ian Eagle]] and [[Pete Gillen]] – Midwest Regional at Indianapolis, Indiana  
+*[[Kevin Harlan]] and [[P.J. Carlesimo]] – South Regional at Memphis, Tennessee
+*[[Wayne Larrivee]] and [[Bill Frieder]] – West Regional at Glendale, Arizona 
+
+====Final Four====
+*[[Kevin Kugler]], [[John Thompson (basketball)|John Thompson]] and [[Bill Raftery]] – at Detroit, Michigan
+
+===International broadcasters===
+*{{flagcountry|CAN}}: [[The Score Television Network|The Score]]
+*{{flagcountry|AUS}}: [[One HD]] / [[ESPN Australia]], uses the CBS broadcast and commentators.
+*{{flagcountry|BRA}}: [[ESPN Brasil]], uses the CBS broadcast.
+*Europe, North Africa and Middle East: [[ESPN America]]
+*{{flagcountry|PHI}}: Live/delayed on [[Basketball TV]], and recorded on [[Radio Philippines Network|C/S9]]; uses the CBS broadcast and commentators.
+
+[[Yahoo! Sports]] and NCAA.com also broadcast the entire tournament live for free on the internet.
+
+==See also==
+* [[2009 NCAA Division II Men's Basketball Tournament]]
+* [[2009 NCAA Division III Men's Basketball Tournament]]
+* [[2009 NCAA Division I Women's Basketball Tournament]]
+* [[2009 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|2009 NCAA Division III Women's Basketball Tournament]]
+* [[2009 National Invitation Tournament]]
+* [[2009 Women's National Invitation Tournament]]
+* [[2009 NAIA Division I Men's Basketball Tournament]]
+* [[2009 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2009 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2009 NAIA Division II Women's Basketball Tournament]]
+* [[2009 College Basketball Invitational]]
+* [[2009 CollegeInsider.com Postseason Tournament]]
+* [[2008–09 NCAA Division I men's basketball season]]
+
+==References==
+{{reflist|2}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2009 NCAA Division I men's basketball tournament navbox}}
+{{2009 North Carolina Tar Heels men's basketball navbox}}
+
+{{DEFAULTSORT:2009 Ncaa Men's Division I Basketball Tournament}}
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:2008–09 NCAA Division I men's basketball season|Ncaa Men's Division I Basketball Tournament]]
+[[Category:Sports in Portland, Oregon]]

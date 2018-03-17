@@ -1,0 +1,1455 @@
+{{redirect|2008 Final Four|the European baseball championship|2008 Final Four (baseball)}}
+{{Infobox NCAA Basketball Tournament
+| Year=2008
+| Image=2008FinalFour.png
+| ImageSize=150px
+| Caption=2008 Final Four logo
+| Teams=65
+| FinalFourArena=[[Alamodome]]
+| FinalFourCity=[[San Antonio, Texas]]
+| Champions=[[2007–08 Kansas Jayhawks men's basketball team|Kansas]]
+| TitleCount=3rd
+| ChampGameCount=8th
+| ChampFFCount=13th
+| RunnerUp=[[Memphis Tigers men's basketball|Memphis]] (vacated)
+| GameCount=2nd
+| RunnerFFCount=3rd
+| Semifinal1=[[2007–08 North Carolina Tar Heels men's basketball team|North Carolina]]
+| FinalFourCount=17th
+| Semifinal2=[[2007–08 UCLA Bruins men's basketball team|UCLA]]
+| FinalFourCount2=18th
+| Coach=[[Bill Self]]
+| CoachCount=1st
+| MOP=[[Mario Chalmers]]
+| MOPTeam=Kansas
+| Attendance=763,607
+| TopScorer=[[Chris Douglas-Roberts]]
+| TopScorerTeam=Memphis
+| Points=140
+}}
+The '''2008 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in a [[single-elimination tournament]] to determine the national champion of men's [[NCAA Division I]]&nbsp;[[college basketball]] as a culmination of the [[2007–08 NCAA Division I men's basketball season|2007–08 basketball season]]. It began on March 18, 2008, and concluded on April 7 at the [[Alamodome]] in [[San Antonio]].
+
+For the first time since seeding began, all four of the top seeds advanced to the Final Four. These were [[Memphis Tigers men's basketball|Memphis]], the winner of the South region, [[UCLA Bruins men's basketball|UCLA]], the winner of the West region making their third consecutive Final Four appearance, [[Kansas Jayhawks men's basketball|Kansas]], the winner of the Midwest region, and overall number one seed and East region winner [[North Carolina Tar Heels men's basketball|North Carolina]], back in the Final Four for the first time since their 2005 national championship.<ref name="NCAA Championship Information">{{cite web | url= http://www.ncaasports.com/basketball/mens/schedules | title=NCAA Men's Basketball Championship Information | accessdate=2006-07-28| archiveurl= https://web.archive.org/web/20060719233440/http://www.ncaasports.com/basketball/mens/schedules| archivedate= 19 July 2006 <!--DASHBot-->| deadurl= no}}</ref><ref name="2008 NCAA tournament selections">{{cite web | url= http://espn.go.com/mens-college-basketball/ncaatourney08/news/story?id=3296729 | title=2008 NCAA tournament selections | accessdate=2016-02-17<!--DASHBot-->}}</ref>
+
+Memphis and Kansas advanced to the national championship game, with Memphis's victory in the semifinals giving them a record-setting 38 for the season, beating the mark set by [[Duke Blue Devils men's basketball|Duke]] in 1999 ([[Kentucky Wildcats men's basketball|Kentucky]] later matched this record in 2012 and 2015).  Kansas, however, spoiled their national championship hopes by handing the Tigers their second loss of the season, winning the game in overtime, 75-68.  Memphis's entire season was later vacated by the NCAA due to eligibility concerns surrounding freshman guard [[Derrick Rose]].<ref>[http://www.cbssports.com/collegebasketball/story/13098232/ncaa-rejects-memphis-final-appeal-of-vacated-wins?tag=headlines;other NCAA rejects Memphis's final appeal of vacated wins]  {{webarchive|url=https://web.archive.org/web/20140202112400/http://www.cbssports.com/collegebasketball/story/13098232/ncaa-rejects-memphis-final-appeal-of-vacated-wins?tag=headlines%3Bother |date=February 2, 2014 }}, cbssports.com, retrieved 2010-03-22</ref>
+
+Entering the tournament on March 18, the top ranked team was [[2007–08 North Carolina Tar Heels men's basketball team|North Carolina]] in both the [[AP Top 25]] and the [[Coaches' Poll|ESPN/USA Today Coaches']] Polls, followed by [[Memphis Tigers men's basketball|Memphis]], [[2007–08 UCLA Bruins men's basketball team|UCLA]] and [[2007–08 Kansas Jayhawks men's basketball team|Kansas]].
+
+[[American University]] (Patriot), [[University of Maryland, Baltimore County|UMBC]] (America East), [[University of Texas at Arlington|Texas-Arlington]] (Southland), and [[Portland State]] (Big Sky) all entered the tournament for the first time in their school's history. Another school, [[Coppin State]] won the MEAC Tournament to become the first 20-loss school ever to make the field. [[Georgia Bulldogs men's basketball|Georgia]], a team that otherwise would not have advanced to the tournament, [[Georgia Bulldogs basketball#2008 SEC Tournament: The Dream Dawgs|won the SEC tournament]] to qualify, and were awarded a #14 seed, the lowest-ever by a major conference team in the tournament.
+
+Whereas the 2007 tournament did not see many upsets, the 2008 tournament was full of them. The sub-regional pod played at the [[St. Pete Times Forum]] in [[Tampa, Florida]] featured four games where a double digit seed won. #5 seeds [[Drake Bulldogs men's basketball|Drake]] and [[Clemson Tigers men's basketball|Clemson]] fell to #12 seeds [[Western Kentucky Hilltoppers men's basketball|Western Kentucky]] and [[Villanova Wildcats men's basketball|Villanova]] while the #4 seeds in that same pod, [[Vanderbilt Commodores men's basketball|Vanderbilt]] and [[Connecticut Huskies men's basketball|Connecticut]], were defeated by #13 seeds [[Siena Saints men's basketball|Siena]] and [[San Diego Toreros men's basketball|San Diego]]. Western Kentucky advanced to the West regional in Phoenix where they lost to UCLA while Villanova was one of two double digit seeds to advance to the Midwest regional. The other was #10 seed [[Davidson Wildcats men's basketball|Davidson]], who rode the hot shooting of [[Stephen Curry (basketball)|Stephen Curry]] to defeat [[Gonzaga Bulldogs men's basketball|Gonzaga]], [[Georgetown Hoyas men's basketball|Georgetown]], and [[Wisconsin Badgers men's basketball|Wisconsin]] before nearly upsetting Kansas in the regional final. The Midwest region alone saw four of its double digit seeds advance, as in addition to Villanova, Siena, and Davidson #11 seed [[Kansas State Wildcats men's basketball|Kansas State]] knocked off #6 seed [[USC Trojans men's basketball|USC]].
+
+The total tournament attendance of 763,607 set a record for highest total tournament attendance, breaking the record set during the [[1999 NCAA Men's Division I Basketball Tournament|1999 tournament]].
+
+==Tournament procedure and locations==
+[[File:USAirwaysCenter-2008NCAAWestRegional.jpg|thumb|right|The [[Talking Stick Resort Arena|U.S. Airways Center]] held the West Regional semifinals and finals on March 27th and 29th, respectively.]]
+[[File:FordField-2008NCAAtournament-MidwestRegional.jpg|thumb|right|[[Ford Field]] held the Midwest Regional semifinals and finals on March 28th and 30th, respectively.]]
+[[File:Alamo Dome CIMG7791.JPG|thumb|The [[Alamodome]], location of the Final Four on April 5th]]
+{{details|NCAA Men's Division I Basketball Championship#Tournament format}}
+
+The NCAA Men's Division I Basketball Championship is an annual single-elimination tournament featuring 65 teams representing all Division I Conferences in the nation. A "play-in" game determined which of the two lowest seeds would play in the first round of 64 against a top seed team. The [[NCAA basketball tournament selection process|Selection Committee]] seeded the entire field from 1 to 65 within four regionals of 16 teams; Mount St. Mary's, as the winner of the play-in game, automatically received a 16 seed. The first and second-round games were played at the following sites, which were not restricted to any one particular Tournament Region, because of the "pod system":<ref name="NCAA Championship Information"/>
+;March 20 and 22
+:[[Honda Center]], [[Anaheim, California]] (Host: [[Big West Conference]])
+:[[Pepsi Center]], [[Denver|Denver, Colorado]] (Hosts: [[Colorado State University]] and [[Mountain West Conference]])
+:[[CenturyLink Center Omaha|Qwest Center Omaha]], [[Omaha, Nebraska]] (Hosts: [[Creighton University]] and [[Missouri Valley Conference]])
+:[[Capital One Arena|Verizon Center]], [[Washington, D.C.]] (Host: [[Georgetown University]])
+;March 21 and 23
+:[[Birmingham Jefferson Convention Complex|BJCC Arena]], [[Birmingham, Alabama]] (Host: [[Southeastern Conference]])
+:[[Verizon Arena|Alltel Arena]], [[North Little Rock, Arkansas]] (Host: [[University of Arkansas at Little Rock]])
+:[[PNC Arena|RBC Center]], [[Raleigh, North Carolina]] (Host: [[North Carolina State University]])
+:[[Amalie Arena|St. Pete Times Forum]], [[Tampa, Florida]] (Host: [[University of South Florida]])
+
+The four regionals are officially named after their geographic areas, a practice that resumed in 2007. Between 2004 and 2006, the regionals were named for their host cities. The following arenas/stadia and cities were the sites for the 2008 regionals:<ref name="NCAA Championship Information"/>
+;March 27 and 29
+:'''East Regional''', [[Spectrum Center (arena)|Charlotte Bobcats Arena]], [[Charlotte, North Carolina]] (Host: [[University of North Carolina at Charlotte]])
+:'''West Regional''', [[Talking Stick Resort Arena|US Airways Center]], [[Phoenix, Arizona]] (Host: [[Arizona State University]])
+
+;March 28 and 30
+:'''Midwest Regional''', [[Ford Field]], [[Detroit|Detroit, Michigan]] (Host: [[University of Detroit Mercy]])
+:'''South Regional''', [[NRG Stadium|Reliant Stadium]], [[Houston|Houston, Texas]] (Hosts: [[University of Houston]] and [[Rice University]])
+
+Each regional winner advanced to the [[Final Four]].
+;April 5 and 7
+:[[Alamodome]], [[San Antonio|San Antonio, Texas]] (Host: [[University of Texas at San Antonio]])<ref name="NCAA Championship Information"/>
+
+For the third time, the Alamodome and the city of San Antonio hosted the Final Four, something it will do once more in 2018. The tournament featured five new buildings and two new host cities. For the first time ever, the tournament was played within the city of Detroit at Ford Field, the [[Detroit Lions]]' home stadium. Previous games in the Detroit area had been played at the [[Pontiac Silverdome]] and [[The Palace of Auburn Hills]], both in the suburbs. For the first, and to date only, time, the tournament was held in the state of Arkansas at the Alltel Arena, located in North Little Rock and the state's second largest indoor venue after [[Bud Walton Arena]] on the campus of the [[University of Arkansas]]. For the first time since 1977, the tournament returned to Nebraska's largest city, this time at the new Qwest Center Omaha, the off-campus home of the [[Creighton Bluejays men's basketball|Creighton Bluejays]]. The tournament also returned to Houston for the first time since 1986, this time at Reliant Stadium, the [[Houston Texans]]' home stadium. This marked the fifth different venue in the city of Houston to host games, a record tied in 2017 by Indianapolis, but which will be overtaken by Houston once more in 2020 when the [[Toyota Center]] is scheduled to host games. And finally, the Charlotte Bobcats Arena became the third arena in the city of Charlotte to host games, replacing the [[Charlotte Coliseum]] and [[Bojangles' Coliseum]]. To date, this tournament also marks the most recent appearance of the BJCC Arena (now known as Legacy Arena), a ten-time host to tournament games.
+
+==Qualifying teams==
+[[File:2008NCAAmensBBtourneyteamsbystate.svg|top|450px]]
+
+{{details|2008 NCAA Men's Division I Basketball Tournament: qualifying teams}}
+
+===Listed by grouping and seeding===
+A total of 31 teams received automatic bids for winning their conference tournament championship. Since the Ivy League does not hold a tournament, its regular season champion received the automatic bid. This left 34 at-large bids to be decided from the rest of the field by the NCAA Selection Committee. The at-large bids, along with the seeding for each team in the tournament, were announced on Sunday, March 16.<ref>[http://www.ticketsolutions.com/ncaa-selection.asp NCAA Tournament Selection Information from Ticket Solutions: Picking The Field] {{webarchive |url=https://web.archive.org/web/20080517083543/http://www.ticketsolutions.com/ncaa-selection.asp |date=May 17, 2008 }}, ticketsolutions.com, retrieved 2008-03-22</ref> Coppin State was the first team to make the tournament with 20&nbsp;losses.<ref>[http://sports.espn.go.com/broadband/video/videopage?videoId=3296941&categoryId=2459792 Breaking Down the East Region] {{webarchive |url=https://web.archive.org/web/20080319103936/http://sports.espn.go.com/broadband/video/videopage?videoId=3296941&categoryId=2459792 |date=March 19, 2008 }}, [[ESPN]] Video, retrieved 2008-03-22</ref> Maryland-Baltimore County, American, Texas-Arlington, and Portland State all received their first tournament bids in school history.<ref>[http://sports.espn.go.com/ncb/recap?gameId=280762466 ESPN - Texas-Arlington vs. Northwestern State - Recap - March 16, 2008] {{webarchive |url=https://web.archive.org/web/20080319000000/http://sports.espn.go.com/ncb/recap?gameId=280762466 |date=March 19, 2008 }}, [[ESPN]], retrieved 2008-03-22</ref><ref>[http://scores.espn.go.com/ncb/recap?gameId=280722502 ESPN - Northern Arizona vs. Portland State - Recap - March 12, 2008] {{webarchive |url=https://web.archive.org/web/20160411021522/http://scores.espn.go.com/ncb/recap?gameId=280722502 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref><ref>[http://sports.espn.go.com/broadband/video/videopage?videoId=3297006&n8pe6c=1&categoryId=2459792 Breaking Down the Midwest Region] {{webarchive |url=https://web.archive.org/web/20080325052118/http://sports.espn.go.com/broadband/video/videopage?videoId=3297006&n8pe6c=1&categoryId=2459792 |date=March 25, 2008 }}, [[ESPN]] Video, retrieved 2008-03-22</ref><ref>[http://sports.espn.go.com/ncb/recap?gameId=280740044 ESPN - Colgate vs. American University - Recap - March 14, 2008] {{webarchive |url=https://web.archive.org/web/20160115004228/http://sports.espn.go.com/ncb/recap?gameId=280740044 |date=January 15, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Four teams returned after absences from the NCAA Tournament of 20 years or more—Drake (last appearing in [[1971 NCAA Men's Division I Basketball Tournament|1971]]),<ref name="MVC final">{{cite news|url=http://sports.espn.go.com/ncb/recap?gameId=280692181 |title=Drake pummels Illinois State, sweeps MVC titles |agency=Associated Press |publisher=''ESPN.com'' |date=2008-03-09 |accessdate=2008-03-20| archiveurl= https://web.archive.org/web/20080313014621/http://sports.espn.go.com/ncb/recap?gameId=280692181| archivedate= 13 March 2008 <!--DASHBot-->| deadurl= no}}</ref> Cal State Fullerton ([[1978 NCAA Men's Division I Basketball Tournament|1978]]),<ref name="Big West final">{{cite news|url=http://sports.espn.go.com/ncb/recap?gameId=280752239 |title=Big West win puts Cal State Fullerton in NCAA tourney for first time since '78 |agency=Associated Press |publisher=''ESPN.com'' |date=2008-03-15 |accessdate=2008-03-20| archiveurl= https://web.archive.org/web/20080320235535/http://sports.espn.go.com/ncb/recap?gameId=280752239| archivedate= 20 March 2008 <!--DASHBot-->| deadurl= no}}</ref> Cornell ([[1988 NCAA Men's Division I Basketball Tournament|1988]]),<ref name="Ivy clinched">{{cite news|url=http://sports.espn.go.com/ncb/recap?gameId=280610172 |title=Gore, Wittman will Cornell into Big Dance with first Ivy League title in 20 years |agency=Associated Press |publisher=''ESPN.com'' |date=2008-03-01 |accessdate=2008-03-20| archiveurl= https://web.archive.org/web/20080305135452/http://sports.espn.go.com/ncb/recap?gameId=280610172| archivedate= 5 March 2008 <!--DASHBot-->| deadurl= no}}</ref> and Baylor (1988).<ref name="Baylor v Purdue">{{cite news | url=http://sports.espn.go.com/ncb/preview?gameId=284000039 | title=Baylor vs. Purdue: Preview | date=2008-03-20 | accessdate=2008-06-09 | publisher=''ESPNcom''}}</ref>
+
+{|
+|-
+| valign=top |
+{| class="wikitable"
+|-
+! colspan="5" style="background:#ffdead;" | East Regional – [[Charlotte, North Carolina|Charlotte]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|1
+|[[2007–08 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[Atlantic Coast Conference|ACC]]
+|32-2
+|[[2008 ACC Men's Basketball Tournament|Tournament Champion]]
+|-
+|2
+|[[2007–08 Tennessee Volunteers men's basketball team|Tennessee]]
+|[[Southeastern Conference|SEC]]
+|29-4
+|At-Large Bid
+|-
+|3
+|[[2007–08 Louisville Cardinals men's basketball team|Louisville]]
+|[[Big East Conference|Big East]]
+|24-8
+|At-Large Bid
+|-
+|4
+|[[2007–08 Washington State Cougars men's basketball team|Washington State]]
+|[[Pacific-10 Conference|Pac-10]]
+|24-8
+|At-Large Bid
+|-
+|5
+|[[2007–08 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
+||[[Big East Conference|Big East]]
+|24-7
+|At-Large Bid
+|-
+|6
+|[[2007–08 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[Big 12 Conference|Big 12]]
+|22-11
+|At-Large Bid
+|-
+|7
+|[[2007–08 Butler Bulldogs men's basketball team|Butler]]
+|[[Horizon League|Horizon]]
+|29-3
+|[[2008 Horizon League Men's Basketball Tournament|Tournament Champion]]
+|-
+|8
+|[[2007–08 Indiana Hoosiers men's basketball team|Indiana]]
+|[[Big Ten Conference|Big Ten]]
+|25-7
+|At-Large Bid
+|-
+|9
+|[[Arkansas Razorbacks basketball|Arkansas]]
+|[[Southeastern Conference|SEC]]
+|22-11
+|At-Large Bid
+|-
+|10
+|[[South Alabama Jaguars men's basketball|South Alabama]]
+|[[Sun Belt Conference|Sun Belt]]
+|26-6
+|At-Large Bid
+|-
+|11
+|[[Saint Joseph's Hawks men's basketball|Saint Joseph's]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|21-12
+|At-Large Bid
+|-
+|12
+|[[2007–08 George Mason Patriots men's basketball team|George Mason]]
+|[[Colonial Athletic Association|CAA]]
+|23-10
+|[[2008 CAA Men's Basketball Tournament|Tournament Champion]]
+|-
+|13
+|[[Winthrop Eagles men's basketball|Winthrop]]
+|[[Big South Conference|Big South]]
+|22-11
+|[[2008 Big South Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|14
+|[[Boise State Broncos men's basketball|Boise State]]
+|[[Western Athletic Conference|WAC]]
+|25-8
+|[[2008 WAC Men's Basketball Tournament|Tournament Champion]]
+|-
+|15
+|[[American Eagles men's basketball|American]]
+|[[Patriot League|Patriot]]
+|21-11
+|[[2008 Patriot League Men's Basketball Tournament|Tournament Champion]]
+|-
+|16A
+|[[Mount St. Mary's Mountaineers men's basketball|Mount St. Mary's]]<br /><small>(Play-in Winner)</small>
+|[[Northeast Conference|Northeast]]
+|18-14
+|[[2008 Northeast Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|16B
+|[[Coppin State Eagles men's basketball|Coppin State]]<br /><small>(Play-in Loser)</small>
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|16-20
+|[[2008 Mid-Eastern Athletic Conference Men's Basketball Tournament|Tournament Champion]]
+|}
+| valign=top |
+{| class="wikitable"
+|-
+! colspan="5" style="background:#ffdead;" | West Regional – [[Phoenix, Arizona|Phoenix]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|1
+|[[2007–08 UCLA Bruins men's basketball team|UCLA]]
+|[[Pacific-10 Conference|Pac-10]]
+|31-3
+|[[2008 Pacific-10 Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|2
+|[[2007–08 Duke Blue Devils men's basketball team|Duke]]
+|[[Atlantic Coast Conference|ACC]]
+|27-5
+|At-Large Bid
+|-
+|3
+|[[Xavier Musketeers men's basketball|Xavier]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|27-6
+|At-Large Bid
+|-
+|4
+|[[2007–08 Connecticut Huskies men's basketball team|Connecticut]]
+|[[Big East Conference|Big East]]
+|24-8
+|At-Large Bid
+|-
+|5
+|[[2007–08 Drake Bulldogs men's basketball team|Drake]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|28-4
+|[[2008 Missouri Valley Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|6
+|[[2007–08 Purdue Boilermakers men's basketball team|Purdue]]
+|[[Big Ten Conference|Big Ten]]
+|24-8
+|At-Large Bid
+|-
+|7
+|[[2007–08 West Virginia Mountaineers men's basketball team|West Virginia]]
+|[[Big East Conference|Big East]]
+|24-10
+|At-Large Bid
+|-
+|8
+|[[2007–08 BYU Cougars men's basketball team|BYU]]
+|[[Mountain West Conference|Mountain West]]
+|27-7
+|At-Large Bid
+|-
+|9
+|[[2007–08 Texas A&M Aggies men's basketball team|Texas A&M]]
+|[[Big 12 Conference|Big 12]]
+|24-10
+|At-Large Bid
+|-
+|10
+|[[2007–08 Arizona Wildcats men's basketball team|Arizona]]
+|[[Pacific-10 Conference|Pac-10]]
+|19-14
+|At-Large Bid
+|-
+|11
+|[[2007–08 Baylor Bears men's basketball team|Baylor]]
+|[[Big 12 Conference|Big 12]]
+|21-10
+|At-Large Bid
+|-
+|12
+|[[WKU Hilltoppers basketball|WKU]]
+|[[Sun Belt Conference|Sun Belt]]
+|27-6
+|[[2008 Sun Belt Men's Basketball Tournament|Tournament Champion]]
+|-
+|13
+|[[San Diego Toreros men's basketball|San Diego]]
+|[[West Coast Conference|WCC]]
+|21-13
+|[[2008 West Coast Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|14
+|[[Georgia Bulldogs men's basketball|Georgia]]
+|[[Southeastern Conference|SEC]]
+|17-16
+|[[2008 SEC Men's Basketball Tournament|Tournament Champion]]
+|-
+|15
+|[[Belmont Bruins men's basketball|Belmont]]
+|[[Atlantic Sun Conference|Atlantic Sun]]
+|25-8
+|[[2008 Atlantic Sun Men's Basketball Tournament|Tournament Champion]]
+|-
+|16
+|[[Mississippi Valley State Delta Devils basketball|Mississippi Valley State]]
+|[[Southwestern Athletic Conference|SWAC]]
+|17-15
+|[[2008 Southwestern Athletic Conference Men's Basketball Tournament|Tournament Champion]]
+|}
+|-
+| valign=top |
+{| class="wikitable"
+|-
+! colspan="5" style="background:#ffdead;" | Midwest Regional – [[Detroit, Michigan|Detroit]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|1
+|[[2007–08 Kansas Jayhawks men's basketball team|Kansas]]
+|[[Big 12 Conference|Big 12]]
+|31-3
+|[[2008 Big 12 Men's Basketball Tournament|Tournament Champion]]
+|-
+|2
+|[[2007–08 Georgetown Hoyas men's basketball team|Georgetown]]
+|[[Big East Conference|Big East]]
+|27-5
+|At-Large Bid
+|-
+|3
+|[[2007–08 Wisconsin Badgers men's basketball team|Wisconsin]]
+|[[Big Ten Conference|Big Ten]]
+|29-4
+|[[2008 Big Ten Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|4
+|[[2007–08 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+|[[Southeastern Conference|SEC]]
+|26-7
+|At-Large Bid
+|-
+|5
+|[[2007–08 Clemson Tigers men's basketball team|Clemson]]
+|[[Atlantic Coast Conference|ACC]]
+|24-9
+|At-Large Bid
+|-
+|6
+|[[2007–08 USC Trojans men's basketball team|Southern California]] (Vacated)
+|[[Pacific-10 Conference|Pac-10]]
+|21-11#
+|At-Large Bid
+|-
+|7
+|[[2007–08 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|[[West Coast Conference|WCC]]
+|25-7
+|At-Large Bid
+|-
+|8
+|[[UNLV Runnin' Rebels basketball|UNLV]]
+|[[Mountain West Conference|Mountain West]]
+|26-7
+|[[2008 MWC Men's Basketball Tournament|Tournament Champion]]
+|-
+|9
+|[[Kent State Golden Flashes men's basketball|Kent State]]
+|[[Mid-American Conference|Mid-American]]
+|28-6
+|[[2008 MAC Men's Basketball Tournament|Tournament Champion]]
+|-
+|10
+|[[2007–08 Davidson Wildcats men's basketball team|Davidson]]
+|[[Southern Conference|SoCon]]
+|26-6
+|[[2008 Southern Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|11
+|[[2007–08 Kansas State Wildcats men's basketball team|Kansas State]]
+|[[Big 12 Conference|Big 12]]
+|20-11
+|At-Large Bid
+|-
+|12
+|[[2007–08 Villanova Wildcats men's basketball team|Villanova]]
+|[[Big East Conference|Big East]]
+|20-12
+|At-Large Bid
+|-
+|13
+|[[Siena Saints men's basketball|Siena]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|22-10
+|[[2008 MAAC Men's Basketball Tournament|Tournament Champion]]
+|-
+|14
+|[[Cal State Fullerton Titans men's basketball|Fullerton State]]
+|[[Big West Conference|Big West]]
+|24-8
+|[[2008 Big West Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|15
+|[[2007–08 UMBC Retrievers men's basketball team|UMBC]]
+|[[America East Conference|America East]]
+|24-8
+|[[2008 America East Men's Basketball Tournament|Tournament Champion]]
+|-
+|16
+|[[Portland State Vikings men's basketball|Portland State]]
+|[[Big Sky Conference|Big Sky]]
+|23-9
+|[[2008 Big Sky Men's Basketball Tournament|Tournament Champion]]
+|}
+| valign=top |
+{| class="wikitable"
+|-
+! colspan="5" style="background:#ffdead;" | South Regional – [[Houston]]
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|1
+|[[2007–08 Memphis Tigers men's basketball team|Memphis]] (Vacated)
+|[[Conference USA|C-USA]]
+|33-1#
+|[[2008 Conference USA Men's Basketball Tournament|Tournament Champion]]
+|-
+|2
+|[[2007–08 Texas Longhorns men's basketball team|Texas]]
+|[[Big 12 Conference|Big 12]]
+|28-6
+|At-Large Bid
+|-
+|3
+|[[Stanford Cardinal men's basketball|Stanford]]
+|[[Pacific-10 Conference|Pac-10]]
+|26-7
+|At-Large Bid
+|-
+|4
+|[[Pittsburgh Panthers men's basketball|Pittsburgh]]
+|[[Big East Conference|Big East]]
+|26-9
+|[[2008 Big East Men's Basketball Tournament|Tournament Champion]]
+|-
+|5
+|[[2007–08 Michigan State Spartans men's basketball team|Michigan State]]
+|[[Big Ten Conference|Big Ten]]
+|25-8
+|At-Large Bid
+|-
+|6
+|[[Marquette Golden Eagles men's basketball|Marquette]]
+|[[Big East Conference|Big East]]
+|24-9
+|At-Large Bid
+|-
+|7
+|[[Miami Hurricanes men's basketball|Miami (Florida)]]
+|[[Atlantic Coast Conference|ACC]]
+|22-10
+|At-Large Bid
+|-
+|8
+|[[2007–08 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+|[[Southeastern Conference|SEC]]
+|22-10
+|At-Large Bid
+|-
+|9
+|[[2007–08 Oregon Ducks men's basketball team|Oregon]]
+|[[Pacific-10 Conference|Pac-10]]
+|18-13
+|At-Large Bid
+|-
+|10
+|[[Saint Mary's Gaels men's basketball|Saint Mary's (Cal.)]]
+|[[West Coast Conference|WCC]]
+|25-6
+|At-Large Bid
+|-
+|11
+|[[2007–08 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[Southeastern Conference|SEC]]
+|18-12
+|At-Large Bid
+|-
+|12
+|[[2007–08 Temple Owls men's basketball team|Temple]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|21-12
+|[[2008 Atlantic 10 Men's Basketball Tournament|Tournament Champion]]
+|-
+|13
+|[[Oral Roberts Golden Eagles men's basketball|Oral Roberts]]
+|[[The Summit League|Summit]]
+|24-8
+|[[2008 Summit League Men's Basketball Tournament|Tournament Champion]]
+|-
+|14
+|[[Cornell Big Red men's basketball|Cornell]]
+|[[Ivy League|Ivy]]
+|22-5
+|Regular season Champion
+|-
+|15
+|[[Austin Peay Governors men's basketball|Austin Peay]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|24-10
+|[[2008 Ohio Valley Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|16
+|[[Texas-Arlington Mavericks men's basketball|Texas-Arlington]]
+|[[Southland Conference|Southland]]
+|21-11
+|[[2008 Southland Conference Men's Basketball Tournament|Tournament Champion]]
+|}
+|}
+
+<nowiki>#</nowiki> Both Southern California and Memphis later vacated all wins from the season, leaving their official records at 0-11 and 0-1, respectively.
+
+==Bracket==
+
+{{Location map+|USA|width=450|float=right|caption=2008 first and second rounds (note: the play-in game was held in Dayton, Ohio)|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.907192|lon_deg=-77.036871|position=left|background=#FFFFFF|label=Washington, D.C.|link=Capital One Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.779590|lon_deg=-78.638179|position=left|background=#FFFFFF|label=Raleigh|link=PNC Arena|RBC Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=27.950575|lon_deg=-82.457178|position=right|background=#FFFFFF|label=Tampa|link=Amalie Arena|St. Pete Times Forum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.520661|lon_deg=-86.802490|position=right|background=#FFFFFF|label=Birmingham|link=BJCC Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=34.769536|lon_deg=-92.267094|position=bottom|background=#FFFFFF|label=Little Rock|link=Alltel Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.252363|lon_deg=-95.997988|position=left|background=#FFFFFF|label=Omaha|link=CenturyLink Center Omaha|Qwest Center Omaha}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.807778|lon_deg=-117.876667|position=left|background=#FFFFFF|label=Anaheim|link=Honda Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.738436|lon_deg=-104.984859|position=left|background=#FFFFFF|label=Denver|link=Pepsi Center}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2008 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.448377|lon_deg=-112.074037|position=left|background=#FFFFFF|label=Phoenix|link=Talking Stick Resort Arena|US Airways Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=29.760427|lon_deg=-95.369803|position=bottom|background=#FFFFFF|label=Houston|link=NRG Stadium|Reliant Stadium}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=42.331427|lon_deg=-83.045754|position=left|background=#FFFFFF|label=Detroit|link=Ford Field}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=35.225225|lon_deg=-80.839314|position=left|background=#FFFFFF|label=Charlotte|link=Spectrum Center (arena)|Time Warner Cable Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=29.424122|lon_deg=-98.493628|position=left|background=#FFFFFF|label=San Antonio|link=Alamodome}}
+}}
+
+<!--'''''NOTE:''' Initials where noted are taken from official NCAA Bracket published below in External Links.''-->
+<nowiki>*</nowiki> – Denotes overtime period
+
+===Opening Round Game – Dayton, Ohio===
+Winner advances to 16th seed in East Regional vs. (1) [[University of North Carolina at Chapel Hill|North Carolina]].
+
+{{2TeamBracket | RD1=Opening Round Game<br />March 18
+| RD1-seed1=16a
+| RD1-team1='''[[Mount St. Mary's Mountaineers men's basketball|Mount St. Mary's]]'''
+| RD1-score1='''69'''
+| RD1-seed2=16b
+| RD1-team2=[[Coppin State University|Coppin St.]]
+| RD1-score2=60
+}}
+
+===East Regional – Charlotte, North Carolina===
+
+{{16TeamBracket | RD1=First round<br />March 20–21
+| RD2=Second round<br />March 22–23
+| RD3=Regional semifinals<br />March 27 
+| RD4=Regional finals<br />March 29
+| subgroup1='''[[RBC Center|Raleigh]]'''
+| subgroup2='''[[Pepsi Center|Denver]]'''
+| subgroup3='''[[BJCC Arena|Birmingham]]'''
+| subgroup4='''[[BJCC Arena|Birmingham]]'''
+| RD1-team01= '''[[2007–08 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-team02= [[Mount St. Mary's Mountaineers men's basketball|Mount St. Mary's]]
+| RD1-score01= '''113'''
+| RD1-score02= 74
+| RD1-team03= [[2007–08 Indiana Hoosiers men's basketball team|Indiana]]
+| RD1-team04= '''[[Arkansas Razorbacks basketball|Arkansas]]'''
+| RD1-score03= 72
+| RD1-score04= '''86'''
+| RD1-team05= '''[[2007–08 Notre Dame Fighting Irish men's basketball team|Notre Dame]]'''
+| RD1-team06= [[2007–08 George Mason Patriots men's basketball team|George Mason]]
+| RD1-score05= '''68'''
+| RD1-score06= 50
+| RD1-team07= '''[[2007–08 Washington State Cougars men's basketball team|Washington St.]]'''
+| RD1-team08= [[Winthrop Eagles men's basketball|Winthrop]]
+| RD1-score07= '''71'''
+| RD1-score08= 40
+| RD1-team09= '''[[Oklahoma Sooners#Men's basketball|Oklahoma]]'''
+| RD1-team10= [[Saint Joseph's Hawks#Men's Basketball|St. Joseph's]]
+| RD1-score09= '''72'''
+| RD1-score10= 64
+| RD1-team11= '''[[Louisville Cardinals men's basketball|Louisville]]'''
+| RD1-team12= [[Boise State Broncos|Boise St.]]
+| RD1-score11= '''79'''
+| RD1-score12= 61
+| RD1-team13= '''[[Butler Bulldogs men's basketball|Butler]]'''
+| RD1-team14= [[South Alabama Jaguars men's basketball|South Alabama]]
+| RD1-score13= '''81'''
+| RD1-score14= 61
+| RD1-team15= '''[[Tennessee Volunteers basketball|Tennessee]]'''
+| RD1-team16= [[American University Eagles|American]]
+| RD1-score15= '''72'''
+| RD1-score16= 57
+| RD2-seed01= 1
+| RD2-team01= '''North Carolina'''
+| RD2-seed02= 9
+| RD2-team02= Arkansas
+| RD2-score01= '''108'''
+| RD2-score02= 77
+| RD2-seed03= 5
+| RD2-team03= Notre Dame
+| RD2-seed04= 4
+| RD2-team04= '''Washington St.'''
+| RD2-score03= 41
+| RD2-score04= '''61'''
+| RD2-seed05= 6
+| RD2-team05= Oklahoma
+| RD2-seed06= 3
+| RD2-team06= '''Louisville'''
+| RD2-score05= 48
+| RD2-score06= '''78'''
+| RD2-seed07= 7
+| RD2-team07= Butler
+| RD2-seed08= 2
+| RD2-team08= '''Tennessee'''
+| RD2-score07= 71
+| RD2-score08= '''76*'''
+| RD3-seed01= 1
+| RD3-team01= '''North Carolina'''
+| RD3-seed02= 4
+| RD3-team02= Washington St.
+| RD3-score01= '''68'''
+| RD3-score02= 47
+| RD3-seed03= 3
+| RD3-team03= '''Louisville'''
+| RD3-seed04= 2
+| RD3-team04= Tennessee
+| RD3-score03= '''79'''
+| RD3-score04= 60
+| RD4-seed01= 1
+| RD4-team01= '''North Carolina'''
+| RD4-seed02= 3
+| RD4-team02= Louisville
+| RD4-score01= '''83'''
+| RD4-score02= 73
+}}
+
+===Midwest Regional – Detroit, Michigan===
+
+{{16TeamBracket | RD1=First round<br />March 20–21
+| RD2=Second round<br />March 22–23
+| RD3=Regional semifinals<br />March 28
+| RD4=Regional finals<br />March 30
+| subgroup1='''[[Qwest Center Omaha|Omaha]]'''
+| subgroup2='''[[St. Pete Times Forum|Tampa]]'''
+| subgroup3='''[[Qwest Center Omaha|Omaha]]'''
+| subgroup4='''[[RBC Center|Raleigh]]'''
+| RD1-team01= '''[[2007–08 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-team02= [[Portland State Vikings men's basketball|Portland St.]]
+| RD1-score01= '''85'''
+| RD1-score02= 61
+| RD1-team03= '''[[UNLV Runnin' Rebels basketball|UNLV]]'''
+| RD1-team04= [[Kent State Golden Flashes men's basketball|Kent St.]]
+| RD1-score03= '''71'''
+| RD1-score04= 58
+| RD1-team05= [[Clemson Tigers men's basketball|Clemson]]
+| RD1-team06= '''[[Villanova Wildcats men's basketball|Villanova]]'''
+| RD1-score05= 69
+| RD1-score06= '''75'''
+| RD1-team07= [[2007–08 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+| RD1-team08= '''[[Siena Saints men's basketball|Siena]]'''
+| RD1-score07= 62
+| RD1-score08= '''83'''
+| RD1-team09= [[USC Trojans men's basketball|Southern California]]
+| RD1-team10= '''[[2007–08 Kansas State Wildcats men's basketball team|Kansas St.]]'''
+| RD1-score09=67
+| RD1-score10= '''80'''
+| RD1-team11= '''[[Wisconsin Badgers men's basketball|Wisconsin]]'''
+| RD1-team12= [[Cal State Fullerton Titans men's basketball|Cal State Fullerton]]
+| RD1-score11= '''71'''
+| RD1-score12= 56
+| RD1-team13= [[2007–08 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+| RD1-team14= '''[[Davidson Wildcats men's basketball|Davidson]]'''
+| RD1-score13= 76
+| RD1-score14= '''82'''
+| RD1-team15= '''[[2007–08 Georgetown Hoyas men's basketball team|Georgetown]]'''
+| RD1-team16= [[UMBC Retrievers|UMBC]]
+| RD1-score15= '''66'''
+| RD1-score16= 47
+| RD2-seed01= 1
+| RD2-team01= '''Kansas'''
+| RD2-seed02= 8
+| RD2-team02= UNLV 
+| RD2-score01= '''75'''
+| RD2-score02= 56
+| RD2-seed03= 12
+| RD2-team03= '''Villanova''' 
+| RD2-seed04= 13
+| RD2-team04= Siena 
+| RD2-score03='''84'''
+| RD2-score04=72
+| RD2-seed05= 11
+| RD2-team05= Kansas St.
+| RD2-seed06= 3
+| RD2-team06= '''Wisconsin'''
+| RD2-score05= 55
+| RD2-score06= '''72'''
+| RD2-seed07= 10
+| RD2-team07= '''Davidson '''
+| RD2-seed08= 2
+| RD2-team08= Georgetown 
+| RD2-score07= '''74'''
+| RD2-score08= 70
+| RD3-seed01=1
+| RD3-team01='''Kansas'''
+| RD3-seed02=12
+| RD3-team02=Villanova
+| RD3-score01= '''72'''
+| RD3-score02= 57
+| RD3-seed03= 3
+| RD3-team03= Wisconsin
+| RD3-seed04= 10
+| RD3-team04= '''Davidson'''
+| RD3-score03= 56
+| RD3-score04= '''73'''
+| RD4-seed01= 1
+| RD4-team01= '''Kansas'''
+| RD4-seed02= 10
+| RD4-team02= Davidson
+| RD4-score01= '''59'''
+| RD4-score02= 57
+}}
+
+===South Regional – Houston, Texas===
+
+{{16TeamBracket | RD1=First round<br />March 20–21
+| RD2=Second round<br />March 22–23
+| RD3=Regional semifinals<br />March 28
+| RD4=Regional finals<br />March 30
+| subgroup1='''[[Alltel Arena|North Little Rock]]'''
+| subgroup2='''[[Pepsi Center|Denver]]'''
+| subgroup3='''[[Honda Center|Anaheim]]'''
+| subgroup4='''[[Alltel Arena|North Little Rock]]'''
+| RD1-team01= '''[[Memphis Tigers men's basketball|Memphis]]'''
+| RD1-team02= [[University of Texas at Arlington#Athletics|Texas–Arlington]]
+| RD1-score01= '''87'''
+| RD1-score02= 63
+| RD1-team03= '''[[Mississippi State Bulldogs#Men's basketball|Mississippi State]]'''
+| RD1-team04= [[2007–08 Oregon Ducks men's basketball team|Oregon]]
+| RD1-score03= '''76'''
+| RD1-score04= 69
+| RD1-team05= '''[[2007–08 Michigan State Spartans men's basketball team|Michigan State]]'''
+| RD1-team06= [[Temple Owls#Basketball|Temple]]
+| RD1-score05= '''72'''
+| RD1-score06= 61
+| RD1-team07= '''[[Pittsburgh Panthers men's basketball|Pittsburgh]]'''
+| RD1-team08= [[Oral Roberts Golden Eagles men's basketball|Oral Roberts]]
+| RD1-score07= '''82'''
+| RD1-score08= 63
+| RD1-team09= '''[[Marquette Golden Eagles men's basketball|Marquette]]'''
+| RD1-team10= [[Kentucky Wildcats men's basketball|Kentucky]]
+| RD1-score09='''74'''
+| RD1-score10= 66
+| RD1-team11='''[[Stanford Cardinal men's basketball|Stanford]]'''
+| RD1-team12=[[Cornell Big Red men's basketball|Cornell]]
+| RD1-score11= '''77'''
+| RD1-score12= 53
+| RD1-team13= '''[[Miami Hurricanes#Men's basketball|Miami (FL)]]'''
+| RD1-team14= [[Saint Mary's College of California#Athletics|Saint Mary's]]
+| RD1-score13= '''78'''
+| RD1-score14= 64
+| RD1-team15= '''[[Texas Longhorns men's basketball|Texas]]'''
+| RD1-team16= [[Austin Peay Governors men's basketball|Austin Peay]]
+| RD1-score15= '''74'''
+| RD1-score16= 54
+| RD2-seed01= 1
+| RD2-team01= '''Memphis'''
+| RD2-seed02= 8
+| RD2-team02= Mississippi State
+| RD2-score01= '''77'''
+| RD2-score02= 74
+| RD2-seed03= 5
+| RD2-team03= '''Michigan State'''
+| RD2-seed04= 4
+| RD2-team04= Pittsburgh
+| RD2-score03= '''65'''
+| RD2-score04= 54
+| RD2-seed05= 6
+| RD2-team05= Marquette
+| RD2-seed06= 3
+| RD2-team06= '''Stanford'''
+| RD2-score05= 81
+| RD2-score06= '''82*'''
+| RD2-seed07= 7
+| RD2-team07= Miami (FL)
+| RD2-seed08= 2
+| RD2-team08= '''Texas'''
+| RD2-score07= 72
+| RD2-score08= '''75'''
+| RD3-seed01= 1
+| RD3-team01= '''Memphis'''
+| RD3-seed02= 5
+| RD3-team02= Michigan State
+| RD3-score01= '''92'''
+| RD3-score02= 74
+| RD3-seed03= 3
+| RD3-team03= Stanford
+| RD3-seed04= 2
+| RD3-team04= '''Texas'''
+| RD3-score03= 62
+| RD3-score04= '''82'''
+| RD4-seed01= 1
+| RD4-team01= '''Memphis'''
+| RD4-seed02= 2
+| RD4-team02= Texas
+| RD4-score01= '''85'''
+| RD4-score02= 67
+}}
+
+===West Regional – Phoenix, Arizona===
+
+{{16TeamBracket | RD1=First round<br />March 20–21
+| RD2=Second round<br />March 22–23
+| RD3=Regional semifinals<br />March 27 
+| RD4=Regional finals<br />March 29 
+| subgroup1='''[[Honda Center|Anaheim]]'''
+| subgroup2='''[[Amalie Arena|Tampa]]'''
+| subgroup3='''[[Capital One Arena|Washington, D.C.]]'''
+| subgroup4='''[[Capital One Arena|Washington, D.C.]]'''
+| RD1-team01= '''[[2007–08 UCLA Bruins men's basketball team|UCLA]]'''
+| RD1-team02= [[Mississippi Valley State University|Miss Valley St.]]
+| RD1-score01= '''70'''
+| RD1-score02= 29
+| RD1-team03= [[Brigham Young Cougars men's basketball|BYU]]
+| RD1-team04= '''[[2007–08 Texas A&M Aggies men's basketball team|Texas A&M]]'''
+| RD1-score03= 62
+| RD1-score04= '''67'''
+| RD1-team05= [[2007–08 Drake Bulldogs men's basketball team|Drake]]
+| RD1-team06= '''[[WKU Hilltoppers basketball|WKU]]'''
+| RD1-score05= 99
+| RD1-score06= '''101*'''
+| RD1-team07= [[2007–08 Connecticut Huskies men's basketball team|Connecticut]]
+| RD1-team08= '''[[San Diego Toreros men's basketball|San Diego]]'''
+| RD1-score07= 69
+| RD1-score08= '''70*'''
+| RD1-team09= '''[[Purdue Boilermakers men's basketball|Purdue]]'''
+| RD1-team10= [[Baylor Bears#Basketball|Baylor]]
+| RD1-score09= '''90'''
+| RD1-score10= 79
+| RD1-team11='''[[Xavier Musketeers men's basketball|Xavier]]'''
+| RD1-team12=[[Georgia Bulldogs#Basketball|Georgia]]
+| RD1-score11= '''73'''
+| RD1-score12= 61
+| RD1-team13= '''[[2007–08 West Virginia Mountaineers men's basketball team|West Virginia]]'''
+| RD1-team14= [[Arizona Wildcats men's basketball|Arizona]]
+| RD1-score13= '''75 '''
+| RD1-score14= 65
+| RD1-team15= '''[[2007–08 Duke Blue Devils men's basketball team|Duke]]'''
+| RD1-team16= [[Belmont Bruins men's basketball|Belmont]]
+| RD1-score15= '''71'''
+| RD1-score16= 70
+| RD2-seed01= 1
+| RD2-team01= '''UCLA'''
+| RD2-seed02= 9
+| RD2-team02= Texas A&M
+| RD2-score01= '''51'''<!--The officials changed the score from 53-49 to 51-49. See http://www.sportsline.com/collegebasketball/story/10732665-->
+| RD2-score02= 49
+| RD2-seed03= 12
+| RD2-team03= '''WKU'''
+| RD2-seed04= 13
+| RD2-team04= San Diego
+| RD2-score03= '''72'''
+| RD2-score04= 63
+| RD2-seed05= 6
+| RD2-team05= Purdue 
+| RD2-seed06= 3
+| RD2-team06= '''Xavier'''
+| RD2-score05= 78
+| RD2-score06= '''85'''
+| RD2-seed07= 7
+| RD2-team07= '''West Virginia'''
+| RD2-seed08= 2 
+| RD2-team08= Duke
+| RD2-score07= '''73'''
+| RD2-score08= 67
+| RD3-seed01= 1
+| RD3-team01= '''UCLA'''
+| RD3-seed02= 12
+| RD3-team02= WKU
+| RD3-score01= '''88'''
+| RD3-score02= 78
+| RD3-seed03= 3
+| RD3-team03= '''Xavier'''
+| RD3-seed04= 7
+| RD3-team04= West Virginia
+| RD3-score03= '''79*'''
+| RD3-score04= 75
+| RD4-seed01= 1
+| RD4-team01= '''UCLA'''
+| RD4-seed02= 3
+| RD4-team02= Xavier
+| RD4-score01= '''76'''
+| RD4-score02= 57
+}}
+
+===Final Four – Alamodome, San Antonio, Texas===
+
+{{4TeamBracket
+| RD1=National Semifinals<br />April 5
+| RD2=National Championship Game<br />April 7
+| RD1-seed1= E1
+| RD1-team1= [[2007–08 North Carolina Tar Heels men's basketball team|North Carolina]]
+| RD1-score1= 66
+| RD1-seed2='''M1'''
+| RD1-team2= '''[[2007–08 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-score2= '''84'''
+| RD1-seed3= '''S1'''
+| RD1-team3= '''[[Memphis Tigers men's basketball|Memphis]]'''
+| RD1-score3= '''78'''
+| RD1-seed4= W1
+| RD1-team4= [[2007–08 UCLA Bruins men's basketball team|UCLA]]
+| RD1-score4= 63
+| RD2-seed1='''M1'''
+| RD2-team1= '''Kansas'''
+| RD2-score1= '''75*'''
+| RD2-seed2= S1
+| RD2-team2= Memphis
+| RD2-score2= 68
+}}
+
+[http://www.ncaa.com/uploadedFiles/Sports/Basketball_(M)/2008D1MensBasketballBracket.pdf Bracket Source] <!-- NOTE: DO NOT DELETE. External links do not count as sources. People need to immediately see what to click on to verify the source. -->
+
+==Game summaries==
+
+===East Region===
+
+====First round====
+Top seed North Carolina defeated the play-in game winner Mount St. Mary's 113-74. Their high scoring tied the mark for second most in North Carolina tournament history, aided by [[Tyler Hansbrough]] and [[Ty Lawson]]'s 21 points each.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000047 Mount St. Mary's vs. North Carolina - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021532/http://scores.espn.go.com/ncb/recap?gameId=284000047 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> They met Arkansas in the second round, a ninth seed who defeated eighth-seed Indiana 86-72. Indiana had struggled with several tough losses late in the season after a coaching scandal. [[Sonny Weems]] had a career-high 31 points despite Indiana having two AP All-Americans, [[D.J. White]] and [[Eric Gordon]].<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000048 Arkansas vs. Indiana - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021533/http://scores.espn.go.com/ncb/recap?gameId=284000048 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Fifth seed Notre Dame advanced to the second round with a 68-50 win over 12th seed George Mason. George Mason had two starters from the 2006 final four team, but were unable to come back after a surge by the Irish early in the first half.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000050 George Mason vs. Notre Dame - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021533/http://scores.espn.go.com/ncb/recap?gameId=284000050 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> In the same pod, fourth seeded Washington State defeated 13th-seed Winthrop 71-40, holding them to 11 points in the second half and leaving them far behind after a 25-1 run.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000051 Winthrop vs. Washington State - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021534/http://scores.espn.go.com/ncb/recap?gameId=284000051 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> In [[Birmingham Jefferson Convention Complex|Birmingham, Alabama]], the sixth seed Oklahoma defeated 11-th seeded St. Joseph's 72-64, led by [[David Godbold]], a senior not normally known as a team leader who surprised many with his 25 points.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000054 Saint Joseph's vs. Oklahoma - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021534/http://scores.espn.go.com/ncb/recap?gameId=284000054 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Later in the evening, third seeded Louisville defeated WAC champion and 14th seed Boise State 79-61, sending the Broncos home for the second straight time. They had defeated Boise St. in the 1994 tournament as well, the last time the WAC team came to the tournament.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000055 Boise State vs. Louisville - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021535/http://scores.espn.go.com/ncb/recap?gameId=284000055 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> In the afternoon session at Birmingham, seventh seeded Butler defeated 10th seed South Alabama in an 81-61 blowout, setting a school record for 30 wins in one season,<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000057 South Alabama vs. Butler - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021536/http://scores.espn.go.com/ncb/recap?gameId=284000057 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> and number two seed Tennessee survived a brief scare at the hands of 15th-seeded American, 72-57. American's star player, [[Garrison Carr]], led his team with 26 points, tying the game at 40 with 11 minutes to go before Tennessee went on a 10-0 run to score the win.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000058 American University vs. Tennessee - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021537/http://scores.espn.go.com/ncb/recap?gameId=284000058 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref>
+
+====Second round====
+Washington State, the region's fourth seed, was first to earn a spot in the [[Charlotte Bobcats Arena|Charlotte, North Carolina]] East Regional by handily beating fifth-seeded Notre Dame, 61-41 in [[Pepsi Center|Denver, Colorado]]. The rout came as a shock to many sportscasters, who expected Notre Dame's offense, which was averaging about 80 points a game, to outdo the Cougars. Instead, Notre Dame shot 24% from the field, their worst offensive effort since 1983 and the fifth-worst in the history of the NCAA tournament's opening rounds. Washington State's win brought them to their first-ever trip to the Sweet 16. Top-seeded North Carolina will challenge the Cougars after defeating Arkansas, the ninth seed, 108-77. The win marked only the third time the Tar Heels had won their first two tournament games by more than 20 points. The other two UNC teams to do this, in 1993 and 2005, went on to win the championship. With the win, North Carolina also set a school record for wins in a season, with 34.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000049 ESPN - Arkansas vs. North Carolina - Recap - March 23, 2008] {{webarchive |url=https://web.archive.org/web/20160411021537/http://scores.espn.go.com/ncb/recap?gameId=284000049 |date=April 11, 2016 }}</ref> Second-seeded Tennessee survived an upset bid from number seven seed Butler, winning in overtime 76-71. Butler was behind throughout regulation, but managed to keep the game close and bring it to overtime, where they gained their first lead, 68-66, about 2 minutes into overtime. Some key defensive stands and free throws by the Volunteers, however, pulled them ahead.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000059 ESPN - Butler vs. Tennessee - Recap - March 23, 2008] {{webarchive |url=https://web.archive.org/web/20160411021538/http://scores.espn.go.com/ncb/recap?gameId=284000059 |date=April 11, 2016 }}</ref> They will play third seed Louisville, who beat sixth seed Oklahoma, 78-48. Sooner star [[Blake Griffin]] had trouble scoring against Louisville's double-teams, and Louisville's 30-point win was the school's best tournament win since 1968.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000056 ESPN - Oklahoma vs. Louisville - Recap - March 23, 2008] {{webarchive |url=https://web.archive.org/web/20160411021538/http://scores.espn.go.com/ncb/recap?gameId=284000056 |date=April 11, 2016 }}</ref>
+
+====Regional semifinals (Sweet Sixteen)====
+Top-seeded North Carolina defeated fourth seeded Washington State 68-47. Washington State was held to 47 points, the least allowed by a Tar Heel team in the tournament since 1946. Tyler Hansbrough struggled in the first half, but North Carolina's other players stepped to give the team a 14-point lead a halftime. In the second half, he led the team with 16 points, contributing to what was at one point in the half a 26-point lead.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000053 ESPN - Washington State vs. North Carolina - Recap - March 27, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021538/http://scores.espn.go.com/ncb/recap?gameId=284000053 |date=April 11, 2016 }}</ref> Third-seeded Louisville went on to face the Tar Heels in the East finals after defeating the second-seeded Tennessee Volunteers, 79-60. [[Earl Clark]] scored 17 points, 13 of them coming in the second half, and had 12 rebounds to lead the Cardinals. The Volunteers were held to 34% shooting and Louisville coach Rick Pitino improved to 8-0 in Regional semifinal games.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000060 ESPN - Louisville vs. Tennessee - Recap - March 27, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021538/http://scores.espn.go.com/ncb/recap?gameId=284000060 |date=April 11, 2016 }}</ref>
+
+====Regional final (Elite Eight)====
+{{Basketballbox | bg=#eee
+|date=March 29
+|time=9:05 PM ET
+|place=[[Charlotte Bobcats Arena]], [[Charlotte, North Carolina]]
+|TV=CBS
+|report=[http://scores.espn.go.com/ncb/recap?gameId=284000061 Recap]
+|team1=Louisville
+|score1=73
+|team2='''North Carolina'''
+|score2='''83'''
+|H1=32-44
+|H2=41-39
+|attendance=19,092
+|referee=
+|points1=
+|rebounds1=
+|assist1=
+|points2=
+|rebounds2=
+|assist2=
+}}
+In the East Regional finals in their home state, against third-seed Louisville, [[Tyler Hansbrough]] of the top-seeded Tar Heels carried the team with a 28-point performance, including five straight points after the Cardinals tied UNC midway through the second half to lead UNC to an 83-73 win. The Cardinals came close as the game neared its end, but a Ty Lawson 3 broke a 59-59 tie. Defensive stands combined with 8 for 8 free throw shooting down the stretch gave the Tar Heels the victory. Hansbrough was named the East Region's Tournament MVP.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000061 ESPN - Louisville vs. North Carolina - Recap - March 29, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021539/http://scores.espn.go.com/ncb/recap?gameId=284000061 |date=April 11, 2016 }}</ref>
+{{clear}}
+
+===Midwest Region===
+
+====First round====
+[[File:St Pete Times Forum At Sunset.jpg|thumb|The [[Amalie Arena]] saw a record four upsets in four games in the tournament's first round.]]
+The Midwest Region featured upsets knocking off the fourth through seventh seeds. Among these was the first upset of the tournament with 11th seed Kansas State's win over the sixth seeded Southern California Trojans 80-67 in [[Qwest Center Omaha|Omaha, Nebraska]]. The media had focused a lot of attention on the freshman stars of both teams, the Wildcats' [[Michael Beasley]] and the Trojans' [[O. J. Mayo]]. In reality, while Beasley and Mayo did well, it was the other K-State players who made the difference, applying a strong defense to the Men of Troy's attack and coming up with the school's first tournament win since 1988.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000008 ESPN - Kansas State vs. USC - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021539/http://scores.espn.go.com/ncb/recap?gameId=284000008 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Also in the Midwest Region, #10 seed Davidson defeated seventh seeded Gonzaga 82-76 in [[PNC Arena|Raleigh, North Carolina]]. [[Stephen Curry (basketball)|Stephen Curry]] led the Wildcats with 40 points, 30 of them in the second half. His 40 points are the fifth most in NCAA tournament history, and gave Davidson their first tournament win since 1969.<ref>[http://sports.espn.go.com/ncb/recap?gameId=284000011 ESPN - Davidson vs. Gonzaga - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160115004228/http://sports.espn.go.com/ncb/recap?gameId=284000011 |date=January 15, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> In the same region, 13th seed Siena upset fourth seed Vanderbilt 83-62 in [[Amalie Arena|Tampa, Florida]]. Future [[Harlem Globetrotters|Harlem Globetrotter]] Tay Fisher made all six of his 3-point attempts, the Saints never trailed and became the first MAAC team to advance since 2004.<ref>[http://sports.espn.go.com/ncb/recap?gameId=284000005 ESPN - Siena vs. Vanderbilt - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160115004228/http://sports.espn.go.com/ncb/recap?gameId=284000005 |date=January 15, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> The Midwest's first-round play ended with 12th seed Villanova's upset of fifth seed Clemson, 75-69, also in Tampa. Behind by eighteen late in the first half, the Wildcats came back, taking the lead at about the twelve-minute mark and holding it for the win. The Wildcats have won more games as an underdog in the tournament since seedings began in 1979 than any other team. With Villanova's win, the Forum saw a tournament record four upsets in one day. Earlier in the day, WKU, San Diego, and Siena defeated Drake, UConn, and Vanderbilt, to set the record.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000004 ESPN - Villanova vs. Clemson - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021543/http://scores.espn.go.com/ncb/recap?gameId=284000004 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref>
+
+Earlier that day in Omaha, ninth seed Kent State tied an NCAA Tournament record for scoring lows with their 10 points in one half against UNLV. Eighth-seed UNLV won the game 71-58.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000002 ESPN - Kent State vs. UNLV - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021544/http://scores.espn.go.com/ncb/recap?gameId=284000002 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Top seed Kansas defeated 16th seed Portland State 85-61, thoroughly dominating both inside and outside with the win.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000001 ESPN - Portland State vs. Kansas - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021545/http://scores.espn.go.com/ncb/recap?gameId=284000001 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Second-seed Georgetown defeated fifteenth seed Maryland-Baltimore County 66-47 in their first-round game, holding them to 31% shooting as compared to their 51%,<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000012 ESPN - UMBC vs. Georgetown - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021545/http://scores.espn.go.com/ncb/recap?gameId=284000012 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> and third seed Wisconsin stopped an upset threat from 14th seed Cal State Fullerton. The Titans' [[Josh Akognon]] scored 31 points, tying a career high, and Fullerton held the lead early in the second half, but were unable hold the lead under the Badgers' offensive pressure.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000009 ESPN - Cal State Fullerton vs. Wisconsin - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021546/http://scores.espn.go.com/ncb/recap?gameId=284000009 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref>
+
+====Second round====
+The third-seeded Badgers from the University of Wisconsin defeated Kansas State, 72-55 to become the first school to advance to [[Ford Field|Detroit, Michigan]] and the Midwest Regional. KSU freshman star Michael Beasley was again dominant with 23 points and 14 rebounds, though he struggled in the second half with only six points due to the Badger defense.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000010 ESPN - Kansas State vs. Wisconsin - Recap - March 22, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021547/http://scores.espn.go.com/ncb/recap?gameId=284000010 |date=April 11, 2016 }}</ref>  Top-seeded Kansas also advanced to the Sweet 16 by defeating eighth-seed UNLV 75-56. Four Jayhawks scored in double figures and the team shot 58% from the field while holding the Rebels to 26.7%.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000003 ESPN - UNLV vs. Kansas - Recap - March 22, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021547/http://scores.espn.go.com/ncb/recap?gameId=284000003 |date=April 11, 2016 }}</ref>  The following afternoon, the 12th-seeded Villanova Wildcats defeated the 13th-seeded Siena Saints in a 12-seed versus 13-seed [[Cinderella (sports)|Cinderella]] match-up by a score of 84-72 to reach their third Sweet 16 in four years. The Wildcats took an early lead and never trailed the entire game.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000006 ESPN - Siena vs. Villanova - Recap - March 23, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021547/http://scores.espn.go.com/ncb/recap?gameId=284000006 |date=April 11, 2016 }}</ref> Tenth-seeded Davidson became the second double-digit seed to advance to the Sweet Sixteen hours after Villanova's victory, ousting second-seeded Georgetown 74-70, to play Wisconsin in the other regional semifinal. Davidson won on the back of another tour-de-force performance in the second half by [[Stephen Curry (basketball)|Stephen Curry]]. Curry singlehandedly outscored the Hoyas over the final 14:24, putting up 25 points to Georgetown's 22.<ref>[http://www.cbsnews.com/stories/sportsline/main10732664.shtml Curry belongs in history books after another stunning performance] {{webarchive |url=https://web.archive.org/web/20080328021447/http://www.cbsnews.com/stories/sportsline/main10732664.shtml |date=March 28, 2008 }}, [[CBS News]], retrieved 2008-03-24</ref>
+
+====Regional Semifinals (Sweet Sixteen)====
+Stephen Curry scored 33 points to lead Davidson to a 73-56 victory over Wisconsin. Davidson, the 10-seed, advanced to the Elite Eight for the first time since the [[1969 NCAA Men's Division I Basketball Tournament|1969 tournament]]. Curry became only the fourth player in history to score 30 or more points in his first three tournament games. The Wisconsin defense, best in the nation at points allowed with 53.9, remained close until early in the second half, when some key steals and Davidson threes pulled the Wildcats far ahead.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000014 ESPN - Davidson vs. Wisconsin - Recap - March 28, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20081214000000/http://scores.espn.go.com/ncb/recap?gameId=284000014 |date=December 14, 2008 }}</ref>
+
+In the night game, top-seeded Kansas defeated # 12 Villanova, 72-57. The Jayhawks went on a 14-2 run early and never faltered—Villanova never getting within six. Brandon Rush, Russell Robinson, and Mario Chalmers each scored 16, 15, and 14 points, respectively.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000007 ESPN - Villanova vs. Kansas - Recap - March 28, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021550/http://scores.espn.go.com/ncb/recap?gameId=284000007 |date=April 11, 2016 }}</ref>
+
+====Regional final (Elite Eight)====
+{{Basketballbox | bg=#eee
+|date=March 30
+|time=5:05 PM ET
+|place=[[Ford Field]], [[Detroit]]
+|TV=CBS
+|report=[http://scores.espn.go.com/ncb/recap?gameId=284000015 Recap]
+|team1=Davidson
+|score1=57
+|team2='''Kansas'''
+|score2='''59'''
+|H1=28-30
+|H2=29-29
+|attendance=57,563
+|referee=
+|points1=
+|rebounds1=
+|assist1=
+|points2=
+|rebounds2=
+|assist2=
+}}
+Kansas completed the first all top-seeded Final Four in NCAA Tournament history as they defeated 10th seeded Davidson 59-57. The outcome remained in doubt down to the final seconds. Kansas' Sherron Collins missed a shot with 21 seconds left, giving Davidson the final shot. Sophomore star Stephen Curry was double teamed, couldn't find a shot, and passed to Jason Richards, whose three point shot missed. It was head coach [[Bill Self]]'s first regional final win. The Wildcats' 25-game winning streak, the longest in the nation, was broken with the loss. Davidson's Stephen Curry scored 25 points and was chosen as the Midwest Region's Most Outstanding Player.<ref name="scores.espn.go.com">[http://scores.espn.go.com/ncb/recap?gameId=284000015 ESPN - Davidson vs. Kansas - Recap - March 30, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021550/http://scores.espn.go.com/ncb/recap?gameId=284000015 |date=April 11, 2016 }}</ref>
+{{clear}}
+
+===South Region===
+
+====First round====
+Top seed Memphis took on Texas-Arlington, the region's 16th seed, and went on to win their opening-round contest, 87–63, in [[Alltel Arena|North Little Rock, Arkansas]].<ref>[http://sports.espn.go.com/ncb/recap?gameId=284000016 ESPN - Texas-Arlington vs. Memphis - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160115004228/http://sports.espn.go.com/ncb/recap?gameId=284000016 |date=January 15, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Memphis went on to meet Mississippi State, an eight seed which came back from 13-down early in the second half against Oregon to rally for the win, 76–69.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000017 ESPN - Oregon vs. Mississippi State - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021552/http://scores.espn.go.com/ncb/recap?gameId=284000017 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Fifth-seed Michigan State handily defeated # 12 Temple, 72–61,<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000019 ESPN - Temple vs. Michigan State - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021552/http://scores.espn.go.com/ncb/recap?gameId=284000019 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> and fourth-seed Pittsburgh defeated 13th seed Oral Roberts 82-63, leaving the Golden Eagles behind after an 18–0 run in the first half.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000020 ESPN - Oral Roberts vs. Pittsburgh - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021553/http://scores.espn.go.com/ncb/recap?gameId=284000020 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Sixth-seeded Marquette won its first tournament game since 2003 with a 74-66 win over #11 Kentucky in Anaheim. Kentucky got to within two points with 22 seconds remaining, but two Marquette free throws and a late steal handed the Wildcats an early tournament loss.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000023 ESPN - Kentucky vs. Marquette - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021554/http://scores.espn.go.com/ncb/recap?gameId=284000023 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> They met third seed Stanford in the next round, who handily defeated 14th-seeded Cornell 77-53, never trailing the entire game, and never allowing the Big Red to get closer than 18 points in the second half.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000024 ESPN - Cornell vs. Stanford - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021555/http://scores.espn.go.com/ncb/recap?gameId=284000024 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Miami (Florida), the seventh seed, defeated 10th seed Saint Mary's (California) 78-64, led by [[Jack McClinton]] and his 38 points.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000026 ESPN - Saint Mary's vs. Miami (FL) - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021556/http://scores.espn.go.com/ncb/recap?gameId=284000026 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Their next opponent was second seed Texas, who never trailed in their 74-54 win over 15th seed Austin Peay, a game with four Longhorns scoring in double-figures.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000027 ESPN - Austin Peay vs. Texas - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160411021556/http://scores.espn.go.com/ncb/recap?gameId=284000027 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref>
+
+====Second round====
+Third-seeded Stanford saw [[Brook Lopez]] make the difference in overtime with a basket with 1.3 seconds left to beat Marquette 82-81 and advance to [[Reliant Stadium|Houston, Texas]]. Stanford coach [[Trent Johnson]] was ejected in the first half, and Stanford had to fight a six-point deficit at halftime to come back for the win.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000025 ESPN - Marquette vs. Stanford - Recap - March 22, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021557/http://scores.espn.go.com/ncb/recap?gameId=284000025 |date=April 11, 2016 }}</ref> Michigan State became the first lower seed to win in the region, with a 65-54 victory over Pittsburgh. The game was extremely physical and hard-fought, with the Panther coming back from 10 down to take the lead in the middle of the second half, only to see it vanish in the final minutes with help from eight straight points from the Spartan's [[Drew Neitzel]].<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000021 ESPN - Michigan State vs. Pittsburgh - Recap - March 22, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021557/http://scores.espn.go.com/ncb/recap?gameId=284000021 |date=April 11, 2016 }}</ref> The Spartans would go on to play Memphis, the region's top seed after the Tigers beat eighth seed Mississippi State, 77-74. In their game, Memphis had four players scoring in double figures in what was a physical, defensive game—unlike what the games the Tigers were used to playing. Mississippi State gave them a late scare by coming to within two with four seconds left, but a free throw by [[Chris Douglas-Roberts]] of Memphis followed by a missed three on Mississippi's end gave the Tigers the win.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000018 ESPN - Mississippi State vs. Memphis - Recap - March 23, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021557/http://scores.espn.go.com/ncb/recap?gameId=284000018 |date=April 11, 2016 }}</ref> Texas, the second seed, played the Cardinal in their home state after a 75-72 victory over seventh-seed Miami (Florida). Leading 66-50 with 4:15 left in the game, the Longhorns saw their lead melt in the face of a strong Hurricane rally and a hostile Arkansas crowd. Two key free throws by [[A. J. Abrams]] with 9.5 seconds left carried them to a three-point lead which held to the end of regulation.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000028 ESPN - Miami (FL) vs. Texas - Recap - March 23, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021558/http://scores.espn.go.com/ncb/recap?gameId=284000028 |date=April 11, 2016 }}</ref>
+
+====Regional semifinals (Sweet Sixteen)====
+Tens of thousands of Texas fans turned out to Reliant Stadium in Houston and saw the second seeded Longhorns defeat the number three seeded Stanford Cardinal, 82-62. The unlikely defensive star of the game was Texas' [[Dexter Pittman]]. Normally not even a starter, Pittman was effective on the court, throwing his size against the tall Lopez twins, high-scorers at Stanford. On the offensive end, [[D. J. Augustin]] scored twenty-three points to combine with [[Damion James]]' 18 for the win. Stanford made things close at about the 13 minute mark of the second half, bringing it to within one at 52-51, but Texas went on a 16-2 run and turned the game into a rout.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000029 ESPN - Stanford vs. Texas - Recap - March 28, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021558/http://scores.espn.go.com/ncb/recap?gameId=284000029 |date=April 11, 2016 }}</ref> Later in the day, top-seeded Memphis defeated fifth seed Michigan State, 92-74. Memphis entered the game as the favorite but with several commentators pointing to them as the top seed most likely to lose. Instead, the Tigers went into halftime with a 30-point lead. Derrick Rose led his team with 27 points, and [[Chris Douglas-Roberts]] followed with 25, while Spartan star [[Drew Neitzel]] was held to just six.<ref>[http://scores.espn.go.com/ncb/boxscore?gameId=284000022 ESPN - Michigan State vs. Memphis - Box Score - March 28, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021558/http://scores.espn.go.com/ncb/boxscore?gameId=284000022 |date=April 11, 2016 }}</ref>
+
+====Regional final (Elite Eight)====
+{{Basketballbox | bg=#eee
+|date=March 30
+|time=2:20 PM ET
+|place=[[Reliant Stadium]], [[Houston, Texas]]
+|TV=CBS
+|report=[http://scores.espn.go.com/ncb/recap?gameId=284000030 Recap]
+|team1=Texas
+|score1=67
+|team2='''Memphis'''
+|score2='''85'''
+|H1=28-39
+|H2=39-46
+|attendance=32,798
+|referee=
+|points1=
+|rebounds1=
+|assist1=
+|points2=
+|rebounds2=
+|assist2=
+}}
+Top seeded Memphis defeated the Texas Longhorns to earn the third pass into the Final Four for the first time in 23 years with a convincing 85-67 win. Memphis spread the floor and used every man on the field to win. Texas star D J Augustin scored 16 points, but struggled with four turnovers in the second half. Derrick Rose won the Region's Most Outstanding Player award.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000030 ESPN - Texas vs. Memphis - Recap - March 30, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021558/http://scores.espn.go.com/ncb/recap?gameId=284000030 |date=April 11, 2016 }}</ref>  This Memphis win would later be vacated as the result of Memphis' NCAA Rules Violations.
+{{clear}}
+
+===West Region===
+[[File:Sean Miller.jpg|thumb|Xavier coach [[Sean Miller]] during a practice before a tournament game]]
+
+====First round====
+In the West Region, with a pod in Tampa as well, WKU entering as the 12th seed, defeated fifth seeded Drake in overtime 101-99. Drake had come back from sixteen down in the final eight minutes, bringing the game to overtime, and were ahead with 5.7 seconds left. Ty Rogers' three-pointer at the buzzer, the NCAA record-setting 30th three-point basket gave the Hilltoppers the walk-off victory.<ref>[http://sports.espn.go.com/ncb/recap?gameId=284000035 ESPN - Western Kentucky vs. Drake - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20080325022001/http://sports.espn.go.com/ncb/recap?gameId=284000035 |date=March 25, 2008 }}, [[ESPN]], retrieved 2008-03-22</ref> Also in the West, 13th seeded San Diego upset fourth seed Connecticut 70-69 in another overtime game. The Huskies struggled throughout the game, compounded by the loss of leading scorer A.J. Price to a torn ACL, and De'Jon Jackson's long jumper with 1.2 seconds remaining in the bonus period pulled the Toreros ahead for their first-ever tournament victory, and handed UConn their earliest egress from the tournament since 1979 as well as the first under coach Jim Calhoun.<ref>[http://sports.espn.go.com/ncb/recap?gameId=284000036 ESPN - San Diego vs. Connecticut - Recap - March 21, 2008] {{webarchive |url=https://web.archive.org/web/20160115004228/http://sports.espn.go.com/ncb/recap?gameId=284000036 |date=January 15, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> As regards to close games and record-breakers, West Region 15th seed Belmont nearly upset second-seeded Duke in [[Capital One Arena|Washington, D.C.]], but a [[Gerald Henderson, Jr.|Gerald Henderson]] layup with 11.9 seconds left, together with a steal off the inbounds by [[DeMarcus Nelson]] in the final seconds, lifted the Blue Devils to victory. This would have been only the fifth time a 15 seed beat a 2 seed.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000043 ESPN - Belmont vs. Duke - Recap - March 20, 2008]  {{webarchive|url=https://www.webcitation.org/68Axe02vS?url=http://scores.espn.go.com/ncb/recap?gameId=284000043 |date=June 4, 2012 }}, [[ESPN]], retrieved 2008-03-22</ref> The top seeded UCLA Bruins set several records in their win against 16th-seeded Mississippi Valley State at [[Honda Center|Anaheim, California]], holding them to 29 points in a 70-29 victory. This was the lowest score in the first round in tournament history, and the lowest overall since 1946, before the [[shot clock]] rule was introduced.<ref>[http://venturacountystar.com/news/2008/mar/21/ucla-just-too-stingy/ UCLA just too stingy] {{webarchive |url=https://web.archive.org/web/20080324080342/http://venturacountystar.com/news/2008/mar/21/ucla-just-too-stingy/ |date=March 24, 2008 }}, ''[[Ventura County Star]]''<!-- deliberate redlink, someone make an article for this please -->, retrieved 2008-03-22</ref> The Delta Devils' 19.7% shooting set another record for lowest shooting percentage in a game in tournament history.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000032 ESPN - Mississippi Valley State vs. UCLA - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021910/http://scores.espn.go.com/ncb/recap?gameId=284000032 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref>
+
+Elsewhere in the West, third seed Xavier avoided an upset by 14th-seeded Georgia, coming back from nine down at the half to win 73-61.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000040 ESPN - Georgia vs. Xavier - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021910/http://scores.espn.go.com/ncb/recap?gameId=284000040 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> They were to play sixth-seeded Purdue next, who scored their 10th-straight first-round win by defeating the 11th seeded Baylor 90-79.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000039 ESPN - Baylor vs. Purdue - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021911/http://scores.espn.go.com/ncb/recap?gameId=284000039 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Brigham Young, an eighth seed, lost to ninth-seeded Texas A&M 67-62. The Cougars suffered early, not scoring until about the 14-minute mark, but managed to bring the game to a tie at the half. Twenty-six points by Aggie forward [[Josh Carter]], however, made the difference in Texas A&M's win.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000033 ESPN - Texas A&M vs. Brigham Young - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021912/http://scores.espn.go.com/ncb/recap?gameId=284000033 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> Lastly, West Virginia, seventh seed in the region, defeated 10th seed Arizona 75-65, scoring 11 three-point shots. With the win, the Mountaineers broke Arizona's streak of twenty straight 20-win seasons, previously the longest streak in the nation.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000042 ESPN - Arizona vs. West Virginia - Recap - March 20, 2008] {{webarchive |url=https://web.archive.org/web/20160411021912/http://scores.espn.go.com/ncb/recap?gameId=284000042 |date=April 11, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref>
+
+====Second round====
+Seventh-seeded West Virginia began the second round of the tournament by defeating Duke, the second seed, 73-67. The Mountaineers trailed until about eight minutes into the second half, when they took a 43-40 lead. They outrebounded the Blue Devils 47-27, which, combined with several three-point shots, aided in the win.<ref>[http://sports.espn.go.com/ncb/recap?gameId=284000044 ESPN - West Virginia vs. Duke - Recap - March 22, 2008] {{webarchive |url=https://web.archive.org/web/20160115004228/http://sports.espn.go.com/ncb/recap?gameId=284000044 |date=January 15, 2016 }}, [[ESPN]], retrieved 2008-03-22</ref> This loss marked Duke's second consecutive loss before the Sweet Sixteen round.<ref>[http://msn.foxsports.com/cbk/story/7941558/Early-exits-becoming-bad-habit-for-Duke FOX Sports on MSN - COLLEGE BASKETBALL - Early exits becoming bad habit for Duke] {{webarchive |url=https://web.archive.org/web/20080326214450/http://msn.foxsports.com/cbk/story/7941558/Early-exits-becoming-bad-habit-for-Duke |date=March 26, 2008 }}, [[Fox Sports (USA)]], retrieved 2008-03-23</ref> West Virginia's Sweet Sixteen opposition in [[US Airways Center|Phoenix, Arizona]] was #3 Xavier, who defeated Purdue, 85–78. Xavier trailed as late as the 5:30 mark of the second half, but a widespread showing of talent from the Musketeers proved too difficult to stop, as four Xavier players scored in double figures, with two more tied at eight points each.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000041 ESPN - Purdue vs. Xavier - Recap - March 22, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021915/http://scores.espn.go.com/ncb/recap?gameId=284000041 |date=April 11, 2016 }}</ref> Later that day, the top-seeded UCLA Bruins defeated ninth-seeded Texas A&M, 51<!--Officials changed score from 53–49 to 51–49-->–49.<ref>{{cite news|url=http://ap.google.com/article/ALeqM5jtNepGspaFOstLn7-8SPCAjroH0wD8VJDRR00 |title=Officials: Score of UCLA Win Was 51-49 |publisher=Google |agency=Associated Press |date=2008-03-23 |accessdate=2008-03-23 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref> The Bruins trailed by as much as ten early in the first half, but slowly chipped away at the lead as the half progressed. The winning basket was scored with 9.5 seconds left on a lay-up by [[Darren Collison]]. Texas A&M had one final chance to tie it, but [[Donald Sloan (basketball)|Donald Sloan]]'s drive to the basket was stopped by two UCLA players (pictures show that they both appear to be grabbing Sloan, in what could have been a foul called on UCLA).<ref>{{cite web|title=Picture of Texas A&M's Donald Sloan vs UCLA |url=http://sportsreport.freedomblogging.com/files/2008/03/shipp0324.jpg |work= |archiveurl=https://www.webcitation.org/5h7IYYfKI?url=http://sportsreport.freedomblogging.com/files/2008/03/shipp0324.jpg |archivedate=2009-05-28 |deadurl=no |accessdate=2009-03-09 |df= }}</ref> The ensuing dunk by UCLA's Russell Westbrook was later waved off by officials as occurring after time had expired, making the final score 51–49.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000034 ESPN - Texas A&M vs. UCLA - Recap - March 22, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021954/http://scores.espn.go.com/ncb/recap?gameId=284000034 |date=April 11, 2016 }}</ref> The Bruins then played WKU, a #12 seed who beat #13 seed San Diego by a 73–62 score. San Diego trailed by as much as 15 in the second half, but an 18–2 run gave them a one-point lead with 6-and-a-half minutes remaining. WKU, however, managed to pull ahead once again for the win, making this tournament only the third in history to feature at least two 12-or-lower seeds in the Sweet 16.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000037 ESPN - San Diego vs. WKU - Recap - March 23, 2008<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20160411021954/http://scores.espn.go.com/ncb/recap?gameId=284000037 |date=April 11, 2016 }}</ref>
+
+====Regional semifinals (Sweet Sixteen)====
+Xavier, the third seed in the West, defeated seventh seed West Virginia, 79-75 in overtime thanks to two [[B.J. Raymond]] three-pointers in the final 78 seconds. Raymond scored all eight of his points in the bonus round after being held scoreless in regulation, and poor free-throw shooting by the Mountaineers, missing four out of six free throws, sealed the victory. Josh Duncan led the Musketeers in scoring with a career high 26 points, followed by Joe Alexander's 18 points and 10 rebounds. Xavier led by as much as 18 during the game, but trailed six late in OT, counting on Raymond's threes to give them the victory.<ref>[http://sports.espn.go.com/ncb/recap?gameId=284000045 ESPN - Raymond saves Xavier with two 3-pointers in last 1:18 of overtime] {{webarchive |url=https://web.archive.org/web/20140426235623/http://sports.espn.go.com/ncb/recap?gameId=284000045 |date=April 26, 2014 }}</ref>  Number one seed UCLA would play the Musketeers in the final, after outlasting 12th seeded WKU, 88-78. WKU came to within four late in the game, taking advantage of several sloppy Bruin mistakes. Kevin Love led UCLA with 29 points and 14 rebounds, aided by James Keefe's 18 points and 12 rebounds and Russell Westbrooks' 14 and 11. Trailing 41-20 at the half, WKU came out of the locker room determined to win, as evidenced by Hilltopper star Tyrone Brazelton's 31 points, 25 of which came in the second half. A. J. Slaughter missed a crucial three-point shot that would have brought them to within one, and a UCLA run left them nine points behind only two minutes later.<ref>[http://sports.espn.go.com/ncb/recap?gameId=284000038 ESPN - Love's career-high 29 help UCLA hang on, advance to Elite Eight] {{webarchive |url=https://web.archive.org/web/20160115004228/http://sports.espn.go.com/ncb/recap?gameId=284000038 |date=January 15, 2016 }}</ref>
+
+====Regional final (Elite Eight)====
+{{Basketballbox | bg=#eee
+|date=March 29
+|time=6:40 PM ET
+|place=[[US Airways Center]], [[Phoenix, Arizona]]
+|TV=CBS
+|report=[http://sports.espn.go.com/ncb/recap?gameId=284000046 Recap]
+|team1=Xavier
+|score1=57
+|team2='''UCLA'''
+|score2='''76'''
+|H1=24-33
+|H2=33-43
+|attendance=18,103
+|referee=
+|points1=
+|rebounds1=
+|assist1=
+|points2=
+|rebounds2=
+|assist2=
+}}
+[[UCLA]] was the first team to advance to the Final Four in [[Alamodome|San Antonio, Texas]], the third straight year and the 18th time in school history they have done it, with a 76-57 victory over Xavier. [[Kevin Love]] led the Bruins with 19 points and ten rebounds, tied as high scorer with [[Darren Collison]]. [[Luc Richard Mbah a Moute]] contributed 13 points and 13 rebounds. Derrick Brown led the Musketeers with 13 points. Overall, Xavier was held to 36% shooting from the floor while UCLA shot 56.8%. Love was picked as the West Region's MOP.<ref>[http://sports.espn.go.com/ncb/recap?gameId=284000046 ESPN - UCLA steamrolls Xavier by 19, earns third straight trip to Final Four] {{webarchive |url=https://web.archive.org/web/20160115004228/http://sports.espn.go.com/ncb/recap?gameId=284000046 |date=January 15, 2016 }}, [[ESPN]], retrieved 2008-04-05</ref>
+{{clear}}
+
+===Final Four===
+For the first time (and currently the only time) since the current seeding system started in 1979, all four #1 seeds made it to the Final Four.<ref name="scores.espn.go.com"/>
+
+====Memphis vs. UCLA====
+{{Basketballbox | bg=#eee
+|date=April 5
+|time=6:07 PM ET
+|place=[[Alamodome]], [[San Antonio, Texas]]
+|TV=CBS
+|report=[http://scores.espn.go.com/ncb/boxscore?gameId=284000062 Box score]
+|team1=UCLA
+|score1=63
+|points1=R. Westbrook 22
+|rebounds1=L. Mbah a Moute 13
+|assist1=D. Collison 4
+|team2='''Memphis'''
+|score2='''78'''
+|points2=C. Douglas-Roberts 28
+|rebounds2=J. Dorsey 15
+|assist2=D. Rose 4
+|H1=35-38
+|H2=28-40
+|attendance=N/A
+|referee=Karl Hess, Curtis Shaw, J.D. Collins 
+}}
+Memphis became the first team ever to win 38 games in one season by defeating UCLA 78-63 (Kentucky would match that record in 2012 and 2015). Chris Douglas-Roberts, who scored a game-high of 28 points,<ref>{{cite news|url=http://washingtontimes.com/apps/pbcs.dll/article?AID=/20080406/SPORTS05/20741313/1005/SPORTS |title=Without any question, Tigers are dominant |publisher=''The Washington Times'' |accessdate=2008-04-06 |date=2008-04-06 |author=Knott, Tom }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> combined with Derrick Rose to score a total of 53 of Memphis' 78 points.<ref>{{cite news|url=http://sports.espn.go.com/espn/columns/story?columnist=wojciechowski_gene&id=3332081&sportCat=ncb|title=After two duds, title game can't be any worse|publisher=ESPN|accessdate=2008-04-06|date=2008-04-06|author=Wojciechowski, Gene| archiveurl= https://web.archive.org/web/20080408183254/http://sports.espn.go.com/espn/columns/story?columnist=wojciechowski_gene&id=3332081&sportCat=ncb| archivedate= 8 April 2008 <!--DASHBot-->| deadurl= no}}</ref> UCLA star Kevin Love was held to 12 points, and the Bruins lost their second straight Final Four game. Memphis had lost to Ohio State in the Alamodome in the 2007 tournament, and had made it a goal to win in the arena in this year's tournament.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000062 ESPN - UCLA vs. Memphis - Recap - April 05, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021959/http://scores.espn.go.com/ncb/recap?gameId=284000062 |date=April 11, 2016 }}</ref> This win would later be vacated as a result of a Memphis NCAA Rules Infraction.
+{{Clear}}
+
+====Kansas vs. North Carolina====
+{{Basketballbox | bg=#eee
+|date=April 5
+|time=8:47 PM ET
+|place=Alamodome, San Antonio, Texas
+|TV=CBS
+|report=[http://scores.espn.go.com/ncb/boxscore?gameId=284000031 Box score]
+|team1='''Kansas'''
+|score1='''84'''
+|points1=B. Rush 25
+|rebounds1=D. Arthur 9
+|assist1=R. Robinson 4
+|team2=North Carolina
+|score2=66
+|points2=W. Ellington 18
+|rebounds2=T. Hansbrough 9
+|assist2=Three tied at 2
+|H1=44-27
+|H2=40-39
+|attendance=43,718
+|referee=Verne Harris, Tom Eades, Tony Greene 
+}}
+[[File:KUstudentsafter2008UNCwin.jpg|thumb|left|KU fans celebrating in downtown [[Lawrence, Kansas|Lawrence]] after KU's win over UNC]]
+The second semifinal was a highly anticipated matchup between North Carolina Head Coach [[Roy Williams (coach)|Roy Williams]] and the team he had coached for 15 years before leaving to go to UNC. The game itself could be divided up as if it were three different games. The Jayhawks took a 40-12 lead in the first 15 minutes, causing CBS analyst Billy Packer to declare that the game was over. North Carolina narrowed the deficit to 17 at halftime on a 15-4 run and opened the second half on a 23-10 run to close to within 4 points with 11 minutes to play. After the teams traded baskets for a few minutes, Kansas pulled away, closing on a 20-7 run for an 84-66 victory. After Kansas went out to the 40-12 lead, North Carolina never held the ball with a chance to take the lead.  Brandon Rush led the Jayhawks with 25 points. AP Player of the Year Tyler Hansbrough scored 17 points and had 9 rebounds, both below his season averages. The Tar Heels were led by Wayne Ellington's 18 points.<ref>[http://scores.espn.go.com/ncb/recap?gameId=284000031 ESPN - Kansas vs. North Carolina - Recap - April 05, 2008<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20160411021959/http://scores.espn.go.com/ncb/recap?gameId=284000031 |date=April 11, 2016 }}</ref>
+{{Clear}}
+
+===National Championship Game===
+{{main article|2008 NCAA Men's Division I Basketball Championship Game}}
+{{Basketballbox | bg=#eee
+|date=April 7
+|time=9:21 PM ET
+|place=Alamodome, San Antonio, Texas
+|TV=CBS
+|report=[http://sports.espn.go.com/ncb/boxscore?gameId=284000063 Box score]
+|team1='''Kansas'''
+|score1='''75'''
+|points1=D. Arthur 20
+|rebounds1=D. Arthur 10
+|assist1=S. Collins 6
+|team2=Memphis
+|score2=68
+|points2=C. Douglas-Roberts 22
+|rebounds2=R. Dozier 10
+|assist2=D. Rose 8
+|H1=33-28
+|H2=30-35
+|OT=12-5
+|attendance=43,257
+|referee=John Cahill, [[Ed Hightower]], Ed Corbett
+}}
+The National Championship Game pitted [[Memphis Tigers men's basketball|Memphis]] against [[Kansas Jayhawks men's basketball|Kansas]]. The head coaches (KU's [[Bill Self]] and Memphis' [[John Calipari]]) had both been on the coaching staff of Kansas' 1986 Final Four team.  Neither had garnered a national championship to this point in their head coaching careers. Memphis guard [[Chris Douglas-Roberts]] had been the leading scorer in the tournament, averaging 23.6 points per game.<ref>{{cite news|url=http://www.star-telegram.com/marchmadness/story/566220.html |title=Championship game has spotlight matchup |publisher=''Fort Worth Star-Telegram'' |accessdate=2008-04-06 |date=2008-04-06 |author=Barnhouse, Wendell |deadurl=yes |archiveurl=https://web.archive.org/web/20080724003954/http://www.star-telegram.com/marchmadness/story/566220.html |archivedate=July 24, 2008 }}</ref> Memphis became the first team currently from a [[College basketball#Conferences|conference]] other than the six majors to play in the championship game since 1998. Utah advanced to the championship game in 1998, and UNLV was the last team from a non-major conference to win the national title in 1990.<ref>{{cite news|url=https://www.usatoday.com/sports/college/mensbasketball/finalfour/2008-04-06-title-preview_N.htm|title=Memphis, Kansas ready to put it all on the line|work=USA Today|accessdate=2008-04-06|date=2008-04-06|author=Whiteside, Kelly}}</ref>
+
+[[File:Championshipcrowd.jpg|thumb|right|KU fans celebrating in downtown [[Lawrence, Kansas|Lawrence]] after KU's win over Memphis]]
+
+On the day of the game, the betting lines set by [[Las Vegas]] [[casino]]s [[Las Vegas Hilton]], [[Station Casinos]], and [[The Mirage]] made Memphis the favorite by a [[Spread betting|spread]] of 2 points.<ref>{{cite web|url=http://www.vegas.com/gaming/|title=Lines for:NCAA Basketball Current as of 04/07/2008 12:43:02|publisher=Vegas.com|accessdate=2008-04-07|date=2008-04-07| archiveurl= https://web.archive.org/web/20080409050029/http://www.vegas.com/gaming/| archivedate= 9 April 2008 <!--DASHBot-->| deadurl= no}}</ref>
+
+The first half was back-and-forth as Kansas led for 7:37 minutes and Memphis led for 6:51 minutes. Kansas led 33-28 at halftime, the first second-half deficit that Memphis faced in the entire tournament. Memphis scored the first five points of the second half to tie the score at 33 with 18:57 left in regulation. After that Kansas maintained a small lead from the 16:04 mark until Memphis retook the lead with 8:11 remaining. Memphis then went on a 10-0 run to build a seven-point lead with 5:10 remaining and increased it to nine points with 2:12 remaining in regulation.<ref name=playbyplay>{{cite news|url=http://sports.espn.go.com/ncb/playbyplay?gameId=284000063|title=Kansas vs. Memphis: Play by Play|publisher=''ESPN.com''|accessdate=2008-04-08|date=2008-04-07| archiveurl= https://web.archive.org/web/20080412093412/http://sports.espn.go.com/ncb/playbyplay?gameId=284000063| archivedate= 12 April 2008 <!--DASHBot-->| deadurl= no}}</ref>
+
+Kansas strategically fouled Memphis—an extremely poor free throw shooting team all season—which missed four of its final five free throws in regulation while Kansas furiously scored 12 points in the final two minutes of regulation. During that stretch Kansas made 100% of their shots going 2 for 2 from two point range, 2 for 2 from three point range and 2 for 2 from the free throw line.  When Memphis failed to foul, which arguably would have all but assured a victory for the Tigers, Kansas guard [[Mario Chalmers]] hit a three-point basket with 2.1 seconds remaining to tie the game at 63, sending the game into overtime. Kansas fans now refer to this shot as Mario's Miracle.<ref name=playbyplay/> At the end of regulation, the Jayhawks had led the score a total of 17:55 minutes and Memphis 15:51 minutes.
+
+In overtime, Kansas scored the first six points en route to a 75-68 win. They continued the blistering stretch they started in regulation, going 4 of 6 from the field and 4 of 4 from the line in overtime.  It was KU's third NCAA title since the modern tournament began in 1939 (fifth national title overall, including two [[Helms Foundation|Helms decisions]]). It was also the first national championship for the program since the [[1987–88 Kansas Jayhawks men's basketball team|1988 team]].
+
+This was the 7th overtime National Championship Game in NCAA Division I tournament history and first since 1997. It also represented the first national title for the [[Big 12 Conference]].
+
+This national championship appearance by Memphis would later be vacated as a result of NCAA rules infractions.
+
+==Record by conference==
+{|class="wikitable sortable"
+|-
+
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|# of Bids
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Win %
+!style="background: #e3e3e3;"|R32
+!style="background: #e3e3e3;"|S16
+!style="background: #e3e3e3;"|E8
+!style="background: #e3e3e3;"|F4
+!style="background: #e3e3e3;"|CG
+!style="background: #e3e3e3;"|NC
+|- style="text-align:center;"
+|align="left"| [[Big East Conference|Big East]]
+| 8
+| 11-8
+| 0.579
+| 7
+| 3
+| 1
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Big 12 Conference|Big 12]]
+| 6
+| 12-5
+| 0.706
+| 5
+| 2
+| 2
+| 1
+| 1
+| 1
+|- style="text-align:center;"
+|align="left"| [[Pacific-10 Conference|Pac-10]]
+| 6
+| 8-6
+| 0.571
+| 3
+| 3
+| 1
+| 1
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Southeastern Conference|SEC]]
+| 6
+| 4-6
+| 0.400
+| 3
+| 1
+| -
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Atlantic Coast Conference|ACC]]
+| 4
+| 6-4
+| 0.600
+| 3
+| 1
+| 1
+| 1
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Big Ten Conference|Big Ten]]
+| 4
+| 5-4
+| 0.556
+| 3
+| 2
+| -
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Atlantic 10 Conference|Atlantic 10]]
+| 3
+| 3-3
+| 0.500
+| 1
+| 1
+| 1
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[West Coast Conference|WCC]]
+| 3
+| 1-3
+| 0.250
+| 1
+| -
+| -
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Sun Belt Conference|Sun Belt]]
+| 2
+| 2-2
+| 0.500
+| 1
+| 1
+| -
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Mountain West Conference|Mountain West]]
+| 2
+| 1-2
+| 0.333
+| 1
+| -
+| -
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Conference USA|C-USA]]
+| 1
+| 5-1
+| 0.833
+| 1
+| 1
+| 1
+| 1
+| 1
+| -
+|- style="text-align:center;"
+|align="left"| [[Southern Conference|Southern]]
+| 1
+| 3-1
+| 0.750
+| 1
+| 1
+| 1
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Horizon League|Horizon]]
+| 1
+| 1-1
+| 0.500
+| 1
+| -
+| -
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Metro Atlantic Athletic Conference|MAAC]]
+| 1
+| 1-1
+| 0.500
+| 1
+| -
+| -
+| -
+| -
+| -
+|- style="text-align:center;"
+|align="left"| [[Northeast Conference|Northeast]]
+| 1
+| 1-1*
+| 0.500
+| -
+| -
+| -
+| -
+| -
+| -
+|}
+<nowiki>*</nowiki> [[Mount St. Mary's Mountaineers men's basketball|Mount St. Mary's]] won the opening round game.
+
+The columns R32, S16, E8, F4, CG, and NC respectively stand for the Round of 32, Sweet Sixteen, Elite Eight, Final Four, Championship Game, and National Champion.
+
+Sixteen conferences—[[America East Conference]], [[Atlantic Sun Conference]], [[Big Sky Conference]], [[Big South Conference]], [[Big West Conference]], [[Colonial Athletic Association]], [[Ivy League]], [[Mid-American Conference|MAC]], [[Mid-Eastern Athletic Conference|MEAC]], [[Missouri Valley Conference]], [[Ohio Valley Conference]], [[Patriot League]], [[Southland Conference|Southland]], [[Southwestern Athletic Conference|SWAC]], [[The Summit League|Summit League]] and [[Western Athletic Conference|WAC]]—went 0–1.
+
+:Source:<ref>[http://ucla.scout.com/a.z?s=12&p=2&c=743739 Scout.com: NCAA Tournament Records by Conference<!-- reflinks title -->] {{webarchive |url=https://web.archive.org/web/20120208171037/http://ucla.scout.com/a.z?s=12&p=2&c=743739 |date=February 8, 2012 }}</ref>
+
+==Media==
+
+===Television===
+
+====CBS Sports====
+[[File:JimNantz2001.jpg|thumb|[[Jim Nantz]], CBS Sports television announcer for the 2008 Final Four along with [[Billy Packer]]]]
+For the 27th consecutive year, [[CBS Sports]] telecast the tournament, and for the 18th consecutive year, broadcast every game in the main bracket from the first round to the championship, as [[Jim Nantz]] and [[Billy Packer]] called the Final Four. [[ESPN]] carried the 64th-seed Opening Round game between Coppin State and Mount St. Mary's on March 18, with [[Brent Musburger]], [[Steve Lavin]] and [[Erin Andrews]] serving as the announcing team, as the network has done the Opening Round game since 2002.
+
+The complete list of announcing teams follows:
+
+*[[Jim Nantz]], [[Billy Packer]] and [[Sam Ryan]] (she was only used as Sideline Reporter for the Final Four and NCAA Championship game) – First & Second Round at Raleigh, North Carolina; South Regional at Houston, Texas; Final Four at San Antonio, Texas
+*[[Dick Enberg]]/[[Carter Blackburn]] and [[Jay Bilas]] – Blackburn Thursday afternoon; Enberg Thursday night, First & Second Round at Anaheim, California; East Regional at Charlotte, North Carolina
+*[[Verne Lundquist]] and [[Bill Raftery]] – First & Second Round at Birmingham, Alabama; West Regional at Phoenix, Arizona
+*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Len Elmore]] – First & Second Round at Denver, Colorado; Midwest Regional at Detroit, Michigan
+*[[Kevin Harlan]] and [[Dan Bonner]] – First & Second Round at Omaha, Nebraska
+*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Little Rock, Arkansas
+*[[Craig Bolerjack]] and [[Bob Wenzel]] – First & Second Round at Washington, D.C.
+*[[Tim Brando]] and [[Mike Gminski]] – First & Second Round at Tampa, Florida
+
+[[Greg Gumbel]] once again served as the studio host, joined by analysts [[Clark Kellogg]] and [[Seth Davis]].  For the first time since the rights were acquired, the host team spent the entire tournament at the [[CBS Broadcast Center]] in New York City and did not travel to the Final Four site. CBS cited budget cutbacks ordered by the parent company, [[CBS Corporation]].{{Citation needed|date=November 2008}} This would be Billy Packer's 35th and final tournament as a broadcaster, ending a streak that began in 1975; in July 2008, it was announced that Kellogg would replace Packer as Nantz's color man in [[2009 NCAA Men's Division I Basketball Tournament|2009]].
+
+Several affiliates showed additional games on digital subchannels, and once, the Los Angeles area had simultaneous telecasts on two stations: On March 20, UCLA vs. Mississippi Valley State was shown on [[KCBS-TV|KCBS]] and Cal State Fullerton vs. Wisconsin was on [[independent station (North America)|independent station]] [[KDOC-TV|KDOC]] at the same time.  (KCBS has a duopoly with [[KCAL-TV|KCAL]], but KCAL was unavailable because of a third basketball game, one between the [[Los Angeles Lakers]] and the [[Utah Jazz]] in [[Salt Lake City]].)
+
+====CBS College Sports Network====
+Sibling cable network CBS College Sports Network (now known as [[CBS Sports Network]]) picked up one CBS TV broadcast on each of the first two days of the tournament. It aired the Stanford-Cornell contest from Anaheim on March 20, and the St. Joseph's-Oklahoma game on March 21.
+
+Unlike CBS Sports on the broadcast side, CBS College Sports Network did send a team to San Antonio, with Blackburn anchoring coverage and hosting the postgame highlights show, called the ''NCAA March Madness Highlights Show''. Earlier, [[Greg Amsinger]] had hosted the postgame program from the network's studios at [[Chelsea Piers]] in [[lower Manhattan]]. Analysts included [[Steve Lappas]], [[Greg Anthony]], and [[Jay Williams (basketball)|Jay Williams]].
+
+===Radio===
+Radio broadcasts were once again being handled again by CBS subsidiary [[Westwood One (1976–2011)|Westwood One]], hosted by [[Tommy Tighe]].<ref name="Westwood One Presents Announcer Teams For The 2008 NCAA Men's Basketball Tournament">{{cite web |url=http://images.westwoodone.com//images/pdf/pressreleases/2008%20NCAA%20Tournament%20Announcers.pdf |archive-url=http://wayback.archive-it.org/all/20080409065957/http://images.westwoodone.com//images/pdf/pressreleases/2008%20NCAA%20Tournament%20Announcers.pdf |dead-url=yes |archive-date=2008-04-09 |title=Westwood One Presents Announcer Teams For The 2008 NCAA Men's Basketball Tournament |accessdate=2008-03-24 |format=PDF }}</ref><ref name="2008 NCAA Tournament Regionals Announcers">{{cite web|url=http://images.westwoodone.com/images/pdf/pressreleases/2008%20NCAA%20Tournament%Regionals%20Announcers.pdf | title=2008 NCAA Tournament Regionals Announcers | accessdate=2008-03-30|format=PDF}}{{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+====Opening Round Game====
+*[[Bill Rosinski]] and [[Steve Lappas]] – at Dayton, Ohio
+
+====First/Second Round====
+*[[Dave Sims]] and [[Bill Frieder]] – at Anaheim, California
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Mike Montgomery]] – at Denver, Colorado
+*[[Kevin Kugler]] and [[Reid Gettys]] – at Omaha, Nebraska
+*[[Mark Champion]] and [[Glenn Consor]] – at Washington, D.C.
+*[[Joey Wahler]] and [[Pete Gillen]] – at Birmingham, Alabama
+*[[Spencer Ross]] and [[Kyle Macy]] – at Little Rock, Arkansas
+*[[Brad Sham]] and [[John Thompson (basketball)|John Thompson]] – at Raleigh, North Carolina
+*[[Wayne Larrivee]] and [[Kevin Grevey]] – at Tampa, Florida
+
+====Regionals====
+*[[Ian Eagle]] and Bill Frieder – East Regional at Charlotte, North Carolina
+*Wayne Larrivee and [[John Thompson (basketball)|John Thompson]] – Midwest Regional at Detroit, Michigan
+*Brad Sham and Reid Gettys – South Regional at Houston, Texas
+*Kevin Kugler and Pete Gillen – West Regional at Phoenix, Arizona
+
+====Final Four====
+*Kevin Kugler, John Thompson and [[Bill Raftery]] – at San Antonio, Texas
+
+Kugler called his first Final Four replacing Harlan, with Raftery and Thompson on color commentary and [[Jim Gray (sportscaster)|Jim Gray]] as sideline reporter.<ref name="2008 NCAA Final Four">{{cite web|url=http://images.westwoodone.com/images/pdf/pressreleases/2008%20NCAA%20Final%20Four.pdf |title=2008 NCAA Final Four |accessdate=2008-04-02 |format=PDF }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+<!--If you are aware of any tournament coverage by TV networks outside the United States, please include it in the subsection "Outside the U.S."-->
+
+===Other media===
+[[DirecTV]] once again offered [[NCAA Mega March Madness]] as a [[pay-per-view]] package for one payment of US$69. This allowed access to all tournament games in the first three rounds of the main draw not shown on the local CBS station in the viewer's area. This package was exclusive to DirecTV and not available to [[Dish Network]], [[FiOS|fiber optic]], or [[cable television|cable]] subscribers.
+
+Online, [[CBSSports.com]] and NCAA.com teamed up for NCAA March Madness on Demand. Computer users with broadband connections were able to watch all tournament games from the first round to the championship game for free, thanks to advertiser support from [[Coca-Cola]], [[AT&T Mobility]], [[Pontiac]], and various other companies. The ads were not the same as those shown on television, and there was a separate halftime show hosted by Jason Horowitz joined by analysts including [[St. John's Red Storm|St. John's]] head basketball coach [[Norm Roberts]].
+
+==See also==
+* [[2008 NCAA Division II Men's Basketball Tournament]]
+* [[2008 NCAA Division III Men's Basketball Tournament]]
+* [[2008 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|2008 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|2008 NCAA Division III Women's Basketball Tournament]]
+* [[2008 National Invitation Tournament]]
+* [[2008 Women's National Invitation Tournament]]
+* [[2008 NAIA Division I Men's Basketball Tournament]]
+* [[2008 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2008 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2008 NAIA Division II Women's Basketball Tournament]]
+* [[2008 College Basketball Invitational]]
+* [[2007–08 NCAA Division I men's basketball season|2007–08 NCAA Division I Men's Basketball season]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2008 NCAA Division I men's basketball tournament navbox}}
+{{2008 Kansas Jayhawks men's basketball navbox}}
+
+[[Category:2007–08 NCAA Division I men's basketball season|NCAA]]
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:Basketball in Houston|NCAA Men's Division I Basketball Tournament]]
+[[Category:Basketball in San Antonio]]

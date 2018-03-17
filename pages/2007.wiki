@@ -1,0 +1,1292 @@
+{{Infobox NCAA Basketball Tournament |
+| Year=2007
+| Image=2007FinalFour.png
+| ImageSize=150px
+| Caption=2007 Final Four logo
+| Teams=65
+| FinalFourArena=[[Georgia Dome]]
+| FinalFourCity=[[Atlanta]]
+| Champions=[[Florida Gators men's basketball|Florida]]
+| TitleCount=2nd
+| ChampGameCount=3rd
+| ChampFFCount=4th
+| RunnerUp=[[Ohio State Buckeyes men's basketball|Ohio State]]
+| GameCount=5th
+| RunnerFFCount=9th
+| Semifinal1=[[Georgetown Hoyas men's basketball|Georgetown]]
+| FinalFourCount=5th
+| Semifinal2=[[UCLA Bruins men's basketball|UCLA]]
+| FinalFourCount2=17th
+| Coach=[[Billy Donovan]]
+| CoachCount=2nd
+| MOP=[[Corey Brewer]]
+| MOPTeam=Florida
+| Attendance=696,992
+| TopScorer=[[Ron Lewis (basketball)|Ron Lewis]]
+| TopScorerTeam=Ohio State
+| Points=108
+}}
+
+The '''2007 NCAA Division I Men's Basketball Tournament''' involved 65 teams playing in a [[single-elimination tournament]] to determine the national champion of men's NCAA Division I [[college basketball]] as a culmination of the [[2006&ndash;07 NCAA Division I men's basketball season|2006&ndash;07 basketball season]]. Team selections were announced on March 11, 2007, and the tournament began on March 13, 2007, with the [[NCAA Men's Division I Basketball Opening Round game|Opening round game]] and concluded with the [[2007 NCAA Division I Men's Basketball Championship Game|championship game]] on April 2 at the [[Georgia Dome]] in [[Atlanta|Atlanta, Georgia]].<ref name = bracket>[http://www.ncaasports.com/basketball/mens/brackets/viewable/2007 2007 NCAA Basketball Men's Viewable Brackets – NCAA.com<!-- Bot generated title -->]</ref>
+
+Both of the finalists from the year before returned to the Final Four as [[2006–07 Florida Gators men's basketball team|Florida]], who returned its entire starting lineup from the year before, and [[2006–07 UCLA Bruins men's basketball team|UCLA]] advanced. They were joined in the Final Four by [[2006–07 Ohio State Buckeyes men's basketball team|Ohio State]], who was making its first appearance since their [[1999 NCAA Division I Men's Basketball Tournament|1999 appearance]] (later vacated), and [[2006–07 Georgetown Hoyas men's basketball team|Georgetown]], appearing for the first time since their [[1984–85 Georgetown Hoyas men's basketball team|national runner-up]] finish in [[1985 NCAA Division I Men's Basketball Tournament|1985]].
+
+Florida defeated Ohio State in the championship 84–75 to win their second consecutive championship. This marked the second time in [[2007 in sports|2007]] that a Florida team beat an Ohio State team to win a national championship, as [[2006 Florida Gators football team|Florida's football team]] won the [[2007 BCS National Championship Game|BCS National Championship Game]] over [[2006 Ohio State Buckeyes football team|Ohio State]] in January. Florida's [[Corey Brewer]] was named the [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].<ref name="espnchamp">[http://scores.espn.go.com/ncb/recap?gameId=274000063 ESPN – Ohio State vs. Florida Recap, April 02, 2007<!-- Bot generated title -->]</ref> Florida became the first team to repeat since [[1991–92 Duke Blue Devils men's basketball team|Duke]] in [[1992 NCAA Division I Men's Basketball Tournament|1992]].<ref name="espnchamp" /> As of 2017, the 2007 Gators are the last team to repeat as national champions, a string that will continue into at least 2019 unless the 2018 [[North Carolina Tar Heels]] win the title themselves.
+
+This tournament was significant because it had many fewer upsets than in previous years. There were only 12 games in which a lower-seeded team defeated a higher-seeded team, and eight of these "upsets" were by teams ranked only one seed lower than their opponent. No. 7-seed [[UNLV Runnin' Rebels basketball|UNLV]] was the lowest-seeded team to make it to the Sweet Sixteen. This marked the second time since the tournament expanded to at least 64 teams that no team seeded No. 8 or lower played in the Sweet Sixteen; the other instance was in [[1995 NCAA Division I Men's Basketball Tournament|1995]]. [[2007 Southland Conference Men's Basketball Tournament|Southland Conference champion]] [[Texas A&M–Corpus Christi Islanders men's basketball|Texas A&M-Corpus Christi]] made their first NCAA appearance.
+
+This was the first Tournament since [[2003 NCAA Division I Men's Basketball Tournament|2003]] that regional sites were designated as "East", "West", "South", and "Midwest", rather than by the names of the host cities.
+
+==Tournament procedure and locations==
+{{details|NCAA Men's Division I Basketball Championship#Tournament format}}
+{{Location map+|USA|width=450|float=right|caption=2007 first and second rounds (note: the play-in game was held in Dayton, Ohio)|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.886447|lon_deg=-78.878369|position=left|background=#FFFFFF|label=Buffalo|link=First Niagara Center|HSBC Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.099860|lon_deg=-80.244216|position=bottom|background=#FFFFFF|label=Winston-Salem|link=Lawrence Joel Veterans Memorial Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.040584|lon_deg=-84.503716|position=left|background=#FFFFFF|label=Lexington|link=Rupp Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=29.951066|lon_deg=-90.071532|position=top|background=#FFFFFF|label=New Orleans|link=New Orleans Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.961176|lon_deg=-82.998794|position=right|background=#FFFFFF|label=Columbus|link=Nationwide Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.878114|lon_deg=-87.629798|position=left|background=#FFFFFF|label=Chicago|link=United Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.581572|lon_deg=-121.494400|position=right|background=#FFFFFF|label=Sacramento|link=Power Balance Pavilion|ARCO Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=47.658780|lon_deg=-117.426047|position=bottom|background=#FFFFFF|label=Spokane|link=Spokane Veterans Memorial Arena}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2007 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=29.424122|lon_deg=-98.493628|position=right|background=#FFFFFF|label=San Antonio|link=Alamodome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.627003|lon_deg=-90.199404|position=left|background=#FFFFFF|label=St. Louis|link=Edward Jones Dome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=37.339386|lon_deg=-121.894955|position=right|background=#FFFFFF|label=San Jose|link=HP Pavilion at San Jose |HP Pavilion}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=40.833989|lon_deg=-74.097086|position=top|background=#FFFFFF|label=East Rutherford|link=Izod Center|Continental Airlines Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=left|background=#FFFFFF|label=Atlanta|link=Georgia Dome}}
+}}
+A total of 65 teams entered the tournament. Of that total, 30 of the teams earned automatic bids by winning their [[List of NCAA conferences|conference]] tournaments. The automatic bid of the [[Ivy League]], which did not conduct a post-season tournament, went to its regular season champion, [[Penn Quakers men's basketball|Penn]]. The remaining 34 teams were granted "at-large" bids, which are extended by the NCAA Selection Committee. 
+
+The initial game on March 13 officially named the [[NCAA Men's Division I Basketball Opening Round|Opening Round game]], but popularly called the "play-in game", had [[Niagara Purple Eagles men's basketball|Niagara]], winner of the [[MAAC Men's Basketball Tournament|Mid-Atlantic Athletic Conference Tournament]], facing [[Florida A&M Rattlers basketball|Florida A&M]], who won the [[2007 MEAC Men's Basketball Tournament|Mid-Eastern Athletic Conference Tournament]], for a chance to play top seed [[2006–07 Kansas Jayhawks men's basketball team|Kansas]] in the First Round of the Tournament. Niagara defeated Florida A&M, 77–69, to advance to play Kansas.
+
+All teams are seeded 1 to 16 within their regionals, while the [[NCAA basketball tournament selection process|Selection Committee]] seeded the entire field from 1 to 65.
+
+The first and second-round games were played at the following sites:
+* March 15/17
+:[[KeyBank Center|HSBC Arena]], [[Buffalo, New York]] (Hosts: [[Metro Atlantic Athletic Conference]], [[Canisius College]] and [[Niagara University]])
+:[[ARCO Arena]], [[Sacramento, California]] (Host: [[University of the Pacific (United States)|University of the Pacific]])
+:[[Rupp Arena]], [[Lexington, Kentucky]] (Host: [[University of Kentucky]])
+:[[Lawrence Joel Veterans Memorial Coliseum]], [[Winston-Salem, North Carolina]] (Host: [[Wake Forest University]])
+* March 16/18
+:[[United Center]], [[Chicago|Chicago, Illinois]] (Host: [[Big Ten Conference]])
+:[[Nationwide Arena]], [[Columbus, Ohio]] (Host: [[Ohio State University]])
+:[[Spokane Veterans Memorial Arena]], [[Spokane, Washington]] (Host: [[Washington State University]])
+:[[Smoothie King Center|New Orleans Arena]], [[New Orleans|New Orleans, Louisiana]] (Host: [[Tulane University]])
+
+The NCAA had also resumed naming the regionals after geographic directions. Regionals were named after their host cities from 2004 to 2006. The regional final sites were: 
+* March 22/24
+:'''South Regional''', [[Alamodome]], [[San Antonio|San Antonio, Texas]] (Host: [[University of Texas at San Antonio]])
+:'''West Regional''', [[SAP Center|HP Pavilion at San Jose]], [[San Jose, California]] (Host: [[San José State University]])
+* March 23/25
+:'''East Regional''', [[Meadowlands Arena|Continental Airlines Arena]], [[East Rutherford, New Jersey]] (Host: [[Rutgers University]])
+:'''Midwest Regional''', [[The Dome at America's Center|Edward Jones Dome]], [[St. Louis|St. Louis, Missouri]] (Host: [[Missouri Valley Conference]])
+
+Each regional winner advanced to the [[Final Four]] at the [[Georgia Dome]], [[Atlanta|Atlanta, Georgia]], hosted by [[Georgia Institute of Technology|Georgia Tech]]. The semi-final games were held on March 31 and the final on April 2, 2007. This marked the second time the Final Four was held at the Georgia Dome, and the third Final Four overall in Atlanta.  There was only one new venue in the 2007 tournament. For the first time since [[Hurricane Katrina]], the tournament returned to New Orleans, but for the first time since 1942 it was not at the [[Mercedes-Benz Superdome|Louisiana Superdome]]. Instead it was held at the New Orleans Arena, the Superdome's neighbor and home to the [[New Orleans Pelicans]], partially due to ongoing renovations at the Superdome following the damage inflicted by Katrina. 2007 marked the final appearances in the tournament of the Meadowlands Arena and the Lawrence Joel Veterans Memorial Coliseum. While it is possible for the LJVMC to host again, the Meadowlands Arena was closed in 2015 to public use, with games in the New York metropolitan area moving to the [[Barclays Center]], the [[Prudential Center]] and [[Madison Square Garden]] in recent years.
+
+==Qualifying teams==
+[[File:2007NCAAmensBBtourneyteamsbystate.svg|top|450px]]
+
+{{main article|2007 NCAA Men's Division I Basketball Tournament: qualifying teams}}
+''Team names are those listed on the NCAA's scoreboard for the play-in game and first round matchups. Only UCLA, UNLV, and USC (Southern California) use abbreviations; all other names are unabbreviated except for the common abbreviation "A&M".''<ref>[http://www.ncaasports.com/basketball/mens/scoreboard/madness/20070313 Scoreboard – NCAA.com<!-- Bot generated title -->]</ref>
+
+Here are the top seeded teams in each regional and their overall seeds.
+*'''Midwest Regional (St. Louis)''' (top seed: [[2006-07 Florida Gators men's basketball team|Florida]]; top overall seed)
+*'''West Regional (San Jose)''' (top seed: [[2006-07 Kansas Jayhawks men's basketball team|Kansas]]; fourth overall seed)
+*'''East Regional (East Rutherford)''' (top seed: [[North Carolina Tar Heels men's basketball|North Carolina]]; second overall seed)
+*'''South Regional (San Antonio)''' (top seed: [[2006-07 Ohio State Buckeyes men's basketball team|Ohio State]]; third overall seed)
+
+=== Listed by grouping and seeding ===
+{|
+| valign=top |
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Midwest Regional – St. Louis
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|No. 1
+| [[2006–07 Florida Gators men's basketball team|Florida]]
+| [[Southeastern Conference|SEC]]
+| 29–5
+| [[2007 SEC Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 2
+| [[2006–07 Wisconsin Badgers men's basketball team|Wisconsin]]
+| [[Big Ten]]
+| 29–5
+| At-Large Bid
+|-
+|No. 3
+| [[2006–07 Oregon Ducks men's basketball team|Oregon]]
+| [[Pac-10]]
+| 26–7
+| [[2007 Pacific-10 Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 4
+| [[2006–07 Maryland Terrapins men's basketball team|Maryland]]
+| [[Atlantic Coast Conference|ACC]]
+| 24–8
+| At-Large Bid
+|-
+|No. 5
+| [[2006–07 Butler Bulldogs men's basketball team|Butler]]
+| [[Horizon League|Horizon]]
+| 27–6
+| At-Large Bid
+|-
+|No. 6
+| {{cbb link|year=2006–07|sex=men|team=Notre Dame Fighting Irish|school=University of Notre Dame|title=Notre Dame}}
+| [[Big East Conference|Big East]]
+| 24–7
+| At-Large Bid
+|-
+|No. 7
+| {{cbb link|year=2006–07|sex=men|team=UNLV Rebels|school=University of Nevada, Las Vegas|title=UNLV}}
+| [[Mountain West]]
+| 28–6
+| [[2007 MWC Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 8
+| [[2006–07 Arizona Wildcats men's basketball team|Arizona]]
+| [[Pac-10]]
+| 20–10
+| At-Large Bid
+|-
+|No. 9
+| [[2006–07 Purdue Boilermakers men's basketball team|Purdue]]
+| [[Big Ten]]
+| 21–11
+| At-Large Bid
+|-
+|No. 10
+| [[2006–07 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+| [[Atlantic Coast Conference|ACC]]
+| 20–11
+| At-Large Bid
+|-
+|No. 11
+| {{cbb link|year=2006–07|sex=men|team=Winthrop Eagles|school=Winthrop University|title=Winthrop}}
+| [[Big South]]
+| 28–4
+| [[2007 Big South Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 12
+| {{cbb link|year=2006–07|sex=men|team=Old Dominion Monarchs|school=Old Dominion University|title=Old Dominion}}
+| [[Colonial Athletic Association|CAA]]
+| 24–8
+| At-Large Bid
+|-
+|No. 13
+| {{cbb link|year=2006–07|sex=men|team=Davidson Wildcats|school=Davidson College|title=Davidson}}
+| [[Southern Conference|Southern]]
+| 29–4
+| [[2007 Southern Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 14
+| {{cbb link|year=2006–07|sex=men|team=Miami RedHawks|school=Miami University|title=Miami (Ohio)}}
+| [[Mid-American Conference|Mid-American]]
+| 18–14
+| [[2007 MAC Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 15
+| {{cbb link|year=2006–07|sex=men|team=Texas A&M-Corpus Christi Islanders|school=Texas A&M University–Corpus Christi|title=Texas A&M-Corpus Christi}}
+| [[Southland Conference|Southland]]
+| 26–6
+| Tournament Champion
+|-
+|No. 16
+| {{cbb link|year=2006–07|sex=men|team=Jackson State Tigers|school=Jackson State University|title=Jackson State}}
+| [[Southwestern Athletic Conference|SWAC]]
+| 21–13
+| Tournament Champion
+|}
+
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | East Regional – East Rutherford
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|No. 1 
+| [[2006–07 North Carolina Tar Heels men's basketball team|North Carolina]]
+| [[Atlantic Coast Conference|ACC]]
+| 28–6
+| [[2007 ACC Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 2 
+| [[2006–07 Georgetown Hoyas men's basketball team|Georgetown]]
+| [[Big East Conference|Big East]]
+| 26–6
+| [[Big East Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 3
+| [[2006–07 Washington State Cougars men's basketball team|Washington State]]
+| [[Pac-10]]
+| 25–7
+| At-Large Bid
+|-
+|No. 4
+| [[2006–07 Texas Longhorns men's basketball team|Texas]]
+| [[Big 12]]
+| 24–9
+| At-Large Bid
+|-
+|No. 5
+| [[2006–07 USC Trojans men's basketball team|USC]]
+| [[Pac-10]]
+| 23–11
+| At-Large Bid
+|-
+|No. 6
+| [[2006–07 Vanderbilt Commodores men's basketball team|Vanderbilt]]
+| [[Southeastern Conference|SEC]]
+| 20–11
+| At-Large Bid
+|-
+|No. 7 
+| [[2006–07 Boston College Eagles men's basketball team|Boston College]]
+| [[Atlantic Coast Conference|ACC]]
+| 20–11
+| At-Large Bid
+|-
+|No. 8
+| {{cbb link|year=2006–07|sex=men|team=Marquette Golden Eagles|school=Marquette University|title=Marquette}}
+| [[Big East Conference|Big East]]
+| 24–9
+| At-Large Bid
+|-
+|No. 9
+| [[2006–07 Michigan State Spartans men's basketball team|Michigan State]]
+| [[Big Ten]]
+| 22–11
+| At-Large Bid
+|-
+|No. 10
+| [[2006–07 Texas Tech Red Raiders men's basketball team|Texas Tech]]
+| [[Big 12]]
+| 21–12
+| At-Large Bid
+|-
+|No. 11
+| {{cbb link|year=2006–07|sex=men|team=George Washington Colonials|school=George Washington University|title=George Washington}}
+| [[Atlantic 10]]
+| 23–8
+| [[2007 Atlantic 10 Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 12
+| {{cbb link|year=2006–07|sex=men|team=Arkansas Razorbacks|school=University of Arkansas|title=Arkansas}}
+| [[Southeastern Conference|SEC]]
+| 21–13
+| At-Large Bid
+|-
+|No. 13
+| {{cbb link|year=2006–07|sex=men|team=New Mexico State Aggies|school=New Mexico State University|title=New Mexico State}}
+| [[Western Athletic Conference|WAC]]
+| 25–8
+| [[2007 WAC Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 14
+| {{cbb link|year=2006–07|sex=men|team=Oral Roberts Golden Eagles|school=Oral Roberts University|title=Oral Roberts}}
+| [[The Summit League|Mid-Continent]]
+| 23–10
+| [[2007 Mid-Continent Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 15
+| {{cbb link|year=2006–07|sex=men|team=Belmont Bruins|school=Belmont University|title=Belmont}}
+| [[Atlantic Sun Conference|Atlantic Sun]]
+| 23–9
+| Tournament Champion
+|-
+|No. 16
+| {{cbb link|year=2006–07|sex=men|team=Eastern Kentucky Colonels|school=Eastern Kentucky University|title=Eastern Kentucky}}
+| [[Ohio Valley Conference|Ohio Valley]]
+| 21–11
+| Tournament Champion
+|}
+
+
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | South Regional – San Antonio
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|No. 1
+| [[2006–07 Ohio State Buckeyes men's basketball team|Ohio State]]
+| [[Big Ten]]
+| 30–3
+| [[2007 Big Ten Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 2
+| [[2006–07 Memphis Tigers men's basketball team|Memphis]]
+| [[Conference USA|C-USA]]
+| 30–3
+| [[2007 Conference USA Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 3
+| [[2006–07 Texas A&M Aggies men's basketball team|Texas A&M]]
+| [[Big 12]]
+| 25–6
+| At-Large Bid
+|-
+|No. 4
+| [[2006–07 Virginia Cavaliers men's basketball team|Virginia]]
+| [[Atlantic Coast Conference|ACC]]
+| 20–10
+| At-Large Bid
+|-
+|No. 5
+| {{cbb link|year=2006–07|sex=men|team=Tennessee Volunteers|school=University of Tennessee|title=Tennessee}}
+| [[Southeastern Conference|SEC]]
+| 22–10
+| At-Large Bid
+|-
+|No. 6
+| [[2006–07 Louisville Cardinals men's basketball team|Louisville]]
+| [[Big East Conference|Big East]]
+| 23–9
+| At-Large Bid
+|-
+|No. 7
+| {{cbb link|year=2006–07|sex=men|team=Nevada Wolf Pack|school=University of Nevada|title=Nevada}}
+| [[Western Athletic Conference|WAC]]
+| 28–4
+| At-Large Bid
+|-
+|No. 8
+| {{cbb link|year=2006–07|sex=men|team=BYU Cougars|school=Brigham Young University|title=Brigham Young}}
+| [[Mountain West]]
+| 25–8
+| At-Large Bid
+|-
+|No. 9
+| {{cbb link|year=2006–07|sex=men|team=Xavier Musketeers|school=Xavier University|title=Xavier}}
+| [[Atlantic 10]]
+| 24–8
+| At-Large Bid
+|-
+|No. 10
+| {{cbb link|year=2006–07|sex=men|team=Creighton Bluejays|school=Creighton University|title=Creighton}}
+| [[Missouri Valley Conference|Missouri Valley]]
+| 22–10
+| [[2007 Missouri Valley Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 11
+| {{cbb link|year=2006–07|sex=men|team=Stanford Cardinal|school=Stanford University|title=Stanford}}
+| [[Pac-10]]
+| 18–12
+| At-Large Bid
+|-
+|No. 12
+| {{cbb link|year=2006–07|sex=men|team=Long Beach State 49ers|school=California State University, Long Beach|title=Long Beach State}}
+| [[Big West]]
+| 24–7
+| Tournament Champion
+|-
+|No. 13
+| {{cbb link|year=2006–07|sex=men|team=Albany Great Danes|school=University at Albany, SUNY|title=Albany}}
+| [[America East Conference|America East]]
+| 23–9
+| Tournament Champion
+|-
+|No. 14
+| {{cbb link|year=2006-07|sex=men|team=Penn Quakers|school=University of Pennsylvania|title=Penn}}
+| [[Ivy League|Ivy]]
+| 22–8
+| Regular Season Champion
+|-
+|No. 15
+| [[2006–07 North Texas Mean Green men's basketball team|North Texas]]
+| [[Sun Belt Conference|Sun Belt]]
+| 23–10
+| [[2007 Sun Belt Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 16
+| {{cbb link|year=2006-07|sex=men|team=Central Connecticut State Blue Devils|school=Central Connecticut State University|title=Central Connecticut State}}
+| [[Northeast Conference|Northeast]]
+| 22–11
+| Tournament Champion
+|}
+
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | West Regional – San Jose
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Conference 
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type 
+|-
+|No. 1
+| [[2006–07 Kansas Jayhawks men's basketball team|Kansas]]
+| [[Big 12]]
+| 31–4
+| [[2007 Big 12 Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 2
+| [[2006–07 UCLA Bruins men's basketball team|UCLA]]
+| [[Pac-10]]
+| 26–5
+| At-Large Bid
+|-
+|No. 3
+| [[2006–07 Pittsburgh Panthers men's basketball team|Pittsburgh]]
+| [[Big East Conference|Big East]]
+| 27–7
+| At-Large Bid
+|-
+|No. 4
+| [[2006–07 Southern Illinois Salukis men's basketball team|Southern Illinois]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 27–6
+| At-Large Bid
+|-
+|No. 5
+| [[2006–07 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+| [[Atlantic Coast Conference|ACC]]
+| 21–11
+| At-Large Bid
+|-
+|No. 6
+| [[2006–07 Duke Blue Devils men's basketball team|Duke]]
+| [[Atlantic Coast Conference|ACC]]
+| 22–10
+| At-Large Bid
+|-
+|No. 7
+| [[2006–07 Indiana Hoosiers men's basketball team|Indiana]]
+| [[Big Ten]]
+| 20–10
+| At-Large Bid
+|-
+|No. 8
+| [[2006–07 Kentucky Wildcats men's basketball team|Kentucky]]
+| [[Southeastern Conference|SEC]]
+| 21–11
+| At-Large Bid
+|-
+|No. 9
+| [[2006–07 Villanova Wildcats men's basketball team|Villanova]]
+| [[Big East Conference|Big East]]
+| 22–10
+| At-Large Bid
+|-
+|No. 10
+| [[2006–07 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+| [[West Coast Conference|WCC]]
+| 23–10
+| [[2007 West Coast Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 11
+| [[2006–07 VCU Rams men's basketball team|VCU]]
+| [[Colonial Athletic Association|CAA]]
+| 27–6
+| [[2007 CAA Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 12
+| [[2006–07 Illinois Fighting Illini men's basketball team|Illinois]]
+| [[Big Ten]]
+| 23–11
+| At-Large Bid
+|-
+|No. 13
+| {{cbb link|year=2006-07|sex=men|team=Holy Cross Crusaders|school=College of the Holy Cross|title=Holy Cross}}
+| [[Patriot League|Patriot]]
+| 25–8
+| Tournament Champion
+|-
+|No. 14
+| {{cbb link|year=2006-07|sex=men|team=Wright State Raiders|school=Wright State University|title=Wright State}}
+| [[Horizon League|Horizon]]
+| 23–9
+| [[2007 Horizon League Men's Basketball Tournament|Tournament Champion]]
+|-
+|No. 15
+| {{cbb link|year=2006–07|sex=men|team=Weber State Wildcats|school=Weber State University|title=Weber State}}
+| [[Big Sky Conference|Big Sky]]
+| 20–11
+| Tournament Champion
+|-
+|No. 16*
+| {{cbb link|year=2006–07|sex=men|team=Niagara Purple Eagles|school=Niagara University|title=Niagara}}<br /><small>(Play-in Winner)</small>
+| [[Metro Atlantic Athletic Conference|MAAC]]
+| 22–11
+| Tournament Champion
+|-
+|No. 16*
+| {{cbb link|year=2006–07|sex=men|team=Florida A&M Rattlers|school=Florida A&M University|title=Florida A&M}}<br /><small>(Play-in Loser)</small>
+| [[Mid-Eastern Athletic Conference|MEAC]]
+| 21–13
+| Tournament Champion
+|}
+<nowiki>*</nowiki><small>Opening Round participants</small>
+
+==Bracket==
+
+<!---Please only list winning teams in boldface. Scores need not to be boldfaced, except for Final Four where both scores would be boldfaced.--->
+(*) – Number of asterisks denotes number of overtimes.
+
+===Opening Round game – Dayton, Ohio===
+Winner advances to West Regional vs. No. 1 Kansas.
+
+{{2TeamBracket | RD1=Play-In Game<br/>March 13
+| RD1-seed1=16
+| RD1-team1= Florida A&M
+| RD1-score1=69
+| RD1-seed2=16
+| RD1-team2= '''Niagara'''
+| RD1-score2=77
+}}
+
+=== Midwest Regional – St. Louis, Missouri ===
+
+{{16TeamBracket | RD1=First round<br/>March 15–16
+| RD2=Second round<br/>March 17–18
+| RD3=Regional semifinals<br/>March 23
+| RD4=Regional finals<br/>March 25
+| subgroup1='''[[New Orleans Arena|New Orleans]]'''
+| subgroup2='''[[HSBC Arena (Buffalo)|Buffalo]]'''
+| subgroup3='''[[Spokane Veterans Memorial Arena|Spokane]]'''
+| subgroup4='''[[United Center|Chicago]]'''
+| RD1-team01= '''[[Florida Gators men's basketball|Florida]]'''
+| RD1-team02= [[Jackson State University|Jackson State]]
+| RD1-score01='''112'''
+| RD1-score02=69
+| RD1-team03= [[Arizona Wildcats men's basketball|Arizona]]
+| RD1-team04= '''[[Purdue Boilermakers men's basketball|Purdue]]'''
+| RD1-score03=63
+| RD1-score04='''72'''
+| RD1-team05= '''[[Butler Bulldogs men's basketball|Butler]]'''
+| RD1-team06= [[Old Dominion University|Old Dominion]]
+| RD1-score05= '''57'''
+| RD1-score06= 46
+| RD1-team07= '''[[Maryland Terrapins men's basketball|Maryland]]'''
+| RD1-team08= [[Davidson Wildcats men's basketball|Davidson]]
+| RD1-score07= '''82'''
+| RD1-score08= 70
+| RD1-team09= [[Notre Dame Fighting Irish|Notre Dame]]
+| RD1-team10= '''[[Winthrop University|Winthrop]]'''
+| RD1-score09=64
+| RD1-score10='''74'''
+| RD1-team11= '''[[Oregon Ducks men's basketball|Oregon]]'''
+| RD1-team12= [[Miami RedHawks men's basketball|Miami (Ohio)]]
+| RD1-score11='''58'''
+| RD1-score12=56
+| RD1-team13= '''[[UNLV Runnin' Rebels basketball|UNLV]]'''
+| RD1-team14= [[2006-07 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+| RD1-score13='''67'''
+| RD1-score14=63
+| RD1-team15= '''[[Wisconsin Badgers men's basketball|Wisconsin]]'''
+| RD1-team16= [[Texas A&M University–Corpus Christi|Texas A&M-CC]]
+| RD1-score15='''76'''
+| RD1-score16=63
+| RD2-seed01=1
+| RD2-team01='''Florida'''
+| RD2-seed02= 9
+| RD2-team02= Purdue
+| RD2-score01= '''74'''
+| RD2-score02= 67
+| RD2-seed03= 5
+| RD2-team03= '''Butler'''
+| RD2-seed04= 4
+| RD2-team04= Maryland
+| RD2-score03= '''62'''
+| RD2-score04= 59
+| RD2-seed05=11
+| RD2-team05=Winthrop
+| RD2-seed06=3
+| RD2-team06='''Oregon'''
+| RD2-score05=61
+| RD2-score06='''75'''
+| RD2-seed07= 7
+| RD2-team07= '''UNLV'''
+| RD2-score07='''74'''
+| RD2-seed08= 2
+| RD2-team08= Wisconsin
+| RD2-score08= 68
+|
+| RD3-seed01= 1
+| RD3-team01= '''Florida'''
+| RD3-score01= 65
+| RD3-seed02= 5
+| RD3-team02= Butler
+| RD3-score02= 57
+| RD3-seed03= 3
+| RD3-team03= '''Oregon'''
+| RD3-score03= 76
+| RD3-seed04= 7
+| RD3-team04= UNLV
+| RD3-score04= 72
+
+| RD4-seed01=1
+| RD4-team01='''Florida'''
+| RD4-score01=85
+| RD4-seed02=3
+| RD4-team02=Oregon
+| RD4-score02=77
+}}
+
+===West Regional – San Jose, California===
+{{16TeamBracket | RD1=First round<br/>March 15–16
+| RD2=Second round<br/>March 17–18
+| RD3=Regional semifinals<br/>March 22
+| RD4=Regional finals<br/>March 24
+| subgroup1='''[[United Center|Chicago]]'''
+| subgroup2='''[[Nationwide Arena|Columbus]]'''
+| subgroup3='''[[HSBC Arena (Buffalo)|Buffalo]]'''
+| subgroup4='''[[ARCO Arena|Sacramento]]'''
+| RD1-team01= '''[[Kansas Jayhawks men's basketball|Kansas]]'''
+| RD1-team02= [[Niagara University|Niagara]]
+| RD1-score01= '''107'''
+| RD1-score02= 67
+| RD1-team03= '''[[Kentucky Wildcats|Kentucky]]'''
+| RD1-team04= [[Villanova Wildcats men's basketball|Villanova]]
+| RD1-score03= '''67'''
+| RD1-score04= 58
+| RD1-team05= '''[[2006-07 Virginia Tech Hokies men's basketball team|Virginia Tech]]'''
+| RD1-team06= [[Illinois Fighting Illini men's basketball|Illinois]]
+| RD1-score05='''54'''
+| RD1-score06=52
+| RD1-team07= '''[[Southern Illinois University Carbondale|Southern Illinois]]'''
+| RD1-team08= [[College of the Holy Cross#Athletics|Holy Cross]]
+| RD1-score07= '''61'''
+| RD1-score08= 51
+ 
+| RD1-team09= [[Duke Blue Devils men's basketball|Duke]]
+| RD1-team10= '''[[2006–07 VCU Rams men's basketball team|VCU]]'''
+| RD1-score09= 77
+| RD1-score10= '''79'''
+| RD1-team11= '''[[Pittsburgh Panthers men's basketball|Pittsburgh]]'''
+| RD1-team12= [[Wright State University|Wright State]]
+| RD1-score11= '''79'''
+| RD1-score12= 58
+| RD1-team13= '''[[Indiana Hoosiers men's basketball|Indiana]]'''
+| RD1-team14= [[Gonzaga Bulldogs|Gonzaga]]
+| RD1-score13= '''70'''
+| RD1-score14= 57
+| RD1-team15= '''[[UCLA Bruins men's basketball|UCLA]]'''
+| RD1-team16= [[Weber State University|Weber State]]
+| RD1-score15= '''70'''
+| RD1-score16= 42
+| RD2-seed01=1
+| RD2-team01='''Kansas'''
+| RD2-seed02=8
+| RD2-team02=Kentucky
+| RD2-score01='''88'''
+| RD2-score02=76
+| RD2-seed03=5
+| RD2-team03=Virginia Tech
+| RD2-seed04=4
+| RD2-team04='''Southern Illinois'''
+| RD2-score03=48
+| RD2-score04='''63'''
+| RD2-seed05= 11
+| RD2-team05= VCU
+| RD2-seed06= 3
+| RD2-team06= '''Pittsburgh'''
+| RD2-score05= 79
+| RD2-score06= '''84*'''
+| RD2-seed07= 7
+| RD2-team07= Indiana
+| RD2-seed08= 2
+| RD2-team08= '''UCLA'''
+| RD2-score07= 49
+| RD2-score08= '''54'''
+| RD3-seed01=1
+| RD3-team01='''Kansas'''
+| RD3-seed02=4
+| RD3-team02=Southern Illinois
+| RD3-score01='''61'''
+| RD3-score02=58
+| RD3-seed03= 3
+| RD3-team03= Pittsburgh
+| RD3-seed04= 2
+| RD3-team04= '''UCLA'''
+| RD3-score03=55
+| RD3-score04='''64'''
+| RD4-seed01= 1
+| RD4-team01= Kansas
+| RD4-seed02= 2
+| RD4-team02= '''UCLA'''
+| RD4-score01=55
+| RD4-score02='''68'''
+}}
+
+===East Regional – East Rutherford, New Jersey===
+{{16TeamBracket | RD1=First round<br/>March 15–16
+| RD2=Second round<br/>March 17–18
+| RD3=Regional semifinals<br/>March 23
+| RD4=Regional finals<br/>March 25
+| subgroup1='''[[Lawrence Joel Veterans Memorial Coliseum|Winston-Salem]]'''
+| subgroup2='''[[Spokane Veterans Memorial Arena|Spokane]]'''
+| subgroup3='''[[ARCO Arena|Sacramento]]'''
+| subgroup4='''[[Lawrence Joel Veterans Memorial Coliseum|Winston-Salem]]'''
+| RD1-team01= '''[[North Carolina Tar Heels men's basketball|North Carolina]]'''
+| RD1-team02= [[Eastern Kentucky University|Eastern Kentucky]]
+| RD1-score01= 86
+| RD1-score02= 65
+| RD1-team03= [[Marquette Golden Eagles|Marquette]]
+| RD1-team04= '''[[Michigan State Spartans men's basketball|Michigan State]]'''
+| RD1-score03= 49
+| RD1-score04= 61
+| RD1-team05= '''[[USC Trojans men's basketball|USC]]'''
+| RD1-team06= [[Arkansas Razorbacks basketball|Arkansas]]
+| RD1-score05= 77
+| RD1-score06= 60
+| RD1-team07= '''[[Texas Longhorns men's basketball|Texas]]'''
+| RD1-team08= [[New Mexico State University|New Mexico State]]
+| RD1-score07= 79
+| RD1-score08= 67
+| RD1-team09= '''[[Vanderbilt Commodores men's basketball|Vanderbilt]]'''
+| RD1-team10= [[George Washington University|George Washington]]
+| RD1-score09= 77
+| RD1-score10= 44
+| RD1-team11= '''[[Washington State Cougars men's basketball|Washington State]]'''
+| RD1-team12= [[Oral Roberts Golden Eagles men's basketball|Oral Roberts]]
+| RD1-score11= 70
+| RD1-score12= 54
+| RD1-team13= '''[[Boston College Eagles men's basketball|Boston College]]'''
+| RD1-team14= [[Texas Tech Red Raiders|Texas Tech]]
+| RD1-score13= 84
+| RD1-score14= 75
+| RD1-team15= '''[[2006–07 Georgetown Hoyas men's basketball team|Georgetown]]'''
+| RD1-team16= [[Belmont Bruins men's basketball|Belmont]]
+| RD1-score15= 80
+| RD1-score16= 55
+| RD2-seed01= 1
+| RD2-team01= '''North Carolina'''
+| RD2-seed02= 9
+| RD2-team02= Michigan State
+| RD2-score01= 81
+| RD2-score02= 67
+| RD2-seed03=5
+| RD2-team03='''USC'''
+| RD2-seed04= 4
+| RD2-team04= Texas
+| RD2-score03=87
+| RD2-score04=68
+| RD2-seed05= 6
+| RD2-team05= '''Vanderbilt'''
+| RD2-seed06= 3
+| RD2-team06= Washington State
+| RD2-score05= 78**
+| RD2-score06= 74
+| RD2-seed07= 7
+| RD2-team07= Boston College
+| RD2-seed08= 2
+| RD2-team08= '''Georgetown'''
+| RD2-score07= 55
+| RD2-score08= 62
+| RD3-seed01= 1
+| RD3-team01='''North Carolina'''
+| RD3-seed02=5
+| RD3-team02=USC
+| RD3-score01=74
+| RD3-score02=64
+| RD3-seed03= 6
+| RD3-team03= Vanderbilt
+| RD3-seed04= 2
+| RD3-team04= '''Georgetown'''
+| RD3-score03=65
+| RD3-score04=66
+| RD4-seed01=1
+| RD4-team01=North Carolina
+| RD4-seed02=2
+| RD4-team02='''Georgetown'''
+| RD4-score01=84
+| RD4-score02=96*
+}}
+
+=== South Regional – San Antonio, Texas ===
+
+{{16TeamBracket | RD1=First round<br/>March 15–16
+| RD2=Second round<br/>March 17–18
+| RD3=Regional semifinals<br/>March 22
+| RD4=Regional finals<br/>March 24
+| subgroup1='''[[Rupp Arena|Lexington]]'''
+| subgroup2='''[[Nationwide Arena|Columbus]]'''
+| subgroup3='''[[Rupp Arena|Lexington]]'''
+| subgroup4='''[[New Orleans Arena|New Orleans]]'''
+| RD1-team01= '''[[2006-07 Ohio State Buckeyes men's basketball team|Ohio State]]'''
+| RD1-team02= [[Central Connecticut State Blue Devils men's basketball|Central Connecticut State]]
+| RD1-score01= 78
+| RD1-score02= 57
+| RD1-team03= [[BYU Cougars men's basketball|BYU]]
+| RD1-team04= '''[[Xavier University (Cincinnati)|Xavier]]'''
+| RD1-score03= 77
+| RD1-score04= 79
+| RD1-team05= '''[[Tennessee Volunteers|Tennessee]]'''
+| RD1-team06= [[California State University, Long Beach|Long Beach State]]
+| RD1-score05=121
+| RD1-score06=86
+| RD1-team07= '''[[Virginia Cavaliers men's basketball|Virginia]]'''
+| RD1-team08= [[Albany Great Danes men's basketball|Albany]]
+| RD1-score07=84
+| RD1-score08=57
+| RD1-team09= '''[[Louisville Cardinals men's basketball|Louisville]]'''
+| RD1-team10= [[Stanford Cardinal|Stanford]]
+| RD1-score09= 78
+| RD1-score10= 58
+| RD1-team11= '''[[Texas A&M Aggies men's basketball|Texas A&M]]'''
+| RD1-team12= [[Penn Quakers men's basketball|Penn]]
+| RD1-score11= 68
+| RD1-score12= 52
+| RD1-team13= '''[[Nevada Wolf Pack men's basketball|Nevada]]'''
+| RD1-team14= [[Creighton Bluejays|Creighton]]
+| RD1-score13=77*
+| RD1-score14=71
+| RD1-team15= '''[[Memphis Tigers men's basketball|Memphis]]'''
+| RD1-team16= [[North Texas Mean Green|North Texas]]
+| RD1-score15=73
+| RD1-score16=58
+| RD2-seed01= 1
+| RD2-team01= '''Ohio State'''
+| RD2-seed02= 9
+| RD2-team02= Xavier
+| RD2-score01=78*
+| RD2-score02=71
+| RD2-seed03=5
+| RD2-team03='''Tennessee'''
+| RD2-seed04= 4
+| RD2-team04= Virginia
+| RD2-score03=77
+| RD2-score04=74
+| RD2-seed05= 6
+| RD2-team05= Louisville
+| RD2-seed06= 3
+| RD2-team06= '''Texas A&M'''
+| RD2-score05= 69
+| RD2-score06= 72
+| RD2-seed07=7
+| RD2-team07=Nevada
+| RD2-seed08=2
+| RD2-team08='''Memphis'''
+| RD2-score07=62
+| RD2-score08=78
+| RD3-seed01=1
+| RD3-team01= '''Ohio State'''
+| RD3-seed02=5
+| RD3-team02=Tennessee
+| RD3-score01=85
+| RD3-score02=84
+| RD3-seed03= 3
+| RD3-team03= Texas A&M
+| RD3-seed04=2
+| RD3-team04= '''Memphis'''
+| RD3-score03=64
+| RD3-score04=65
+| RD4-seed01=1
+| RD4-team01= '''Ohio State'''
+| RD4-seed02=2
+| RD4-team02=Memphis
+| RD4-score01=92
+| RD4-score02=76
+}}
+
+=== Final Four – Georgia Dome, Atlanta, Georgia ===
+
+{{4TeamBracket | RD1=National Semifinals<br/>March 31
+| RD2=National Championship<br/>April 2
+| RD1-seed1=M1
+| RD1-team1= '''Florida'''
+| RD1-score1=76
+| RD1-seed2=W2
+| RD1-team2= UCLA
+| RD1-score2=66
+| RD1-seed3=E2
+| RD1-team3= Georgetown
+| RD1-score3=60
+| RD1-seed4=S1
+| RD1-team4= '''Ohio State'''
+| RD1-score4=67
+| RD2-seed1=M1
+| RD2-team1= '''Florida'''
+| RD2-score1=84
+| RD2-seed2=S1
+| RD2-team2=Ohio State
+| RD2-score2=75
+
+}}
+
+==Game summaries==
+''Unless otherwise specified, all games were on [[CBS Sports|CBS]], except for the play-in game, which aired on [[ESPN]] and two additional games. Those games were broadcast on [[CBS College Sports Network|CSTV]] except in the natural areas of the teams involved, as those were broadcast on CBS. Times listed are [[Eastern Daylight Time|US EDT]] ([[UTC−4]]).''
+
+''Team names are those listed on the NCAA's scoreboard for the play-in game and first-round matchups. Only UNLV and UCLA use abbreviations; all other names are unabbreviated except for the common abbreviation "A&M".''
+<!---If you think a school should be listed differently take it up with the NCAA--->
+
+===Opening rounds===
+{{main article|2007 NCAA Men's Division I Basketball Tournament: Opening Rounds}}
+
+====First round upsets, close games, and other facts====
+The two major upsets of the first round were #11 Virginia Commonwealth's win over #6 Duke (West Regional), and #11 Winthrop's win over #6 Notre Dame (Midwest Regional). VCU beat Duke, 79-77, on a shot by Eric Maynor with 1.8 seconds left, sending Duke out for the first time in the first round since 1996. Winthrop's highly touted offense built a 21-point second-half lead before surviving a late Notre Dame rally to win, 74-64, earning their first tournament victory in school history. The only overtime game of the first round was in the South Regional, between #7 Nevada and #10 Creighton, ending 77-71 in favor of the Nevada Wolf Pack. Other close games included #3 Oregon squeaking by #14 Miami (Ohio), 58-56 (Midwest Regional), #5 Virginia Tech's win over #12 Illinois 54-52 (West Regional), and #9 Xavier's win over #8 BYU, 79-77 (South Regional). The highest score accumulated by a team in the 2007 tournament went to Tennessee's 121 points over Long Beach State (South Regional), which set a school record. This was the first year since 1993 that a #10 seed did not advance to the second round. It was also only the second time in the last 17 years that a #12 seed failed to advance against a #5 seed. #15 Texas A&M-Corpus Christi had leads of 10-0 and 25-7 in the first half against the #2 Wisconsin Badgers but Wisconsin prevailed 76-63.<ref name="ESPNScores3.15">{{cite web|author=[[ESPN]]|publisher=ESPN.com|url=http://scores.espn.go.com/ncb/scoreboard?confId=100&date=20070315|title=NCAA Tournament First Round Scores: Day One-3/15/07|accessdate=2008-02-29}}</ref><ref name="ESPNScores3.16">{{cite web|author=[[ESPN]]|publisher=ESPN.com|url=http://scores.espn.go.com/ncb/scoreboard?confId=100&date=20070316|title=NCAA Tournament First Round Scores: Day Two-3/16/07|accessdate=2008-02-29}}</ref>
+
+====Second round upsets, close games, and other facts====
+The two biggest upsets of the second round were #6 Vanderbilt's win over #3 Washington State (East Regional) and #7 UNLV's win over #2 Wisconsin (Midwest Regional). Vanderbilt won a heart-stopper, 78-74, in double overtime. UNLV won by six points, 74-68, in their biggest win since the 1990s. Other overtime games included #1 Ohio State's 78-71 win over #9 Xavier (South Regional) and #3 Pittsburgh's 84-79 overtime victory over #11 Virginia Commonwealth (West Regional). Ohio State's [[Ron Lewis (basketball)|Ron Lewis]] hit a three-pointer with two seconds remaining to force overtime against Xavier, and Pittsburgh fought Virginia Commonwealth's comeback from 19 points down to come up with the victory. The Ohio State win over Xavier had a controversial ending as prior to Lewis's game-tying shot, Buckeye Greg Oden shoved a Xavier player, Justin Cage, in the back and onto the floor. Had an intentional foul been called, Xavier would have been awarded two foul shots and ball possession. Instead, a regular personal foul was called. Subsequently, Xavier missed the second free throw, allowing Lewis to shoot the game-tying 3.<ref>[http://outofbounds.blogs.nytimes.com/tag/xavier/ The New York Times "Out of Bounds" blog]</ref> Other close games were #3 Texas A&M winning over #6 Louisville, 72-69 (South Regional); #5 Butler's victory over #4 Maryland, 62-59 (Midwest Regional); and #5 Tennessee defeating #4 Virginia, 77-74 (South Regional). This tournament marked the first time since 1995 that a double-digit seeded team did not advance to the Sweet 16 (Midwest #7 seed UNLV was the lowest team in the Sweet 16).<ref name="ESPNScores3.17">{{cite web|author=[[ESPN]]|publisher=ESPN.com|url=http://scores.espn.go.com/ncb/scoreboard?confId=100&date=20070317|title=NCAA Tournament Second Round Scores: Day One-3/17/07|accessdate=2008-02-29}}</ref><ref name="ESPNScores3.18">{{cite web|author=[[ESPN]]|publisher=ESPN.com|url=http://scores.espn.go.com/ncb/scoreboard?confId=100&date=20070318|title=NCAA Tournament Second Round Scores: Day Two-3/18/07|accessdate=2008-02-29}}</ref>
+
+====Regional Semifinals (Sweet Sixteen) upsets, close games, other facts====
+No upsets or overtime games occurred in this round of the tournament, although there were several very close games. In the South Region, #2 Memphis barely defeated #3 Texas A&M as Aggie senior [[Acie Law IV|Acie Law]], after a solid performance for most of the game, missed an open layup with under a minute left. A controversial clock situation with 3.1 seconds left added to the emotion.<ref>[[King Kaufman]]. 2007-03-23. [http://www.salon.com/sports/col/kaufman/2007/03/23/friday/index1.html NCAA Tournament's upset-free first round has led to Sweet 16 humdingers. Plus: Why is time so time-consuming? And: Replays] Retrieved on 2007-04-08.</ref> #1 Ohio State sneaked past #5 Tennessee, coming back from 20 points down to win, 85-84, with a blocked shot by Buckeye [[Greg Oden]] with 0.2 seconds left. In the East Region, #2 Georgetown won possibly the most controversial game of the tournament, beating #6 Vanderbilt, 66-65, on a shot by [[Jeff Green (basketball)|Jeff Green]] with 2.5 seconds left. The play was controversial as Green appeared to travel, despite fans and analysts claiming it was a clean drop step.<ref>{{cite news| url=http://sportsillustrated.cnn.com/2007/writers/seth_davis/03/24/friday.reaction/index.html | work=CNN | title=Green's 'travel' no-call, a historic Final Four and more | date=March 24, 2007 | accessdate=April 22, 2010}}</ref><ref>{{cite news| url=http://outofbounds.blogs.nytimes.com/2007/03/24/replays-and-lying-eyes/#more-19 | work=The New York Times | first=Will | last=Leitch | date=March 24, 2007 | accessdate=April 22, 2010 | title=Replays and Lying Eyes}}</ref><ref>{{cite news| url=http://sportsillustrated.cnn.com/si_blogs/basketball/ncaa/2007/11/blog-q-with-vanderbilts-shan-foster.html | work=CNN | accessdate=April 22, 2010 | title=SI.com}}</ref>
+
+===Regional Finals (Elite Eight)===
+The seeds of the Elite Eight teams were four #1s, three #2s, and one #3. This was the lowest combination of seeds in an Elite Eight since seeding began in the NCAA Tournament.
+
+;South Regional Final
+{{basketballbox | bg=#eee
+|date=March 24
+|time=4:40 PM ET
+|place=Alamodome, San Antonio, Texas
+|teamA=Memphis
+|scoreA=76
+|teamB='''Ohio State'''
+|scoreB='''92'''
+|H1=38-41
+|H2=38-51
+|attendance=26,260
+|report=[http://scores.espn.go.com/ncb/recap?gameId=274000046 Recap]
+}}
+Although Ohio State star freshman [[Greg Oden]] got into early foul trouble, a close game at the half turned into a blowout as the Buckeyes went on a 20-8 run to win. Game leaders were Memphis' Jeremy Hunt with 26 points, and Robert Dozier with 11 rebounds. This ended Memphis' 25-game win streak, previously the longest in the nation.<ref>[http://www.newsnet5.com/cbaskc12/11362970/detail.html NCAA Game Summary – Memphis Vs. Ohio State – College Basketball – Ohio State News Story – WEWS Cleveland<!-- Bot generated title -->]</ref><ref>[http://scores.espn.go.com/ncb/recap?gameId=274000046 ESPN – Memphis vs. Ohio State Recap, March 24, 2007<!-- Bot generated title -->]</ref>
+
+;West Regional Final
+{{basketballbox | bg=#eee
+|date=March 24
+|time=7:05 PM ET
+|place=HP Pavilion. San Jose, California
+|teamA='''UCLA'''
+|scoreA='''68'''
+|teamB=Kansas
+|scoreB=55
+|H1=35-31
+|H2=33-24
+|attendance=18,102
+|report=[http://scores.espn.go.com/ncb/recap?gameId=274000015 Recap]
+}}
+After a tight first-half, the Bruins slowly put away the top-seeded Jayhawks in the second-half using their 2006 national championship game experience, along with a strong defense. Shooting percentage was a key factor in the game as UCLA shot 53% to Kansas's 41%. UCLA's [[Arron Afflalo]] led all scorers with 24 points while [[Brandon Rush]] of Kansas led the Jayhawks with 18. UCLA and Kansas combined for 35 steals, breaking the previous tournament record of 28.<ref name="UCLAKansas">{{cite web|agency=[[Associated Press]]|publisher=ESPN.com|url=http://scores.espn.go.com/ncb/recap?gameId=274000015|title=UCLA vs. Kansas – Recap: 3/24/07|accessdate=2008-02-29}}</ref>
+
+;East Regional Final
+{{basketballbox | bg=#eee
+|date=March 25
+|time=5:05 PM ET
+|place=Continental Airlines Arena, E. Rutherford, New Jersey
+|teamA='''Georgetown'''
+|scoreA='''96'''
+|teamB=North Carolina
+|scoreB=84
+|H1=44-50
+|H2=37-31
+|OT=15-3
+|attendance=19,557
+|report=[http://scores.espn.go.com/ncb/recap?gameId=274000030 Recap]
+}}
+North Carolina led for most of the game and the entire second half, but Georgetown rallied from ten points down with six minutes remaining to force overtime. The Tar Heels were outscored 15-3 in the extra session, missing 22 of their final 23 field goal attempts. Georgetown reached its first Final Four since 1985, when John Thompson III's father [[John Thompson (basketball)|John Thompson (Jr.)]] was coach—and Thompson III became the first coach to succeed his father in coaching a team to the Final Four. With North Carolina's loss in the regional final, this marked the first time since the tournament field expanded to 64 teams that no ACC team made it to the Final Four for two consecutive years. The last time that no ACC team made it to the Final Four in consecutive years was in 1979 and 1980.
+
+;Midwest Regional Final
+{{basketballbox | bg=#eee
+|date=March 25
+|time=2:40 PM ET
+|place=Edward Jones Dome, St. Louis, Missouri
+|teamA=Oregon
+|scoreA=77
+|teamB='''Florida'''
+|scoreB='''85'''
+|H1=38-40
+|H2=39-45
+|attendance=25,947
+|report=[http://scores.espn.go.com/ncb/recap?gameId=274000061 Recap]
+}}
+In what was actually a close game for most of regulation, Florida's three-point shots, along with a 20-9 run in the second half, amounted to a Gator win. Florida player [[Lee Humphrey]] led his team with seven three-pointers, and added up a total of 23 points.<ref>[http://scores.espn.go.com/ncb/recap?gameId=274000061 ESPN – Oregon vs. Florida Recap, March 25, 2007<!-- Bot generated title -->]</ref><ref>[http://www.local6.com/cbaska89/11373239/detail.html NCAA Game Summary – Oregon Vs. Florida – College Basketball – Florida News Story – WKMG Orlando<!-- Bot generated title -->]</ref> In one of the more odd moments of the tournament, Humphrey shot a three-pointer through the side of the net, causing a 10-minute delay as the net was repaired.
+
+===Final Four===
+[[File:NewGeorgiaDome.JPG|thumb|200px|The [[Georgia Dome]] was the site of the Final Four and National Championship in 2007.]]
+All of the 2007 Final Four teams had participated in the 2006 tournament. Ohio State was knocked out in the second round by Georgetown, who would lose to Florida in the Minneapolis Regional Semifinals. Florida would go on to defeat UCLA in the championship game. The four teams were all previous champions as well — Ohio State (1960), Georgetown (1984), UCLA (several), and Florida (2006) — marking the fourth time that all of the Final Four teams were past champions (joining [[1993 NCAA Men's Division I Basketball Tournament|1993]], [[1995 NCAA Men's Division I Basketball Tournament|1995]] and [[1998 NCAA Men's Division I Basketball Tournament|1998]] Final Fours). Also, it was the first time in nine years that no two Final Four teams were from the same conference.
+{{Clear}}
+;South-East National Semifinal
+{{basketballbox | bg=#eee
+|date=March 31
+|time=6:07 PM ET
+|place=Georgia Dome, Atlanta, Georgia
+|teamA=Georgetown
+|scoreA=60
+|teamB='''Ohio State'''
+|scoreB='''67'''
+|H1=23-27
+|H2=37-40
+|attendance=N/A
+|report=[http://scores.espn.go.com/ncb/recap?gameId=274000062 Recap]
+}}Ohio State proved to be too much for the Hoyas, even with Ohio State's phenom center Greg Oden sitting most of the game due to foul trouble.
+
+;Midwest-West National Semifinal
+{{basketballbox | bg=#eee
+|date=March 31
+|time=8:47 PM ET
+|place=Georgia Dome, Atlanta, Georgia
+|teamA=UCLA
+|scoreA=66
+|teamB='''Florida'''
+|scoreB='''76'''
+|H1=23-29
+|H2=43-47
+|attendance=53,510
+|report=[http://scores.espn.go.com/ncb/recap?gameId=274000031 Recap]
+}}
+In the beginning, Florida struggled with UCLA's swarming defense, but ten minutes into the game they took a double-digit lead, and [[Lee Humphrey]], in a performance reminiscent of the previous year's national title game, blew the game open in the second half hitting three consecutive three-pointers. Humphrey's shots proved too much to overcome and UCLA never threatened in the second half.
+
+===National Championship===
+{{main article|2007 NCAA Men's Division I Basketball Championship Game}}
+{{basketballbox | bg=#eee
+|date=April 2
+|time=9:21 PM ET
+|place=Georgia Dome, Atlanta, Georgia
+|teamA='''Florida'''
+|scoreA='''84'''
+|teamB=Ohio State
+|scoreB=75
+|H1=40-29
+|H2=44-46
+|attendance=51,458
+|report=[http://scores.espn.go.com/ncb/recap?gameId=274000063 Recap]
+}}
+A rematch of a regular season meeting, won 86-60 by Florida in Gainesville, The Gators survived 25 points and 12 rebounds from Buckeyes center [[Greg Oden]] with stellar play from guards [[Lee Humphrey]] and [[Taurean Green]] with inside contributions coming from [[Al Horford]] (18 points) and tourney Most Outstanding Player [[Corey Brewer]]. [[Billy Donovan]] became the third-youngest coach (at age 41) to win two titles. Only Bob Knight (at Indiana) and [[University of San Francisco|San Francisco]]'s [[Phil Woolpert]] both won two titles at the age of 40.
+
+The Gators are the first team ever to hold the NCAA Division I college football and basketball titles in the same academic year (2006–07) and calendar year (2006 and 2007). Coincidentally, Florida also beat Ohio State (by a score of 41-14) in the [[2007 BCS National Championship Game|College Football Championship]], the first time in college sports history that identical matchups and results have occurred in both football and basketball championships. This was also the first time in NCAA D-I men's basketball history that exactly the same starting five were able to win back-to-back titles ([[Joakim Noah]], [[Corey Brewer]], [[Lee Humphrey]], [[Al Horford]], [[Taurean Green]]). Florida's Lee Humphrey also set the all-time NCAA Tournament record for three-point field goals made with 47. Humphrey surpassed [[Bobby Hurley]]'s record of 42.
+
+==Record by conference==
+
+{| class="wikitable sortable"
+|-
+
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|# of Bids
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Win %
+!style="background: #e3e3e3;"|Sweet Sixteen
+!style="background: #e3e3e3;"|Elite Eight
+!style="background: #e3e3e3;"|Final Four
+!style="background: #e3e3e3;"|Championship Game
+!style="background: #e3e3e3;"|Champions
+|- align="center"
+|align="left"| [[Conference USA|C-USA]]
+| 1
+| 3-1
+| .750
+| 1
+| 1
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Southeastern Conference|SEC]]
+| 5
+| 11-4
+| .733
+| 3
+| 1
+| 1
+| 1
+| 1
+|- align="center"
+|align="left"| [[Pac-10]]
+| 6
+| 10-6
+| .625
+| 3
+| 2
+| 1
+| -
+| -
+|- align="center"
+|align="left"| [[Big Ten]]
+| 6
+| 9-6
+| .600
+| 1
+| 1
+| 1
+| 1
+| -
+|- align="center"
+|align="left"| [[Big 12]]
+| 4
+| 6-4
+| .600
+| 2
+| 1
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Big East Conference|Big East]]
+| 6
+| 7-6
+| .538
+| 2
+| 1
+| 1
+| -
+| -
+|- align="center"
+|align="left"| [[Atlantic Coast Conference|ACC]]
+| 7
+| 7-7
+| .500
+| 1
+| 1
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Horizon League|Horizon]]
+| 2
+| 2-2
+| .500
+| 1
+| -
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Missouri Valley Conference|Missouri Valley]]
+| 2
+| 2-2
+| .500
+| 1
+| -
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Mountain West Conference|Mountain West]]
+| 2
+| 2-2
+| .500
+| 1
+| -
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Big South]]
+| 1
+| 1-1
+| .500
+| -
+| -
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Metro Atlantic Athletic Conference|MAAC]]
+| 1
+| 1-1*
+| .500
+| -
+| -
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Atlantic 10]]
+| 2
+| 1-2
+| .333
+| -
+| -
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Colonial Athletic Association|CAA]]
+| 2
+| 1-2
+| .333
+| -
+| -
+| -
+| -
+| -
+|- align="center"
+|align="left"| [[Western Athletic Conference|WAC]]
+| 2
+| 1-2
+| .333
+| -
+| -
+| -
+| -
+| -
+|}
+
+The [[America East Conference|America East]], [[Atlantic Sun Conference|Atlantic Sun]], [[Big Sky Conference|Big Sky]], [[Big West]], [[Ivy League|Ivy]], [[Mid-Eastern Athletic Conference|MEAC]], [[Mid-American Conference|Mid-American]], [[The Summit League|Mid-Continent]], [[Northeast Conference|Northeast]], [[Ohio Valley Conference|Ohio Valley]], [[Patriot League|Patriot]], [[Southern Conference|Southern]], [[Southland Conference|Southland]], [[Sun Belt Conference|Sun Belt]], [[Southwestern Athletic Conference|SWAC]], and [[West Coast Conference|WCC]] all went 0-1.
+
+<nowiki>*</nowiki> The MAAC went 1-1 since [[Niagara University|Niagara]] won the Play-in Game.
+
+==Media==
+
+===Television===
+
+====CBS Sports====
+For the 26th consecutive year, [[CBS Sports]] telecast the tournament, and for the 17th consecutive year, broadcast every game from the first round to the championship, with [[Jim Nantz]] and [[Billy Packer]] calling the Final Four. Nantz was in a stretch in which he would broadcast [[Super Bowl XLI]], the Final Four, and [[Masters Tournament|The Masters]] golf tournament all in a 10-week period.<ref name="CBSSportsPairings">{{cite web|author=[[CBS Sports]]|publisher=CBSSports.com|url=http://www.sportsline.com/cbssports/news/030805pairings|title=Tournament and Broadcast Pairings Announced|accessdate=2008-02-29}}</ref>
+
+The complete list of announcing teams follows:
+
+*[[Jim Nantz]], [[Billy Packer]] and [[Sam Ryan]] (she was only used as Sideline Reporter for the Final Four and NCAA Championship game) – First & Second Round at Chicago, Illinois; East Regional at East Rutherford, New Jersey; Final Four at Atlanta, Georgia
+*[[Dick Enberg]] and [[Jay Bilas]] – First & Second Round at Winston-Salem, North Carolina; West Regional at San Jose, California
+*[[Verne Lundquist]] and [[Bill Raftery]] – First & Second Round at New Orleans, Louisiana; South Regional at San Antonio, Texas
+*[[James Brown (TV personality)|James Brown]] and [[Len Elmore]] – First & Second Round at Sacramento, California; Midwest Regional at St. Louis, Missouri
+*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Dan Bonner]] – First & Second Round at Lexington, Kentucky
+*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Spokane, Washington
+*[[Kevin Harlan]] and [[Bob Wenzel]] – First & Second Round at Buffalo, New York
+*[[Tim Brando]] and [[Mike Gminski]] – First & Second Round at Columbus, Ohio
+
+[[Greg Gumbel]] once again served as the studio host, joined by analysts [[Clark Kellogg]] and [[Seth Davis]].
+
+====Other television====
+[[CBS College Sports Network|CSTV]], owned by [[CBS]], telecast the George Washington-Vanderbilt and the Virginia-Albany contests (in addition to the local CBS affiliates nearest to the participating teams in those games, and those using their [[digital subchannel]]s for [[multicasting]]). Those games served as the first-ever live tourney telecasts on CSTV, which also provided a highlights show after each day of competition. <!--West Coast affiliates do not automatically receive any games starting in the late afternoon about 2 p.m. PT, contrary to an earlier posting; KCBS in Los Angeles opted to air The Price is Right after the national first-session games, for example.-->
+
+For the first three rounds of the tournament, games were also shown on [[DirecTV]] through the [[Mega March Madness]] [[pay-per-view]] service and on [http://www.ncaasports.com/mmod/ March Madness on Demand], a [[broadband]] [[Internet]] [[video streaming]] service that was a joint venture between [[CBSSports.com|CBS SportsLine]] (now known as CBSSports.com) and the NCAA.
+
+The opening round game was broadcast on [[ESPN]] for the sixth consecutive year.
+
+===Radio===
+[[Westwood One (1976–2011)|Westwood One]] once again had the live radio coverage. Kevin Harlan once again served as the play-by-play man at the Final Four with Bill Raftery and [[John Thompson (basketball)|John Thompson]] on color. Thompson the elder is the father of current Georgetown coach John Thompson III.<ref name="CBSSportsPairings" />
+
+==Basketball courts==
+During the first- and second-round games in New Orleans, as part of the continuing [[Reconstruction of New Orleans|recovery process]] from [[Hurricane Katrina]], the NCAA allowed an additional floor decal recognizing the work of [[Habitat for Humanity International#Collegiate Challenge|Habitat for Humanity's Collegiate Challenge]] and the NCAA Home Team program through the subregional's host institution, [[Tulane University]]. This marked the first time that a logo other than that of the NCAA or an NCAA member school has been allowed at an NCAA-sanctioned championship event. In addition, Tulane student athletes and athletic department personnel built a new house, valued at $75,000 ([[United States dollar|US]]), which was paid for by the NCAA and their corporate partner [[Lowe's]], on Girod Street between the [[New Orleans Arena]], site of the games, and the [[Louisiana Superdome]], which has hosted four Final Fours.<ref>http://www.ncaasports.com/story/10062095 Tulane teams with Habitat with Humanity March 15, 2007</ref>
+
+Also, for the first time, custom-made, identical courts were used at all four regional sites in San Jose, St. Louis, San Antonio and East Rutherford. Starting in 2010, all tournament games would have the same identical courts.
+
+== See also ==
+* [[2007 NCAA Division II Men's Basketball Tournament]]
+* [[2007 NCAA Division III Men's Basketball Tournament]]
+* [[2007 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|2007 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|2007 NCAA Division III Women's Basketball Tournament]]
+* [[2007 National Invitation Tournament]]
+* [[2007 Women's National Invitation Tournament]]
+* [[2007 NAIA Division I Men's Basketball Tournament]]
+* [[2007 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2007 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2007 NAIA Division II Women's Basketball Tournament]]
+* [[Bracketology]]
+
+== References ==
+
+{{Reflist|2}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2007 Florida Gators men's basketball navbox}}
+
+{{DEFAULTSORT:2007 Ncaa Men's Division I Basketball Tournament}}
+[[Category:2006–07 NCAA Division I men's basketball season|Ncaa]]
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:Basketball in San Antonio]]
+[[Category:2007 in sports in Georgia (U.S. state)]]

@@ -1,0 +1,1887 @@
+{{Infobox college basketball tournament
+| Year=2015
+| Season= 2014-15
+| Image=2015FinalFourLogo.png
+| ImageSize=
+| Caption=2015 Final Four logo
+| Teams=68
+| FinalFourArena=[[Lucas Oil Stadium]]
+| FinalFourCity=[[Indianapolis]]
+| Champions=[[2014-15 Duke Blue Devils men's basketball team|Duke]]
+| TitleCount=5th
+| ChampGameCount=11th
+| ChampFFCount=16th
+| RunnerUp=[[2014–15 Wisconsin Badgers men's basketball team|Wisconsin]]
+| GameCount=2nd
+| RunnerFFCount=4th
+| Semifinal1=[[2014–15 Kentucky Wildcats men's basketball team|Kentucky]]
+| FinalFourCount=17th
+| Semifinal2= [[2014–15 Michigan State Spartans men's basketball team|Michigan State]]
+| FinalFourCount2=9th
+| Coach= [[Mike Krzyzewski]]
+| CoachCount= 5th
+| MOP= [[Tyus Jones]] 
+| MOPTeam= Duke
+}}
+The '''2015 [[NCAA Division I Men's Basketball Tournament]]''' involved 68 teams playing in a [[single-elimination tournament]] to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. The 77th edition of the tournament began on March 17, 2015, and concluded with the [[2015 NCAA Men's Division I Basketball Championship Game|championship game]] on April 6 at [[Lucas Oil Stadium]] in [[Indianapolis]]. [[2014–15 Duke Blue Devils men's basketball team|Duke]] defeated [[2014–15 Wisconsin Badgers men's basketball team|Wisconsin]] in the championship game, 68–63. [[Tyus Jones]] of Duke was the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+
+==2015 NCAA Tournament schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=2015 First Four (orange) and first and second rounds March 19 and 21 (green) March 20 and 22 (Blue)|places= 
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.735556|lon_deg=-84.2|position=bottom|background=#FFFFFF|label=Dayton|link=University of Dayton Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=30.325769|lon_deg=-81.645069|position=left|background=#FFFFFF|label=Jacksonville|link=Jacksonville Veterans Memorial Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.2575|lon_deg=-85.753889|position=bottom|background=#FFFFFF|label=Louisville|link=KFC Yum! Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.439444|lon_deg=-79.989167|position=top|background=#FFFFFF|label=Pittsburgh|link=Consol Energy Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=45.531667|lon_deg=-122.666667|position=right|background=#FFFFFF|label=Portland|link=Moda Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=35.225|lon_deg=-80.839167|position=bottom|background=#FFFFFF|label=Charlotte|link=Time Warner Cable Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.969283|lon_deg=-83.006111|position=right|background=#FFFFFF|label=Columbus|link=Nationwide Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=41.262667|lon_deg=-95.928206|position=left|background=#FFFFFF|label=Omaha|link=CenturyLink Center Omaha}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=47.622222|lon_deg=-122.354167|position=right|background=#FFFFFF|label=Seattle|link=KeyArena}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2015 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=41.496389|lon_deg=-81.688056|position=left|background=#FFFFFF|label=Cleveland|link=Quicken Loans Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=34.043056|lon_deg=-118.267222|position=bottom|background=#FFFFFF|label=Los Angeles|link=Staples Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=29.684722|lon_deg=-95.410833|position=left|background=#FFFFFF|label=Houston|link=NRG Stadium}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=43.036111|lon_deg=-76.136389|position=left|background=#FFFFFF|label=Syracuse|link=Carrier Dome}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=39.760056|lon_deg=-86.163806|position=left|background=#FFFFFF|label=Indianapolis|link=Lucas Oil Stadium}}
+}}
+
+The following are the sites selected to host each round of the 2015 tournament:<ref name=Sites>{{cite web|title=Preliminary round sites announced for 2014, 2015 NCAA tournaments|url=http://www.ncaa.com/news/basketball-men/article/2012-11-12/preliminary-round-sites-announced-2014-2015-ncaa-tournaments|publisher=NCAA|accessdate=May 12, 2013 |date=December 16, 2012}}</ref>
+
+'''First Four'''
+*March 17 and 18
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+'''Second and Third Rounds''' (Round of 64 and Round of 32)
+*March 19 and 21
+**[[Jacksonville Veterans Memorial Arena]], [[Jacksonville, Florida]] (Hosts: [[Jacksonville University]] and the [[University of North Florida]])
+**[[KFC Yum! Center]], [[Louisville, Kentucky]] (Host: [[University of Louisville]])
+**[[Consol Energy Center]], [[Pittsburgh|Pittsburgh, Pennsylvania]] (Host: [[Duquesne University]])
+**[[Moda Center]], [[Portland, Oregon]] (Host: [[University of Oregon]])
+*March 20 and 22
+**[[Time Warner Cable Arena]], [[Charlotte, North Carolina]]  (Host: [[University of North Carolina at Charlotte]])
+**[[Nationwide Arena]], [[Columbus, Ohio]] (Host: [[The Ohio State University]])
+**[[CenturyLink Center Omaha]], [[Omaha, Nebraska]] (Host: [[Creighton University]])
+**[[KeyArena]], [[Seattle|Seattle, Washington]] (Host: [[University of Washington]])
+
+'''Regional Semifinals and Finals''' (Sweet Sixteen and Elite Eight)
+*March 26 and 28
+**'''Midwest Regional''', [[Quicken Loans Arena]], [[Cleveland|Cleveland, Ohio]] (Host: [[Mid-American Conference]] and [[Cleveland State University]])
+**'''West Regional''', [[Staples Center]], [[Los Angeles]] (Host: [[Pepperdine University]])
+*March 27 and 29
+**'''East Regional''', [[Carrier Dome]], [[Syracuse, New York]]  (Host: [[Syracuse University]])
+**'''South Regional''', [[NRG Stadium]], [[Houston|Houston, Texas]] (Hosts: [[Rice University]], and [[University of Houston]])
+'''National Semifinals and Championship''' (Final Four and Championship)
+*April 4 and 6
+**[[Lucas Oil Stadium]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Indiana University – Purdue University Indianapolis|IUPUI]] and the [[Horizon League]])
+
+For the second time, Lucas Oil Stadium hosted the Final Four, marking the seventh time the NCAA's home city has hosted the tournament; it is scheduled to do so again in 2021. The 2015 tournament marked the first time since 2005 that no new venues were used, only the third time since 1950 that this has happened. As of 2018, this is the most recent tournament for Cleveland, Columbus, Jacksonville, Portland, Seattle or Syracuse; of these six cities, only Syracuse has not had its next tournament games scheduled.
+
+==Notables==
+{{refimprove section|date=March 2015}}
+[[2014–15 Kentucky Wildcats men's basketball team|Kentucky]] entered the tournament unbeaten. After 22 years without an unbeaten team in the tournament, following [[1990–91 UNLV Runnin' Rebels basketball team|UNLV in 1991]], this is the second consecutive tournament with an unbeaten team (after [[2013–14 Wichita State Shockers men's basketball team|Wichita State in the previous]]). The Wildcats, by beating [[2014–15 Cincinnati Bearcats men's basketball team|Cincinnati]] in the third round, set an NCAA men's record with 36 straight wins to start a season. They would win two more before [[2014–15 Wisconsin Badgers men's basketball team|Wisconsin]] upset them in the Final Four.
+
+Defending national champion [[2014–15 Connecticut Huskies men's basketball team|Connecticut]] did not qualify.
+
+[[2014–15 Kansas Jayhawks men's basketball team|Kansas]] extended its streak of consecutive tournament appearances to 26 in a row.  They have made each NCAA Tournament dating back to 1990.  Kansas would qualify again the next two seasons to set the record for consecutive NCAA Tournament appearances formerly held by North Carolina (1975–2001).
+
+[[Atlantic Sun Conference]] champion [[2014–15 North Florida Ospreys men's basketball team|North Florida]], [[Big West Conference]] champion [[2014–15 UC Irvine Anteaters men's basketball team|UC Irvine]], and [[Mid-American Conference]] champion [[2014–15 Buffalo Bulls men's basketball team|Buffalo]] made their first respective appearances in the Division I tournament.
+
+With both Buffalo and [[2014–15 Albany Great Danes men's basketball team|Albany]] winning their respective conferences and reaching the tournament, this is the first time two schools in the [[State University of New York]] system have reached the Division I tournament in the same year.<ref>[http://www.bizjournals.com/buffalo/blog/morning_roundup/2015/03/buffalo-ualbany-give-suny-two-reps-in-ncaa-men-s.html Buffalo, UAlbany give SUNY two reps in NCAA men's hoops]. ''Business First''. Retrieved March 16, 2015.</ref>
+
+Two teams broke appearance droughts of over 20 years with their bids: [[Colonial Athletic Association]] champion [[2014–15 Northeastern Huskies men's basketball team|Northeastern]] made its first NCAA appearance since [[1991 NCAA Men's Division I Basketball Tournament|1991]], and [[American Athletic Conference|American]] champion [[2014–15 SMU Mustangs men's basketball team|Southern Methodist]] made its first NCAA appearance since [[1993 NCAA Men's Division I Basketball Tournament|1993]].
+
+Harvard and Yale played a one-game playoff at the Palestra. Harvard won in dramatic fashion.<ref name=ivyleagueplayoff>{{cite press release|url=http://www.ivyleaguesports.com/sports/mbkb/2014-15/releases/2015_Mens_Basketball_Playoff_Details_Announced |title=2015  Men's Basketball Playoff Details Announced |publisher=Ivy League |date=March 9, 2015 |accessdate=March 15, 2015}}</ref>
+
+[[2014–15 Dayton Flyers men's basketball team|Dayton]] played a First Four game at their home arena, which is usually not allowed during the men's tournament. The NCAA selection committee indicated that putting Dayton in its home arena "falls within the context" of the committee's procedures.<ref>{{cite news |url=http://www.daytondailynews.com/news/news/flyers-staying-home-for-start-of-ncaa-tourney/nkXQD/ |title=Flyers staying home for start of NCAA tourney |newspaper=Dayton Daily News |date=March 15, 2015 |first=Brian |last=Kollars}}</ref>
+
+For the first time since [[1995 NCAA Men's Division I Basketball Tournament|1995]], two 14 seeds recorded wins in the Second Round. On March 19, [[2014–15 Georgia State Panthers men's basketball team|Georgia State]] defeated [[2014–15 Baylor Bears basketball team|Baylor]] and [[2014–15 UAB Blazers men's basketball team|UAB]] defeated [[2014–15 Iowa State Cyclones men's basketball team|Iowa State]].
+
+Of the sixteen games played on March 19, five were decided by one point, a single-day record.
+
+For the first time since [[2007 NCAA Men's Division I Basketball Tournament|2007]] and the fourth time since the field expanded to 64 teams in [[1985 NCAA Men's Division I Basketball Tournament|1985]], all four 5 seeds won their Second Round games. This was also the first time since 2007 that there were four 4 vs. 5 matchups in the Third Round.
+
+On March 20, all but one "chalk" team won their game (there was only one upset), compared to the four upsets the previous day.
+
+Michigan State reached its seventh Final Four in the last 18 seasons—the best mark in the nation during that time span.<ref>{{cite news|title=The Legend Of Tom Izzo Grows|date=March 30, 2015|first=Neil|last=Paine|work=FiveThirtyEight|url=http://fivethirtyeight.com/datalab/tom-izzo-michigan-state-coaching-final-four/}}</ref>
+
+For the first time since [[2009 NCAA Men's Division I Basketball Tournament|2009]], multiple 1 seeds reached the Final Four.
+
+For the first time since [[2008 NCAA Men's Division I Basketball Tournament|2008]], two 1 seeds reached the Championship, between Kansas and Memphis (later vacated by Memphis).
+
+Wisconsin was in its first final since [[1941 NCAA Men's Division I Basketball Tournament|1941]], and lost; and Duke in its first final since [[2010 NCAA Men's Division I Basketball Tournament|2010]], and won.
+
+The Wisconsin loss extended the [[Big Ten Conference]]'s losing streak in National Championship games to six. As of 2015, [[Michigan State Spartans men's basketball|Michigan State]] is the last Big Ten team to win a National Championship, having done so in [[2000 NCAA Men's Division I Basketball Tournament|2000]].
+
+==Qualifying and selection procedure==
+[[File:2015 JW Marriott Bracket .jpg|thumb|The 2015 bracket displayed on the [[JW Marriott Indianapolis]] ]]
+{{details|NCAA basketball tournament selection process}}
+
+Out of 333 eligible Division I teams, 68 participate in the tournament. Eighteen Division I teams were ineligible due to failing to meet APR requirements, self-imposed postseason bans, or reclassification from a lower division.{{refn|The 18 teams that are ineligible, and the reasons for ineligibility, are:
+* APR: Alabama State, Appalachian State, Central Arkansas, Florida A&M, Houston Baptist, Lamar, Milwaukee, San Jose State, Southern
+* Other NCAA infractions: Arkansas-Pine Bluff<ref>https://www.ncaa.org/sites/default/files/Arkansas%20Pine%20Bluff%20Infractions%20Decision%20PUBLIC.PDF</ref>
+* Self-imposed bans: Southern Miss, Syracuse
+* Reclassification: Abilene Christian, Grand Canyon, Incarnate Word, Northern Kentucky, Omaha, UMass Lowell<ref>{{cite web|title=2015 Conference Tournament Central |url=http://www.bloggingthebracket.com/2015/3/1/8127147/2015-conference-tournaments-brackets-schedule-tv-scores-college-basketball |first=Chris |last=Dobbertean |website=SB Nation|accessdate=March 16, 2015|date=March 17, 2015}}</ref>}}
+
+Of the 32 automatic bids, 31 were given to programs that won their [[List of NCAA conferences|conference]] tournaments. The [[Ivy League]] does not hold a tournament, and awards its bid to the team with the best regular-season record. However, whenever two or more teams are tied for the conference title, league rules call for a [[one-game playoff]] between the top two teams (or a series of such playoffs if more than two teams are tied), which occurred in this year.<ref name=ivyleagueplayoff/> The remaining 36 bids were granted on an "at-large" basis, which were extended by the NCAA Selection Committee to the teams it deemed to be the best 36 teams that did not receive automatic bids.
+
+Eight teams—the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams—will play in the First Four (the successor to what had been popularly known as "[[NCAA Men's Division I Basketball Opening Round game|play-in games]]" through the 2010 tournament). The winners of these games advance to the round of 64.
+
+The [[NCAA basketball tournament selection process|Selection Committee]] will also seed the entire field from 1 to 68.
+
+{{details|2015 NCAA Division I Men's Basketball Tournament: qualifying teams}}
+
+===Automatic qualifiers===
+The following teams are automatic qualifiers for the 2015 NCAA field by virtue of winning their conference's automatic bid.
+{|class="wikitable sortable" style="text-align:center;"
+!Conference
+!Team
+!data-sort-type="number"|Appearance
+!Last bid
+|-
+|align=left|[[2015 ACC Men's Basketball Tournament|ACC]]
+|align=left|[[2014–15 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
+|34th
+|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|-
+|align=left|[[2015 America East Men's Basketball Tournament|America East]]
+|align=left|[[2014–15 Albany Great Danes men's basketball team|Albany]] 
+|5th 
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]] 
+|-
+|align=left|[[2015 Atlantic 10 Men's Basketball Tournament|A–10]]
+|align=left|[[2014–15 VCU Rams men's basketball team|VCU]]
+|14th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 American Athletic Conference Men's Basketball Tournament|American]]
+|align=left|[[2014–15 SMU Mustangs men's basketball team|SMU]]
+|11th
+|[[1993 NCAA Men's Division I Basketball Tournament|1993]]
+|-
+|align=left|[[2015 Atlantic Sun Men's Basketball Tournament|Atlantic Sun]]
+|align=left|[[2014–15 North Florida Ospreys men's basketball team|North Florida]]
+|1st
+|Never
+|-
+|align=left|[[2015 Big 12 Men's Basketball Tournament|Big 12]]
+|align=left|[[2014–15 Iowa State Cyclones men's basketball team|Iowa State]]
+|17th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 Big East Men's Basketball Tournament|Big East]]
+|align=left|[[2014–15 Villanova Wildcats men's basketball team|Villanova]]
+|34th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 Big Sky Conference Men's Basketball Tournament|Big Sky]]
+|align=left|[[2014–15 Eastern Washington Eagles men's basketball team|Eastern Washington]]
+|2nd
+|[[2004 NCAA Men's Division I Basketball Tournament|2004]]
+|-
+|align=left|[[2015 Big South Conference Men's Basketball Tournament|Big South]]
+|align=left|[[2014–15 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
+|4th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 Big Ten Conference Men's Basketball Tournament|Big Ten]]
+|align=left|[[2014–15 Wisconsin Badgers men's basketball team|Wisconsin]]
+|21st
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 Big West Conference Men's Basketball Tournament|Big West]]
+|align=left|[[2014–15 UC Irvine Anteaters men's basketball team|UC Irvine]]
+|1st
+|Never
+|-
+|align=left|[[2015 CAA Men's Basketball Tournament|Colonial]]
+|align=left|[[2014–15 Northeastern Huskies men's basketball team|Northeastern]]
+|8th
+|[[1991 NCAA Men's Division I Basketball Tournament|1991]]
+|-
+|align=left|[[2015 Conference USA Men's Basketball Tournament|C-USA]]
+|align=left|[[2014–15 UAB Blazers men's basketball team|UAB]]
+|15th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2015 Horizon League Men's Basketball Tournament|Horizon]]
+|align=left|[[2014–15 Valparaiso Crusaders men's basketball team|Valparaiso]]
+|9th
+|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|-
+|align=left|[[Ivy League]]
+|align=left|[[2014–15 Harvard Crimson men's basketball team|Harvard]]
+|5th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 MAAC Men's Basketball Tournament|MAAC]]
+|align=left|[[2014–15 Manhattan Jaspers basketball team|Manhattan]]
+|8th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 MAC Men's Basketball Tournament|MAC]]
+|align=left|[[2014–15 Buffalo Bulls men's basketball team|Buffalo]]
+|1st
+|Never
+|-
+|align=left|[[2015 MEAC Men's Basketball Tournament|MEAC]]
+|align=left|[[2014–15 Hampton Pirates men's basketball team|Hampton]]
+|5th
+|[[2011 NCAA Men's Division I Basketball Tournament|2011]]
+|-
+|align=left|[[2015 Missouri Valley Conference Men's Basketball Tournament|Missouri Valley]]
+|align=left|[[2014–15 Northern Iowa Panthers men's basketball team|Northern Iowa]]
+|7th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|-
+|align=left|[[2015 Mountain West Conference Men's Basketball Tournament|Mountain West]]
+|align=left|[[2014–15 Wyoming Cowboys basketball team|Wyoming]]
+|15th
+|[[2002 NCAA Men's Division I Basketball Tournament|2002]]
+|-
+|align=left|[[2015 Northeast Conference Men's Basketball Tournament|Northeast]]
+|align=left|[[2014–15 Robert Morris Colonials men's basketball team|Robert Morris]]
+|8th
+|[[2010 NCAA Men's Division I Basketball Tournament|2010]]
+|-
+|align=left|[[2015 Ohio Valley Conference Men's Basketball Tournament|Ohio Valley]]
+|align=left|[[2014–15 Belmont Bruins men's basketball team|Belmont]]
+|7th
+|[[2013 NCAA Men's Division I Basketball Tournament|2013]]
+|-
+|align=left|[[2015 Pac-12 Conference Men's Basketball Tournament|Pac-12]]
+|align=left|[[2014–15 Arizona Wildcats men's basketball team|Arizona]]
+|30th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 Patriot League Men's Basketball Tournament|Patriot]]
+|align=left|[[2014–15 Lafayette Leopards men's basketball team|Lafayette]]
+|4th
+|[[2000 NCAA Men's Division I Basketball Tournament|2000]]
+|-
+|align=left|[[2015 SEC Men's Basketball Tournament|SEC]]
+|align=left|[[2014–15 Kentucky Wildcats men's basketball team|Kentucky]]
+|54th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 Southern Conference Men's Basketball Tournament|Southern]]
+|align=left|[[2014–15 Wofford Terriers men's basketball team|Wofford]]
+|4th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 Southland Conference Men's Basketball Tournament|Southland]]
+|align=left|[[2014–15 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]
+|3rd
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 SWAC Men's Basketball Tournament|SWAC]]
+|align=left|[[2014–15 Texas Southern Tigers basketball team|Texas Southern]]
+|6th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 The Summit League Men's Basketball Tournament|Summit]]
+|align=left|[[2014–15 North Dakota State Bison men's basketball team|North Dakota State]]
+|3rd
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 Sun Belt Conference Men's Basketball Tournament|Sun Belt]]
+|align=left|[[2014–15 Georgia State Panthers men's basketball team|Georgia State]]
+|3rd
+|[[2001 NCAA Men's Division I Basketball Tournament|2001]]
+|-
+|align=left|[[2015 West Coast Conference Men's Basketball Tournament|West Coast]]
+|align=left|[[2014–15 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|18th
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|-
+|align=left|[[2015 WAC Men's Basketball Tournament|WAC]]
+|align=left|[[2014–15 New Mexico State Aggies men's basketball team|New Mexico State]]
+|22nd
+|[[2014 NCAA Men's Division I Basketball Tournament|2014]]
+|}
+
+===Tournament seeds===
+{| class="wikitable sortable"
+|+Midwest Region – [[Quicken Loans Arena]], [[Cleveland|Cleveland, Ohio]]
+|-
+!Seed
+!School
+!Conference
+!Record
+!Berth type
+!Overall rank
+|-
+|align=center|1
+|[[2014–15 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[2014–15 Southeastern Conference men's basketball season|SEC]]
+|align=center|34–0
+|Auto
+|align=center|1
+|-
+|align=center|2
+|[[2014–15 Kansas Jayhawks men's basketball team|Kansas]]
+|[[2014–15 Big 12 Conference men's basketball season|Big 12]]
+|align=center|26–8
+|At-large
+|align=center|8
+|-
+|align=center|3
+|[[2014–15 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
+|ACC
+|align=center|29–5
+|Auto
+|align=center|12
+|-
+|align=center|4
+|[[2014–15 Maryland Terrapins men's basketball team|Maryland]]
+|[[2014–15 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|27–6
+|At-large
+|align=center|14
+|-
+|align=center|5
+|[[2014–15 West Virginia Mountaineers men's basketball team|West Virginia]]
+|[[2014–15 Big 12 Conference men's basketball season|Big 12]]
+|align=center|23–9
+|At-large
+|align=center|19
+|-
+|align=center|6
+|[[2014–15 Butler Bulldogs men's basketball team|Butler]]
+|[[2014–15 Big East Conference men's basketball season|Big East]]
+|align=center|22–10
+|At-large
+|align=center|23
+|-
+|align=center|7
+|[[2014–15 Wichita State Shockers men's basketball team|Wichita State]]
+|Missouri Valley
+|align=center|28–4
+|At-large
+|align=center|26
+|-
+|align=center|8
+|[[2014–15 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|American
+|align=center|22–10
+|At-large
+|align=center|29
+|-
+|align=center|9
+|[[2014–15 Purdue Boilermakers men's basketball team|Purdue]]
+|[[2014–15 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|21–12
+|At-large
+|align=center|36
+|-
+|align=center|10
+|[[2014–15 Indiana Hoosiers men's basketball team|Indiana]]
+|[[2014–15 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|20–13
+|At-large
+|align=center|37
+|-
+|align=center|11
+|[[2014–15 Texas Longhorns men's basketball team|Texas]]
+|[[2014–15 Big 12 Conference men's basketball season|Big 12]]
+|align=center|20–13
+|At-large
+|align=center|41
+|-
+|align=center|12
+|[[2014–15 Buffalo Bulls men's basketball team|Buffalo]]
+|Mid American
+|align=center|23–9
+|Auto
+|align=center|48
+|-
+|align=center|13
+|[[2014–15 Valparaiso Crusaders men's basketball team|Valparaiso]]
+|Horizon
+|align=center|28–5
+|Auto
+|align=center|51
+|-
+|align=center|14
+|[[2014–15 Northeastern Huskies men's basketball team|Northeastern]]
+|Colonial
+|align=center|23–11
+|Auto
+|align=center|56
+|-
+|align=center|15
+|[[2014–15 New Mexico State Aggies men's basketball team|New Mexico State]]
+|WAC
+|align=center|23–10
+|Auto
+|align=center|59
+|-
+|rowspan=2 align=center|16*
+|[[2014–15 Manhattan Jaspers men's basketball team|Manhattan]]
+|MAAC
+|align=center|19–13
+|Auto
+|align=center|67
+|-
+|[[2014–15 Hampton Pirates men's basketball team|Hampton]]
+|MEAC
+|align=center|16–17
+|Auto
+|align=center|68
+|}
+{| class="wikitable sortable"
+|+West Region – [[Staples Center]], [[Los Angeles]]
+|-
+!Seed
+!School
+!Conference
+!Record
+!Berth type
+!Overall rank
+|-
+|align=center|1
+|[[2014–15 Wisconsin Badgers men's basketball team|Wisconsin]]
+|[[2014–15 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|31–3
+|Auto
+|align=center|4
+|-
+|align=center|2
+|[[2014–15 Arizona Wildcats men's basketball team|Arizona]]
+|Pac-12
+|align=center|31–3
+|Auto
+|align=center|6
+|-
+|align=center|3
+|[[2014–15 Baylor Bears basketball team|Baylor]]
+|[[2014–15 Big 12 Conference men's basketball season|Big 12]]
+|align=center|24–9
+|At-large
+|align=center|10
+|-
+|align=center|4
+|[[2014–15 North Carolina Tar Heels men's basketball team|North Carolina]]
+|ACC
+|align=center|24–11
+|At-large
+|align=center|13
+|-
+|align=center|5
+|[[2014–15 Arkansas Razorbacks men's basketball team|Arkansas]]
+|[[2014–15 Southeastern Conference men's basketball season|SEC]]
+|align=center|26–8
+|At-large
+|align=center|18
+|-
+|align=center|6
+|[[2014–15 Xavier Musketeers men's basketball team|Xavier]]
+|[[2014–15 Big East Conference men's basketball season|Big East]]
+|align=center|21–13
+|At-large
+|align=center|24
+|-
+|align=center|7
+|[[2014–15 VCU Rams men's basketball team|VCU]]
+|Atlantic 10
+|align=center|26–9
+|Auto
+|align=center|28
+|-
+|align=center|8
+|[[2014–15 Oregon Ducks men's basketball team|Oregon]]
+|Pac-12
+|align=center|25–9
+|At-large
+|align=center|30
+|-
+|align=center|9
+|[[2014–15 Oklahoma State Cowboys basketball team|Oklahoma State]]
+|[[2014–15 Big 12 Conference men's basketball season|Big 12]]
+|align=center|18–13
+|At-large
+|align=center|34
+|-
+|align=center|10
+|[[2014–15 Ohio State Buckeyes men's basketball team|Ohio State]]
+|[[2014–15 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|23–10
+|At-large
+|align=center|39
+|-
+|rowspan=2 align=center|11*
+|[[2014–15 Ole Miss Rebels men's basketball team|Mississippi]]
+|[[2014–15 Southeastern Conference men's basketball season|SEC]]
+|align=center|20–12
+|At-large
+|align=center|43
+|-
+|[[2014–15 BYU Cougars men's basketball team|BYU]]
+|West Coast
+|align=center|25–9
+|At-large
+|align=center|44
+|-
+|align=center|12
+|[[2014–15 Wofford Terriers men's basketball team|Wofford]]
+|Southern
+|align=center|28–6
+|Auto
+|align=center|49
+|-
+|align=center|13
+|[[2014–15 Harvard Crimson men's basketball team|Harvard]]
+|Ivy
+|align=center|22–7
+|Auto
+|align=center|52
+|-
+|align=center|14
+|[[2014–15 Georgia State Panthers men's basketball team|Georgia State]]
+|Sun Belt
+|align=center|24–9
+|Auto
+|align=center|55
+|-
+|align=center|15
+|[[2014–15 Texas Southern Tigers men's basketball team|Texas Southern]]
+|SWAC
+|align=center|22–12
+|Auto
+|align=center|61
+|-
+|align=center|16
+|[[2014–15 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
+|Big South
+|align=center|24–9
+|Auto
+|align=center|64
+|}
+{| class="wikitable sortable"
+|+East Region – [[Carrier Dome]], [[Syracuse, New York]]
+|-
+!Seed
+!School
+!Conference
+!Record
+!Berth type
+!Overall rank
+|-
+|align=center|1
+|[[2014–15 Villanova Wildcats men's basketball team|Villanova]]
+|[[2014–15 Big East Conference men's basketball season|Big East]]
+|align=center|32–2
+|Auto
+|align=center|2
+|-
+|align=center|2
+|[[2014–15 Virginia Cavaliers men's basketball team|Virginia]]
+|ACC
+|align=center|29–3
+|At-large
+|align=center|5
+|-
+|align=center|3
+|[[2014–15 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[2014–15 Big 12 Conference men's basketball season|Big 12]]
+|align=center|22–10
+|At-large
+|align=center|11
+|-
+|align=center|4
+|[[2014–15 Louisville Cardinals men's basketball team|Louisville]]
+|ACC
+|align=center|24–8
+|At-large
+|align=center|15
+|-
+|align=center|5
+|[[2014–15 Northern Iowa Panthers men's basketball team|Northern Iowa]]
+|Missouri Valley
+|align=center|30–3
+|Auto
+|align=center|20
+|-
+|align=center|6
+|[[2014–15 Providence Friars men's basketball team|Providence]]
+|[[2014–15 Big East Conference men's basketball season|Big East]]
+|align=center|22–11
+|At-large
+|align=center|22
+|-
+|align=center|7
+|[[2014–15 Michigan State Spartans men's basketball team|Michigan State]]
+|[[2014–15 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|23–11
+|At-large
+|align=center|25
+|-
+|align=center|8
+|[[2014–15 NC State Wolfpack men's basketball team|North Carolina State]]
+|ACC
+|align=center|20–13
+|At-large
+|align=center|31
+|-
+|align=center|9
+|[[2014–15 LSU Tigers basketball team|LSU]]
+|[[2014–15 Southeastern Conference men's basketball season|SEC]]
+|align=center|22–10
+|At-large
+|align=center|35
+|-
+|align=center|10
+|[[2014–15 Georgia Bulldogs basketball team|Georgia]]
+|[[2014–15 Southeastern Conference men's basketball season|SEC]]
+|align=center|21–11
+|At-large
+|align=center|40
+|-
+|rowspan=2 align=center|11*
+|[[2014–15 Boise State Broncos men's basketball team|Boise State]]
+|Mountain West
+|align=center|25–8
+|At-large
+|align=center|45
+|-
+|[[2014–15 Dayton Flyers men's basketball team|Dayton]]
+|Atlantic 10
+|align=center|25–8
+|At-large
+|align=center|46
+|-
+|align=center|12
+|[[Wyoming Cowboys men's basketball|Wyoming]]
+|Mountain West
+|align=center|25–9
+|Auto
+|align=center|47
+|-
+|align=center|13
+|[[2014–15 UC Irvine Anteaters men's basketball team|UC Irvine]]
+|Big West
+|align=center|21–12
+|Auto
+|align=center|54
+|-
+|align=center|14
+|[[2014–15 Albany Great Danes men's basketball team|Albany]]
+|America East
+|align=center|24–8
+|Auto
+|align=center|58
+|-
+|align=center|15
+|[[2014–15 Belmont Bruins men's basketball team|Belmont]]
+|Ohio Valley
+|align=center|22–10
+|Auto
+|align=center|60
+|-
+|align=center|16
+|[[2014–15 Lafayette Leopards men's basketball team|Lafayette]]
+|Patriot
+|align=center|20–12
+|Auto
+|align=center|63
+|}
+{| class="wikitable sortable"
+|+South Region – [[NRG Stadium]], [[Houston|Houston, Texas]]
+!Seed
+!School
+!Conference
+!Record
+!Berth type
+!Overall rank
+|-
+|align=center|1
+|[[2014–15 Duke Blue Devils men's basketball team|Duke]]
+|ACC
+|align=center|29–4
+|At-large
+|align=center|3
+|- 
+|align=center|2
+|[[2014–15 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|West Coast
+|align=center|32–2
+|Auto
+|align=center|7
+|-
+|align=center|3
+|[[2014–15 Iowa State Cyclones men's basketball team|Iowa State]]
+|[[2014–15 Big 12 Conference men's basketball season|Big 12]]
+|align=center|25–8
+|Auto
+|align=center|9
+|-
+|align=center|4
+|[[2014–15 Georgetown Hoyas men's basketball team|Georgetown]]
+|[[2014–15 Big East Conference men's basketball season|Big East]]
+|align=center|21–10
+|At-large
+|align=center|16
+|-
+|align=center|5
+|[[2014–15 Utah Utes men's basketball team|Utah]]
+|Pac-12
+|align=center|24–8
+|At-large
+|align=center|17
+|-
+|align=center|6
+|[[2014–15 SMU Mustangs men's basketball team|SMU]]
+|American
+|align=center|27–6
+|Auto
+|align=center|21
+|-
+|align=center|7
+|[[2014–15 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[2014–15 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|21–11
+|At-large
+|align=center|27
+|-
+|align=center|8
+|[[2014–15 San Diego State Aztecs men's basketball team|San Diego State]]
+|Mountain West
+|align=center|26–8
+|At-large
+|align=center|32
+|-
+|align=center|9
+|[[2014–15 St. John's Red Storm men's basketball team|St. John's]]
+|[[2014–15 Big East Conference men's basketball season|Big East]]
+|align=center|21–11
+|At-large
+|align=center|33
+|-
+|align=center|10
+|[[2014–15 Davidson Wildcats men's basketball team|Davidson]]
+|Atlantic 10
+|align=center|24–7
+|At-large
+|align=center|38
+|-
+|align=center|11
+|[[2014–15 UCLA Bruins men's basketball team|UCLA]]
+|Pac-12
+|align=center|20–13
+|At-large
+|align=center|42
+|-
+|align=center|12
+|[[2014–15 Stephen F. Austin Lumberjacks men's basketball team|Stephen F. Austin]]
+|Southland
+|align=center|29–4
+|Auto
+|align=center|50
+|-
+|align=center|13
+|[[2014–15 Eastern Washington Eagles men's basketball team|Eastern Washington]]
+|Big Sky
+|align=center|26–8
+|Auto
+|align=center|53
+|-
+|align=center|14
+|[[2014–15 UAB Blazers men's basketball team|UAB]]
+|C-USA
+|align=center|19–15
+|Auto
+|align=center|57
+|-
+|align=center|15
+|[[2014–15 North Dakota State Bison men's basketball team|North Dakota State]]
+|Summit
+|align=center|23–9
+|Auto
+|align=center|62
+|-
+|rowspan=2 align=center|16*
+|[[2014–15 North Florida Ospreys men's basketball team|North Florida]]
+|Atlantic Sun
+|align=center|23–11
+|Auto
+|align=center|65
+|-
+|[[2014–15 Robert Morris Colonials men's basketball team|Robert Morris]]
+|NEC
+|align=center|19–14
+|Auto
+|align=center|66
+|}
+
+<nowiki>*</nowiki>See [[2015 NCAA Men's Division I Basketball Tournament#First Four – Dayton|First Four]]
+
+Since the [[2004 NCAA Men's Division I Basketball Tournament]], the four 1 seeds have been seeded overall. This was the third time Kentucky was the overall top seed. The previous time was in that 2012 tournament. Duke was the overall 3 seed for the fourth time, previously advancing to the Final Four in two of those years: [[2004 NCAA Men's Division I Basketball Tournament|2004]] and [[2010 NCAA Men's Division I Basketball Tournament|2010]]. Villanova was a 1 seed for the second time in school history; [[2006 NCAA Men's Division I Basketball Tournament|2006]] was the other time. This was the first 1 seed for Wisconsin.
+
+==Bracket==
+<nowiki>*</nowiki> – Denotes overtime period
+
+===First Four – Dayton, Ohio===
+{{align|left|{{2TeamBracket | RD1= March 17 – West Region
+| team-width = 150
+| RD1-seed1=11
+| RD1-team1=[[2014–15 BYU Cougars men's basketball team|BYU]]
+| RD1-score1=90
+| RD1-seed2=11
+| RD1-team2='''[[2014–15 Ole Miss Rebels men's basketball team|Mississippi]]'''
+| RD1-score2='''94'''
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 17 – Midwest Region
+| team-width = 150
+| RD1-seed1=16
+| RD1-team1='''[[2014–15 Hampton Pirates men's basketball team|Hampton]]'''
+| RD1-score1='''74'''
+| RD1-seed2=16
+| RD1-team2=[[2014–15 Manhattan Jaspers basketball team|Manhattan]]
+| RD1-score2=64
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 18 – East Region
+| team-width = 150
+| RD1-seed1=11
+| RD1-team1=[[2014–15 Boise State Broncos men's basketball team|Boise State]]
+| RD1-score1=55
+| RD1-seed2=11
+| RD1-team2='''[[2014–15 Dayton Flyers men's basketball team|Dayton]]'''
+| RD1-score2='''56'''
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 18 – South Region
+| team-width = 150
+| RD1-seed1=16
+| RD1-team1=[[2014–15 North Florida Ospreys men's basketball team|North Florida]]
+| RD1-score1=77
+| RD1-seed2=16
+| RD1-team2='''[[2014–15 Robert Morris Colonials men's basketball team|Robert Morris]]'''
+| RD1-score2='''81'''
+}}}}{{clear left}}
+
+===Midwest Regional – Cleveland, Ohio===
+{{16TeamBracket
+| RD1=Second Round<br />Round of 64<br />March 19–20
+| RD2=Third Round<br />Round of 32<br />March 21–22
+| RD3=Regional Semifinals<br />Sweet 16<br />March 26
+| RD4=Regional Final<br />Elite 8<br />March 28
+| subgroup1= [[KFC Yum! Center|Louisville]] – Thu/Sat
+| subgroup2= [[Nationwide Arena|Columbus]] – Fri/Sun
+| subgroup3= [[Consol Energy Center|Pittsburgh]] – Thu/Sat 
+| subgroup4= [[CenturyLink Center Omaha|Omaha]] – Fri/Sun 
+| RD1-seed01=1
+| RD1-team01='''[[2014–15 Kentucky Wildcats men's basketball team|Kentucky]]'''
+| RD1-score01='''79'''
+| RD1-seed02=16
+| RD1-team02=[[2014–15 Hampton Pirates men's basketball team|Hampton]]
+| RD1-score02=56
+
+| RD1-seed03=8
+| RD1-team03='''[[2014–15 Cincinnati Bearcats men's basketball team|Cincinnati]]'''
+| RD1-score03='''66*'''
+| RD1-seed04=9
+| RD1-team04=[[2014–15 Purdue Boilermakers men's basketball team|Purdue]]
+| RD1-score04=65
+
+| RD1-seed05=5
+| RD1-team05='''[[2014–15 West Virginia Mountaineers men's basketball team|West Virginia]]'''
+| RD1-score05='''68'''
+| RD1-seed06=12
+| RD1-team06=[[2014–15 Buffalo Bulls men's basketball team|Buffalo]]
+| RD1-score06=62
+
+| RD1-seed07=4
+| RD1-team07='''[[2014–15 Maryland Terrapins men's basketball team|Maryland]]'''
+| RD1-score07='''65'''
+| RD1-seed08=13
+| RD1-team08=[[2014–15 Valparaiso Crusaders men's basketball team|Valparaiso]]
+| RD1-score08=62
+
+| RD1-seed09=6
+| RD1-team09='''[[2014–15 Butler Bulldogs men's basketball team|Butler]]'''
+| RD1-score09='''56'''
+| RD1-seed10=11
+| RD1-team10=[[2014–15 Texas Longhorns men's basketball team|Texas]]
+| RD1-score10=48
+
+| RD1-seed11=3
+| RD1-team11='''[[2014–15 Notre Dame Fighting Irish men's basketball team|Notre Dame]]'''
+| RD1-score11='''69'''
+| RD1-seed12=14
+| RD1-team12=[[2014–15 Northeastern Huskies men's basketball team|Northeastern]]
+| RD1-score12=65
+
+| RD1-seed13=7
+| RD1-team13='''[[2014–15 Wichita State Shockers men's basketball team|Wichita State]]'''
+| RD1-score13='''81'''
+| RD1-seed14=10
+| RD1-team14=[[2014–15 Indiana Hoosiers men's basketball team|Indiana]]
+| RD1-score14=76
+
+| RD1-seed15=2
+| RD1-team15='''[[2014–15 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-score15='''75'''
+| RD1-seed16=15
+| RD1-team16=[[2014–15 New Mexico State Aggies men's basketball team|New Mexico State]]
+| RD1-score16=56
+
+| RD2-seed01=1
+| RD2-team01='''Kentucky'''
+| RD2-score01='''64'''
+| RD2-seed02=8
+| RD2-team02=Cincinnati
+| RD2-score02=51
+
+| RD2-seed03=5
+| RD2-team03='''West Virginia'''
+| RD2-score03='''69'''
+| RD2-seed04=4
+| RD2-team04=Maryland
+| RD2-score04=59
+
+| RD2-seed05=6
+| RD2-team05=Butler
+| RD2-score05=64
+| RD2-seed06=3
+| RD2-team06='''Notre Dame'''
+| RD2-score06='''67*'''
+
+| RD2-seed07=7
+| RD2-team07='''Wichita State'''
+| RD2-score07='''78'''
+| RD2-seed08=2
+| RD2-team08=Kansas
+| RD2-score08=65
+
+| RD3-seed01=1
+| RD3-team01='''Kentucky'''
+| RD3-score01= '''78'''
+| RD3-seed02=5
+| RD3-team02=West Virginia
+| RD3-score02=39
+
+| RD3-seed03=3
+| RD3-team03='''Notre Dame'''
+| RD3-score03='''81'''
+| RD3-seed04=7
+| RD3-team04=Wichita State
+| RD3-score04=70
+
+| RD4-seed01=1
+| RD4-team01='''Kentucky'''
+| RD4-score01='''68'''
+| RD4-seed02=3
+| RD4-team02=Notre Dame
+| RD4-score02=66
+}}
+
+====Regional Final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 28
+ | time = 8:49 pm [[Eastern Time Zone|EDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2015/03/28/notre-dame-kentucky/boxscore Box Score]
+ | team1 = #3 Notre Dame Fighting Irish
+ | score1 = 66
+ | team2 = '''#1 Kentucky Wildcats'''
+ | score2 = '''68'''
+ | points1 = [[Zach Auguste|Z. Auguste]] – 20
+ | rebounds1 = Auguste, [[Pat Connaughton|P. Connaughton]] – 9
+ | assist1 = [[Jerian Grant|J. Grant]] – 6
+ | otherstat1 = 
+ | points2 = [[Karl-Anthony Towns|K. Towns]] – 25
+ | rebounds2 = Towns, [[Trey Lyles|T. Lyles]] – 5
+ | assist2 = Towns – 4
+ | H1 = 31–31
+ | H2 = 35–37
+ | place = Quicken Loans Arena – Cleveland, OH
+ | attendance = 19,464
+ | referee = Chris Rastatter, [[Joe DeRosa (referee)|Joe DeRosa]], David Hall
+ | TV = TBS
+}}
+
+====Midwest Regional all-tournament team====
+Regional all-tournament team: '''[[Pat Connaughton]]''', Notre Dame; '''[[Zach Auguste]]''', Notre Dame; '''[[Willie Cauley-Stein]]''', Kentucky; '''[[Andrew Harrison (basketball)|Andrew Harrison]]''', Kentucky<ref>{{cite web|url=http://comanpub.uberflip.com/h/i/58861618-andrew-owens|title=All-Tournament team from the Midwest Regional|publisher=Blue Gold Illustrated|date=March 28, 2015|accessdate=April 3, 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150402155145/http://comanpub.uberflip.com/h/i/58861618-andrew-owens|archivedate=April 2, 2015|df=}}</ref>
+
+Regional most outstanding player: '''[[Karl-Anthony Towns]]''', Kentucky<ref>{{cite news|last1=Roberts|first1=Ben|title=Karl-Anthony Towns grows from 'prima donna' into prime-time player|url=http://www.kentucky.com/2015/03/29/3774139/towns-grows-from-prima-donna-into.html|accessdate=March 30, 2015|publisher=Lexington Herald-Leader}}</ref>
+
+===West Regional – Los Angeles, California===
+{{16TeamBracket
+| RD1=Second Round<br />Round of 64<br />March 19–20
+| RD2=Third Round<br />Round of 32<br />March 21–22
+| RD3=Regional Semifinals<br />Sweet 16<br />March 26
+| RD4=Regional Final<br />Elite 8<br />March 28
+| subgroup1= [[CenturyLink Center Omaha|Omaha]] – Fri/Sun
+| subgroup2= [[Jacksonville Veterans Memorial Arena|Jacksonville]] – Thu/Sat
+| subgroup3= [[Jacksonville Veterans Memorial Arena|Jacksonville]] – Thu/Sat
+| subgroup4= [[Moda Center|Portland]] – Thu/Sat
+| RD1-seed01=1
+| RD1-team01='''[[2014–15 Wisconsin Badgers men's basketball team|Wisconsin]]'''
+| RD1-score01='''86'''
+| RD1-seed02=16
+| RD1-team02=[[2014–15 Coastal Carolina Chanticleers men's basketball team|Coastal Carolina]]
+| RD1-score02=72
+
+| RD1-seed03=8 
+| RD1-team03='''[[2014–15 Oregon Ducks men's basketball team|Oregon]]'''
+| RD1-score03='''79'''
+| RD1-seed04=9
+| RD1-team04=[[2014–15 Oklahoma State Cowboys basketball team|Oklahoma State]]
+| RD1-score04=73
+
+| RD1-seed05=5
+| RD1-team05='''[[2014–15 Arkansas Razorbacks men's basketball team|Arkansas]]'''
+| RD1-score05='''56'''
+| RD1-seed06=12
+| RD1-team06=[[2014–15 Wofford Terriers men's basketball team|Wofford]]
+| RD1-score06=53
+
+| RD1-seed07=4
+| RD1-team07='''[[2014–15 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score07='''67'''
+| RD1-seed08=13
+| RD1-team08=[[2014–15 Harvard Crimson men's basketball team|Harvard]]
+| RD1-score08=65
+
+| RD1-seed09=6
+| RD1-team09='''[[2014–15 Xavier Musketeers men's basketball team|Xavier]]'''
+| RD1-score09='''76'''
+| RD1-seed10=11
+| RD1-team10=[[2014–15 Ole Miss Rebels men's basketball team|Mississippi]]
+| RD1-score10=57
+
+| RD1-seed11=3
+| RD1-team11=[[2014–15 Baylor Bears basketball team|Baylor]]
+| RD1-score11=56
+| RD1-seed12=14
+| RD1-team12='''[[2014–15 Georgia State Panthers men's basketball team|Georgia State]]'''
+| RD1-score12='''57'''
+
+| RD1-seed13=7
+| RD1-team13=[[2014–15 VCU Rams men's basketball team|VCU]]
+| RD1-score13=72
+| RD1-seed14=10
+| RD1-team14='''[[2014–15 Ohio State Buckeyes men's basketball team|Ohio State]]'''
+| RD1-score14='''75*'''
+
+| RD1-seed15=2
+| RD1-team15='''[[2014–15 Arizona Wildcats men's basketball team|Arizona]]'''
+| RD1-score15='''93'''
+| RD1-seed16=15
+| RD1-team16=[[2014–15 Texas Southern Tigers basketball team|Texas Southern]]
+| RD1-score16=72
+
+| RD2-seed01=1
+| RD2-team01='''Wisconsin'''
+| RD2-score01='''72'''
+| RD2-seed02=8
+| RD2-team02=Oregon
+| RD2-score02=65
+
+| RD2-seed03=5
+| RD2-team03=Arkansas
+| RD2-score03=78
+| RD2-seed04=4
+| RD2-team04='''North Carolina'''
+| RD2-score04='''87'''
+
+| RD2-seed05=6
+| RD2-team05='''Xavier'''
+| RD2-score05='''75'''
+| RD2-seed06=14
+| RD2-team06=Georgia State
+| RD2-score06=67
+
+| RD2-seed07=10
+| RD2-team07=Ohio State
+| RD2-score07=58
+| RD2-seed08=2
+| RD2-team08='''Arizona'''
+| RD2-score08='''73'''
+
+| RD3-seed01=1
+| RD3-team01='''Wisconsin'''
+| RD3-score01='''79'''
+| RD3-seed02=4
+| RD3-team02=North Carolina
+| RD3-score02=72
+
+| RD3-seed03=6
+| RD3-team03=Xavier
+| RD3-score03=60
+| RD3-seed04=2
+| RD3-team04='''Arizona'''
+| RD3-score04='''68'''
+
+| RD4-seed01=1
+| RD4-team01='''Wisconsin'''
+| RD4-score01='''85'''
+| RD4-seed02=2
+| RD4-team02=Arizona
+| RD4-score02=78
+}}
+
+====Regional Final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 28
+ | time = 3:09 pm [[Pacific Time|PDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2015/03/28/arizona-wisconsin/boxscore Box Score]
+ | team1 = #2 Arizona Wildcats
+ | score1 = 78
+ | team2 = '''#1 Wisconsin Badgers'''
+ | score2 = '''85'''
+ | points1 = [[Brandon Ashley|B. Ashley]], [[Rondae Hollis-Jefferson|R. Hollis-Jefferson]] – 17
+ | rebounds1 = Hollis-Jefferson – 8
+ | assist1 = [[T. J. McConnell|T. McConnell]] – 5
+ | otherstat1 = 
+ | points2 = [[Frank Kaminsky|F. Kaminsky III]] – 29
+ | rebounds2 = Kaminsky III – 6
+ | assist2 = [[Nigel Hayes|N. Hayes]] – 4
+ | H1 = 33–30
+ | H2 = 45–55
+ | place = Staples Center – Los Angeles, CA
+ | attendance = 19,125
+ | referee = Pat Adams, Michael Stephens, Mike Eades
+ | TV = TBS
+}}
+
+====West Regional all-tournament team====
+Regional all-tournament team: '''[[Frank Kaminsky]]''', Wisconsin; '''[[Josh Gasser]]''', Wisconsin;<ref>{{cite web|last1=Polzin|first1=Jim|title=Badgers men's basketball: Sam Dekker's big shot clinches UW's victory over Arizona, return to Final Four|url=http://host.madison.com/sports/college/basketball/men/badgers-men-s-basketball-sam-dekker-s-big-shot-clinches/article_2dc93ed5-b438-59e1-98e6-2f28fb97044d.html|website=Madison.com|accessdate=March 30, 2015}}</ref> '''[[T.J. McConnell]]''', Arizona; '''[[Rondae Hollis-Jefferson]]''', Arizona<ref>{{cite news|last1=Pascoe|first1=Bruce|title=UA-Wisconsin postgame: On NBA decisions, tears and pride|url=http://tucson.com/sports/blogs/pascoe/ua-wisconsin-postgame-on-nba-decisions-tears-and-pride/article_70ec4006-d5cd-11e4-a408-7b03c60cfacb.html|accessdate=March 30, 2015|publisher=Arizona Daily Star}}</ref>
+
+Regional most outstanding player: '''[[Sam Dekker]]''', Wisconsin<ref>{{cite web |url=https://sports.yahoo.com/news/wisconsin-heads-final-four-85-78-win-over-003925886--ncaab.html |title=Wisconsin heads to Final Four after 85-78 win over Arizona |publisher=sports.yahoo.com}}</ref>
+
+===East Regional – Syracuse, New York===
+{{16TeamBracket
+| RD1=Second Round<br />Round of 64<br />March 19–20
+| RD2=Third Round<br />Round of 32<br />March 21–22
+| RD3=Regional Semifinals<br />Sweet 16<br />March 27
+| RD4=Regional Final<br />Elite 8<br />March 29
+| subgroup1= [[Consol Energy Center|Pittsburgh]] – Thu/Sat
+| subgroup2= [[KeyArena|Seattle]] – Fri/Sun
+| subgroup3= [[Nationwide Arena|Columbus]] – Fri/Sun
+| subgroup4= [[Time Warner Cable Arena|Charlotte]] – Fri/Sun
+| RD1-seed01=1
+| RD1-team01='''[[2014–15 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-score01='''93'''
+| RD1-seed02=16
+| RD1-team02=[[2014–15 Lafayette Leopards men's basketball team|Lafayette]]
+| RD1-score02=52
+
+| RD1-seed03=8
+| RD1-team03='''[[2014–15 NC State Wolfpack men's basketball team|NC State]]'''
+| RD1-score03='''66'''
+| RD1-seed04=9
+| RD1-team04=[[2014–15 LSU Tigers basketball team|LSU]]
+| RD1-score04=65
+
+| RD1-seed05=5
+| RD1-team05='''[[2014–15 Northern Iowa Panthers men's basketball team|Northern Iowa]]'''
+| RD1-score05='''71'''
+| RD1-seed06=12
+| RD1-team06=[[2014–15 Wyoming Cowboys basketball team|Wyoming]]
+| RD1-score06=54
+
+| RD1-seed07=4
+| RD1-team07='''[[2014–15 Louisville Cardinals men's basketball team|Louisville]]'''
+| RD1-score07='''57'''
+| RD1-seed08=13
+| RD1-team08=[[2014–15 UC Irvine Anteaters men's basketball team|UC Irvine]]
+| RD1-score08=55
+
+| RD1-seed09=6
+| RD1-team09=[[2014–15 Providence Friars men's basketball team|Providence]]
+| RD1-score09=53
+| RD1-seed10=11
+| RD1-team10='''[[2014–15 Dayton Flyers men's basketball team|Dayton]]'''
+| RD1-score10='''66'''
+
+| RD1-seed11=3
+| RD1-team11='''[[2014–15 Oklahoma Sooners men's basketball team|Oklahoma]]'''
+| RD1-score11='''69'''
+| RD1-seed12=14
+| RD1-team12=[[2014–15 Albany Great Danes men's basketball team|Albany]] 
+| RD1-score12=60
+
+| RD1-seed13=7
+| RD1-team13='''[[2014–15 Michigan State Spartans men's basketball team|Michigan State]]'''
+| RD1-score13='''70'''
+| RD1-seed14=10
+| RD1-team14=[[2014–15 Georgia Bulldogs basketball team|Georgia]]
+| RD1-score14=63
+
+| RD1-seed15=2
+| RD1-team15='''[[2014–15 Virginia Cavaliers men's basketball team|Virginia]]'''
+| RD1-score15='''79'''
+| RD1-seed16=15
+| RD1-team16=[[2014–15 Belmont Bruins men's basketball team|Belmont]]
+| RD1-score16=67
+
+| RD2-seed01=1
+| RD2-team01=Villanova
+| RD2-score01=68
+| RD2-seed02=8
+| RD2-team02='''NC State'''
+| RD2-score02='''71'''
+
+| RD2-seed03=5
+| RD2-team03=Northern Iowa
+| RD2-score03=53
+| RD2-seed04=4
+| RD2-team04='''Louisville'''
+| RD2-score04='''66'''
+
+| RD2-seed05=11
+| RD2-team05=Dayton
+| RD2-score05=66
+| RD2-seed06=3
+| RD2-team06='''Oklahoma'''
+| RD2-score06='''72'''
+
+| RD2-seed07=7
+| RD2-team07='''Michigan State'''
+| RD2-score07='''60'''
+| RD2-seed08=2
+| RD2-team08=Virginia
+| RD2-score08=54
+
+| RD3-seed01=8
+| RD3-team01=NC State
+| RD3-score01=65
+| RD3-seed02=4
+| RD3-team02='''Louisville'''
+| RD3-score02='''75'''
+
+| RD3-seed03=3
+| RD3-team03=Oklahoma
+| RD3-score03=58
+| RD3-seed04=7
+| RD3-team04='''Michigan State'''
+| RD3-score04='''62'''
+
+| RD4-seed01=4
+| RD4-team01=Louisville
+| RD4-score01=70
+| RD4-seed02=7
+| RD4-team02='''Michigan State'''
+| RD4-score02='''76*'''
+}}
+
+====Regional Final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 29
+ | time = 2:20 pm EDT
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2015/03/29/michigan-st-louisville/boxscore Box Score]
+ | team1 = '''#7  Michigan State Spartans'''
+ | score1 = '''76'''
+ | team2 = #4 Louisville Cardinals
+ | score2 = 70
+ | points1 = [[Travis Trice|T. Trice]] – 17
+ | rebounds1 = [[Branden Dawson|B. Dawson]] – 11
+ | assist1 = [[Denzel Valentine|D. Valentine]] – 6
+ | otherstat1 = 
+ | points2 = [[Wayne Blackshear|W. Blackshear]] – 28
+ | rebounds2 = [[Montrezl Harrell|M. Harrell]] – 9
+ | assist2 = Harrell – 4
+ | H1 = 32–40
+ | H2 = 33–25
+ | OT = 11–5
+ | place = Carrier Dome – Syracuse, NY
+ | attendance = 24,404
+ | referee = Pat Driscoll, Doug Shows, Verne Harris
+ | TV = CBS
+}}
+
+====East Regional all-tournament team====
+Regional all-tournament team: '''[[Denzel Valentine]]''', Michigan State; '''[[Terry Rozier]]''', Louisville; '''[[Montrezl Harrell]]''', Louisville; '''[[Wayne Blackshear]]''', Louisville<ref>{{cite news|last1=Griffith|first1=Mike|title=Michigan State senior Travis Trice voted Most Outstanding Player in NCAA East Regional|url=http://www.mlive.com/spartans/index.ssf/2015/03/michigan_state_senior_travis_t.html|accessdate=March 30, 2015|publisher=MLive}}</ref>
+
+Regional most outstanding player: '''[[Travis Trice]]''', Michigan State.<ref>{{cite web|last1=Rexrod3|first1=Joe|title=MSU 76 Louisville 70: MSU Advances to Final Four|url=http://www.freep.com/story/sports/college/michigan-state/spartans/2015/03/29/michigan-state-spartans-louisville-cardinals-ncaa-tournament/70636880/|website=Detroit Free Press|accessdate=March 29, 2015}}</ref>
+
+===South Regional – Houston, Texas===
+{{16TeamBracket
+| RD1=Second Round<br />Round of 64<br />March 19–20
+| RD2=Third Round<br />Round of 32<br />March 21–22
+| RD3=Regional Semifinals<br />Sweet 16<br />March 27
+| RD4=Regional Final<br />Elite 8<br />March 29
+| subgroup1= [[Time Warner Cable Arena|Charlotte]] – Fri/Sun
+| subgroup2= [[Moda Center|Portland]] – Thu/Sat
+| subgroup3= [[KFC Yum! Center|Louisville]] – Thu/Sat
+| subgroup4= [[KeyArena|Seattle]] – Fri/Sun
+| RD1-seed01=1
+| RD1-team01='''[[2014–15 Duke Blue Devils men's basketball team|Duke]]'''
+| RD1-score01='''85'''
+| RD1-seed02=16
+| RD1-team02=[[2014–15 Robert Morris Colonials men's basketball team|Robert Morris]]
+| RD1-score02=56
+
+| RD1-seed03=8
+| RD1-team03='''[[2014–15 San Diego State Aztecs men's basketball team|San Diego State]]'''
+| RD1-score03='''76'''
+| RD1-seed04=9
+| RD1-team04=[[2014–15 St. John's Red Storm men's basketball team|St. John's]]
+| RD1-score04=64
+
+| RD1-seed05=5
+| RD1-team05='''[[2014–15 Utah Utes men's basketball team|Utah]]'''
+| RD1-score05='''57'''
+| RD1-seed06=12
+| RD1-team06=[[2014–15 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]
+| RD1-score06=50
+
+| RD1-seed07=4
+| RD1-team07='''[[2014–15 Georgetown Hoyas men's basketball team|Georgetown]]'''
+| RD1-score07='''84'''
+| RD1-seed08=13
+| RD1-team08=[[2014–15 Eastern Washington Eagles men's basketball team|Eastern Washington]]
+| RD1-score08=74
+
+| RD1-seed09=6
+| RD1-team09=[[2014–15 SMU Mustangs men's basketball team|SMU]]
+| RD1-score09=59
+| RD1-seed10=11
+| RD1-team10='''[[2014–15 UCLA Bruins men's basketball team|UCLA]]'''
+| RD1-score10='''60'''
+
+| RD1-seed11=3
+| RD1-team11=[[2014–15 Iowa State Cyclones men's basketball team|Iowa State]]
+| RD1-score11=59
+| RD1-seed12=14
+| RD1-team12='''[[2014–15 UAB Blazers men's basketball team|UAB]]'''
+| RD1-score12='''60'''
+
+| RD1-seed13=7
+| RD1-team13='''[[2014–15 Iowa Hawkeyes men's basketball team|Iowa]]'''
+| RD1-score13='''83'''
+| RD1-seed14=10
+| RD1-team14=[[2014–15 Davidson Wildcats men's basketball team|Davidson]]
+| RD1-score14=52
+
+| RD1-seed15=2
+| RD1-team15='''[[2014–15 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-score15='''86'''
+| RD1-seed16=15
+| RD1-team16=[[2014–15 North Dakota State Bison men's basketball team|North Dakota State]]
+| RD1-score16=76
+
+| RD2-seed01=1
+| RD2-team01='''Duke'''
+| RD2-score01='''68'''
+| RD2-seed02=8
+| RD2-team02=San Diego State
+| RD2-score02=49
+
+| RD2-seed03=5
+| RD2-team03='''Utah'''
+| RD2-score03='''75'''
+| RD2-seed04=4
+| RD2-team04=Georgetown 
+| RD2-score04=64
+
+| RD2-seed05=11
+| RD2-team05='''UCLA'''
+| RD2-score05='''92'''
+| RD2-seed06=14
+| RD2-team06=UAB
+| RD2-score06=75
+
+| RD2-seed07=7
+| RD2-team07=Iowa
+| RD2-score07=68
+| RD2-seed08=2
+| RD2-team08='''Gonzaga'''
+| RD2-score08='''87'''
+
+| RD3-seed01=1
+| RD3-team01='''Duke'''
+| RD3-score01='''63'''
+| RD3-seed02=5
+| RD3-team02=Utah
+| RD3-score02=57
+
+| RD3-seed03=11
+| RD3-team03=UCLA
+| RD3-score03=62
+| RD3-seed04=2
+| RD3-team04='''Gonzaga'''
+| RD3-score04='''74'''
+
+| RD4-seed01=1
+| RD4-team01='''Duke'''
+| RD4-score01='''66'''
+| RD4-seed02=2
+| RD4-team02=Gonzaga
+| RD4-score02=52
+}}
+
+====Regional Final summary====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Sunday, March 29
+ | time = 4:05 pm [[Central Time Zone|CDT]]
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2015/03/29/gonzaga-duke/boxscore Box Score]
+ | team1 = #2 Gonzaga Bulldogs
+ | score1 = 52
+ | team2 = '''#1 Duke Blue Devils'''
+ | score2 = '''66'''
+ | points1 = [[Kyle Wiltjer|K. Wiltjer]] – 16
+ | rebounds1 = Wiltjer, [[Przemek Karnowski|P. Karnowski]], [[Byron Wesley|B. Wesley]] – 5
+ | assist1 = Karnowski, Wesley, [[Gary Bell (basketball)|G. Bell]] – 2
+ | otherstat1 = 
+ | points2 = [[Matt Jones (basketball)|M. Jones]], [[Justise Winslow|J. Winslow]] – 16
+ | rebounds2 = [[Jahlil Okafor|J. Okafor]] – 8
+ | assist2 = [[Tyus Jones|T. Jones]] – 6
+ | H1 = 26–31
+ | H2 = 26–35
+ | place = NRG Stadium – Houston, TX
+ | attendance = 20,744
+ | referee = Mike Stuart, Doug Sirmons, Jeffrey Anderson
+ | TV = CBS
+}}
+
+====South Regional all-tournament team====
+Regional all-tournament team: '''[[Matt Jones (basketball)|Matt Jones]]''', Duke; '''[[Justise Winslow]]''', Duke; '''[[Kyle Wiltjer]]''', Gonzaga; '''[[Domantas Sabonis]]''', Gonzaga<ref>{{cite web|title=Gonzaga vs Duke (3/29/15 at Houston, Texas (NRG Stadium))|url=http://www.gozags.com/ViewContent.dbml?ATCLID=209990564&SPSID=627537&SPID=90846&DB_LANG=C&DB_OEM_ID=26400&CONTENT_ID=1237965|website=GoZags.com|accessdate=March 30, 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150402143425/http://www.gozags.com/ViewContent.dbml?ATCLID=209990564&SPSID=627537&SPID=90846&DB_LANG=C&DB_OEM_ID=26400&CONTENT_ID=1237965|archivedate=April 2, 2015|df=}}</ref>
+
+Regional most outstanding player: '''[[Tyus Jones]]''', Duke<ref>{{cite web|title=Notes: Duke 66, Gonzaga 52|url=http://www.goduke.com/ViewArticle.dbml?SPSID=22724&SPID=1845&DB_LANG=C&DB_OEM_ID=4200&ATCLID=209990548|website=GoDuke.com|accessdate=March 30, 2015}}</ref>
+
+==Final Four==
+[[file:04062015 Duke Wisconsin Pregame.jpg|thumb|250px|Lucas Oil Stadium before the National Championship Game between Duke and Wisconsin]]
+During the Final Four round, regardless of the seeds of the participating teams, the champion of the top overall top seed's region plays (Kentucky's Midwest Region) against the champion of the fourth-ranked top seed's region (Wisconsin's West Region), and the champion of the second overall top seed's region plays (Villanova's East Region) against the champion of the third-ranked top seed's region (Duke's South Region).
+
+===Lucas Oil Stadium – Indianapolis, Indiana===
+{{4TeamBracket
+| RD1=National Semifinals<br />April 4
+| RD2=National Championship Game<br />April 6
+| score-width=25
+| team-width=130
+| RD1-seed1=MW1
+| RD1-team1=[[2014–15 Kentucky Wildcats men's basketball team|Kentucky]]
+| RD1-score1=64
+| RD1-seed2=W1
+| RD1-team2='''[[2014–15 Wisconsin Badgers men's basketball team|Wisconsin]]'''
+| RD1-score2='''71'''
+
+| RD1-seed3=E7
+| RD1-team3=[[2014–15 Michigan State Spartans men's basketball team|Michigan State]]
+| RD1-score3=61
+| RD1-seed4=S1
+| RD1-team4='''[[2014–15 Duke Blue Devils men's basketball team|Duke]]'''
+| RD1-score4='''81'''
+
+| RD2-seed1=W1
+| RD2-team1=Wisconsin
+| RD2-score1=63
+| RD2-seed2=S1
+| RD2-team2='''Duke'''
+| RD2-score2='''68'''
+}}
+
+===Game summaries===
+====Final Four====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, April 4
+ | time = 6:09 p.m. EDT
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2015/04/04/michigan-st-duke/boxscore Box Score]
+ | team1 = #7 Michigan State Spartans
+ | score1 = 61
+ | team2 = '''#1 Duke Blue Devils'''
+ | score2 = '''81'''
+ | points1 = [[Denzel Valentine|D. Valentine]] – 22
+ | rebounds1 = Valentine – 11
+ | assist1 = [[Travis Trice|T. Trice]], [[Lourawls Nairn, Jr.|L. Nairn]] – 5
+ | otherstat1 =
+ | points2 = [[Justise Winslow|J. Winslow]] – 19
+ | rebounds2 = Winslow – 9
+ | assist2 = [[Tyus Jones|T. Jones]] – 4
+ | H1 = 25–36
+ | H2 = 36–45
+ | place = Lucas Oil Stadium – Indianapolis, IN
+ | attendance = 72,238
+ | referee = Bryan Kersey, Pat Adams, Mike Eades
+ | TV = TBS
+}}
+{{basketballbox
+ | bg = #ffdead
+ | date = Saturday, April 4
+ | time = 9:06 p.m. EDT
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2015/04/04/wisconsin-kentucky/boxscore Box Score]
+ | team1 = '''#1 Wisconsin Badgers'''
+ | score1 = '''71'''
+ | team2 = #1 Kentucky Wildcats
+ | score2 = 64
+ | points1 = [[Frank Kaminsky|F. Kaminsky III]] – 20
+ | rebounds1 = Kaminsky III – 11
+ | assist1 = Kaminsky III, [[Traevon Jackson|T. Jackson]], [[Bronson Koenig|B. Koenig]] – 2
+ | otherstat1 =
+ | points2 = [[Karl-Anthony Towns|K. Towns]] – 16
+ | rebounds2 = K. Towns – 9
+ | assist2 = [[Andrew Harrison (basketball)|An. Harrison]] – 4
+ | H1 = 36–36
+ | H2 = 35–28
+ | place = Lucas Oil Stadium – Indianapolis, IN
+ | attendance = 72,238
+ | referee = Verne Harris, John Higgins, Doug Sirmons
+ | TV = TBS
+}}
+
+====National Championship====
+{{main article|2015 NCAA Division I Men's Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, April 6
+ | time = 9:18 p.m. EDT
+ | report = [http://www.ncaa.com/game/basketball-men/d1/2015/04/06/wisconsin-duke/boxscore Box Score]
+ | team2 = #1 Wisconsin Badgers
+ | score2 = 63
+ | team1 = '''#1 Duke Blue Devils'''
+ | score1 = '''68'''
+ | points2 = [[Frank Kaminsky|F. Kaminsky III]] – 21
+ | rebounds2 = Kaminsky III – 12
+ | assist2 = [[Bronson Koenig|B. Koenig]] – 4
+ | otherstat1 = 
+ | points1 = [[Tyus Jones|T. Jones]] – 23
+ | rebounds1 = [[Justise Winslow|J. Winslow]] – 9
+ | assist1 = [[Quinn Cook|Q. Cook]], [[Amile Jefferson|A. Jefferson]] – 2
+ | H1 = 31–31
+ | H2 = 37–32
+ | OT = 
+ | place = Lucas Oil Stadium – Indianapolis, IN
+ | attendance = 71,149
+ | referee = [[Joe DeRosa (referee)|Joe DeRosa]], Michael Stephens, Pat Driscoll
+ | TV = CBS
+}}
+
+====Final Four all-tournament team====
+<ref>{{cite web|title=All-tourney team|url=https://twitter.com/dukeblueplanet/status/585297708790976513|website=Duke Basketball|accessdate=April 7, 2015}}</ref>
+*[[Sam Dekker]], Wisconsin
+*[[Frank Kaminsky]], Wisconsin
+*[[Grayson Allen]], Duke 
+*[[Justise Winslow]], Duke
+*[[Tyus Jones]], Duke, [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]]
+
+==Record by conference==
+{{unreferenced section|date=March 2015}}
+{|class="wikitable sortable" style="text-align:center;"
+!Conference
+!Bids
+!Record
+!Win %
+!R64
+!R32
+!S16
+!E8
+!F4
+!CG
+!NC
+|-
+|align="left"|ACC
+|6
+|17–5
+| {{winpct|17|5}}
+|6
+|6
+|5
+|3
+|1
+|1
+|1
+|-
+|align="left"|Big Ten
+|7
+|12–7
+| {{winpct|12|7}}
+|7
+|5
+|2
+|2
+|2
+|1
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|SEC
+|5
+|6–5
+| {{winpct|6|5}}
+|5
+|2
+|1
+|1
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|Pac-12
+|4
+|8–4
+| {{winpct|8|4}}
+|4
+|4
+|3
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|West Coast
+|2
+|3–2
+| {{winpct|3|2}}
+|1
+|1
+|1
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|Big 12
+|7
+|5–7
+| {{winpct|5|7}}
+|7
+|3
+|2
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|Big East
+|6
+|5–6
+| {{winpct|5|6}}
+|6
+|4
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|Missouri Valley
+|2
+|3–2
+| {{winpct|3|2}}
+|2
+|2
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|Atlantic 10
+|3
+|2–3
+| {{winpct|2|3}}
+|3
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|Mountain West
+|3
+|1–3
+| {{winpct|1|3}}
+|2
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|American
+|2
+|1–2
+| {{winpct|1|2}}
+|2
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|Conference USA
+|1
+|1–1
+| {{winpct|1|1}}
+|1
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|Sun Belt
+|1
+|1–1
+| {{winpct|1|1}}
+|1
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|MEAC
+|1
+|1–1
+| {{winpct|1|1}}
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|-
+|align="left"|Northeast
+|1
+|1–1
+| {{winpct|1|1}}
+|1
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|{{sort|-1|&ndash;}}
+|}
+{{reflist|group=note|close}}
+*The R64, R32, S16, E8, F4, CG, and NC columns indicate how many teams from each conference were in the round of 64 (second round), round of 32 (third round), Sweet 16, Elite Eight, Final Four, championship game, and national champion, respectively.
+*The "Record" column includes wins in the First Four for [[2014–15 Atlantic 10 Conference men's basketball season|Atlantic 10]], [[Mid-Eastern Athletic Conference|MEAC]], [[Northeast Conference|NEC]], and [[2014–15 Southeastern Conference men's basketball season|SEC]].
+*The [[Atlantic Sun Conference|Atlantic Sun]] and [[Metro Atlantic Athletic Conference|MAAC]] each had one representative, eliminated in the First Four with a record of 0&ndash;1.
+*The [[America East Conference|America East]], [[Big Sky Conference|Big Sky]], [[Big South Conference|Big South]], [[Big West Conference|Big West]], [[Colonial Athletic Association|Colonial]], [[Horizon League]], [[Ivy League|Ivy]], [[Mid-American Conference|MAC]], [[Ohio Valley Conference|OVC]], [[Patriot League]], [[Southern Conference|Southern]], [[Southland Conference|Southland]], [[Southwestern Athletic Conference|SWAC]], [[Summit League|Summit]], and [[Western Athletic Conference|WAC]] each had one representative, eliminated in the second round with a record of 0–1.
+
+==Media coverage==
+===Story headlines===
+The round of 64 started off with multiple upsets with majority of the upsets coming out of the [[Big 12]] conference. The television coverages of [[CBS]] and Turner had one of the best overall ratings on March 20, 2015. According to Nielsen estimates, exclusive coverage of the opening full round of the NCAA Division I Men's Basketball Championship across TBS, CBS, TNT and truTV averaged a 6.6 overnight household rating/14 share — up 10% from last year and the highest since the tournament expanded to four telecast windows for the entire day.<ref>{{cite web|last1=Kissell|first1=Rick|title=March Madness Breaks Ratings Record on Opening Day|url=https://variety.com/2015/tv/news/march-madness-ratings-hit-all-time-thursday-high-for-cbs-turner-sports-1201456888/|website=variety.com|accessdate=March 20, 2015}}</ref>
+
+One of the upsets that happened was UAB upsetting No. 3 seed Iowa State 60-59. The 19-15 UAB Blazers qualified for the NCAA tournament for the first time since 2011 by winning three-straight to earn the Conference USA tournament title and an automatic bid.<ref>{{cite web|last1=Greenberg|first1=Neil|title=UAB Blazers are tournament's first bracket buster|url=https://www.washingtonpost.com/news/fancy-stats/wp/2015/03/19/no-14-uab-blazers-could-be-the-tournaments-first-bracket-buster/|website=washingtonpost.com|accessdate=March 20, 2015}}</ref>
+
+Baylor, a No. 3 seed, took on No. 14 seed [[Georgia State Panthers men's basketball|Georgia State]] and with less than three minutes to go, Georgia State staged a 13-0 run to beat Baylor. "The comeback was punctuated with a three by [[R. J. Hunter]], son of stool-bound coach [[Ron Hunter]], that has already produced a moment sure to go down in history – the elder Hunter, who already tore his Achilles celebrating the team's Sun Belt conference tourney victory, fell off that stool in ecstasy after his son's three dropped to give the Panthers the 57-56 lead that would be the final margin,"<ref>{{cite web|last1=Hutchins|first1=Andy|title=2015 March Madness bracket: Georgia State stages dramatic upset of Baylor, Arizona rolls|url=https://www.sbnation.com/2015/3/19/8259901/march-madness-2015-bracket-ncaa-tournament-georgia-state-upset|website=sbnation.com|accessdate=March 20, 2015}}</ref> according to Andy Hutchins.
+
+However, the most talked about headline was UCLA not only making the tournament despite a poor performance in the [[Pac-12 Conference|Pac-12]], but also with a call with 13 seconds left when UCLA took on SMU and coach [[Larry Brown (basketball)|Larry Brown]]. A late second [[goaltending]] that cost SMU the game sparked a lot of attention in sports media and social media. The Bruins moved on to play UAB in the Round of 32. Both teams played each other earlier in the season, when UCLA beat the Blazers 88-76 in the Bahamas back in November. Sam Vecenie a CBS writer, was quoted saying, "Funny part of that story? It was the last-place game of the Battle 4 Atlantis tournament. Cool to see how these two teams have turned around their season."<ref>{{cite web |last=Vecenie |first=Sam |title=Goaltend call lifts UCLA past SMU; should goaltending be reviewable?|url=http://www.cbssports.com/collegebasketball/eye-on-college-basketball/25114503/goaltending-with-013-left-leads-ucla-to-upset-over-smu |publisher=CBS Sports |accessdate=March 20, 2015}}</ref>
+
+===Television===
+The year 2015 marked the fifth year of a 14-year partnership between [[CBS Sports|CBS]] and [[Turner Sports|Turner]] cable networks [[TBS (U.S. TV channel)|TBS]], [[TNT (U.S. TV network)|TNT]], and [[truTV]] to cover the entire tournament under the ''[[NCAA March Madness (CBS/Turner)|NCAA March Madness]]'' banner. [[TBS (U.S. TV channel)|TBS]] aired the Final Four for the second consecutive year.
+
+*First Four – [[truTV]]
+*Second and Third Rounds – [[CBS]], [[TBS (U.S. TV channel)|TBS]], [[TNT (U.S. TV network)|TNT]], and [[truTV]]
+*Regional Semifinals and Finals (Sweet Sixteen and Elite Eight) – [[CBS]] and [[TBS (U.S. TV channel)|TBS]]/[[2015 NCAA Men's Division II Basketball Tournament]] National Championship – [[CBS]]
+*National Semifinals (Final Four) – [[TBS (U.S. TV channel)|TBS]], [[TNT (U.S. TV network)|TNT]], [[truTV]]
+**[[TBS (U.S. TV channel)|TBS]] provided traditional coverage; [[TNT (U.S. TV network)|TNT]] and [[truTV]] each gave [[#Team casts|team-specific broadcasts]].
+*National Championship – [[CBS]]
+*[[Reese's College All-Star Game|Reese's College Basketball All Star Game]]– [[CBS]]
+
+====Studio hosts====
+*[[Greg Gumbel]] (New York City and Indianapolis) – Second Round, Third Round, Regionals, Final Four and National Championship Game
+*[[Ernie Johnson Jr.]] (New York City, Atlanta and Indianapolis) – Second Round, Third Round, Regional Semi-Finals, Final Four and National Championship Game
+*[[Matt Winer]] (Atlanta) – First Four, Second Round and Third Round
+
+====Studio analysts====
+*[[Charles Barkley]] (New York City and Indianapolis) – Second Round, Third Round, Regionals, Final Four and National Championship Game
+*[[Mateen Cleaves]] (Atlanta) – First Four, Second Round and Third Round,
+*[[Seth Davis]] (Atlanta and Indianapolis) – First Four, Second Round, Third Round, Regional Semi-Finals, Final Four and National Championship Game
+*[[Jamie Dixon]] (Atlanta) – Second Round
+*[[Doug Gottlieb]] (New York City) – Regionals
+*[[Anthony Grant]] (Atlanta) – Second Round
+*[[Ron Hunter]] (Atlanta) – Regional Semi-Finals
+*[[Clark Kellogg]] (New York City and Indianapolis) – Second Round, Third Round, Regionals, Final Four and National Championship Game
+*[[Reggie Miller]] (Indianapolis) – Final Four and National Championship Game
+*[[Wally Szczerbiak]] (Atlanta and New York City) – First Four and Second Round
+*[[Kenny Smith]] (New York City and Indianapolis) – Second Round, Third Round, Regionals, Final Four and National Championship Game
+*[[Steve Smith (basketball)|Steve Smith]] (Atlanta and Indianapolis) – Regional Semi-Finals, Final Four and National Championship Game
+*[[Buzz Williams]] (Atlanta) – Second Round
+
+====Commentary teams====
+*[[Jim Nantz]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – First and Second Rounds at Charlotte, North Carolina; South Regional at Houston, Texas; Final Four and National Championship at Indianapolis, Indiana
+*[[Marv Albert]] or [[Brian Anderson (broadcaster)|Brian Anderson]]/[[Chris Webber]]/[[Len Elmore]]/[[Lewis Johnson]] – First and Second Rounds at Omaha, Nebraska; Midwest Regional at Cleveland, Ohio
+**Anderson called the Midwest Regional final after Albert withdrew from the game due to illness.<ref>{{cite web |title=Marv Albert is 'under the weather', Replaced by Brian Anderson for Call of Kentucky-Notre Dame |url=http://thebiglead.com/2015/03/28/marv-albert-under-the-weather-replaced-by-brian-anderson-for-call-of-kentucky-notre-dame/ |publisher=the big lead |first=Mike |last=Cardillo |date=March 28, 2015 |accessdate=March 28, 2015}}</ref>
+*[[Verne Lundquist]]/[[Jim Spanarkel]]/[[Allie LaForce]] – First and Second Rounds at Louisville, Kentucky; East Regional at Syracuse, New York
+*[[Kevin Harlan]]/[[Reggie Miller]]/[[Dan Bonner]]/[[Rachel Nichols (journalist)|Rachel Nichols]] – First and Second Rounds at Portland, Oregon; West Regional at Los Angeles, California
+*[[Ian Eagle]]/[[Doug Gottlieb]]/[[Evan Washburn]] – First Four at Dayton, Ohio; First and Second Rounds at Columbus, Ohio
+*[[Brian Anderson (broadcaster)|Brian Anderson]]/[[Steve Smith (basketball)|Steve Smith]]/[[Lewis Johnson]] (First Four)/[[Dana Jacobson]] (Pittsburgh) – First Four at Dayton, Ohio; First and Second Rounds at Pittsburgh, Pennsylvania
+*[[Spero Dedes]]/[[Mike Gminski]]/[[Jaime Maggio]] – First and Second Rounds at Seattle, Washington
+*[[Andrew Catalon]]/[[Steve Lappas]]/[[Jamie Erdahl]] – First and Second Rounds at Jacksonville, Florida
+
+Sources:<ref>{{cite press release|title=Hill, Raftery added to Final Four, national championship broadcast team|url=http://www.ncaa.com/news/basketball-men/article/2015-02-03/hill-raftery-added-final-four-national-championship-broadcast|publisher=NCAA|date=February 3, 2015|accessdate=March 3, 2015}}</ref><ref>{{cite web|title=CBS Sports, Turner Sports announce championship commentator team for 2015 DI Men's Basketball tournament|url=http://www.ncaa.com/news/basketball-men/article/2015-03-04/cbs-sports-turner-sports-announce-championship-commentator|publisher=NCAA|date=March 4, 2015|accessdate=March 4, 2015}}</ref>
+
+=====''Team Stream'' broadcasts=====
+For the second consecutive year, the semifinals were exclusive to cable, with TBS airing the standard broadcast with Nantz, Raftery, Hill, and Wolfson. TNT and TruTV aired ''Team Stream by [[Bleacher Report]]'' broadcasts (known as ''Teamcasts'' during the 2014 tournament), which featured localized commentary and features with specific focuses on each participating team.<ref>{{cite web|title=The Final Four Teamcasts Will Return In 2015|url=http://awfulannouncing.com/2015/final-four-teamcasts-will-return-2015.html|publisher=Awful Announcing|date=February 9, 2015|accessdate=February 9, 2015}}</ref><ref>{{cite web|title=TNT/truTV Final Four Teamcasts To Be Branded "Team Stream by Bleacher Report" |url=http://awfulannouncing.com/2015/tnttrutv-final-four-teamcasts-to-be-branded-team-stream-presented-by-bleacher-report.html |publisher=Awful Announcing |date=March 26, 2015 |accessdate=March 26, 2015}}</ref><ref>{{cite web |title=This Year's Team Stream Final Four Announcers Are Revealed |url=http://awfulannouncing.com/2015/years-team-stream-final-four-announcers-revealed.html |publisher=Awful Announcing |date=March 31, 2015 |accessdate=March 31, 2015}}</ref>
+*[[Tom Werme]]/[[Alaa Abdelnaby]]/[[Chris Spatola]] – Duke Team Stream on TNT
+*[[Brian Anderson (broadcaster)|Brian Anderson]]/[[Mateen Cleaves]]/[[Shireen Saski]] – Michigan State Team Stream on truTV
+*[[Dave Baker (sportscaster)|Dave Baker]]/[[Rex Chapman]]/[[Michael Eaves]] – Kentucky Team Stream on TNT
+*[[Wayne Larrivee]]/[[Mike Kelley (basketball)|Mike Kelley]]/[[Phil Dawson]] – Wisconsin Team Stream on truTV
+
+===Radio===
+[[Westwood One (current)|Westwood One]] had exclusive radio rights to the entire tournament.<ref name="Radio Rights">{{cite web|title=NCAA, Westwood One extend deal|url=http://www.ncaa.com/news/ncaa/2011-01-13/ncaa-westwood-one-extend-deal|publisher=NCAA|accessdate=May 12, 2013|date=January 13, 2011}}</ref>
+
+{{col-begin}}
+{{col-2}}
+
+====First Four====
+*[[Brandon Gaudin]] and [[Alaa Abdelnaby]] – at Dayton, Ohio
+
+====Second and Third rounds====
+*[[Tom McCarthy (broadcaster)|Tom McCarthy]] and [[Donny Marshall]] – Jacksonville, Florida
+*[[John Sadak]] and [[Bill Frieder]] – Louisville, Kentucky
+*[[Scott Graham]] and [[Kevin Grevey]] – Pittsburgh, Pennsylvania
+*[[Wayne Larrivee]] and [[Mike Montgomery]] – Portland, Oregon
+*[[Gary Cohen]] and [[Kelly Tripucka]] – Charlotte, North Carolina
+*[[Dave Sims]] and [[Jim Jackson (basketball)|Jim Jackson]] – Columbus, Ohio
+*[[Kevin Kugler]] and [[Will Perdue]] – Omaha, Nebraska
+*[[Kevin Calabro]] and [[P. J. Carlesimo]] – Seattle, Washington
+{{col-2}}
+
+====Regionals====
+*Ian Eagle and P. J. Carlesimo – East Regional at Syracuse, New York
+*Gary Cohen and Bill Frieder – Midwest Regional at Cleveland, Ohio
+*Kevin Kugler and Will Perdue – South Regional at Houston, Texas
+*Wayne Larrivee and Donny Marshall – West Regional at Los Angeles, California
+
+====Final Four====
+*Kevin Kugler, Clark Kellogg, and [[Jim Gray (sportscaster)|Jim Gray]] – Indianapolis, Indiana
+{{col-end}}
+
+==See also==
+* [[2015 NCAA Division II Men's Basketball Tournament]]
+* [[2015 NCAA Division III Men's Basketball Tournament]]
+* [[2015 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|2015 NCAA Division II Women's Basketball Tournament]]
+* [[2015 NCAA Division III Women's Basketball Tournament]]
+* [[2015 National Invitation Tournament]]
+* [[2015 Women's National Invitation Tournament]]
+* [[2015 NAIA Division I Men's Basketball Tournament]]
+* [[2015 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2015 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2015 NAIA Division II Women's Basketball Tournament]]
+* [[2015 College Basketball Invitational]]
+* [[2015 CollegeInsider.com Postseason Tournament]]
+
+==References==
+{{Reflist|30em}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2015 NCAA Division I men's basketball tournament navbox}}
+{{2014–15 NCAA Division I championships navbox}}
+
+[[Category:2014–15 NCAA Division I men's basketball season|Ncaa Tournament]]
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:Basketball in Indianapolis]]
+[[Category:2015 in sports in Indiana]]
+[[Category:2010s in Indianapolis]]
+[[Category:Basketball in Houston]]
+[[Category:Sports competitions in Indianapolis]]
+[[Category:Sports competitions in Houston]]
+[[Category:2015 in sports in Texas|NCAA Division I Men's Basketball]]
+[[Category:March 2015 sports events in the United States]]
+[[Category:April 2015 sports events in the United States]]
+[[Category:2010s in Houston]]

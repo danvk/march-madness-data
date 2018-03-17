@@ -1,0 +1,772 @@
+{{seealso|1994 NCAA Men's Division I Basketball Championship Game}}
+{{Infobox NCAA Basketball Tournament |
+| Year=1994
+| Image=
+| ImageSize=
+| Caption=
+| Teams=64
+| FinalFourArena=[[Charlotte Coliseum]]
+| FinalFourCity=[[Charlotte, North Carolina]]
+| Champions=[[1993–94 Arkansas Razorbacks men's basketball team|Arkansas]]
+| TitleCount=1st
+| ChampGameCount=1st
+| ChampFFCount=5th
+| RunnerUp=[[1993–94 Duke Blue Devils men's basketball team|Duke]]
+| GameCount=7th
+| RunnerFFCount=11th
+| Semifinal1=[[1993–94 Arizona Wildcats men's basketball team|Arizona]]
+| FinalFourCount=2nd
+| Semifinal2=[[Florida Gators men's basketball|Florida]]
+| FinalFourCount2=1st
+| Coach=[[Nolan Richardson]]
+| CoachCount=1st
+| MOP=[[Corliss Williamson]]
+| MOPTeam=Arkansas
+| Attendance=578,007
+| OneTopScorer=*
+| TwoTopScorers=
+| TopScorer=[[Khalid Reeves]]
+| TopScorerTeam=Arizona
+| Points=137
+}}
+The '''1994 [[NCAA Division I Men's Basketball Tournament]]''' involved 64 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's [[NCAA Division I]] [[college basketball]]. It began on March 17, 1994, and ended with the [[1994 NCAA Men's Division I Basketball Championship Game|championship game]] on April 4 in [[Charlotte, North Carolina]], played at [[Charlotte Coliseum]]. A total of 63 games were played.
+
+The Final Four consisted of [[Arkansas Razorbacks men's basketball|Arkansas]], making their fifth trip and first since 1990, [[Arizona Wildcats men's basketball|Arizona]], making their second ever trip and first since 1988, [[Florida Gators men's basketball|Florida]], making their first ever trip, and [[Duke Blue Devils men's basketball|Duke]], making their sixth trip in the last seven tournaments.
+
+In the national championship game, Arkansas defeated Duke by a score of 76–72 and won their first ever national championship.
+
+[[Corliss Williamson]] of Arkansas was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+
+[[Bill Clinton]], former [[governor of Arkansas]], was in attendance for the Final Four, as well as the regionals that were held in [[Dallas]] the previous week.  (Clinton was already scheduled to be in Dallas for the wedding of his brother [[Roger Clinton, Jr.|Roger]] and added the basketball games to his plans.)
+
+==Locations==
+
+{{Location map+|USA|width=450|float=right|caption=1994 first and second rounds|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.700379|lon_deg=-73.592906|position=top|background=#FFFFFF|label=Uniondale|link=Nassau Veterans Memorial Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.934000|lon_deg=-76.896640|position=bottom|background=#FFFFFF|label=Landover|link=Capital Centre|USAir Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.040584|lon_deg=-84.503716|position=bottom|background=#FFFFFF|label=Lexington|link=Rupp Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=27.773056|lon_deg=-82.640000|position=bottom|background=#FFFFFF|label=St. Petersburg|link=Tropicana Field|Thunderdome}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.467560|lon_deg=-97.516428|position=bottom|background=#FFFFFF|label=Oklahoma City|link=Myriad Convention Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=37.688889|lon_deg=-97.336111|position=top|background=#FFFFFF|label=Wichita|link=Kansas Coliseum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.223000|lon_deg=-111.973830|position=bottom|background=#FFFFFF|label=Ogden|link=Dee Events Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=38.581572|lon_deg=-121.494400|position=top|background=#FFFFFF|label=Sacramento|link=Arco Arena}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=1994 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=34.052234|lon_deg=-118.243685|position=right|background=#FFFFFF|label=Los Angeles|link=Los Angeles Memorial Sports Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=32.780262|lon_deg=-96.800978|position=right|background=#FFFFFF|label=Dallas|link=Reunion Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=35.960638|lon_deg=-83.920739|position=left|background=#FFFFFF|label=Knoxville|link=Thompson–Boling Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=25.761680|lon_deg=-80.191790|position=right|background=#FFFFFF|label=Miami|link=Miami Arena}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=35.227087|lon_deg=-80.843127|position=bottom|background=#FFFFFF|label=Charlotte|link=Charlotte Coliseum}}
+}}
+
+===First & Second Rounds===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+! rowspan="2" | East
+|[[Landover, Maryland]]
+|[[Capital Centre|USAir Arena]]
+|-
+|[[Uniondale, New York]]
+|[[Nassau Veterans Memorial Coliseum]]
+|-
+! rowspan="2" | Midwest
+|[[Oklahoma City|Oklahoma City, Oklahoma]]
+|[[Cox Convention Center|Myriad Convention Center]]
+|-
+|[[Wichita, Kansas]]
+|[[Kansas Coliseum]]
+|-
+! rowspan="2" | Southeast
+|[[Lexington, Kentucky]]
+|[[Rupp Arena]]
+|-
+|[[St. Petersburg, Florida]]
+|[[Tropicana Field|Thunderdome]]
+|-
+! rowspan="2" | West
+|[[Ogden, Utah]]
+|[[Dee Events Center]]
+|-
+|[[Sacramento, California]]
+|[[Sleep Train Arena|ARCO Arena]]
+|}
+
+===Regional Sites and Final Four===
+{| class="wikitable"
+! Region !! Site !! Venue 
+|-
+| '''East''' 
+|[[Miami|Miami, Florida]]
+|[[Miami Arena]]
+|-
+| '''Midwest'''
+|[[Dallas|Dallas, Texas]]
+|[[Reunion Arena]]
+|-
+| '''Southeast'''
+|[[Knoxville, Tennessee]]
+|[[Thompson–Boling Arena]]
+|-
+| '''West'''
+|[[Los Angeles|Los Angeles, California]]
+|[[Los Angeles Memorial Sports Arena]]
+|-
+| '''Final Four'''
+|[[Charlotte, North Carolina]]
+|[[Charlotte Coliseum]]
+|}
+
+In 1994 Charlotte became the 24th city, and the Charlotte Coliseum the 29th venue, to host the Final Four. It is the last of four arenas - including [[Market Square Arena]] in 1980, [[Reunion Arena]] in 1986, and [[McNichols Sports Arena]] in 1990 - whose primary tenant was a [[National Basketball Association|NBA]] franchise. (The [[Charlotte 49ers]] had also used the building from its opening to the previous season, but had moved back to reopened [[Bojangles' Coliseum|Independence Arena]], which is seven miles closer to campus than the new Coliseum.) The tournament was the only one between 1985 and 2018 to not include an NFL stadium; the only domed stadium used for the tournament, the Thunderdome, was at the time an NHL arena and is now an MLB stadium. The tournament included five new venues and four new cities, with three of the venues hosting their only tournament games. Two new cities in Florida, Miami and St. Petersburg, were used for the first time. St. Petersburg would go on to host the Final Four in 1999, while this would be the only games held at Miami Arena; subsequent games have been at the new [[American Airlines Arena]]. Landover, an eastern suburb of Washington, D.C., was used for the only time; games in Washington have since been at [[Capital One Arena]], which replaced USAir Arena as home to the city's sports teams. Sacramento became the sixth metropolitan area in California to host games. The Kansas Coliseum was used instead of [[Charles Koch Arena|Levitt Arena]] in Wichita for the only time. This also marked the last tournament for the Los Angeles Memorial Sports Arena and the Dee Events Center. Games in the Los Angeles area have since been held at the [[Staples Center]] or the [[Honda Center]] in Anaheim. In all, of the thirteen venues used in the 1994 tournament, seven (in Charlotte, Dallas, Landover, Los Angeles, Miami, Sacramento and Wichita) have closed and been replaced, with all but the Kansas Coliseum (which is being converted into an aerospace test facility) and Sacramento's Sleep Train Arena being demolished, its future still not determined since the opening of the [[Golden 1 Center]] downtown. Additionally, the Nassau Coliseum has been renovated into a smaller-capacity building, placing its future use as a tournament site in doubt.
+
+==Teams==
+{| class=wikitable
+! Region !! Seed !! Team !! Coach !! Finished !! Final opponent !! Score
+|-
+! colspan=7 | East
+|-
+| East || 1|| [[North Carolina Tar Heels men's basketball|North Carolina]] || [[Dean Smith]] || Round of 32||9 [[Boston College Eagles men's basketball|Boston College]]||L 75–72
+|-
+| East || 2|| [[1993–94 Connecticut Huskies men's basketball team|Connecticut]] || [[Jim Calhoun]] || Sweet Sixteen||3 [[Florida Gators men's basketball|Florida]]||L 69–60
+|-
+| East || 3|| [[Florida Gators men's basketball|Florida]] || [[Lon Kruger]] || National Semifinals||2 [[1993–94 Duke Blue Devils men's basketball team|Duke]]||L 70–65
+|-
+| East || 4|| [[Temple Owls men's basketball|Temple]] || [[John Chaney (basketball coach)|John Chaney]] || Round of 32||5 [[1993–94 Indiana Hoosiers men's basketball team|Indiana]]||L 67–58
+|-
+| East || 5|| [[1993–94 Indiana Hoosiers men's basketball team|Indiana]] || [[Bob Knight]] || Sweet Sixteen||9 [[Boston College Eagles men's basketball|Boston College]]||L 77–68
+|-
+| East || 6|| [[Nebraska Cornhuskers men's basketball|Nebraska]] || [[Danny Nee]] || Round of 64||11 [[Penn Quakers men's basketball|Penn]]||L 90–80
+|-
+| East || 7|| [[UAB Blazers men's basketball|UAB]] || [[Gene Bartow]] || Round of 64||10 [[George Washington Colonials men's basketball|George Washington]]||L 51–46
+|-
+| East || 8|| [[Washington State Cougars men's basketball|Washington State]] || [[Kelvin Sampson]] || Round of 64||9 [[Boston College Eagles men's basketball|Boston College]]||L 67–64
+|-
+| East || 9|| [[Boston College Eagles men's basketball|Boston College]] || [[Jim O'Brien (basketball, born 1949)|Jim O'Brien]] || Regional Runner-up||3 [[Florida Gators men's basketball|Florida]]||L 74–66
+|-
+| East || 10|| [[George Washington Colonials men's basketball|George Washington]] || [[Mike Jarvis]] || Round of 32||2 [[1993–94 Connecticut Huskies men's basketball team|Connecticut]]||L 75–63
+|-
+| East || 11|| [[Penn Quakers men's basketball|Penn]] || [[Fran Dunphy]] || Round of 32||3 [[Florida Gators men's basketball|Florida]]||L 70–58
+|-
+| East || 12|| [[1993–94 Ohio Bobcats men's basketball team|Ohio]] || [[Larry Hunter]] || Round of 64||5 [[1993–94 Indiana Hoosiers men's basketball team|Indiana]]||L 84–72
+|-
+| East || 13|| [[1993–94 Drexel Dragons men's basketball team|Drexel]] || [[Bill Herrion]] || Round of 64||4 [[Temple Owls men's basketball|Temple]]||L 61–39
+|-
+| East || 14|| [[James Madison Dukes men's basketball|James Madison]] || [[Lefty Driesell]] || Round of 64||3 [[Florida Gators men's basketball|Florida]]||L 64–62
+|-
+| East || 15|| [[Rider Broncs men's basketball|Rider]] || [[Kevin Bannon]] || Round of 64||2 [[1993–94 Connecticut Huskies men's basketball team|Connecticut]]||L 64–46
+|-
+| East || 16|| [[Liberty Flames basketball|Liberty]] || [[Jeff Meyer (basketball)|Jeff Meyer]] || Round of 64||1 [[North Carolina Tar Heels men's basketball|North Carolina]]||L 71–51
+|-
+! colspan=7 | Midwest
+|-
+| Midwest || 1|| [[1993–94 Arkansas Razorbacks men's basketball team|Arkansas]] || [[Nolan Richardson]] || '''Champion'''||2 [[1993–94 Duke Blue Devils men's basketball team|Duke]]||W 76–72
+|-
+| Midwest || 2|| [[1993–94 UMass Minutemen basketball team|Massachusetts]] || [[John Calipari]] || Round of 32||10 [[Maryland Terrapins men's basketball|Maryland]]||L 95–87
+|-
+| Midwest || 3|| [[1993–94 Michigan Wolverines men's basketball team|Michigan]] || [[Steve Fisher]] || Regional Runner-up||1 [[1993–94 Arkansas Razorbacks men's basketball team|Arkansas]]||L 76–68
+|-
+| Midwest || 4|| [[Oklahoma State Cowboys basketball|Oklahoma State]] || [[Eddie Sutton]] || Round of 32||12 [[Tulsa Golden Hurricane men's basketball|Tulsa]]||L 82–80
+|-
+| Midwest || 5|| [[1993–94 UCLA Bruins men's basketball team|UCLA]] || [[Jim Harrick]] || Round of 64||12 [[Tulsa Golden Hurricane men's basketball|Tulsa]]||L 112–102
+|-
+| Midwest || 6|| [[Texas Longhorns men's basketball|Texas]] || [[Tom Penders]] || Round of 32||3 [[1993–94 Michigan Wolverines men's basketball team|Michigan]]||L 84–79
+|-
+| Midwest || 7|| [[Saint Louis Billikens men's basketball|Saint Louis]] || [[Charlie Spoonhour]] || Round of 64||10 [[Maryland Terrapins men's basketball|Maryland]]||L 74–66
+|-
+| Midwest || 8|| [[1993–94 Illinois Fighting Illini men's basketball team|Illinois]] || [[Lou Henson]] || Round of 64||9 [[1993–94 Georgetown Hoyas men's basketball team|Georgetown]]||L 84–77
+|-
+| Midwest || 9|| [[1993–94 Georgetown Hoyas men's basketball team|Georgetown]] || [[John Thompson (basketball)|John Thompson]] || Round of 32||1 [[1993–94 Arkansas Razorbacks men's basketball team|Arkansas]]||L 85–73
+|-
+| Midwest || 10|| [[Maryland Terrapins men's basketball|Maryland]] || [[Gary Williams (basketball)|Gary Williams]] || Sweet Sixteen||3 [[1993–94 Michigan Wolverines men's basketball team|Michigan]]||L 78–71
+|-
+| Midwest || 11|| [[Western Kentucky Hilltoppers basketball|Western Kentucky]] || [[Ralph Willard]] || Round of 64||6 [[Texas Longhorns men's basketball|Texas]]||L 91–77
+|-
+| Midwest || 12|| [[Tulsa Golden Hurricane men's basketball|Tulsa]] || [[Tubby Smith]] || Sweet Sixteen||1 [[1993–94 Arkansas Razorbacks men's basketball team|Arkansas]]||L 103–84
+|-
+| Midwest || 13|| [[New Mexico State Aggies men's basketball|New Mexico State]] || [[Neil McCarthy (basketball coach)|Neil McCarthy]] || Round of 64||4 [[Oklahoma State Cowboys basketball|Oklahoma State]]||L 65–55
+|-
+| Midwest || 14|| [[Pepperdine Waves men's basketball|Pepperdine]] || [[Tom Asbury]] || Round of 64||3 [[1993–94 Michigan Wolverines men's basketball team|Michigan]]||L 78–74
+|-
+| Midwest || 15|| [[Texas State Bobcats men's basketball|Southwest Texas State]] || [[Jim Wooldridge]] || Round of 64||2 [[1993–94 UMass Minutemen basketball team|Massachusetts]]||L 78–60
+|-
+| Midwest || 16|| [[North Carolina A&T Aggies men's basketball|North Carolina A&T]] || [[Jeff Capel II]] || Round of 64||1 [[1993–94 Arkansas Razorbacks men's basketball team|Arkansas]]||L 94–79
+|-
+! colspan=7 | Southeast
+|-
+| Southeast || 1|| [[1993–94 Purdue Boilermakers men's basketball team|Purdue]] || [[Gene Keady]] || Regional Runner-up||2 [[1993–94 Duke Blue Devils men's basketball team|Duke]]||L 69–60
+|-
+| Southeast || 2|| [[1993–94 Duke Blue Devils men's basketball team|Duke]] || [[Mike Krzyzewski]] || Runner Up||1 [[1993–94 Arkansas Razorbacks men's basketball team|Arkansas]]||L 76–72
+|-
+| Southeast || 3|| [[1993–94 Kentucky Wildcats men's basketball team|Kentucky]] || [[Rick Pitino]] || Round of 32||6 [[Marquette Golden Eagles men's basketball|Marquette]]||L 75–63
+|-
+| Southeast || 4|| [[1993–94 Kansas Jayhawks men's basketball team|Kansas]] || [[Roy Williams (coach)|Roy Williams]] || Sweet Sixteen||1 [[1993–94 Purdue Boilermakers men's basketball team|Purdue]]||L 83–78
+|-
+| Southeast || 5|| [[Wake Forest Demon Deacons men's basketball|Wake Forest]] || [[Dave Odom]] || Round of 32||4 [[1993–94 Kansas Jayhawks men's basketball team|Kansas]]||L 69–58
+|-
+| Southeast || 6|| [[Marquette Golden Eagles men's basketball|Marquette]] || [[Kevin O'Neill (basketball)|Kevin O'Neill]] || Sweet Sixteen||2 [[1993–94 Duke Blue Devils men's basketball team|Duke]]||L 59–49
+|-
+| Southeast || 7|| [[1993–94 Michigan State Spartans men's basketball team|Michigan State]] || [[Jud Heathcote]] || Round of 32||2 [[1993–94 Duke Blue Devils men's basketball team|Duke]]||L 85–74
+|-
+| Southeast || 8|| [[Providence Friars men's basketball|Providence]] || [[Rick Barnes]] || Round of 64||9 [[Alabama Crimson Tide men's basketball|Alabama]]||L 76–70
+|-
+| Southeast || 9|| [[Alabama Crimson Tide men's basketball|Alabama]] || [[David Hobbs (basketball)|David Hobbs]] || Round of 32||1 [[1993–94 Purdue Boilermakers men's basketball team|Purdue]]||L 83–73
+|-
+| Southeast || 10|| [[Seton Hall Pirates men's basketball|Seton Hall]] || [[P.J. Carlesimo]] || Round of 64||7 [[1993–94 Michigan State Spartans men's basketball team|Michigan State]]||L 84–73
+|-
+| Southeast || 11|| [[Louisiana–Lafayette Ragin' Cajuns men's basketball|Southwestern Louisiana]] || [[Marty Fletcher]] || Round of 64||6 [[Marquette Golden Eagles men's basketball|Marquette]]||L 81–59
+|-
+| Southeast || 12|| [[College of Charleston Cougars men's basketball|College of Charleston]] || [[John Kresse]] || Round of 64||5 [[Wake Forest Demon Deacons men's basketball|Wake Forest]]||L 68–58
+|-
+| Southeast || 13|| [[Chattanooga Mocs basketball|Chattanooga]] || [[Mack McCarthy]] || Round of 64||4 [[1993–94 Kansas Jayhawks men's basketball team|Kansas]]||L 102–73
+|-
+| Southeast || 14|| [[Tennessee State Tigers basketball|Tennessee State]] || [[Frankie Allen]] || Round of 64||3 [[1993–94 Kentucky Wildcats men's basketball team|Kentucky]]||L 83–70
+|-
+| Southeast || 15|| [[Texas Southern Tigers basketball|Texas Southern]] || [[Robert Moreland (coach)|Robert Moreland]] || Round of 64||2 [[1993–94 Duke Blue Devils men's basketball team|Duke]]||L 82–70
+|-
+| Southeast || 16|| [[UCF Knights men's basketball|UCF]] || [[Kirk Speraw]] || Round of 64||1 [[1993–94 Purdue Boilermakers men's basketball team|Purdue]]||L 98–67
+|-
+! colspan=7 | West
+|-
+| West || 1|| [[Missouri Tigers men's basketball|Missouri]] || [[Norm Stewart]] || Regional Runner-up||2 [[1993–94 Arizona Wildcats men's basketball team|Arizona]]||L 92–72
+|-
+| West || 2|| [[1993–94 Arizona Wildcats men's basketball team|Arizona]] || [[Lute Olson]] || National Semifinals||1 [[1993–94 Arkansas Razorbacks men's basketball team|Arkansas]]||L 91–82
+|-
+| West || 3|| [[1993–94 Louisville Cardinals men's basketball team|Louisville]] || [[Denny Crum]] || Sweet Sixteen||2 [[1993–94 Arizona Wildcats men's basketball team|Arizona]]||L 82–70
+|-
+| West || 4|| [[Syracuse Orange men's basketball|Syracuse]] || [[Jim Boeheim]] || Sweet Sixteen||1 [[Missouri Tigers men's basketball|Missouri]]||L 98–88
+|-
+| West || 5|| [[California Golden Bears men's basketball|California]] || [[Todd Bozeman]] || Round of 64||12 [[Green Bay Phoenix men's basketball|UW–Green Bay]]||L 61–57
+|-
+| West || 6|| [[Minnesota Golden Gophers men's basketball|Minnesota]] || [[Clem Haskins]] || Round of 32||3 [[1993–94 Louisville Cardinals men's basketball team|Louisville]]||L 60–55
+|-
+| West || 7|| [[Virginia Cavaliers men's basketball|Virginia]] || [[Jeff Jones (basketball coach)|Jeff Jones]] || Round of 32||2 [[1993–94 Arizona Wildcats men's basketball team|Arizona]]||L 71–58
+|-
+| West || 8|| [[Cincinnati Bearcats men's basketball|Cincinnati]] || [[Bob Huggins]] || Round of 64||9 [[Wisconsin Badgers men's basketball|Wisconsin]]||L 80–72
+|-
+| West || 9|| [[Wisconsin Badgers men's basketball|Wisconsin]] || [[Stu Jackson]] || Round of 32||1 [[Missouri Tigers men's basketball|Missouri]]||L 109–96
+|-
+| West || 10|| [[New Mexico Lobos men's basketball|New Mexico]] || [[Dave Bliss]] || Round of 64||7 [[Virginia Cavaliers men's basketball|Virginia]]||L 57–54
+|-
+| West || 11|| [[Southern Illinois Salukis men's basketball|Southern Illinois]] || [[Rich Herrin]] || Round of 64||6 [[Minnesota Golden Gophers men's basketball|Minnesota]]||L 74–60
+|-
+| West || 12|| [[Green Bay Phoenix men's basketball|UW–Green Bay]] || [[Dick Bennett]] || Round of 32||4 [[Syracuse Orange men's basketball|Syracuse]]||L 64–59
+|-
+| West || 13|| [[Hawaii Rainbow Warriors basketball|Hawaii]] || [[Riley Wallace]] || Round of 64||4 [[Syracuse Orange men's basketball|Syracuse]]||L 92–78
+|-
+| West || 14|| [[Boise State Broncos men's basketball|Boise State]] || [[Bobby Dye]] || Round of 64||3 [[1993–94 Louisville Cardinals men's basketball team|Louisville]]||L 67–58
+|-
+| West || 15|| [[Loyola Greyhounds men's basketball|Loyola (MD)]] || [[Skip Prosser]] || Round of 64||2 [[1993–94 Arizona Wildcats men's basketball team|Arizona]]||L 81–55
+|-
+| West || 16|| [[Navy Midshipmen men's basketball|Navy]] || [[Don DeVoe]] || Round of 64||1 [[Missouri Tigers men's basketball|Missouri]]||L 76–53
+|-
+|}
+
+==Bracket==
+===East Regional – Miami===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[USAir Arena|Landover]]'''
+ | subgroup2= '''[[USAir Arena|Landover]]'''
+ | subgroup3= '''[[Nassau Veterans Memorial Coliseum|Uniondale]]'''
+ | subgroup4= '''[[Nassau Veterans Memorial Coliseum|Uniondale]]'''
+| RD1-team01='''North Carolina'''
+ | RD1-score01='''71'''
+ | RD1-seed02=16
+ | RD1-team02=Liberty
+ | RD1-score02=51
+ | RD1-seed03=8
+ | RD1-team03=Washington State
+ | RD1-score03=64
+ | RD1-seed04=9
+ | RD1-team04='''Boston College'''
+ | RD1-score04='''67'''
+ | RD1-seed05=5
+ | RD1-team05='''Indiana'''
+ | RD1-score05='''84'''
+ | RD1-seed06=12
+ | RD1-team06=Ohio
+ | RD1-score06=72
+ | RD1-seed07=4
+ | RD1-team07='''Temple'''
+ | RD1-score07='''61'''
+ | RD1-seed08=13
+ | RD1-team08=Drexel
+ | RD1-score08=39
+ | RD1-seed09=6
+ | RD1-team09=Nebraska
+ | RD1-score09=80
+ | RD1-seed10=11
+ | RD1-team10='''Penn'''
+ | RD1-score10='''90'''
+ | RD1-seed11=3
+ | RD1-team11='''Florida'''
+ | RD1-score11='''64'''
+ | RD1-seed12=14
+ | RD1-team12=James Madison
+ | RD1-score12=62
+ | RD1-seed13=7
+ | RD1-team13=UAB
+ | RD1-score13=46
+ | RD1-seed14=10
+ | RD1-team14='''George Washington'''
+ | RD1-score14='''51'''
+ | RD1-seed15=2
+ | RD1-team15='''Connecticut'''
+ | RD1-score15='''64'''
+ | RD1-seed16=15
+ | RD1-team16=Rider
+ | RD1-score16=46
+ | RD2-seed01=1
+ | RD2-team01=North Carolina
+ | RD2-score01=72
+ | RD2-seed02=9
+ | RD2-team02='''Boston College'''
+ | RD2-score02='''75'''
+ | RD2-seed03=5
+ | RD2-team03='''Indiana'''
+ | RD2-score03='''67'''
+ | RD2-seed04=4
+ | RD2-team04=Temple
+ | RD2-score04=58
+ | RD2-seed05=11
+ | RD2-team05=Penn
+ | RD2-score05=58
+ | RD2-seed06=3
+ | RD2-team06='''Florida'''
+ | RD2-score06='''70'''
+ | RD2-seed07=10
+ | RD2-team07=George Washington
+ | RD2-score07=63
+ | RD2-seed08=2
+ | RD2-team08='''Connecticut'''
+ | RD2-score08='''75'''
+ | RD3-seed01=9
+ | RD3-team01='''Boston College'''
+ | RD3-score01='''77'''
+ | RD3-seed02=5
+ | RD3-team02=Indiana
+ | RD3-score02=68
+ | RD3-seed03=3
+ | RD3-team03='''Florida'''
+ | RD3-score03='''69'''
+ | RD3-seed04=2
+ | RD3-team04=Connecticut
+ | RD3-score04=60*
+ | RD4-seed01=9
+ | RD4-team01=Boston College
+ | RD4-score01=66
+ | RD4-seed02=3
+ | RD4-team02='''Florida'''
+ | RD4-score02='''74'''
+}}
+
+===Southeast Regional – Knoxville, Tennessee===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Rupp Arena|Lexington]]'''
+ | subgroup2= '''[[Rupp Arena|Lexington]]'''
+ | subgroup3= '''[[Tropicana Field|St. Petersburg]]'''
+ | subgroup4= '''[[Tropicana Field|St. Petersburg]]'''
+| RD1-team01='''Purdue'''
+ | RD1-score01='''98'''
+ | RD1-seed02=16
+ | RD1-team02=UCF
+ | RD1-score02=67
+ | RD1-seed03=8
+ | RD1-team03=Providence
+ | RD1-score03=70
+ | RD1-seed04=9
+ | RD1-team04='''Alabama'''
+ | RD1-score04='''76'''
+ | RD1-seed05=5
+ | RD1-team05='''Wake Forest'''
+ | RD1-score05='''68'''
+ | RD1-seed06=12
+ | RD1-team06=College of Charleston
+ | RD1-score06=58
+ | RD1-seed07=4
+ | RD1-team07='''Kansas'''
+ | RD1-score07='''102'''
+ | RD1-seed08=13
+ | RD1-team08=Chattanooga
+ | RD1-score08=73
+ | RD1-seed09=6
+ | RD1-team09='''Marquette'''
+ | RD1-score09='''81'''
+ | RD1-seed10=11
+ | RD1-team10=Southwest Louisiana
+ | RD1-score10=59
+ | RD1-seed11=3
+ | RD1-team11='''Kentucky'''
+ | RD1-score11='''83'''
+ | RD1-seed12=14
+ | RD1-team12=Tennessee State
+ | RD1-score12=70
+ | RD1-seed13=7
+ | RD1-team13='''Michigan State'''
+ | RD1-score13='''84'''
+ | RD1-seed14=10
+ | RD1-team14=Seton Hall
+ | RD1-score14=73
+ | RD1-seed15=2
+ | RD1-team15='''Duke'''
+ | RD1-score15='''82'''
+ | RD1-seed16=15
+ | RD1-team16=Texas Southern
+ | RD1-score16=70
+ | RD2-seed01=1
+ | RD2-team01='''Purdue'''
+ | RD2-score01='''83'''
+ | RD2-seed02=9
+ | RD2-team02=Alabama
+ | RD2-score02=73
+ | RD2-seed03=5
+ | RD2-team03=Wake Forest
+ | RD2-score03=58
+ | RD2-seed04=4
+ | RD2-team04='''Kansas'''
+ | RD2-score04='''69'''
+ | RD2-seed05=6
+ | RD2-team05='''Marquette'''
+ | RD2-score05='''75'''
+ | RD2-seed06=3
+ | RD2-team06=Kentucky
+ | RD2-score06=63
+ | RD2-seed07=7
+ | RD2-team07=Michigan State
+ | RD2-score07=74
+ | RD2-seed08=2
+ | RD2-team08='''Duke'''
+ | RD2-score08='''85'''
+ | RD3-seed01=1
+ | RD3-team01='''Purdue'''
+ | RD3-score01='''83'''
+ | RD3-seed02=4
+ | RD3-team02=Kansas
+ | RD3-score02=78
+ | RD3-seed03=6
+ | RD3-team03=Marquette
+ | RD3-score03=49
+ | RD3-seed04=2
+ | RD3-team04='''Duke'''
+ | RD3-score04='''59'''
+ | RD4-seed01=1
+ | RD4-team01=Purdue
+ | RD4-score01=60
+ | RD4-seed02=2
+ | RD4-team02='''Duke'''
+ | RD4-score02='''69'''
+}}
+
+===Midwest Regional – Dallas===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Myriad Convention Center|Oklahoma City]]'''
+ | subgroup2= '''[[Myriad Convention Center|Oklahoma City]]'''
+ | subgroup3= '''[[Kansas Coliseum|Wichita]]'''
+ | subgroup4= '''[[Kansas Coliseum|Wichita]]'''
+| RD1-team01='''Arkansas'''
+ | RD1-score01='''94'''
+ | RD1-seed02=16
+ | RD1-team02=North Carolina A&T
+ | RD1-score02=79
+ | RD1-seed03=8
+ | RD1-team03=Illinois
+ | RD1-score03=77
+ | RD1-seed04=9
+ | RD1-team04='''Georgetown'''
+ | RD1-score04='''84'''
+ | RD1-seed05=5
+ | RD1-team05=UCLA
+ | RD1-score05=102
+ | RD1-seed06=12
+ | RD1-team06='''Tulsa'''
+ | RD1-score06='''112'''
+ | RD1-seed07=4
+ | RD1-team07='''Oklahoma State'''
+ | RD1-score07='''65'''
+ | RD1-seed08=13
+ | RD1-team08=New Mexico State
+ | RD1-score08=55
+ | RD1-seed09=6
+ | RD1-team09='''Texas'''
+ | RD1-score09='''91'''
+ | RD1-seed10=11
+ | RD1-team10=Western Kentucky
+ | RD1-score10=77
+ | RD1-seed11=3
+ | RD1-team11='''Michigan'''
+ | RD1-score11='''78'''
+ | RD1-seed12=14
+ | RD1-team12=Pepperdine
+ | RD1-score12=74*
+ | RD1-seed13=7
+ | RD1-team13=Saint Louis
+ | RD1-score13=66
+ | RD1-seed14=10
+ | RD1-team14='''Maryland'''
+ | RD1-score14='''74'''
+ | RD1-seed15=2
+ | RD1-team15='''Massachusetts'''
+ | RD1-score15=78
+ | RD1-seed16=15
+ | RD1-team16=Southwest Texas State
+ | RD1-score16=60
+ | RD2-seed01=1
+ | RD2-team01='''Arkansas'''
+ | RD2-score01='''85'''
+ | RD2-seed02=9
+ | RD2-team02=Georgetown
+ | RD2-score02=73
+ | RD2-seed03=12
+ | RD2-team03='''Tulsa'''
+ | RD2-score03='''82'''
+ | RD2-seed04=4
+ | RD2-team04=Oklahoma State
+ | RD2-score04=80
+ | RD2-seed05=6
+ | RD2-team05=Texas
+ | RD2-score05=79
+ | RD2-seed06=3
+ | RD2-team06='''Michigan'''
+ | RD2-score06='''84'''
+ | RD2-seed07=10
+ | RD2-team07='''Maryland'''
+ | RD2-score07='''95'''
+ | RD2-seed08=2
+ | RD2-team08=Massachusetts
+ | RD2-score08=87
+ | RD3-seed01=1
+ | RD3-team01='''Arkansas'''
+ | RD3-score01='''103'''
+ | RD3-seed02=12
+ | RD3-team02=Tulsa
+ | RD3-score02=84
+ | RD3-seed03=3
+ | RD3-team03='''Michigan'''
+ | RD3-score03='''78'''
+ | RD3-seed04=10
+ | RD3-team04=Maryland
+ | RD3-score04=71
+ | RD4-seed01=1
+ | RD4-team01='''Arkansas'''
+ | RD4-score01='''76'''
+ | RD4-seed02=3
+ | RD4-team02=Michigan
+ | RD4-score02=68
+}}
+
+===West Regional – Los Angeles===
+{{16TeamBracket | RD3=Regional Semifinals | RD4=Regional Finals | RD1-seed01=1
+ | subgroup1= '''[[Dee Events Center|Ogden]]'''
+ | subgroup2= '''[[Dee Events Center|Ogden]]'''
+ | subgroup3= '''[[ARCO Arena|Sacramento]]'''
+ | subgroup4= '''[[ARCO Arena|Sacramento]]'''
+| RD1-team01='''Missouri'''
+ | RD1-score01='''76'''
+ | RD1-seed02=16
+ | RD1-team02=Navy
+ | RD1-score02=53
+ | RD1-seed03=8
+ | RD1-team03=Cincinnati
+ | RD1-score03=72
+ | RD1-seed04=9
+ | RD1-team04='''Wisconsin'''
+ | RD1-score04='''80'''
+ | RD1-seed05=5
+ | RD1-team05=California
+ | RD1-score05=57
+ | RD1-seed06=12
+ | RD1-team06='''UW–Green Bay'''
+ | RD1-score06='''61'''
+ | RD1-seed07=4
+ | RD1-team07='''Syracuse'''
+ | RD1-score07='''92'''
+ | RD1-seed08=13
+ | RD1-team08=Hawaii
+ | RD1-score08=78
+ | RD1-seed09=6
+ | RD1-team09='''Minnesota'''
+ | RD1-score09='''74'''
+ | RD1-seed10=11
+ | RD1-team10=Southern Illinois
+ | RD1-score10=60
+ | RD1-seed11=3
+ | RD1-team11='''Louisville'''
+ | RD1-score11='''67'''
+ | RD1-seed12=14
+ | RD1-team12=Boise State
+ | RD1-score12=58
+ | RD1-seed13=7
+ | RD1-team13='''Virginia'''
+ | RD1-score13='''57'''
+ | RD1-seed14=10
+ | RD1-team14=New Mexico
+ | RD1-score14=54
+ | RD1-seed15=2
+ | RD1-team15='''Arizona'''
+ | RD1-score15='''81'''
+ | RD1-seed16=15
+ | RD1-team16=Loyola (MD)
+ | RD1-score16=55
+ | RD2-seed01=1
+ | RD2-team01='''Missouri'''
+ | RD2-score01='''109'''
+ | RD2-seed02=9
+ | RD2-team02=Wisconsin
+ | RD2-score02=96
+ | RD2-seed03=12
+ | RD2-team03=UW–Green Bay
+ | RD2-score03=59
+ | RD2-seed04=4
+ | RD2-team04='''Syracuse'''
+ | RD2-score04='''64'''
+ | RD2-seed05=6
+ | RD2-team05=Minnesota
+ | RD2-score05=55
+ | RD2-seed06=3
+ | RD2-team06='''Louisville'''
+ | RD2-score06='''60'''
+ | RD2-seed07=7
+ | RD2-team07=Virginia
+ | RD2-score07=58
+ | RD2-seed08=2
+ | RD2-team08='''Arizona'''
+ | RD2-score08='''71'''
+ | RD3-seed01=1
+ | RD3-team01='''Missouri'''
+ | RD3-score01='''98'''
+ | RD3-seed02=4
+ | RD3-team02=Syracuse
+ | RD3-score02=88*
+ | RD3-seed03=3
+ | RD3-team03=Louisville
+ | RD3-score03=70
+ | RD3-seed04=2
+ | RD3-team04='''Arizona'''
+ | RD3-score04='''82'''
+ | RD4-seed01=1
+ | RD4-team01=Missouri
+ | RD4-score01=72
+ | RD4-seed02=2
+ | RD4-team02='''Arizona'''
+ | RD4-score02='''92'''
+}}
+
+====West Region First Round====
+{{basketballbox
+ | bg = #ffdead
+ | date = Thursday, March 17
+ | time = approx. 3:15 pm [[Mountain Time Zone|MST]]
+ | report = [http://www.sports-reference.com/cbb/boxscores/1994-03-17-california.html box score]
+ | team1 = '''#12 UW–Green Bay Phoenix'''
+ | score1 = '''61'''
+ | team2 = #5 California Golden Bears
+ | score2 = 57
+ | points1 = J. Nordgaard – 24
+ | rebounds1 = J. Nordgaard – 9
+ | assist1 = J. Martinez – 7
+ | otherstat1 =
+ | points2 = L. Murray – 18
+ | rebounds2 = J. Kidd, L. Murray – 11
+ | assist2 = J. Kidd – 7
+ | H1 = 32–23
+ | H2 = 29–34
+ | place = Dee Events Center – Ogden
+ | attendance = 12,126
+ | referee = Lenny Wirtz, Ed Corbett, Rick Hartzell
+ | TV = CBS
+}}
+
+====West Region Second Round====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, March 19
+ | time = 2:35 pm [[Mountain Time Zone|MST]]
+ | report = [http://www.sports-reference.com/cbb/boxscores/1994-03-19-green-bay.html box score]
+ | team1 = #12 UW–Green Bay Phoenix
+ | score1 = 59
+ | team2 = '''#4 Syracuse Orangemen'''
+ | score2 = '''64'''
+ | points1 = J. Nordgaard – 19
+ | rebounds1 = J. Ludvigson – 7
+ | assist1 = G. Grzesk – 7
+ | otherstat1 =
+ | points2 = L. Moten – 17
+ | rebounds2 = L. Jackson, L. Moten, J. Wallace – 8
+ | assist2 = A. Autry – 5
+ | H1 = 26–37
+ | H2 = 33–27
+ | place = Dee Events Center – Ogden
+ | attendance = 12,126
+ | referee = Lenny Wirtz, Andre Pattillo, Bob Barnett
+ | TV = CBS
+}}
+
+===Final Four @ Charlotte, North Carolina===
+{{4TeamBracket | RD1=National Semifinals | RD2=National Championship Game | RD1-seed1=E3
+ | RD1-seed
+ | RD1-team1=Florida
+ | RD1-score1=65
+ | RD1-seed2=SE2
+ | RD1-team2='''Duke'''
+ | RD1-score2='''70'''
+ | RD1-seed3=M1
+ | RD1-team3='''Arkansas'''
+ | RD1-score3='''91'''
+ | RD1-seed4=W2
+ | RD1-team4=Arizona
+ | RD1-score4=82
+ | RD2-seed1=SE2
+ | RD2-team1=Duke
+ | RD2-score1=72
+ | RD2-seed2=M1
+ | RD2-team2='''Arkansas'''
+ | RD2-score2='''76'''
+}}
+
+==Broadcast information==
+On television, [[CBS Sports]] covered all 63 games of the tournament, with regional splits until the Regional Finals followed by national telecasts.
+
+Exclusive national radio coverage was provided by [[CBS Radio Sports]].
+
+===CBS announcers===
+*[[James Brown (sportscaster)|James Brown]]/[[Jim Nantz]] and [[Billy Packer]] – Brown/Packer, First & Second Round at Uniondale, New York; Nantz/Packer, Midwest Regional at Dallas, Texas; Final Four at Charlotte, North Carolina
+*[[Dick Stockton]] and [[Al McGuire]] – First & Second Round at Lexington, Kentucky; West Regional at Los Angeles
+*[[Greg Gumbel]] and [[Bill Raftery]] – First & Second Round at Landover, Maryland; Southeast Regional at Knoxville, Tennessee
+*[[Verne Lundquist]] and [[Dan Bonner]]/[[Clark Kellogg]] – Lundquist/Bonner, First & Second Round at St. Petersburg, Florida; Lundquist/Kellogg, East Regional at Miami
+*[[Sean McDonough]] and [[Derrek Dickey]] – First & Second Round at Wichita, Kansas
+*[[Ted Robinson (sportscaster)|Ted Robinson]] and [[Greg Kelser]] – First & Second Round at Oklahoma City
+*[[Tim Ryan (sportscaster)|Tim Ryan]] and [[Ann Meyers]] – First & Second Round at Ogden, Utah
+*[[Dave Sims]] and [[Larry Farmer (basketball coach)|Larry Farmer]] – First & Second Round at Sacramento, California
+
+===CBS Radio Sports announcers===
+*– First & Second Round at Ogden, Utah
+
+===Local announcers===
+{| class=wikitable
+! Region !! Seed !! Team !! Flagship station !! Play-by-play !! Color commentator
+|-
+| '''West''' || || || || ||
+|-
+| West || 12|| [[University of Wisconsin–Green Bay|UW–Green Bay]] || [[WDUZ]]–AM 1400 || ||
+|-
+|}
+
+==See also==
+* [[1994 NCAA Division II Men's Basketball Tournament]]
+* [[1994 NCAA Division III Men's Basketball Tournament]]
+* [[1994 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|1994 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|1994 NCAA Division III Women's Basketball Tournament]]
+* [[1994 National Invitation Tournament]]
+* [[National Women's Invitation Tournament|1994 National Women's Invitation Tournament]]
+* [[1994 NAIA Division I Men's Basketball Tournament]]
+* [[NAIA Men's Basketball Championships#Division II|1994 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|1994 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|1994 NAIA Division II Women's Basketball Tournament]]
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{1994 Arkansas Razorbacks men's basketball navbox}}
+
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:1993–94 NCAA Division I men's basketball season|Ncaa]]
+[[Category:Basketball in the Dallas–Fort Worth metroplex]]

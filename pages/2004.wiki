@@ -1,0 +1,1295 @@
+{{Use mdy dates|date=March 2012}}
+{{Infobox NCAA Basketball Tournament |
+| Year=2004
+| Image=2004FinalFour.png
+| ImageSize=150px
+| Caption=2004 Final Four logo
+| Teams=65
+| FinalFourArena=[[Alamodome]]
+| FinalFourCity=[[San Antonio]], Texas
+| Champions=[[Connecticut Huskies|Connecticut]]
+| TitleCount=2nd
+| ChampGameCount=2nd
+| ChampFFCount=2nd
+| RunnerUp=[[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]]
+| GameCount=1st
+| RunnerFFCount=2nd
+| Semifinal1=[[Duke Blue Devils men's basketball|Duke]]
+| FinalFourCount=14th
+| Semifinal2=[[Oklahoma State Cowboys|Oklahoma State]]
+| FinalFourCount2=6th
+| Coach=[[Jim Calhoun]]
+| CoachCount=2nd
+| MOP=[[Emeka Okafor]]
+| MOPTeam=Connecticut
+| Attendance=716,899
+| OneTopScorer=*
+| TwoTopScorers=
+| TopScorer=[[Ben Gordon (basketball)|Ben Gordon]]
+| TopScorerTeam=Connecticut
+| Points=154
+}}
+The '''2004 [[NCAA Division I Men's Basketball Tournament]]''' involved 65 schools playing in [[Single-elimination tournament|single-elimination]] play to determine the national champion of men's  [[NCAA Division I]] [[college basketball]]. It began on March 16, 2004, and ended with the championship game on April 5 at the [[Alamodome]] in [[San Antonio]], Texas. A total of 64 games were played.
+
+The NCAA named, for the first time, the four tournament regions after regional site host cities instead of the "East", "Midwest", "South", and "West" designations. It was also the first year that the matchups for the national semifinals were determined at least in part by the overall seeding of the top team in each regional. The top four teams in the tournament were [[University of Kentucky|Kentucky]], [[Duke University|Duke]], [[Stanford University|Stanford]], and [[Saint Joseph's University|Saint Joseph's]]. Had all of those teams advanced to the Final Four, Kentucky would have played Saint Joseph's and Duke would have played Stanford in the semifinal games.
+
+Of those teams, only Duke advanced to the Final Four. They were joined by [[Connecticut Huskies men's basketball|Connecticut]], making their first appearance since defeating Duke for the national championship in 1999, [[Oklahoma State Cowboys men's basketball|Oklahoma State]], making their first appearance since 1995, and [[Georgia Tech Yellow Jackets men's basketball|Georgia Tech]], making their first appearance since 1990.
+
+Connecticut defeated Georgia Tech 82-73 to win their second national championship in as many tries. [[Emeka Okafor]] of Connecticut was named the tournament's [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]].
+
+As they had in 1999, Connecticut won their regional championship in [[Phoenix, Arizona]].
+
+Two of the tournament's top seeds failed to make it past the opening weekend. Kentucky, number one seed of the St. Louis region, and Stanford, #1 seed of the Phoenix region, both were defeated. Incidentally, both teams were defeated by schools from Alabama, as Kentucky fell to UAB while Stanford lost to Alabama.
+
+Due to their strong 2003-04 season, [[Gonzaga Bulldogs men's basketball|Gonzaga]] achieved its highest NCAA tournament seed until 2013 by receiving the #2 seed in the St. Louis region. Gonzaga would receive a #1 seed in the 2013 tournament. The team failed to advance beyond the first weekend of the tournament, however.
+
+==Locations==
+The following were the sites that hosted rounds during the 2004 tournament:
+
+{{Location map+|USA|width=450|float=right|caption=2004 first and second rounds (note: the play-in game was held in Dayton, Ohio)|places= 
+{{Location map~|USA|mark=green pog.svg|lat_deg=47.606209|lon_deg=-122.332071|position=left|background=#FFFFFF|label=Seattle|link=KeyArena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.738436|lon_deg=-104.984859|position=left|background=#FFFFFF|label=Denver|link=Pepsi Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.114053|lon_deg=-94.627464|position=left|background=#FFFFFF|label=Kansas City|link=Kemper Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.038902|lon_deg=-87.906474|position=left|background=#FFFFFF|label=Milwaukee|link=BMO Harris Bradley Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.961176|lon_deg=-82.998794|position=bottom|background=#FFFFFF|label=Columbus|link=Nationwide Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.886447|lon_deg=-78.878369|position=left|background=#FFFFFF|label=Buffalo|link=First Niagara Center|HSBC Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.779590|lon_deg=-78.638179|position=bottom|background=#FFFFFF|label=Raleigh|link=PNC Arena|RBC Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=28.538335|lon_deg=-81.379236|position=left|background=#FFFFFF|label=Orlando|link=Amway Arena|TD Waterhouse Centre}}
+}}
+
+{{Location map+|USA|width=450|float=right|caption=2004 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.448377|lon_deg=-112.074037|position=left|background=#FFFFFF|label=Phoenix|link=US Airways Center|America West Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.627003|lon_deg=-90.199404|position=bottom|background=#FFFFFF|label=St. Louis|link=Edward Jones Dome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=left|background=#FFFFFF|label=Atlanta|link=Georgia Dome}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=40.833989|lon_deg=-74.097086|position=left|background=#FFFFFF|label=East Rutherford|link=Carrier Dome}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=29.424122|lon_deg=-98.493628|position=left|background=#FFFFFF|label=San Antonio|link=Alamodome}}
+}}
+
+===Opening round===
+
+;March 16:
+:[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+===First and second rounds===
+
+;March 18 and 20:
+:[[KeyBank Center|HSBC Arena]], [[Buffalo, New York]] (Hosts: [[Canisius College]] and [[Niagara University]])
+:[[KeyArena]], [[Seattle|Seattle, Washington]] (Host: [[University of Washington]])
+:[[Pepsi Center]], [[Denver|Denver, Colorado]] (Hosts: [[Colorado State University]] and [[Mountain West Conference]])
+:[[PNC Arena|RBC Center]], [[Raleigh, North Carolina]] (Host: [[North Carolina State University]])
+
+;March 19 and 21:
+:[[Bradley Center]], [[Milwaukee|Milwaukee, Wisconsin]] (Host: [[Marquette University]])
+:[[Kemper Arena]], [[Kansas City, Missouri]] (Host: [[Big 12 Conference]])
+:[[Nationwide Arena]], [[Columbus, Ohio]] (Host: [[Ohio State University]])
+:[[Amway Arena|TD Waterhouse Centre]], [[Orlando, Florida]] (Host: [[Stetson University]])
+
+===Regionals===
+
+;March 25 and 27:
+:'''East Rutherford Regional''', [[Meadowlands Arena|Continental Airlines Arena]], [[East Rutherford, New Jersey]] (Host: [[Rutgers University]])
+:'''Phoenix Regional''', [[Talking Stick Resort Arena|America West Arena]], [[Phoenix, Arizona]] (Host: [[Arizona State University]])
+;March 26 and 28:
+:'''Atlanta Regional''', [[Georgia Dome]], [[Atlanta|Atlanta, Georgia]] (Host: [[Georgia Institute of Technology]])
+:'''St. Louis Regional''', [[The Dome at America's Center|Edward Jones Dome]], [[St. Louis|St. Louis, Missouri]] (Host: [[Missouri Valley Conference]])
+
+===Final four===
+
+;April 3 and 5:
+:[[Alamodome]], [[San Antonio|San Antonio, Texas]] (Host: [[University of Texas at San Antonio]])
+
+San Antonio and the Alamodome became the hosts of the Final Four for the second time in 2004. There were no new host cities in this tournament but there were three new venues. For the first time since 1970, the tournament returned to Columbus, Ohio, this time at Nationwide Arena, home to the [[National Hockey League|NHL's]] [[Columbus Blue Jackets]] and sister venue to the [[Value City Arena]] on the campus of [[Ohio State University]]. After a shorter absence of only five years, basketball returned to the Mile High City at the Pepsi Center, home to the [[National Basketball Association|NBA's]] [[Denver Nuggets]] and the NHL's [[Colorado Avalanche]]. And for the first time since 1982, the tournament returned to Raleigh, North Carolina at the RBC Center, the off-campus home to the [[NC State Wolfpack men's basketball|NC State Wolfpack]], which replaced the [[Reynolds Coliseum]], NC State's former basketball arena and the former site of tournament games in the city. This was the last tournament to feature games held at Kemper Arena and the TD Waterhouse Centre; both have been replaced in their respective cities by the [[Sprint Center]] and [[Amway Center]], both of which have hosted games since.
+
+==Qualifying teams==
+
+{| class="wikitable"
+! colspan="6" style="background:#ffdead;" | East Rutherford Region
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type
+|-
+|#1
+| [[Saint Joseph's University|St. Joseph's]]
+| [[Phil Martelli]]
+| [[Atlantic 10]]
+| 27–1
+| At-Large Bid
+|-
+|#2
+| [[Oklahoma State Cowboys|Oklahoma State]]
+| [[Eddie Sutton]]
+| [[Big 12]]
+| 30–3
+| [[2004 Big 12 Men's Basketball Tournament|Tournament Champion]]
+|-
+|#3
+| [[Pittsburgh Panthers basketball|Pittsburgh]]
+| [[Jamie Dixon]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 29–4
+| At-Large Bid
+|-
+|#4
+| [[Wake Forest University|Wake Forest]]
+| [[Skip Prosser]]
+| [[Atlantic Coast Conference|ACC]]
+| 19–9
+| At-Large Bid
+|-
+|#5
+| [[Florida Gators|Florida]]
+| [[Billy Donovan]]
+| [[Southeastern Conference|SEC]]
+| 20–10
+| At-Large Bid
+|-
+|#6
+| [[Wisconsin Badgers|Wisconsin]]
+| [[Bo Ryan]]
+| [[Big Ten]]
+| 24–6
+| [[2004 Big Ten Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|#7
+| [[Memphis Tigers men's basketball|Memphis]]
+| [[John Calipari]]
+| [[Conference USA|C-USA]] 
+| 21–7
+| At-Large Bid
+|-
+|#8
+| [[Texas Tech University|Texas Tech]]
+| [[Bob Knight]]
+| [[Big 12]]
+| 23–11
+| At-Large Bid
+|-
+|#9
+| [[University of North Carolina at Charlotte|UNC Charlotte]]
+| [[Bobby Lutz (basketball)|Bobby Lutz]]
+| [[Conference USA|C-USA]]
+| 21–8
+| At-Large Bid
+|-
+|#10
+| [[University of South Carolina|South Carolina]]
+| [[Dave Odom]]
+| [[Southeastern Conference|SEC]]
+| 23–10
+| At-Large Bid
+|-
+|#11
+| [[University of Richmond|Richmond]]
+| [[Jerry Wainwright]]
+| [[Atlantic 10]]
+| 20–12
+| At-Large Bid
+|-
+|#12
+| [[Manhattan College|Manhattan]]
+| [[Bobby Gonzalez]]
+| [[Metro Atlantic Athletic Conference|MAAC]]
+| 24–5
+| Tournament Champion
+|-
+|#13
+| [[Virginia Commonwealth University|VCU]]
+| [[Jeff Capel]]
+| [[Colonial Athletic Association|CAA]]
+| 23–7
+| Tournament Champion
+|-
+|#14
+| [[University of Central Florida|Central Florida]]
+| [[Kirk Speraw]]
+| [[Atlantic Sun]]
+| 24–5
+| Tournament Champion
+|-
+|#15
+| [[Eastern Washington University|Eastern Washington]]
+| [[Ray Giacoletti]]
+| [[Big Sky Conference|Big Sky]]
+| 16–12
+| Tournament Champion
+|-
+|#16
+| [[Liberty University|Liberty]]
+| [[Randy Dunton]]
+| [[Big South]]
+| 17–14
+| Tournament Champion
+|-
+|}
+
+{| class="wikitable"
+! colspan="6" style="background:#ffdead;" | St. Louis Region
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type
+|-
+|#1
+| [[Kentucky Wildcats|Kentucky]]
+| [[Tubby Smith]]
+| [[Southeastern Conference|SEC]]
+| 26–4
+| Tournament Champion
+|-
+|#2
+| [[Gonzaga Bulldogs|Gonzaga]]
+| [[Mark Few]]
+| [[West Coast Conference|WCC]]
+| 27–2
+| Tournament Champion
+|-
+|#3
+| [[Georgia Tech Yellow Jackets basketball|Georgia Tech]] 
+| [[Paul Hewitt]]
+| [[Atlantic Coast Conference|ACC]]
+| 23–9
+| At-Large Bid
+|-
+|#4
+| [[Kansas Jayhawks basketball|Kansas]]
+| [[Bill Self]]
+| [[Big 12]]
+| 22–9
+| At-Large Bid
+|-
+|#5
+| [[Providence College|Providence]]
+| [[Tim Welsh]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 20–8
+| At-Large Bid
+|-
+|#6
+| [[Boston College Eagles basketball|Boston College]]
+| [[Al Skinner]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 23–9
+| At-Large Bid
+|-
+|#7
+| [[Michigan State Spartans|Michigan State]]
+| [[Tom Izzo]]
+| [[Big Ten]]
+| 18–11
+| At-Large Bid
+|-
+|#8
+| [[Washington Huskies|Washington]]
+| [[Lorenzo Romar]]
+| [[Pac-10]]
+| 19–11
+| At-Large Bid
+|-
+|#9
+| [[UAB Blazers|UAB]]
+| [[Mike Anderson (basketball)|Mike Anderson]]
+| [[Conference USA|C-USA]]
+| 20–9
+| At-Large Bid
+|-
+|#10
+| [[University of Nevada, Reno|Nevada]]
+| [[Trent Johnson]]
+| [[Western Athletic Conference|WAC]]
+| 22–8
+| Tournament Champion
+|-
+|#11
+| [[Utah Utes|Utah]]
+| [[Kerry Rupp]]
+| [[Mountain West]]
+| 24–8
+| Tournament Champion
+|-
+|#12
+| [[University of the Pacific (United States)|Pacific]]
+| [[Bob Thomason]]
+| [[Big West]]
+| 23–7
+| Tournament Champion
+|-
+|#13
+| [[University of Illinois at Chicago|UIC]]
+| [[Jimmy Collins (basketball)|Jimmy Collins]]
+| [[Horizon League|Horizon]]
+| 24–7
+| Tournament Champion
+|-
+|#14
+| [[Northern Iowa Panthers|Northern Iowa]]
+| [[Greg McDermott]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 20–9
+| Tournament Champion
+|-
+|#15
+| [[Valparaiso University|Valparaiso]]
+| [[Homer Drew]]
+| [[The Summit League|Mid-Continent]]
+| 17–12
+| Tournament Champion
+|-
+|rowspan=2|#16
+| [[Florida A&M University|Florida A&M]]
+| [[Mike Gillespie (basketball coach)|Mike Gillespie]]
+| [[Mid-Eastern Athletic Conference|MEAC]]
+| 14–16
+| Tournament Champion
+|-
+| [[Lehigh Mountain Hawks|Lehigh]]
+| [[Billy Taylor (basketball coach)|Billy Taylor]]
+| [[Patriot League|Patriot]]
+| 18–10
+| Tournament Champion
+|-
+|}
+
+{| class="wikitable"
+! colspan="6" style="background:#ffdead;" | Atlanta Region
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type
+|-
+|#1
+| [[Duke Blue Devils men's basketball|Duke]]
+| [[Mike Krzyzewski]]
+| [[Atlantic Coast Conference|ACC]]
+| 27–5
+| At-Large Bid
+|-
+|#2
+| [[Mississippi State University|Mississippi State]]
+| [[Rick Stansbury]]
+| [[Southeastern Conference|SEC]]
+| 25–3
+| At-Large Bid
+|-
+|#3
+| [[Texas Longhorns men's basketball|Texas]]
+| [[Rick Barnes]]
+| [[Big 12]]
+| 25–8
+| At-Large Bid
+|-
+|#4
+| [[Cincinnati Bearcats|Cincinnati]]
+| [[Bob Huggins]]
+| [[Conference USA|C-USA]]
+| 24–6
+| Tournament Champion
+|-
+|#5
+| [[Illinois Fighting Illini|Illinois]]
+| [[Bruce Weber (coach)|Bruce Weber]]
+| [[Big Ten]]
+| 24–6
+| At-Large Bid
+|-
+|#6
+| [[North Carolina Tar Heels men's basketball|North Carolina]]
+| [[Roy Williams (coach)|Roy Williams]]
+| [[Atlantic Coast Conference|ACC]]
+| 18–10
+| At-Large Bid
+|-
+|#7
+| [[Xavier University (Cincinnati)|Xavier]]
+| [[Thad Matta]]
+| [[Atlantic 10]]
+| 23–10
+| Tournament Champion
+|-
+|#8
+| [[Seton Hall University|Seton Hall]]
+| [[Louis Orr]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 19–9
+| At-Large Bid
+|-
+|#9
+| [[Arizona Wildcats|Arizona]]
+| [[Lute Olson]]
+| [[Pac-10]]
+| 20–9
+| At-Large Bid
+|-
+|#10
+| [[Louisville Cardinals basketball|Louisville]]
+| [[Rick Pitino]]
+| [[Conference USA|C-USA]]
+| 20–9
+| At-Large Bid
+|-
+|#11
+| [[United States Air Force Academy|Air Force]]
+| [[Joe Scott (basketball)|Joe Scott]]
+| [[Mountain West]]
+| 22–6
+| At-Large Bid
+|-
+|#12
+| [[Murray State University|Murray State]]
+| [[Mick Cronin (basketball coach)|Mick Cronin]]
+| [[Ohio Valley Conference|Ohio Valley]]
+| 25–5
+| Tournament Champion
+|-
+|#13
+| [[East Tennessee State University|East Tennessee State]]
+| [[Murry Bartow]]
+| [[Southern Conference|SoCon]]
+| 24–5
+| Tournament Champion
+|-
+|#14
+| [[Princeton University|Princeton]]
+| [[John Thompson III]]
+| [[Ivy League|Ivy]]
+| 19–7
+| Regular Season Champion
+|-
+|#15
+| [[Monmouth University|Monmouth]]
+| [[Dave Calloway]]
+| [[Northeast Conference|Northeast]]
+| 21–11
+| Tournament Champion
+|-
+|#16
+| [[Alabama State University|Alabama State]]
+| [[Rob Spivery]]
+| [[Southwestern Athletic Conference|SWAC]]
+| 16–14
+| Tournament Champion
+|-
+|}
+
+{| class="wikitable"
+! colspan="6" style="background:#ffdead;" | Phoenix Region
+|-
+!style="background: #e3e3e3;"|Seed
+!style="background: #e3e3e3;"|School
+!style="background: #e3e3e3;"|Coach
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Berth Type
+|-
+|#1
+| [[Stanford Cardinal|Stanford]]
+| [[Mike Montgomery]]
+| [[Pac-10]]
+| 29–1
+| [[2004 Pacific-10 Conference Men's Basketball Tournament|Tournament Champion]]
+|-
+|#2
+| [[Connecticut Huskies|Connecticut]]
+| [[Jim Calhoun]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 27–6
+| [[2004 Big East Men's Basketball Tournament|Tournament Champion]]
+|-
+|#3
+| [[NC State Wolfpack basketball|North Carolina State]]
+| [[Herb Sendek]]
+| [[Atlantic Coast Conference|ACC]]
+| 20–9
+| At-Large Bid
+|-
+|#4
+| [[Maryland Terrapins|Maryland]]
+| [[Gary Williams (basketball)|Gary Williams]]
+| [[Atlantic Coast Conference|ACC]]
+| 19–11
+| [[2004 ACC Men's Basketball Tournament|Tournament Champion]]
+|-
+|#5
+| [[Syracuse Orange|Syracuse]]
+| [[Jim Boeheim]]
+| [[Big East Conference (1979–2013)|Big East]]
+| 21–7
+| At-Large Bid
+|-
+|#6
+| [[Vanderbilt Commodores basketball|Vanderbilt]]
+| [[Kevin Stallings]]
+| [[Southeastern Conference|SEC]]
+| 21–9
+| At-Large Bid
+|-
+|#7
+| [[DePaul University|DePaul]]
+| [[Dave Leitao]]
+| [[Conference USA|C-USA]]
+| 21–9
+| At-Large Bid
+|-
+|#8
+| [[Alabama Crimson Tide basketball|Alabama]]
+| [[Mark Gottfried]]
+| [[Southeastern Conference|SEC]]
+| 17–12
+| At-Large Bid
+|-
+|#9
+| [[Southern Illinois University Carbondale|Southern Illinois]]
+| [[Matt Painter]]
+| [[Missouri Valley Conference|Missouri Valley]]
+| 25–4
+| At-Large Bid
+|-
+|#10
+| [[Dayton Flyers|Dayton]]
+| [[Brian Gregory]]
+| [[Atlantic 10]]
+| 24–8
+| At-Large Bid
+|-
+|#11
+| [[Western Michigan Broncos|Western Michigan]]
+| [[Steve Hawkins]]
+| [[Mid-American Conference|Mid-American]]
+| 26–4
+| Tournament Champion
+|-
+|#12
+| [[BYU Cougars men's basketball|BYU]]
+| [[Steve Cleveland]]
+| [[Mountain West]]
+| 19–8
+| At-Large Bid
+|-
+|#13
+| [[UTEP]]
+| [[Billy Gillispie]]
+| [[Western Athletic Conference|WAC]]
+| 22–7
+| At-Large Bid
+|-
+|#14
+| [[Louisiana–Lafayette Ragin' Cajuns men's basketball|Louisiana-Lafayette]] (Vacated)
+| [[Jessie Evans (basketball)|Jessie Evans]]
+| [[Sun Belt Conference|Sun Belt]]
+| 18–8
+| Tournament Champion
+|-
+|#15
+| [[University of Vermont|Vermont]]
+| [[Tom Brennan (basketball coach)|Tom Brennan]]
+| [[America East Conference|America East]]
+| 22–8
+| Tournament Champion
+|-
+|#16
+| [[University of Texas at San Antonio|Texas-San Antonio]]
+| [[Tim Carter (basketball coach)|Tim Carter]]
+| [[Southland Conference|Southland]]
+| 16–12
+| Tournament Champion
+|-
+|}
+
+==Bids by conference==
+{| class="wikitable"
+! colspan="5" style="background:#ffdead;" | Bids by Conference
+|-
+!style="background: #e3e3e3;"|Bids
+!style="background: #e3e3e3;"|Conference
+|-
+| 6
+| [[Atlantic Coast Conference|ACC]], [[Big East Conference (1979–2013)|Big East]], [[Conference USA|C-USA]], [[Southeastern Conference|SEC]]
+|-
+| 4
+| [[Atlantic 10]], [[Big 12]]
+|-
+| 3
+| [[Big Ten]], [[Mountain West]], [[Pac-10]]
+|-
+| 2
+| [[Missouri Valley Conference|Missouri Valley]], [[Western Athletic Conference|WAC]] 
+|-
+| 1
+| 20 others
+|}
+
+==Record by conference==
+{|class="wikitable sortable"
+|-
+!style="background: #e3e3e3;"|Conference
+!style="background: #e3e3e3;"|# of Bids
+!style="background: #e3e3e3;"|Record
+!style="background: #e3e3e3;"|Win %
+!style="background: #e3e3e3;"|R32
+!style="background: #e3e3e3;"|S16
+!style="background: #e3e3e3;"|E8
+!style="background: #e3e3e3;"|F4
+!style="background: #e3e3e3;"|CG
+|- align="center"
+|align="left"| [[Big East Conference (1979–2013)|Big East]]
+| 6
+| 12–5
+| .706
+| 5
+| 3
+| 1
+| 1
+| 1
+|- align="center"
+|align="left"| [[Southeastern Conference|SEC]]
+| 6
+| 7–6
+| .538
+| 4
+| 2
+| 1
+| –
+| –
+|- align="center"
+|align="left"| [[Big Ten]]
+| 3
+| 3–3
+| .500
+| 2
+| 1
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Atlantic Coast Conference|ACC]]
+| 6
+| 14–6
+| .700
+| 6
+| 3
+| 2
+| 2
+| 1
+|- align="center"
+|align="left"| [[Big 12]]
+| 4
+| 10–4
+| .714
+| 4
+| 3
+| 2
+| 1
+| –
+|- align="center"
+|align="left"| [[Pac-10]]
+| 3
+| 1–3
+| .250
+| 1
+| –
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Missouri Valley Conference|Missouri Valley]]
+| 2
+| 0–2
+| .000
+| –
+| –
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Atlantic 10]]
+| 4
+| 6–4
+| .600
+| 2
+| 2
+| 2
+| –
+| –
+|- align="center"
+|align="left"| [[Conference USA|C–USA]]
+| 6
+| 5–6
+| .455
+| 4
+| 1
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Mountain West Conference|MWC]]
+| 3
+| 0–3
+| .000
+| –
+| –
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Western Athletic Conference|WAC]]
+| 2
+| 2–2
+| .500
+| 1
+| 1
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Metro Atlantic Athletic Conference|MAAC]]
+| 1
+| 1–1
+| .500
+| 1
+| –
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[West Coast Conference|WCC]]
+| 1
+| 1–1
+| .500
+| 1
+| –
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Big West]]
+| 1
+| 1–1
+| .500
+| 1
+| data-sort-value="0" | –
+| –
+| –
+| –
+|- align="center"
+|align="left"| [[Mid-Eastern Athletic Conference|MEAC]]
+| 1
+| 1–1*
+| .500
+| –
+| –
+| –
+| –
+| –
+|}
+
+<nowiki>*</nowiki>[[Florida A&M University]] won the Opening Round game.
+
+The [[America East Conference|America East]], [[Atlantic Sun Conference|Atlantic Sun]], [[Big Sky Conference|Big Sky]], [[Big South Conference|Big South]], [[Colonial Athletic Association|CAA]], [[Horizon League]], [[The Summit League|Mid-Continent]], [[Ivy League|Ivy]], [[Mid-American Conference|MAC]], [[Mid–Eastern Athletic Conference|MEAC]], [[Northeast Conference|Northeast]], [[Ohio Valley Conference|Ohio Valley]], [[Patriot League|Patriot]], [[Southern Conference|SoCon]], [[Southland Conference|Southland]], [[Southwestern Athletic Conference|SWAC]], and [[Sun Belt Conference|Sun Belt]] conferences all went 0–1.
+
+The columns R32, S16, E8, F4, and CG respectively stand for the Round of 32, Sweet Sixteen, Elite Eight, Final Four, and Championship Game.
+
+==Final four==
+[[File:Alamo Dome CIMG7791.JPG|thumb|200px|The [[Alamodome]] was host of the Final Four and National Championship in 2004.]]
+At [[Alamodome]], [[San Antonio]], Texas
+
+===National Semifinals===
+*April 3, 2004
+**[[University of Connecticut|Connecticut]] (W2) 79, [[Duke University|Duke]] (S1) 78
+*:With the [[University of Connecticut|Connecticut Huskies]] trailing by 8 points with less than 3 minutes to go, it looked as if the [[Duke University|Duke Blue Devils]] were going to spoil [[Jim Calhoun]]'s chance at a second national title. Connecticut's All-American center [[Emeka Okafor]] was limited to just 22 minutes because of early foul trouble, but he came up clutch with several big plays down the stretch and finished with 18 points and only 3 fouls. By contrast, all three of Duke's centers fouled out, including [[Shelden Williams]], who committed his fifth foul with 3:04 to play. In addition, Duke went without a field goal for the last 4½ minutes until [[Chris Duhon]]'s meaningless three-pointer at the buzzer. Duke coach [[Mike Krzyzewski]] was denied his 65th NCAA Tournament victory which would have tied him with [[Dean Smith]] for the all-time record. He later broke that record.<ref name="CNNSI4.3-1">{{cite news|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/ncaa/men/recaps/2004/04/03/10225_recap.html|title=2004 NCAA National Semifinals: (W2) Connecticut 79, (S1) Duke 78|accessdate=March 6, 2008}}</ref>
+**[[Georgia Institute of Technology|Georgia Tech]] (M3) 67, [[Oklahoma State University – Stillwater|Oklahoma State]] (E2) 65
+*:[[Will Bynum]]'s layup in the final moments kept the [[Georgia Institute of Technology|Georgia Tech Yellow Jackets]] dream for a National Championship alive as they defeated the [[Oklahoma State University – Stillwater|Oklahoma State Cowboys]], in a nail-biter, in the first of the National Semifinal doubleheader. Georgia Tech led for most of the game including a seven-point edge at halftime. However, Oklahoma State was able to tie the game on [[John Lucas III|John Lucas]]'s three-pointer with 26.3 seconds left. Georgia Tech then milked the clock which set up Bynum's game-winner. Georgia Tech advanced to their first ever National Championship appearance. Oklahoma State coach [[Eddie Sutton]] was denied yet another chance at an elusive national title.<ref name="CNNSI4.3-2">{{cite news|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/basketball/ncaa/men/recaps/2004/04/03/10224_recap.html|title=2004 NCAA National Semifinals: (MW3) Georgia Tech 67, (E2) Oklahoma State 65|accessdate=March 6, 2008}}</ref>
+
+===National Championship Game===
+*April 5, 2004
+**[[University of Connecticut|Connecticut]] (W2) 82, [[Georgia Institute of Technology|Georgia Tech]] (M3) 73
+*:The 2004 National Championship Game proved to be a coronation for the Connecticut Huskies as they handled [[Paul Hewitt]]'s Georgia Tech Yellow Jackets. Emeka Okafor led Connecticut with 24 points and was an easy choice for [[NCAA Basketball Tournament Most Outstanding Player|Most Outstanding Player]] of the tournament. Guard [[Ben Gordon (basketball)|Ben Gordon]] added 21 points to Connecticut's cause. The victory gave Connecticut coach Jim Calhoun his second National Championship ([[1999 NCAA Men's Division I Basketball Tournament|1999]]).<ref name="CNNSI4.5">{{cite news|author=[[CNN Sports Illustrated]]|publisher=CNNSI.com|url=http://sportsillustrated.cnn.com/2004/basketball/ncaa/specials/ncaa_tourney/2004/04/05/ncaa.championship/index.html|title=2004 NCAA National Championship: (W2) Connecticut 82, (MW3) Georgia Tech 73|accessdate=March 6, 2008 | date=April 6, 2004}}</ref>
+
+==Bracket==
+===Opening round===
+{{2TeamBracket | RD1=Opening Round Game<br />March 16
+| RD1-seed1=16a
+| RD1-team1='''{{cbb link|2003|team=Florida A&M Rattlers|school=Florida A&M University|title=Florida A&M}}'''
+| RD1-score1='''72'''
+| RD1-seed2=16b
+| RD1-team2={{cbb link|2003|team=Lehigh Mountain Hawks|school=Lehigh University|title=Lehigh}}
+| RD1-score2=57
+}}
+
+===East Rutherford Regional===
+{{16TeamBracket | RD1=First round<br />March 18–19
+| RD2=Second round<br />March 20–21
+| RD3=Regional semifinals<br />March 25
+| RD4=Regional finals<br />March 27
+| subgroup1='''[[HSBC Arena (Buffalo)|Buffalo]]'''
+| subgroup2='''[[RBC Center|Raleigh]]'''
+| subgroup3='''[[Bradley Center|Milwaukee]]'''
+| subgroup4='''[[Kemper Arena|Kansas City]]'''
+| RD1-team01='''[[Saint Joseph's University|Saint Joseph's]]'''
+| RD1-team02=[[Liberty University|Liberty]]
+| RD1-score01='''82'''
+| RD1-score02=63
+| RD1-team03='''[[Texas Tech University|Texas Tech]]'''
+| RD1-team04=[[University of North Carolina at Charlotte|Charlotte]]
+| RD1-score03='''76'''
+| RD1-score04=73
+| RD1-team05=[[Florida Gators|Florida]]
+| RD1-team06='''[[Manhattan College|Manhattan]]'''
+| RD1-score05=60
+| RD1-score06='''75'''
+| RD1-team07='''[[Wake Forest University|Wake Forest]]'''
+| RD1-team08=[[Virginia Commonwealth University|VCU]]
+| RD1-score07='''79'''
+| RD1-score08=78
+| RD1-team09='''[[Wisconsin Badgers|Wisconsin]]'''
+| RD1-team10=[[University of Richmond|Richmond]]
+| RD1-score09='''76'''
+| RD1-score10=64
+| RD1-team11='''[[Pittsburgh Panthers basketball|Pittsburgh]]'''
+| RD1-team12=[[University of Central Florida|Central Florida]]
+| RD1-score11='''53'''
+| RD1-score12=44
+| RD1-team13='''[[Memphis Tigers men's basketball|Memphis]]'''
+| RD1-team14=[[University of South Carolina|South Carolina]]
+| RD1-score13='''59'''
+| RD1-score14=43
+| RD1-team15='''[[Oklahoma State Cowboys|Oklahoma State]]'''
+| RD1-team16=[[Eastern Washington University|Eastern Washington]]
+| RD1-score15='''75'''
+| RD1-score16=56
+| RD2-seed01=1
+| RD2-team01='''Saint Joseph's'''
+| RD2-seed02=8
+| RD2-team02=Texas Tech
+| RD2-score01='''70'''
+| RD2-score02=65
+| RD2-seed03=12
+| RD2-team03=Manhattan
+| RD2-seed04=4
+| RD2-team04='''Wake Forest'''
+| RD2-score03=80
+| RD2-score04='''84'''
+| RD2-seed05=6
+| RD2-team05=Wisconsin
+| RD2-seed06=3
+| RD2-team06='''Pittsburgh'''
+| RD2-score05=55
+| RD2-score06='''59'''
+| RD2-seed07=7
+| RD2-team07=Memphis
+| RD2-seed08=2
+| RD2-team08='''Oklahoma State'''
+| RD2-score07=53
+| RD2-score08='''70'''
+| RD3-seed01=1
+| RD3-team01='''Saint Joseph's'''
+| RD3-seed02=4
+| RD3-team02=Wake Forest
+| RD3-score01='''84'''
+| RD3-score02=80
+| RD3-seed03=3
+| RD3-team03=Pittsburgh
+| RD3-seed04=2
+| RD3-team04='''Oklahoma State'''
+| RD3-score03=51
+| RD3-score04='''63'''
+| RD4-seed01=1
+| RD4-team01=Saint Joseph's
+| RD4-seed02=2
+| RD4-team02='''Oklahoma State'''
+| RD4-score01=62
+| RD4-score02='''64'''
+}}
+
+===St. Louis Regional===
+{{16TeamBracket | RD1=First round<br />March 18–19
+| RD2=Second round<br />March 20–21
+| RD3=Regional semifinals<br />March 26
+| RD4=Regional finals<br />March 28
+| subgroup1='''[[Nationwide Arena|Columbus]]'''
+| subgroup2='''[[Kemper Arena|Kansas City]]'''
+| subgroup3='''[[Bradley Center|Milwaukee]]'''
+| subgroup4='''[[KeyArena|Seattle]]'''
+| RD1-team01='''[[Kentucky Wildcats|Kentucky]]'''
+| RD1-team02=[[Florida A&M University|Florida A&M]]
+| RD1-score01='''96'''
+| RD1-score02=76
+| RD1-team03=[[Washington Huskies|Washington]]
+| RD1-team04='''[[UAB Blazers|UAB]]'''
+| RD1-score03=100
+| RD1-score04='''102'''
+| RD1-team05=[[Providence College|Providence]]
+| RD1-team06='''[[University of the Pacific (United States)|Pacific]]'''
+| RD1-score05=58
+| RD1-score06='''66'''
+| RD1-team07='''[[Kansas Jayhawks basketball|Kansas]]'''
+| RD1-team08=[[University of Illinois at Chicago|UIC]]
+| RD1-score07='''78'''
+| RD1-score08=53
+| RD1-team09='''[[Boston College Eagles basketball|Boston College]]'''
+| RD1-team10=[[Utah Utes|Utah]]
+| RD1-score09='''58'''
+| RD1-score10=51
+| RD1-team11='''[[Georgia Tech Yellow Jackets basketball|Georgia Tech]]'''
+| RD1-team12=[[Northern Iowa Panthers|Northern Iowa]]
+| RD1-score11='''65'''
+| RD1-score12=60
+| RD1-team13=[[Michigan State Spartans|Michigan State]]
+| RD1-team14='''[[University of Nevada, Reno|Nevada]]'''
+| RD1-score13=66
+| RD1-score14='''72'''
+| RD1-team15='''[[Gonzaga Bulldogs|Gonzaga]]'''
+| RD1-team16=[[Valparaiso Crusaders|Valparaiso]]
+| RD1-score15='''76'''
+| RD1-score16=49
+| RD2-seed01=1
+| RD2-team01=Kentucky
+| RD2-seed02=9
+| RD2-team02='''UAB'''
+| RD2-score01=75
+| RD2-score02='''76'''
+| RD2-seed03=12
+| RD2-team03=Pacific
+| RD2-seed04=4
+| RD2-team04='''Kansas'''
+| RD2-score03=63
+| RD2-score04='''78'''
+| RD2-seed05=6
+| RD2-team05=Boston College
+| RD2-seed06=3
+| RD2-team06='''Georgia Tech'''
+| RD2-score05=54
+| RD2-score06='''57'''
+| RD2-seed07=10
+| RD2-team07='''Nevada'''
+| RD2-seed08=2
+| RD2-team08=Gonzaga
+| RD2-score07='''91'''
+| RD2-score08=72
+| RD3-seed01=9
+| RD3-team01=UAB
+| RD3-seed02=4
+| RD3-team02='''Kansas'''
+| RD3-score01=74
+| RD3-score02='''100'''
+| RD3-seed03=3
+| RD3-team03='''Georgia Tech'''
+| RD3-seed04=10
+| RD3-team04=Nevada
+| RD3-score03='''72'''
+| RD3-score04=67
+| RD4-seed01=4
+| RD4-team01=Kansas
+| RD4-seed02=3
+| RD4-team02='''Georgia Tech'''
+| RD4-score01=71
+| RD4-score02='''79*'''
+}}
+
+===Atlanta Regional===
+{{16TeamBracket | RD1=First round<br />March 18–19
+| RD2=Second round<br />March 20–21
+| RD3=Regional semifinals<br />March 26
+| RD4=Regional finals<br />March 28
+| subgroup1='''[[RBC Center|Raleigh]]'''
+| subgroup2='''[[Nationwide Arena|Columbus]]'''
+| subgroup3='''[[Pepsi Center|Denver]]'''
+| subgroup4='''[[TD Waterhouse Centre|Orlando]]'''
+| RD1-team01='''[[Duke Blue Devils men's basketball|Duke]]'''
+| RD1-team02=[[Alabama State University|Alabama State]]
+| RD1-score01='''96'''
+| RD1-score02=61
+| RD1-team03='''[[Seton Hall University|Seton Hall]]'''
+| RD1-team04=[[Arizona Wildcats|Arizona]]
+| RD1-score03='''80'''
+| RD1-score04=76
+| RD1-team05='''[[Illinois Fighting Illini|Illinois]]'''
+| RD1-team06=[[Murray State University|Murray State]]
+| RD1-score05='''72'''
+| RD1-score06=53
+| RD1-team07='''[[Cincinnati Bearcats|Cincinnati]]'''
+| RD1-team08=[[East Tennessee State University|East Tennessee State]]
+| RD1-score07='''80'''
+| RD1-score08=77
+| RD1-team09='''[[North Carolina Tar Heels men's basketball|North Carolina]]'''
+| RD1-team10=[[United States Air Force Academy|Air Force]]
+| RD1-score09='''63'''
+| RD1-score10=52
+| RD1-team11='''[[Texas Longhorns men's basketball|Texas]]'''
+| RD1-team12=[[Princeton University|Princeton]]
+| RD1-score11='''66'''
+| RD1-score12=49
+| RD1-team13='''[[Xavier University (Cincinnati)|Xavier]]'''
+| RD1-team14=[[Louisville Cardinals basketball|Louisville]]
+| RD1-score13='''80'''
+| RD1-score14=70
+| RD1-team15='''[[Mississippi State University|Mississippi State]]'''
+| RD1-team16=[[Monmouth University|Monmouth]]
+| RD1-score15='''85'''
+| RD1-score16=52
+| RD2-seed01=1
+| RD2-team01='''Duke'''
+| RD2-seed02=8
+| RD2-team02=Seton Hall
+| RD2-score01='''90'''
+| RD2-score02=62
+| RD2-seed03=5
+| RD2-team03='''Illinois'''
+| RD2-seed04=4
+| RD2-team04=Cincinnati
+| RD2-score03='''92'''
+| RD2-score04=68
+| RD2-seed05=6
+| RD2-team05=North Carolina
+| RD2-seed06=3
+| RD2-team06='''Texas'''
+| RD2-score05=75
+| RD2-score06='''78'''
+| RD2-seed07=7
+| RD2-team07='''Xavier'''
+| RD2-seed08=2
+| RD2-team08=Mississippi State
+| RD2-score07='''89'''
+| RD2-score08=74
+| RD3-seed01=1
+| RD3-team01='''Duke'''
+| RD3-seed02=5
+| RD3-team02=Illinois
+| RD3-score01='''72'''
+| RD3-score02=62
+| RD3-seed03=3
+| RD3-team03=Texas
+| RD3-seed04=7
+| RD3-team04='''Xavier'''
+| RD3-score03=71
+| RD3-score04='''79'''
+| RD4-seed01=1
+| RD4-team01='''Duke'''
+| RD4-seed02=7
+| RD4-team02=Xavier
+| RD4-score01='''66'''
+| RD4-score02=63
+}}
+
+===Phoenix Regional===
+{{16TeamBracket | RD1=First round<br />March 18–19
+| RD2=Second round<br />March 20–21
+| RD3=Regional semifinals<br />March 25
+| RD4=Regional finals<br />March 27
+| subgroup1='''[[KeyArena|Seattle]]'''
+| subgroup2='''[[Pepsi Center|Denver]]'''
+| subgroup3='''[[TD Waterhouse Centre|Orlando]]'''
+| subgroup4='''[[HSBC Arena (Buffalo)|Buffalo]]'''
+| RD1-team01='''[[Stanford Cardinal|Stanford]]'''
+| RD1-team02=[[University of Texas at San Antonio|Texas-San Antonio]]
+| RD1-score01='''71'''
+| RD1-score02=45
+| RD1-team03='''[[Alabama Crimson Tide basketball|Alabama]]'''
+| RD1-team04=[[Southern Illinois University Carbondale|Southern Illinois]]
+| RD1-score03='''65'''
+| RD1-score04=64
+| RD1-team05='''[[Syracuse Orange|Syracuse]]'''
+| RD1-team06=[[BYU Cougars men's basketball|BYU]]
+| RD1-score05='''80'''
+| RD1-score06=75
+| RD1-team07='''[[Maryland Terrapins|Maryland]]'''
+| RD1-team08=[[UTEP]]
+| RD1-score07='''86'''
+| RD1-score08=83
+| RD1-team09='''[[Vanderbilt Commodores basketball|Vanderbilt]]'''
+| RD1-team10=[[Western Michigan University|Western Michigan]]
+| RD1-score09='''71'''
+| RD1-score10=58
+| RD1-team11='''[[NC State Wolfpack basketball|North Carolina State]]'''
+| RD1-team12=[[Louisiana–Lafayette Ragin' Cajuns men's basketball|Louisiana-Lafayette]]
+| RD1-score11='''61'''
+| RD1-score12=52
+| RD1-team13='''[[DePaul University|DePaul]]'''
+| RD1-team14=[[Dayton Flyers|Dayton]]
+| RD1-score13='''76'''
+| RD1-score14=69
+| RD1-team15='''[[Connecticut Huskies|Connecticut]]'''
+| RD1-team16=[[University of Vermont|Vermont]]
+| RD1-score15='''70'''
+| RD1-score16=53
+| RD2-seed01=1
+| RD2-team01=Stanford
+| RD2-seed02=8
+| RD2-team02='''Alabama'''
+| RD2-score01=67
+| RD2-score02='''70'''
+| RD2-seed03=5
+| RD2-team03='''Syracuse'''
+| RD2-seed04=4
+| RD2-team04=Maryland
+| RD2-score03='''72'''
+| RD2-score04=70
+| RD2-seed05=6
+| RD2-team05='''Vanderbilt'''
+| RD2-seed06=3
+| RD2-team06=North Carolina State
+| RD2-score05='''75'''
+| RD2-score06=73
+| RD2-seed07=7
+| RD2-team07=DePaul
+| RD2-seed08=2
+| RD2-team08='''Connecticut'''
+| RD2-score07=55
+| RD2-score08='''72'''
+| RD3-seed01=8
+| RD3-team01='''Alabama'''
+| RD3-seed02=5
+| RD3-team02=Syracuse
+| RD3-score01='''80'''
+| RD3-score02=71
+| RD3-seed03=6
+| RD3-team03=Vanderbilt
+| RD3-seed04=2
+| RD3-team04='''Connecticut'''
+| RD3-score03=53
+| RD3-score04='''73'''
+| RD4-seed01=8
+| RD4-team01=Alabama
+| RD4-seed02=2
+| RD4-team02='''Connecticut'''
+| RD4-score01=71
+| RD4-score02='''87'''
+}}
+
+===Final Four – San Antonio, Texas===
+{{4TeamBracket | RD1=National Semifinals<br />April 3
+| RD2=National Championship Game<br />April 5
+| RD1-seed1=ER2
+| RD1-team1=Oklahoma State
+| RD1-score1=65
+| RD1-seed2=SL3
+| RD1-team2='''Georgia Tech'''
+| RD1-score2='''67'''
+| RD1-seed3=AT1
+| RD1-team3=Duke
+| RD1-score3=78
+| RD1-seed4=PH2
+| RD1-team4='''Connecticut'''
+| RD1-score4='''79'''
+| RD2-seed1=SL3
+| RD2-team1=Georgia Tech
+| RD2-score1=73
+| RD2-seed2=PH2
+| RD2-team2='''Connecticut'''
+| RD2-score2='''82'''
+}}
+
+==Game summaries==
+===Final four===
+{{basketballbox
+ | bg = #ffdead
+ | date = April 3
+ | time = 6:07&nbsp;pm
+ | report = [http://usatoday30.usatoday.com/sports/scores104/104094/20040403NCAABOKLAST----0.htm box score]
+ | team1 = '''#3 Georgia Tech Yellow Jackets'''
+ | score1 =  '''67'''
+ | team2 = #2 Oklahoma State Cowboys
+ | score2 = 65
+ | points2 = [[Joey Graham|J. Graham]] 17
+ | rebounds2 = [[Joey Graham|J. Graham]] 10
+ | assist2 = [[Tony Allen (basketball)|T. Allen]] 4
+ | otherstat2 = '''Halftime Score:''' Georgia Tech, 37-30 
+ | points1 = [[Luke Schenscher|L. Schenscher]] 19
+ | rebounds1 = [[Luke Schenscher|L. Schenscher]] 12
+ | assist1 = [[Jarrett Jack|J. Jack]] 5
+ | otherstat1 = 
+ | place = Alamodome – San Antonio
+ | attendance = 44,417
+ | referee = Donnie Gray, Jim Burr, Tim Higgins 
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = April 3
+ | time = 8:47&nbsp;pm
+ | report = [http://usatoday30.usatoday.com/sports/scores104/104094/20040403NCAABDUKE------0.htm box score]
+ | team1 = '''#2 Connecticut Huskies'''
+ | score1 =  '''79'''
+ | team2 = #1 Duke Blue Devils
+ | score2 = 78
+ | points2 = [[Luol Deng|L. Deng]] 16
+ | rebounds2 = [[Luol Deng|L. Deng]] 12
+ | assist2 = [[Chris Duhon|C. Duhon]] 6
+ | otherstat2 = '''Halftime Score:''' Duke, 41-34
+ | points1 = [[Emeka Okafor|E. Okafor]], [[Ben Gordon|B. Gordon]] 18
+ | otherstat1 =  
+ | rebounds1 = [[Josh Boone (basketball)|J. Boone]] 14
+ | assist1 = T. Brown 4
+ | place = Alamodome – San Antonio
+ | attendance = 44,417
+ | referee = David Hall, Orlandis Poole, Ted Hillary
+ | TV = CBS
+}}
+
+===National Championship===
+{{main article|2004 NCAA Men's Division I Basketball Championship Game}}
+{{basketballbox
+ | bg = #ffdead
+ | date = April 5
+ | time = 9:21&nbsp;pm
+ | report = [http://usatoday30.usatoday.com/sports/scores104/104096/20040405NCAABUCONN-----0.htm Box score]
+ | team1 = '''#2 Connecticut Huskies'''
+ | score1 =  '''82'''
+ | team2 = #3 Georgia Tech Yellow Jackets
+ | score2 = 73
+ | points2 = [[Will Bynum|W. Bynum]] 17
+ | rebounds2 = [[Luke Schenscher|L.Schenscher]] 11
+ | assist2 = [[Will Bynum|W. Bynum]] 5
+ | otherstat2 = '''Halftime Score:''' Connecticut, 41-26
+ | points1 = [[Emeka Okafor|E. Okafor]] 24
+ | rebounds1 = [[Emeka Okafor|E. Okafor]] 15
+ | assist1 = T. Brown 4
+ | otherstat1 = 
+ | place = Alamodome – San Antonio
+ | attendance = 44,468
+ | referee = Dick Cartmell, Randy McCall, Verne Harris 
+ | TV = CBS
+}}
+
+==Announcers==
+*[[Jim Nantz]]/[[Billy Packer]]/[[Bonnie Bernstein]] – First & Second Round at Denver, Colorado; East Rutherford Regional at East Rutherford, New Jersey; Final Four at San Antonio, Texas
+*[[Dick Enberg]]/[[Matt Guokas]]/[[Armen Keteyian]] – First & Second Round at Columbus, Ohio; Phoenix Regional at Phoenix, Arizona
+*[[Verne Lundquist]] and [[Bill Raftery]] – First & Second Round at Buffalo, New York; Atlanta Regional at Atlanta, Georgia
+*[[Gus Johnson (sportscaster)|Gus Johnson]] and [[Len Elmore]] – First & Second Round at Orlando, Florida; St. Louis Regional at St. Louis, Missouri
+*[[Kevin Harlan]] and [[Dan Bonner]] – First & Second Round at Raleigh, North Carolina
+*[[Ian Eagle]] and [[Jim Spanarkel]] – First & Second Round at Seattle, Washington
+*[[Craig Bolerjack]] and [[Bob Wenzel]] – First & Second Round at Kansas City, Missouri
+*[[Tim Brando]] and [[Mike Gminski]] – First & Second Round at Milwaukee, Wisconsin
+
+[[Greg Gumbel]] once again served as the studio host, joined by analysts [[Clark Kellogg]] and [[Seth Davis]].
+
+==See also==
+* [[2004 NCAA Division I Women's Basketball Tournament]]
+* [[NCAA Division II Women's Basketball Tournament|2004 NCAA Division II Women's Basketball Tournament]]
+* [[NCAA Division III Women's Basketball Tournament|2004 NCAA Division III Women's Basketball Tournament]]
+* [[2004 National Invitation Tournament]]
+* [[Women's National Invitation Tournament|2004 Women's National Invitation Tournament]]
+* [[2004 NAIA Division I Men's Basketball Tournament]]
+* [[NAIA Men's Basketball Championships#Division II|2004 NAIA Division II Men's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships|2004 NAIA Division I Women's Basketball Tournament]]
+* [[NAIA Women's Basketball Championships#Division II|2004 NAIA Division II Women's Basketball Tournament]]
+
+==References==
+{{Reflist|30em}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2004 Connecticut Huskies men's basketball navbox}}
+
+{{DEFAULTSORT:2004 Ncaa Men's Division I Basketball Tournament}}
+[[Category:NCAA Division I Men's Basketball Championship]]
+[[Category:2003–04 NCAA Division I men's basketball season|Ncaa]]
+[[Category:2004 in sports in Texas|NCAA Men's Division I Basketball Tournament]]
+[[Category:Basketball in San Antonio]]
