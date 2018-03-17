@@ -190,7 +190,7 @@ The data is all in `pages/YYYY.json`. For example:
           "team": "Arizona", "score": 84
         },
         {
-          "round_of": 2 "seed": 1,
+          "round_of": 2, "seed": 1,
           "team": "Kentucky", "score": 79
         }
       ]
