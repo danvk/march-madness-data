@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+"""Convert .wiki files to .json files.
+
+Usage:
+
+    ./extract_bracket.py pages/*.wiki
+"""
 
 from collections import defaultdict
 import json
@@ -6,6 +12,8 @@ import re
 import sys
 
 import mwparserfromhell
+
+from utils import extract_seed, extract_year
 
 NAME_RE = re.compile(r'\s*RD(\d)-(score|team|seed)(\d+)', re.I)
 
@@ -57,6 +65,9 @@ def extract_template(template):
         field = m.group(2)
         slot = int(m.group(3)) - 1
 
+        if field == 'seed' or field == 'score':
+            value = int(extract_seed(value))
+
         game_num = slot // 2
         game_slot = slot % 2
         rounds[round_num][game_num][game_slot][field] = value
@@ -64,25 +75,43 @@ def extract_template(template):
     return [dict_to_array(v) for v in dict_to_array(rounds)]
 
 
-def extract_bracket(source):
+def extract_bracket(source, year):
     wikicode = mwparserfromhell.parse(source, skip_style_tags=True)
     templates = wikicode.filter_templates()
-    brackets = [
+    bracket_templates = [
         t
         for t in templates
         if 'Bracket' in t.name and not t.name.matches('2TeamBracket')
     ]
-    return [
-        extract_template(b)
-        for b in brackets
-    ]
+    brackets = [extract_template(b) for b in bracket_templates]
+    assert len(brackets) == 5  # four regions + final four
+    for b in brackets[:4]:
+        assert len(b) == 4  # R64, R32, Sweet Sixteen, Elite 8
+    assert len(brackets[4]) == 2  # Final Four, Final
+
+    # attach "round_of": 64, etc.
+    for b in brackets[:4]:
+        for i, rnd in enumerate(b):
+            for game in rnd:
+                for team in game:
+                    team['round_of'] = 64 / (2 ** i)
+    for i, rnd in enumerate(brackets[4]):
+        for game in rnd:
+            for team in game:
+                team['round_of'] = 4 / (2 ** i)
+
+    return {
+        'year': year,
+        'regions': brackets[:4],
+        'finalfour': brackets[4]
+    }
 
 
 def main():
     for path in sys.argv[1:]:
         assert '.wiki' in path
         source = open(path).read()
-        bracket = extract_bracket(source)
+        bracket = extract_bracket(source, extract_year(path))
         json.dump(bracket, open(path.replace('.wiki', '.json'), 'w'))
 
 

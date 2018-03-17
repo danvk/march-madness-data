@@ -6,15 +6,14 @@ SEED_RE = re.compile(r'(\d+)')
 def all_games(bracket):
     return [
         game
-        for region in bracket
+        for region in bracket['regions']
         for rnd in region
         for game in rnd
+    ] + [
+        game
+        for rnd in bracket['finalfour']
+        for game in rnd
     ]
-
-
-def final_four(bracket):
-    assert len(bracket) == 5, len(bracket)
-    return bracket[4]
 
 
 def extract_seed(seed):
@@ -31,4 +30,4 @@ def extract_year(path):
 
 
 def sum_for_game(game):
-    return extract_seed(game[0]['seed']) + extract_seed(game[1]['seed'])
+    return game[0]['seed'] + game[1]['seed']
