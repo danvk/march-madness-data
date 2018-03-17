@@ -1,5 +1,11 @@
 # March Madness Data
 
+This repo contains JSON files for all the NCAA brackets from 1985–2017.
+
+## Results
+
+### Sums of Seeds
+
 After #16 seed UMBC became the first to beat a #1 seed, I was curious what the highest sum of seeds in a game was. This was harder to find out than I expected, so I grabbed some data from Wikipedia and found the answer. It's 25!
 
 ```
@@ -87,6 +93,8 @@ Round of 2
 (1991)  5:               Kansas  3 vs  2 Duke
 ```
 
+### Craziest Final Four
+
 Or what was the craziest final four (i.e. highest sum of seeds)? It was 26, in 2011. The least crazy
 was 2008's final four, the only with four 1 seeds.
 
@@ -125,3 +133,74 @@ was 2008's final four, the only with four 1 seeds.
  5 1993   North Carolina (1)          Kansas (2)         Kentucky ( 1)      Michigan * ( 1)
  4 2008   North Carolina (1)          Kansas (1)          Memphis ( 1)            UCLA ( 1)
 ```
+
+## Using the data
+
+The data is all in `pages/YYYY.json`. For example:
+
+```json
+{
+  "year": 1997,
+  "regions": [
+    [
+      [
+        [
+          {
+            "round_of": 64, "seed": 1,
+            "team": "North Carolina", "score": 82,
+          },
+          {
+            "round_of": 64, "seed": 16,
+            "team": "Fairfield", "score": 74
+          }
+        ],
+        ...
+      ],
+      ...
+    ],
+    ...
+  ],
+  "finalfour": [
+    [
+      [
+        {
+          "round_of": 4, "seed": 1,
+          "team": "North Carolina", "score": 58
+        },
+        {
+          "round_of": 4, "seed": 4,
+          "team": "Arizona", "score": 66
+        }
+      ],
+      [
+        {
+          "round_of": 4, "seed": 1,
+          "team": "Minnesota*", "score": 69
+        },
+        {
+          "round_of": 4, "seed": 1,
+          "team": "Kentucky", "score": 78
+        }
+      ]
+    ],
+    [
+      [
+        {
+          "round_of": 2, "seed": 4,
+          "team": "Arizona", "score": 84
+        },
+        {
+          "round_of": 2 "seed": 1,
+          "team": "Kentucky", "score": 79
+        }
+      ]
+    ]
+  ]
+}
+```
+
+- There are four regions.
+- Each contains an array of four rounds.
+- Each round contains an array of games.
+- Each game is an array of two teams.
+- Each team is an object with `round_of`, `seed`, `team` and `score` keys.

@@ -94,11 +94,11 @@ def extract_bracket(source, year):
         for i, rnd in enumerate(b):
             for game in rnd:
                 for team in game:
-                    team['round_of'] = 64 / (2 ** i)
+                    team['round_of'] = 64 // (2 ** i)
     for i, rnd in enumerate(brackets[4]):
         for game in rnd:
             for team in game:
-                team['round_of'] = 4 / (2 ** i)
+                team['round_of'] = 4 // (2 ** i)
 
     return {
         'year': year,
