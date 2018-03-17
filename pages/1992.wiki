@@ -273,6 +273,7 @@ For the first time since 1951, Minneapolis was the site of the Final Four, held 
  | RD1-seed02=16
  | RD1-team02=Campbell
  | RD1-score02=56
+ | RD1-seed03=8
  | RD1-team03=Texas
  | RD1-score03=92
  | RD1-seed04=9

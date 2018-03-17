@@ -38,7 +38,7 @@ This tournament marked the first time that the NCAA employed a timekeeping rule 
 
 ==Locations==
 
-{{Location map+|USA|width=450|float=right|caption=1990 first and second rounds|places= 
+{{Location map+|USA|width=450|float=right|caption=1990 first and second rounds|places=
 {{Location map~|USA|mark=green pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=bottom|background=#FFFFFF|label=Atlanta|link=Omni Coliseum}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=39.768403|lon_deg=-86.158068|position=Top|background=#FFFFFF|label=Indianapolis|link=RCA Dome|Hoosier Dome}}
 {{Location map~|USA|mark=green pog.svg|lat_deg=30.267153|lon_deg=-97.743061|position=bottom|background=#FFFFFF|label=Austin|link=Frank Erwin Center}}
@@ -94,7 +94,7 @@ This tournament marked the first time that the NCAA employed a timekeeping rule 
 {| class="wikitable"
 ! Region !! Site !! Venue
 |-
-| '''East''' 
+| '''East'''
 |[[East Rutherford, New Jersey]]
 |[[Meadowlands Arena|Brendan Byrne Arena]]
 |-
@@ -121,7 +121,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
 {| class=wikitable
 ! Region !! Seed !! Team !! Coach !! Finished !! Final Opponent !! Score
 |-
-! colspan=7 | East 
+! colspan=7 | East
 |-
 | East || 1|| [[1989–90 Connecticut Huskies men's basketball team|Connecticut]] || [[Jim Calhoun]] || Elite 8||3 [[1989–90 Duke Blue Devils men's basketball team|Duke]]||L 79–78
 |-
@@ -363,23 +363,23 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
 {{basketballbox
  | bg = #e3e3e3
  | date = Saturday, March 24
- | time = 
+ | time =
  | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-24-connecticut.html box score]
  | team1 = '''#3 Duke Blue Devils'''
  | score1 =  '''79'''
- | team2 = #1 Connecticut Huskies 
+ | team2 = #1 Connecticut Huskies
  | score2 = 78 '''(OT)'''
  | points1 = [[Alaa Abdelnaby|A. Abdelnaby]] 27
  | rebounds1 = [[Alaa Abdelnaby|A. Abdelnaby]] 14
  | assist1 = [[Bobby Hurley|B. Hurley]] 8
- | otherstat1 = 
+ | otherstat1 =
  | points2 = J. Gwynn, [[Nadav Henefeld|N. Henefeld]] 15
  | rebounds2 = [[Nadav Henefeld|N. Henefeld]] 6
  | assist2 = [[Chris Smith (basketball, born 1970)|C. Smith]] 5
  | otherstat2 = '''Halftime Score:''' Duke, 37-30<br />'''End of Regulation:''' 72-72
  | place = Brendan Byrne Arena – East Rutherford, New Jersey
  | attendance = 19,546
- | referee = 
+ | referee =
  | TV = CBS
 }}
 
@@ -407,7 +407,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | RD1-team06='''Dayton'''
  | RD1-score06='''88'''
  | RD1-seed07=4
- | RD1-team07='''Arkansas''' 
+ | RD1-team07='''Arkansas'''
  | RD1-score07='''68'''
  | RD1-seed08=13
  | RD1-team08=Princeton
@@ -485,23 +485,23 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
 {{basketballbox
  | bg = #e3e3e3
  | date = Saturday, March 24
- | time = 
+ | time =
  | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-24-arkansas.html box score]
  | team1 = '''#4 Arkansas Razorbacks'''
  | score1 =  '''88'''
- | team2 = #10 Texas Longhorns 
+ | team2 = #10 Texas Longhorns
  | score2 = 85
  | points1 = L. Howell 21
  | rebounds1 =  L. Howell, [[Oliver Miller|O. Miller]] 9
  | assist1 = [[Lee Mayberry|L. Mayberry]] 7
- | otherstat1 = 
+ | otherstat1 =
  | points2 = [[Joey Wright|J. Wright]], [[Travis Mays|T. Mays]] 20
  | rebounds2 = L. Collie 14
  | assist2 = [[Travis Mays|T. Mays]] 5
  | otherstat2 = '''Halftime Score:''' Arkansas, 43-36
  | place = Reunion Arena – Dallas, Texas
  | attendance = 16,413
- | referee = 
+ | referee =
  | TV = CBS
 
 ===Southeast Regional – New Orleans, Louisiana===
@@ -606,7 +606,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
 {{basketballbox
  | bg = #e3e3e3
  | date = Sunday, March 25
- | time = 
+ | time =
  | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-25-georgia-tech.html box score]
  | team1 = '''#4 Georgia Tech Yellow Jackets'''
  | score1 =  '''93'''
@@ -615,14 +615,14 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points1 = [[Dennis Scott (basketball)|D. Scott]] 40
  | rebounds1 =  [[Kenny Anderson (basketball)|K. Anderson]] 8
  | assist1 = [[Kenny Anderson (basketball)|K. Anderson]] 3
- | otherstat1 = 
+ | otherstat1 =
  | points2 = [[Willie Burton|W. Burton]] 35
  | rebounds2 = [[Richard Coffey|R. Coffey]] 9
  | assist2 = [[Melvin Newbern|M. Newbern]] 6
  | otherstat2 = '''Halftime Score:''' Minnesota, 49-47
  | place = Louisiana Superdome – New Orleans
  | attendance = 17,782
- | referee = 
+ | referee =
  | TV = CBS
 }}
 
@@ -728,7 +728,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
 {{basketballbox
  | bg = #e3e3e3
  | date = Sunday, March 25
- | time = 
+ | time =
  | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-25-loyola-marymount.html box score]
  | team1 = '''#1 UNLV Runnin' Rebels'''
  | score1 =  '''131'''
@@ -737,14 +737,14 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points1 = [[Stacey Augmon|S. Augmon]] 33
  | rebounds1 =  [[Larry Johnson (basketball, born 1969)|L. Johnson]] 18
  | assist1 = [[Anderson Hunt|A. Hunt]] 13
- | otherstat1 = 
+ | otherstat1 =
  | points2 = [[Bo Kimble|B. Kimble]] 42
  | rebounds2 = [[Bo Kimble|B. Kimble]] 11
  | assist2 = [[Terrell Lowery|T. Lowery]] 6
  | otherstat2 = '''Halftime Score:''' UNLV, 67-47
  | place = Oakland–Alameda County Coliseum Arena – Oakland, California
  | attendance = 14,298
- | referee = 
+ | referee =
  | TV = CBS
 }}
 
@@ -774,7 +774,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
 {{basketballbox
  | bg = #e3e3e3
  | date = March 31
- | time = 
+ | time =
  | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-31-georgia-tech.html box score]
  | team1 = '''#1 UNLV Runnin' Rebels'''
  | score1 =  '''90'''
@@ -783,20 +783,20 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points1 = [[Stacey Augmon|S. Augmon]] 22
  | rebounds1 = [[Moses Scurry|M. Scurry]] 11
  | assist1 = [[Anderson Hunt|A. Hunt]] 7
- | otherstat1 =  
+ | otherstat1 =
  | points2 = [[Dennis Scott (basketball)|D. Scott]] 29
  | rebounds2 = J. McNeil 9
  | assist2 = [[Kenny Anderson (basketball)|K. Anderson]] 8
  | otherstat2 = '''Halftime Score:''' Georgia Tech 53-46
  | place = McNichols Arena – Denver
  | attendance = 17,675
- | referee = 
+ | referee =
  | TV = CBS
 }}
 {{basketballbox
  | bg = #ffdead
  | date = March 31
- | time = 
+ | time =
  | report = [http://www.sports-reference.com/cbb/boxscores/1990-03-31-arkansas.html box score]
  | team1 = '''#3 Duke Blue Devils'''
  | score1 =  '''97'''
@@ -805,14 +805,14 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points1 = [[Phil Henderson (basketball)|P. Henderson]] 28
  | rebounds1 = [[Christian Laettner|C. Laettner]] 14
  | assist1 = [[Bobby Hurley|B. Hurley]] 6
- | otherstat1 = 
+ | otherstat1 =
  | points2 = [[Todd Day|T. Day]] 27
  | rebounds2 = [[Todd Day|T. Day]] 7
  | assist2 = [[Lee Mayberry|L. Mayberry]] 6
  | otherstat2 = '''Halftime Score:''' Duke, 46-43
  | place = McNichols Arena – Denver
  | attendance = 17,675
- | referee = 
+ | referee =
  | TV = CBS
 }}
 
@@ -821,7 +821,7 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
 {{basketballbox
  | bg = #e3e3e3
  | date = April 2
- | time = 
+ | time =
  | report = [http://www.sports-reference.com/cbb/boxscores/1990-04-02-duke.html Box score]
  | team1 = '''#1 UNLV Runnin' Rebels'''
  | score1 =  '''103'''
@@ -830,23 +830,23 @@ Denver became the 23rd host city, and McNichols Sports Arena the 26th host venue
  | points1 = [[Anderson Hunt|A. Hunt]] 29
  | rebounds1 = [[Larry Johnson (basketball, born 1969)|L. Johnson]] 11
  | assist1 = [[Stacey Augmon|S. Augmon]] 7
- | otherstat1 =  
+ | otherstat1 =
  | points2 = [[Phil Henderson (basketball)|P. Henderson]] 21
  | rebounds2 = [[Christian Laettner|C. Laettner]] 9
  | assist2 = [[Christian Laettner|C. Laettner]] 5
  | otherstat2 = '''Halftime Score:''' UNLV, 47-35
  | place = McNichols Arena – Denver
  | attendance = 17,675
- | referee = 
+ | referee =
  | TV = CBS
 }}
 
 ==Announcers==
 CBS broadcast all tournament games.
 *[[Brent Musburger]] and [[Billy Packer]] (final four and championship game only) Musburger's final game for CBS.
-*[[Dick Stockton]] and [[Hubie Brown]] (Elite eight only) 
+*[[Dick Stockton]] and [[Hubie Brown]] (Elite eight only)
 *[[James Brown (sportscaster)|James Brown]] and [[Bill Raftery]] (West regional only)
-*[[Greg Gumbel]] and [[Quinn Buckner]] (East regional only) 
+*[[Greg Gumbel]] and [[Quinn Buckner]] (East regional only)
 *[[Brad Nessler]] and [[Tom Heinsohn]] (Midwest regional only)
 *[[Tim Brant]] and [[Len Elmore]] (Southeast regional only)
 

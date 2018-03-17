@@ -416,7 +416,7 @@ Dallas became the 22nd host city, and Reunion Arena the 24th host venue, for the
  | RD1-score14=79*
  | RD1-seed15=2
  | RD1-team15='''Michigan'''
- | RD1-score15=''70'''
+ | RD1-score15='''70'''
  | RD1-seed16=15
  | RD1-team16=Akron
  | RD1-score16=64

@@ -347,7 +347,6 @@ For the second time, Indianapolis was the host of the Final Four, this time at t
  | RD3-team03=Oklahoma State
  | RD3-score03=63*
  | RD3-seed04=10
- | RD3-team15='''Temple'''
  | RD3-score04='''72'''
  | RD3-team04='''Temple'''
  | RD4-seed01=1

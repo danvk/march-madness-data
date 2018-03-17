@@ -785,6 +785,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | subgroup4= '''[[ARCO Arena|Sacramento]]'''
  | RD3=Regional Semifinals 
  | RD4=Regional Finals
+ | RD1-seed01= 1
  | RD1-team01= '''Kansas'''
  | RD1-score01= '''70'''
  | RD1-seed02= 16
@@ -908,6 +909,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | subgroup4= '''[[BI-LO Center|Greenville]]'''
  | RD3=Regional Semifinals 
  | RD4=Regional Finals
+ | RD1-seed01= 1
  | RD1-team01= '''Duke'''
  | RD1-score01= '''84'''
  | RD1-seed02= 16
@@ -1103,6 +1105,7 @@ At [[Georgia Dome]], [[Atlanta]]
  | subgroup4= '''[[American Airlines Center|Dallas]]'''
  | RD3=Regional Semifinals 
  | RD4=Regional Finals
+ | RD1-seed01= 1
  | RD1-team01= '''Cincinnati'''
  | RD1-score01= '''90'''
  | RD1-seed02= 16

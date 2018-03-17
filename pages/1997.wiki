@@ -828,6 +828,7 @@ The Final Four returned to Indianapolis for the third time, and to the RCA Dome 
  | RD1-seed02=16
  | RD1-team02=Southwest Texas State
  | RD1-score02=46
+ | RD1-seed03=8
  | RD1-team03=Ole Miss
  | RD1-score03=40
  | RD1-seed04=9
