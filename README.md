@@ -41,10 +41,12 @@ After #16 seed UMBC became the first to beat a #1 seed, I was curious what the h
 (2014) 21:               Dayton 11 vs 10 Stanford
 ```
 
-Here's the same by round (all the 25s are in the Round of 32):
+All the 25s are in the Round of 32. This happens whenever there are two first-round upsets in the
+same part of the bracket. You can't get a higher sum than 25 until the third round or later, and
+this has yet to happen. The closest was 14 Chattanooga vs. 10 Providence in 1997.
 
+**Sweet 16**:
 ```
-Round of 16
 (1997) 24:          Chattanooga 14 vs 10 Providence
 (2013) 22:        Wichita State  9 vs 13 La Salle
 (1986) 21:      Cleveland State 14 vs  7 Navy
@@ -55,8 +57,10 @@ Round of 16
 (2002) 20:                 UCLA  8 vs 12 Missouri
 (1990) 18:     Loyola Marymount 11 vs  7 Alabama
 (2001) 18:               Temple 11 vs  7 Penn State
+```
 
-Round of 8
+**Elite Eight**
+```
 (2000) 15:       North Carolina  8 vs  7 Tulsa
 (2002) 15:              Indiana  5 vs 10 Kent State
 (1990) 14:             Arkansas  4 vs 10 Texas
@@ -67,8 +71,10 @@ Round of 8
 (1990) 12:                 UNLV  1 vs 11 Loyola Marymount
 (1994) 12:       Boston College  9 vs  3 Florida
 (2001) 12:       Michigan State  1 vs 11 Temple
+```
 
-Round of 4
+**Final Four**
+```
 (2011) 19:                  VCU 11 vs  8 Butler
 (2006) 14:              Florida  3 vs 11 George Mason
 (1986) 13:                  LSU 11 vs  2 Louisville
@@ -79,8 +85,10 @@ Round of 4
 (2010) 10:       Michigan State  5 vs  5 Butler
 (2013) 10:           Louisville  1 vs  9 Wichita State
 (2014) 10:            Wisconsin  2 vs  8 Kentucky
+```
 
-Round of 2
+**Finals**
+```
 (2014) 15:          Connecticut  7 vs  8 Kentucky
 (2011) 11:          Connecticut  3 vs  8 Butler
 (1985)  9:           Georgetown  1 vs  8 Villanova
@@ -95,8 +103,8 @@ Round of 2
 
 ### Craziest Final Four
 
-Or what was the craziest final four (i.e. highest sum of seeds)? It was 26, in 2011. The least crazy
-was 2008's final four, the only with four 1 seeds.
+Or what was the craziest final four (i.e. highest sum of seeds)? It was 26, in [2011][].
+The least crazy was [2008's final four][2008], the only with four 1 seeds.
 
 ```
 26 2011         Kentucky (4)     Connecticut (3)              VCU (11)          Butler ( 8)
@@ -136,7 +144,7 @@ was 2008's final four, the only with four 1 seeds.
 
 ## Using the data
 
-The data is all in `pages/YYYY.json`. For example:
+The data comes from [Wikipedia articles][2011] is all in `pages/YYYY.json`. For example:
 
 ```json
 {
@@ -204,3 +212,28 @@ The data is all in `pages/YYYY.json`. For example:
 - Each round contains an array of games.
 - Each game is an array of two teams.
 - Each team is an object with `round_of`, `seed`, `team` and `score` keys.
+
+If you're working in Python, you can find some helper functions in `utils.py` and some
+example code in `find_highest_seeds.py` and `craziest_final_four.py`:
+
+    $ ./craziest_final_four.py pages/*.json
+    26 2011         Kentucky ( 4)       Connecticut ( 3)              VCU (11)           Butler ( 8)
+    22 2000          Florida ( 5)    North Carolina ( 8)   Michigan State ( 1)        Wisconsin ( 8)
+    20 2006              LSU ( 4)              UCLA ( 2)          Florida ( 3)     George Mason (11)
+    18 2014          Florida ( 1)       Connecticut ( 7)        Wisconsin ( 2)         Kentucky ( 8)
+    18 2013       Louisville ( 1)     Wichita State ( 9)         Michigan ( 4)         Syracuse ( 4)
+    ...
+
+## Updating the data
+
+To regenerate (or update) the data, you'll need Python 3.6 or later.
+Set up your virtual environment and run:
+
+    pip install -r requirements.txt
+    ./extract_wiki_source.py pages/*.html && ./extract_bracket.py pages/*.wiki
+
+To add a new year, use `curl` to put a new HTML file in `pages/YYYY.html`. You can
+use the URLs in `urls.txt` as a template.
+
+[2008]: https://en.wikipedia.org/wiki/2008_NCAA_Division_I_Men%27s_Basketball_Tournament
+[2011]: https://en.wikipedia.org/wiki/2011_NCAA_Division_I_Men%27s_Basketball_Tournament
