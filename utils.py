@@ -1,4 +1,5 @@
 import re
+import json
 
 SEED_RE = re.compile(r'(\d+)')
 
@@ -15,6 +16,13 @@ def all_games(bracket):
         for game in rnd
     ]
 
+def get_flattened_games(filenames):
+    game_years = []
+    for path in filenames:
+        bracket = json.load(open(path))
+        year = bracket['year']
+        game_years += [(game, year) for game in all_games(bracket)]
+    return game_years
 
 def extract_seed(seed):
     """Sometimes a seed is something like MW1. This extracts the 1."""

@@ -4,7 +4,7 @@
 import json
 import sys
 
-from utils import all_games, sum_for_game
+from utils import all_games, sum_for_game, get_flattened_games
 
 
 def format_result(game_year):
@@ -20,11 +20,7 @@ def format_result(game_year):
 
 
 def main():
-    game_years = []
-    for path in sys.argv[1:]:
-        bracket = json.load(open(path))
-        year = bracket['year']
-        game_years += [(game, year) for game in all_games(bracket)]
+    game_years = get_flattened_games(sys.argv[1:])
     ordered_games = list(sorted(game_years, key=lambda gp: -sum_for_game(gp[0])))
 
     print('All rounds')
