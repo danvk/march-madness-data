@@ -43,6 +43,7 @@ jobs:
             ./find_highest_seeds.py data/*.json
             ./craziest_final_four.py data/*.json
             ./one_seeds_eliminated.py data/*.json
+            ./most_dominant data/*.json
             # TODO: tests!
 
       - store_artifacts:
