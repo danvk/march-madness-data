@@ -144,7 +144,7 @@ The least crazy was [2008's final four][2008], the only with four 1 seeds.
 
 ## Using the data
 
-The data comes from [Wikipedia articles][2011] is all in `data/YYYY.json`. For example:
+The data comes from [Wikipedia articles][2011]. It's all in `data/YYYY.json`. For example:
 
 ```json
 {
