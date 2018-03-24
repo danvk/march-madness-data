@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """What's the highest sum of seeds ever in an NCAA game?"""
 
-import json
 import sys
 
-from utils import all_games, sum_for_game, get_flattened_games
+from utils import sum_for_game, get_flattened_games
 
 
 def format_result(game_year):
