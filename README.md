@@ -144,7 +144,7 @@ The least crazy was [2008's final four][2008], the only with four 1 seeds.
 
 ## Using the data
 
-The data comes from [Wikipedia articles][2011] is all in `pages/YYYY.json`. For example:
+The data comes from [Wikipedia articles][2011] is all in `data/YYYY.json`. For example:
 
 ```json
 {
@@ -216,7 +216,7 @@ The data comes from [Wikipedia articles][2011] is all in `pages/YYYY.json`. For 
 If you're working in Python, you can find some helper functions in `utils.py` and some
 example code in `find_highest_seeds.py` and `craziest_final_four.py`:
 
-    $ ./craziest_final_four.py pages/*.json
+    $ ./craziest_final_four.py data/*.json
     26 2011         Kentucky ( 4)       Connecticut ( 3)              VCU (11)           Butler ( 8)
     22 2000          Florida ( 5)    North Carolina ( 8)   Michigan State ( 1)        Wisconsin ( 8)
     20 2006              LSU ( 4)              UCLA ( 2)          Florida ( 3)     George Mason (11)
@@ -230,7 +230,9 @@ To regenerate (or update) the data, you'll need Python 3.6 or later.
 Set up your virtual environment and run:
 
     pip install -r requirements.txt
-    ./extract_wiki_source.py pages/*.html && ./extract_bracket.py pages/*.wiki
+    ./extract_wiki_source.py pages/*.html
+    ./extract_bracket.py pages/*.wiki
+    mv pages/*.json data/
 
 To add a new year, use `curl` to put a new HTML file in `pages/YYYY.html`. You can
 use the URLs in `urls.txt` as a template.

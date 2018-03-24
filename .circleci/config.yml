@@ -40,6 +40,9 @@ jobs:
           command: |
             . venv/bin/activate
             flake8
+            ./find_highest_seeds.py data/*.json
+            ./craziest_final_four.py data/*.json
+            ./one_seeds_eliminated.py data/*.json
             # TODO: tests!
 
       - store_artifacts:
