@@ -1,3 +1,4 @@
 beautifulsoup4==4.6.0
 mwparserfromhell==0.5.1
 flake8==3.5.0
+flake8-quotes==0.14.0
