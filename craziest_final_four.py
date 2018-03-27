@@ -34,7 +34,7 @@ def main():
     ordered_years = reversed(sorted(results))
     for score, year, bracket in ordered_years:
         fmt = formatted_final4(bracket)
-        print(f'{score:2} {year} {fmt}')
+        print("{score:2} {year} {fmt}".format(score=score,year=year,fmt=fmt))
 
 
 if __name__ == '__main__':
