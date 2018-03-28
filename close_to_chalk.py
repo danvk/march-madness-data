@@ -3,19 +3,25 @@
 
 import sys
 
-from utils import sum_for_game, get_flattened_games
+from utils import get_flattened_games
 
 # these are the scores used by common bracket sites
-_ROUNDS_SCORES = [
-    (64, 10),
-    (32, 20),
-    (16, 40),
-    (8, 80),
-    (4, 160),
-    (2, 320),
-]
+_ROUNDS_SCORES = {
+    64: 10,
+    32: 20,
+    16: 40,
+    8: 80,
+    4: 160,
+    2: 320,
+}
 
-def chalk(game, c_range):
+
+def score(game):
+    return _ROUNDS_SCORES[game[0]['round_of']]
+
+
+def chalk(game):
+    global strs
     """Was this game a chalk win?
 
     This is actually a little tricky. If a 1 beats a 16, its obviously chalk.
@@ -29,27 +35,17 @@ def chalk(game, c_range):
     seed wins AND if that winner is a 1, 2, 3, or 4 seed.
     """
 
-    t1 = game[0][0]
-    t2 = game[0][1]
+    _, winner = sorted(game, key=lambda t: t['score'])
+    return winner['seed'] <= max(1, winner['round_of'] / 8)
 
-    winner = t1 if t1["score"] > t2["score"] else t2
-    loser = t1 if t1["score"] < t2["score"] else t2
-
-    return winner["seed"] in c_range
 
 def get_score(game_years, year):
-    score = 0
-    for i, rnd_scr in enumerate(_ROUNDS_SCORES):
-        rnd = rnd_scr[0]
-        scr = rnd_scr[1]
-        games = [g for g in game_years if 
-                 g[0][0]["round_of"] == rnd and g[1] == year]
-        # range of seeds allowed. See comment under chalk() for more info
-        r = range(1, (16/(i+2))+1)
-        for g in games:
-            if chalk(g, r):
-                score += scr
-    return score
+    total_score = 0
+    games = [g[0] for g in game_years if g[1] == year]
+    for game in games:
+        if (chalk(game)):
+            total_score += score(game)
+    return total_score
 
 
 def main():
@@ -61,10 +57,11 @@ def main():
         scores += [(year, get_score(game_years, year))]
 
     scores = sorted(scores, key=lambda x: x[1])
-    print("year: score")
-    print("===========")
-    for s in reversed(scores):
-        print("%d: %d" % (s[0], s[1]))
+    print('year: score')
+    print('===========')
+    for year, score in reversed(scores):
+        print('%d: %d' % (year, score))
+
 
 if __name__ == '__main__':
     main()
