@@ -1,0 +1,1925 @@
+{{Use mdy dates|date=March 2018}}
+{{Infobox NCAA Basketball Tournament
+| Year = 2018
+| Season = 2017–18
+| Image = 2018 NCAA Men's Final Four logo.svg
+| ImageSize =
+| Caption =
+| Teams = 68
+| FinalFourArena = [[Alamodome]]
+| FinalFourCity = [[San Antonio|San Antonio, Texas]]
+| Champions =  [[2017–18 Villanova Wildcats men's basketball team|Villanova Wildcats]]
+| TitleCount = 3rd
+| ChampGameCount = 4th
+| ChampFFCount = 6th
+| RunnerUp =  [[2017–18 Michigan Wolverines men's basketball team|Michigan Wolverines]]
+| GameCount = 7th
+| RunnerFFCount = 8th
+| Semifinal1 = [[2017–18 Kansas Jayhawks men's basketball team|Kansas Jayhawks]]
+| FinalFourCount = 15th
+| Semifinal2 = [[2017–18 Loyola Ramblers men's basketball team|Loyola Ramblers]]
+| FinalFourCount2 = 2nd
+| Coach = [[Jay Wright (basketball)|Jay Wright]] 
+| CoachCount = 2nd
+| MOP = [[Donte DiVincenzo]]
+| MOPTeam = Villanova
+| Attendance =
+| OneTopScorer = 
+| TwoTopScorers = 
+| TopScorer = 
+| TopScorerTeam = 
+| TopScorer2 = 
+| TopScorer2Team = 
+| Points = 
+}}
+
+The '''2018 NCAA Division I Men's Basketball Tournament''' was a [[single-elimination tournament]] of 68 teams to determine the men's [[National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] [[college basketball]] national champion for the [[2017–18 NCAA Division I men's basketball season|2017–18 season]]. The 80th annual edition of the [[NCAA Division I Men's Basketball Tournament|tournament]] began on March 13, 2018, and concluded with the [[2018 NCAA Division I Men's Basketball Championship Game|championship game]] on April 2 at the [[Alamodome]] in [[San Antonio|San Antonio, Texas]].
+
+During the first round, [[2017–18 UMBC Retrievers men's basketball team|UMBC]] [[2018 UMBC vs. Virginia men's basketball game|became the first 16-seed]] to defeat a 1-seed in the men's tournament by defeating [[2017–18 Virginia Cavaliers men's basketball team|Virginia]] 74–54.<ref>{{cite news|last=Wilco|first=Daniel|title=Last perfect bracket busts after UMBC pulls off biggest upset in NCAA tournament history|url=https://www.ncaa.com/news/basketball-men/bracketiq/2018-03-17/last-perfect-bracket-busts-after-umbc-pulls-biggest-upset|publisher=[[National Collegiate Athletic Association]]|website=NCAA.com|date=March 17, 2018|accessdate=March 17, 2018|quote=UMBC (The University of Maryland Baltimore County) scored the biggest upset in the history of the NCAA tournament, beating top overall seed Virginia 74-54 Friday night, and becoming the first 16 seed to win a game in 136 tries.}}</ref><ref>{{cite news|last=Bushnell|first=Henry|title=UMBC shocks Virginia, first 16-seed ever to beat a 1|url=https://sports.yahoo.com/umbc-shocks-virginia-first-16-seed-ever-beat-1-033317126.html?soc_trk=gcm&soc_src=d46ec37c-e84f-3cc0-a70b-e3c3763e4e05&.tsrc=notification-brknews|publisher=[[Yahoo Sports]]|date=March 17, 2018|accessdate=March 17, 2018}}</ref> For the first time in tournament history, none of the four top seeded teams in a single region (the South) advanced to the Sweet 16. Also, the tournament featured the first regional final matchup of a 9-seed ([[2017–18 Kansas State Wildcats men's basketball team|Kansas State]]) and an 11-seed ([[2017–18 Loyola Ramblers men's basketball team|Loyola-Chicago]]).
+
+[[2017–18 Villanova Wildcats men's basketball team|Villanova]], [[2017–18 Michigan Wolverines men's basketball team|Michigan]], [[2017–18 Kansas Jayhawks men's basketball team|Kansas]], and [[Loyola-Chicago]], the "[[Cinderella (sports)|Cinderella team]]" of the tournament, reached the Final Four. Villanova defeated Michigan in the championship game, 79–62.
+
+[[Atlantic Sun Conference]] champion [[2017–18 Lipscomb Bisons men's basketball team|Lipscomb]] made its NCAA tournament debut.
+
+==Tournament procedure==
+{{details|NCAA Division I Men's Basketball Tournament#Current tournament format}}
+	
+A total of 68 teams entered the 2018 tournament. 32 automatic bids were awarded, one to each program that won their [[List of NCAA conferences|conference]] tournament. The remaining 36 bids were "at-large", with selections extended by the NCAA Selection Committee.
+
+Eight teams (the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams) played in the First Four (the successor to what had been popularly known as "[[NCAA Men's Division I Basketball Opening Round game|play-in games]]" through the 2010 tournament). The winners of these games advanced to the main draw of the tournament.<ref>{{Cite web|url=https://www.sbnation.com/college-basketball/2018/3/14/17121546/march-madness-2018-bracket-results-highlights-scores-wednesday-texas-southern-nc-central|title=Syracuse, Texas Southern win in First Four games Wednesday night|last=Moriarty|first=Morgan|date=2018-03-14|website=SBNation.com|access-date=2019-02-24}}</ref>
+
+The [[NCAA basketball tournament selection process|Selection Committee]] seeded the entire field from 1 to 68.<ref>{{Cite web|url=https://www.sbnation.com/college-basketball/2018/3/11/17107666/ncaa-tournament-full-seed-list-2018-every-team-bracket-ranked-mens-basketball|title=Full seed list for the NCAA tournament, 1-68|last=Moriarty|first=Morgan|date=2018-03-11|website=SBNation.com|access-date=2019-02-24}}</ref>
+
+==2018 NCAA Tournament schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=2018 First Four (orange) and first and second rounds (green)|places= 
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.7404|lon_deg=-84.1792|position=left|background=#FFFFFF|label=Dayton|link=UD Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.440625|lon_deg=-79.995886|position=right|background=#FFFFFF|label=Pittsburgh|link=PPG Paints Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.227087|lon_deg=-80.843127|position=bottom|background=#FFFFFF|label=Charlotte|link=Spectrum Center (arena)}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=37.688889|lon_deg=-97.336111|position=left|background=#FFFFFF|label=Wichita|link=Intrust Bank Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.618710|lon_deg=-116.214607|position=top|background=#FFFFFF|label=Boise|link=Taco Bell Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.331427|lon_deg=-83.045754|position=top|background=#FFFFFF|label=Detroit|link=Little Caesars Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.162664|lon_deg=-86.781602|position=left|background=#FFFFFF|label=Nashville|link=Bridgestone Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.715738|lon_deg=-117.161084|position=right|background=#FFFFFF|label=San Diego|link=Viejas Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.780262|lon_deg=-96.800978|position=bottom|background=#FFFFFF|label=Dallas|link=American Airlines Center}}
+}}
+{{Location map+|USA|width=450|float=right|caption=2018 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.748995|lon_deg=-84.387982|position=left|background=#FFFFFF|label=Atlanta|link=Philips Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=34.052234|lon_deg=-118.243685|position=right|background=#FFFFFF|label=Los Angeles|link=Staples Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=42.358486|lon_deg=-71.060097|position=left|background=#FFFFFF|label=Boston|link=TD Garden}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=41.252363|lon_deg=-95.997988|position=top|background=#FFFFFF|label=Omaha|link=CenturyLink Center Omaha}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=29.424122|lon_deg=-98.493628|position=left|background=#FFFFFF|label=San Antonio|link=Alamodome}}
+}}
+The following sites were selected to host each round of the 2018 tournament:<ref>{{cite web |url=https://www.ncaa.com/MBBPrelims |title=2016-18 preliminary rounds |date=November 14, 2014 |publisher=NCAA}}</ref>
+
+'''First Four'''
+*March 13 and 14
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+'''First and Second Rounds'''
+*March 15 and 17
+** [[PPG Paints Arena]], [[Pittsburgh, Pennsylvania]] (Host: [[Duquesne University]])
+** [[Intrust Bank Arena]], [[Wichita, Kansas]] (Host: [[Wichita State University]])
+** [[American Airlines Center]], [[Dallas, Texas]] (Host: [[Big 12 Conference]])
+** [[Taco Bell Arena]], [[Boise, Idaho]] (Host: [[Boise State University]])
+*March 16 and 18
+** [[Spectrum Center (arena)|Spectrum Center]], [[Charlotte, North Carolina]] (Host: [[University of North Carolina at Charlotte]])
+** [[Little Caesars Arena]], [[Detroit, Michigan]] (Host: [[University of Detroit Mercy]])
+** [[Bridgestone Arena]], [[Nashville, Tennessee]] (Host: [[Ohio Valley Conference]])
+** [[Viejas Arena]], [[San Diego, California]] (Host: [[San Diego State University]])
+
+'''Regional Semifinals and Finals''' (Sweet Sixteen and Elite Eight)
+*March 22 and 24
+**'''West Regional''', [[Staples Center]], [[Los Angeles, California]] (Host: [[Pepperdine University]])
+**'''South Regional''', [[Philips Arena]], [[Atlanta, Georgia]] (Host: [[Georgia Institute of Technology]])
+*March 23 and 25
+**'''East Regional''', [[TD Garden]], [[Boston, Massachusetts]] (Host: [[Boston College]])
+**'''Midwest Regional''', [[CenturyLink Center Omaha]], [[Omaha, Nebraska]] (Host: [[Creighton University]])
+
+'''National Semifinals and Championship''' (Final Four and Championship)
+*March 31 and April 2
+**[[Alamodome]], [[San Antonio, Texas]] (Host: [[University of Texas at San Antonio]])
+
+For the fourth time, the Alamodome and city of San Antonio are hosting the Final Four. This is the first tournament since [[1994 NCAA Division I Men's Basketball Tournament|1994]] in which no games were played in an [[National Football League|NFL]] stadium, as the Alamodome is a college football stadium, although the Alamodome hosted some home games for the New Orleans Saints during their 2005 season. The 2018 tournament featured three new arenas in previous host cities. Philips Arena, the home of the [[Atlanta Hawks]] and replacement for the previously used [[Omni Coliseum]], hosted the South regional games, and the new Little Caesars Arena, home of the [[Detroit Pistons]] and [[Detroit Red Wings]], hosted games. And for the first time since 1994, the tournament returned to Wichita and the state of Kansas where Intrust Bank Arena hosted first round games.
+
+The state of North Carolina was threatened with a 2018-2022 championship venue boycott by the NCAA, due to the [[Public Facilities Privacy & Security Act|HB2]] law passed in 2016.<ref>{{Cite news|url=http://www.newsobserver.com/news/politics-government/state-politics/article140505218.html|title=NCAA gives North Carolina a deadline to repeal HB2 or lose events until 2022|work=newsobserver|access-date=March 18, 2018|language=en}}</ref> However, the law was repealed (but with provisos) days before the NCAA met to make decisions on venues in April 2017. At that time, the NCAA board of governors "reluctantly voted to allow consideration of championship bids in North Carolina by our committees that are presently meeting".<ref>{{Cite news|url=http://www.espn.com/mens-college-basketball/story/_/id/19186600/north-carolina-hb2-repeal-host-ncaa-tournament-games-2018-2020-2021|title=N.C. gets NCAA tourney sites after HB2 repeal|work=ESPN.com|access-date=March 18, 2018}}</ref> Therefore, Charlotte was eligible and served as a first weekend venue for the 2018 tournament.
+
+==Qualification and selection==
+{{details|2018 NCAA Division I Men's Basketball Tournament: qualifying teams}}
+
+Four teams, out of 351 in Division I, were ineligible to participate in the 2018 tournament due to failing to meet [[Academic Progress Rate|APR]] requirements: [[2017–18 Alabama A&M Bulldogs men's basketball team|Alabama A&M]], [[2017–18 Grambling State Tigers men's basketball team|Grambling State]], [[2017–18 Savannah State Tigers men's basketball team|Savannah State]], and [[2017–18 Southeast Missouri State Redhawks men's basketball team|Southeast Missouri State]].<ref>{{cite web|title=Division I teams face penalties, lose postseason|url=https://www.ncaa.org/about/resources/media-center/news/division-i-teams-face-penalties-lose-postseason|date=May 10, 2017|publisher=NCAA}}</ref> However, the NCAA granted the Savannah State Tigers a waiver which would have allowed the team to participate in the tournament, but the team failed to qualify.
+
+===Automatic qualifiers===
+The following 32 teams were automatic qualifiers for the 2018 NCAA field by virtue of winning their conference's automatic bid.<ref>{{cite web|title=NCAA conference tournament schedule: Tracking March Madness automatic bids|url=https://www.ncaa.com/news/basketball-men/article/2018-03-04/ncaa-conference-tournament-schedule-tracking-march-madness|publisher=NCAA|accessdate=March 4, 2018}}</ref>
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Record
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|align=left|[[2018 America East Men's Basketball Tournament|America East]]
+! scope="row" | [[2017–18 UMBC Retrievers men's basketball team|UMBC]]
+|24–10
+|2nd
+|2008
+|-
+|align=left|[[2018 American Athletic Conference Men's Basketball Tournament|American]]
+! scope="row" | [[2017–18 Cincinnati Bearcats men's basketball team|Cincinnati]] 
+|30–4
+|32nd
+|2017
+|-
+|align=left|[[2018 Atlantic 10 Men's Basketball Tournament|Atlantic 10]]
+! scope="row" | [[2017–18 Davidson Wildcats men's basketball team|Davidson]]
+|21–11
+|14th
+|2015
+|-
+|align=left|[[2018 ACC Men's Basketball Tournament|ACC]]
+! scope="row" | [[2017–18 Virginia Cavaliers men's basketball team|Virginia]]
+|31–2
+|22nd
+|2017
+|-
+|align=left|[[2018 Atlantic Sun Men's Basketball Tournament|Atlantic Sun]]
+! scope="row" | [[2017–18 Lipscomb Bisons men's basketball team|Lipscomb]]
+|23–9
+|1st
+|{{sort|0|Never}}
+|-
+|align=left|[[2018 Big 12 Men's Basketball Tournament|Big 12]]
+! scope="row" | [[2017–18 Kansas Jayhawks men's basketball team|Kansas]]
+|27–7 
+|47th
+|2017
+|-
+|align=left|[[2018 Big East Men's Basketball Tournament|Big East]]
+! scope="row" | [[2017–18 Villanova Wildcats men's basketball team|Villanova]]
+|30–4
+|38th
+|2017
+|-
+|align=left|[[2018 Big Sky Conference Men's Basketball Tournament|Big Sky]]
+! scope="row" | [[2017–18 Montana Grizzlies basketball team|Montana]]
+|26–7
+|11th
+|2013
+|-
+|align=left|[[2018 Big South Conference Men's Basketball Tournament|Big South]]
+! scope="row" | [[2017–18 Radford Highlanders men's basketball team|Radford]]
+|22–12
+|3rd
+|2009
+|-
+|align=left|[[2018 Big Ten Conference Men's Basketball Tournament|Big Ten]]
+! scope="row" | [[2017–18 Michigan Wolverines men's basketball team|Michigan]]
+|28–7
+|28th
+|2017
+|-
+|align=left|[[2018 Big West Conference Men's Basketball Tournament|Big West]]
+! scope="row" | [[2017–18 Cal State Fullerton Titans men's basketball team|Cal State Fullerton]]
+|20–11
+|3rd
+|2008
+|-
+|align=left|[[2018 CAA Men's Basketball Tournament|CAA]]
+! scope="row" | [[2017–18 College of Charleston Cougars men's basketball team|College of Charleston]]
+|26–7
+|5th
+|1999
+|-
+|align=left|[[2018 Conference USA Men's Basketball Tournament|Conference USA]]
+! scope="row" | [[2017–18 Marshall Thundering Herd men's basketball team|Marshall]]
+|24–10
+|6th
+|1987
+|-
+|align=left|[[2018 Horizon League Men's Basketball Tournament|Horizon League]]
+! scope="row" | [[2017–18 Wright State Raiders men's basketball team|Wright State]]
+|25–9
+|3rd
+|2007
+|-
+|align=left|[[2018 Ivy League Men's Basketball Tournament|Ivy League]]
+! scope="row" | [[2017–18 Penn Quakers men's basketball team|Penn]]
+|24–8
+|24th
+|2007
+|-
+|align=left|[[2018 MAAC Men's Basketball Tournament|MAAC]]
+! scope="row" | [[2017–18 Iona Gaels men's basketball team|Iona]]
+|20–13
+|13th
+|2017
+|-
+|align=left|[[2018 MAC Men's Basketball Tournament|MAC]]
+! scope="row" | [[2017–18 Buffalo Bulls men's basketball team|Buffalo]] 
+|25–8
+|3rd
+|2016
+|-
+|align=left|[[2018 MEAC Men's Basketball Tournament|MEAC]]
+! scope="row" | [[2017–18 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+|19–15
+|3rd
+|2017
+|-
+|align=left|[[2018 Missouri Valley Conference Men's Basketball Tournament|Missouri Valley]]
+! scope="row" | [[2017–18 Loyola Ramblers men's basketball team|Loyola–Chicago]]
+|28–5
+|6th
+|1985
+|-
+|align=left|[[2018 Mountain West Conference Men's Basketball Tournament|Mountain West]]
+! scope="row" | [[2017–18 San Diego State Aztecs men's basketball team|San Diego State]]
+|22–10
+|12th
+|2015
+|-
+|align=left|[[2018 Northeast Conference Men's Basketball Tournament|Northeast]]
+! scope="row" | [[2017–18 LIU Brooklyn Blackbirds men's basketball team|LIU Brooklyn]]
+|18–16
+|7th
+|2013
+|-
+|align=left|[[2018 Ohio Valley Conference Men's Basketball Tournament|Ohio Valley]]
+! scope="row" | [[2017–18 Murray State Racers men's basketball team|Murray State]]
+|26–5
+|16th
+|2012
+|-
+|align=left|[[2018 Pac-12 Conference Men's Basketball Tournament|Pac-12]]
+! scope="row" | [[2017–18 Arizona Wildcats men's basketball team|Arizona]]
+|27–7
+|35th
+|2017
+|-
+|align=left|[[2018 Patriot League Men's Basketball Tournament|Patriot League]]
+! scope="row" | [[2017–18 Bucknell Bison men's basketball team|Bucknell]]
+|25–9
+|8th
+|2017
+|-
+|align=left|[[2018 SEC Men's Basketball Tournament|SEC]]
+! scope="row" | [[2017–18 Kentucky Wildcats men's basketball team|Kentucky]]
+|24–10
+|58th
+|2017
+|-
+|align=left|[[2018 Southern Conference Men's Basketball Tournament|Southern]]
+! scope="row" | [[2017–18 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
+|27–7
+|3rd
+|2001
+|-
+|align=left|[[2018 Southland Conference Men's Basketball Tournament|Southland]]
+! scope="row" | [[2017–18 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]
+|28–6
+|5th
+|2016
+|-
+|align=left|[[2018 SWAC Men's Basketball Tournament|SWAC]]
+! scope="row" | [[2017–18 Texas Southern Tigers basketball team|Texas Southern]]
+|15–19
+|8th
+|2017
+|-
+|align=left|[[2018 Summit League Men's Basketball Tournament|Summit League]]
+! scope="row" | [[2017–18 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|28–6
+|5th
+|2017
+|-
+|align=left|[[2018 Sun Belt Conference Men's Basketball Tournament|Sun Belt]]
+! scope="row" | [[2017–18 Georgia State Panthers men's basketball team|Georgia State]]
+|24–10
+|4th
+|2015
+|-
+|align=left|[[2018 West Coast Conference Men's Basketball Tournament|West Coast]]
+! scope="row" | [[2017–18 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|30–4
+|21st
+|2017
+|-
+|align=left|[[2018 WAC Men's Basketball Tournament|WAC]]
+! scope="row" | [[2017–18 New Mexico State Aggies men's basketball team|New Mexico State]]
+|28–5
+|24th
+|2017
+|}
+
+===Tournament seeds===
+The tournament seeds were determined through the [[NCAA basketball tournament selection process]]. The seeds and regions were determined as follows:<ref>https://www.forbes.com/sites/alexkay/2018/03/11/selection-sunday-2018-schedule-official-ncaa-tournament-bracket-and-more-after-march-madness-show/#7106472abf90</ref><ref>https://www.cbssports.com/college-basketball/news/march-madness-2018-official-ncaa-tournament-bracket-seeding-1-68/</ref>
+
+{|class="wikitable sortable plainrowheaders"
+|+South Regional, [[Philips Arena]], [[Atlanta|Atlanta, Georgia]]
+|-
+!scope="col"|Seed
+!scope="col"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+!scope="col"|Overall rank
+|-
+|align=center|1
+|[[2017–18 Virginia Cavaliers men's basketball team|Virginia]]
+|[[2017–18 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|31–2
+|Auto
+|align=center|1
+|-
+|align=center|2
+|[[2017–18 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|[[2017–18 American Athletic Conference men's basketball season|American]]
+|align=center|30–4
+|Auto
+|align=center|8
+|-
+|align=center|3
+|[[2017–18 Tennessee Volunteers men's basketball team|Tennessee]]
+|[[2017–18 Southeastern Conference men's basketball season|SEC]]
+|align=center|25–8
+|At-large
+|align=center|10
+|-
+|align=center|4
+|[[2017–18 Arizona Wildcats men's basketball team|Arizona]]
+|[[2017–18 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|27–7
+|Auto
+|align=center|16
+|-
+|align=center|5
+|[[2017–18 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[2017–18 Southeastern Conference men's basketball season|SEC]]
+|align=center|24–10
+|Auto
+|align=center|17
+|-
+|align=center|6
+|[[2017–18 Miami Hurricanes men's basketball team|Miami (FL)]]
+|[[2017–18 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|22–9
+|At-large
+|align=center|22
+|-
+|align=center|7
+|[[2017–18 Nevada Wolf Pack men's basketball team|Nevada]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|27–7
+|At-large
+|align=center|27
+|-
+|align=center|8
+|[[2017–18 Creighton Bluejays men's basketball team|Creighton]]
+|[[2017–18 Big East Conference men's basketball season|Big East]]
+|align=center|21–11
+|At-large
+|align=center|30
+|-
+|align=center|9
+|[[2017–18 Kansas State Wildcats men's basketball team|Kansas State]]
+|[[2017–18 Big 12 Conference men's basketball season|Big 12]]
+|align=center|22–11
+|At-large
+|align=center|34
+|-
+|align=center|10
+|[[2017–18 Texas Longhorns men's basketball team|Texas]]
+|[[2017–18 Big 12 Conference men's basketball season|Big 12]]
+|align=center|19–14
+|At-large
+|align=center|39
+|-
+|align=center|11
+|[[2017–18 Loyola Ramblers men's basketball team|Loyola–Chicago]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|28–5
+|Auto
+|align=center|46
+|-
+|align=center|12
+|[[2017–18 Davidson Wildcats men's basketball team|Davidson]]
+|[[2017–18 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|21–11
+|Auto
+|align=center|48
+|-
+|align=center|13
+|[[2017–18 Buffalo Bulls men's basketball team|Buffalo]]
+|[[Mid-American Conference|MAC]]
+|align=center|26–8
+|Auto
+|align=center|51
+|-
+|align=center|14
+|[[2017–18 Wright State Raiders men's basketball team|Wright State]]
+|[[Horizon League|Horizon]]
+|align=center|25–9
+|Auto
+|align=center|57
+|-
+|align=center|15
+|[[2017–18 Georgia State Panthers men's basketball team|Georgia State]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|24–10
+|Auto
+|align=center|60
+|-
+|align=center|16
+|[[2017–18 UMBC Retrievers men's basketball team|UMBC]]
+|[[America East Conference|America East]]
+|align=center|24–10
+|Auto
+|align=center|63
+|}
+
+{|class="wikitable sortable plainrowheaders"
+|+West Regional, [[Staples Center]], [[Los Angeles|Los Angeles, California]]
+|-
+!scope="col"|Seed
+!scope="col"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+!scope="col"|Overall rank
+|-
+|align=center|1
+|[[2017–18 Xavier Musketeers men's basketball team|Xavier]]
+|[[2017–18 Big East Conference men's basketball season|Big East]]
+|align=center|28–5
+|At-large
+|align=center|4
+|-
+|align=center|2
+|[[2017–18 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[2017–18 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|25–10
+|At-large
+|align=center|5
+|-
+|align=center|3
+|[[2017–18 Michigan Wolverines men's basketball team|Michigan]]
+|[[2017–18 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|28–7
+|Auto
+|align=center|11
+|-
+|align=center|4
+|[[2017–18 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|[[West Coast Conference|WCC]]
+|align=center|30–4
+|Auto
+|align=center|15
+|-
+|align=center|5
+|[[2017–18 Ohio State Buckeyes men's basketball team|Ohio State]]
+|[[2017–18 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|24–8
+|At-large
+|align=center|20
+|-
+|align=center|6
+|[[2017–18 Houston Cougars men's basketball team|Houston]]
+|[[2017–18 American Athletic Conference men's basketball season|American]]
+|align=center|26–7
+|At-large
+|align=center|23
+|-
+|align=center|7
+|[[2017–18 Texas A&M Aggies men's basketball team|Texas A&M]]
+|[[2017–18 Southeastern Conference men's basketball season|SEC]]
+|align=center|20–12
+|At-large
+|align=center|25
+|-
+|align=center|8
+|[[2017–18 Missouri Tigers men's basketball team|Missouri]]
+|[[2017–18 Southeastern Conference men's basketball season|SEC]]
+|align=center|20–12
+|At-large
+|align=center|32
+|-
+|align=center|9
+|[[2017–18 Florida State Seminoles men's basketball team|Florida State]]
+|[[2017–18 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|20–11
+|At-large
+|align=center|38
+|-
+|align=center|10
+|[[2017–18 Providence Friars men's basketball team|Providence]]
+|[[2017–18 Big East Conference men's basketball season|Big East]]
+|align=center|21–13
+|At-large
+|align=center|35
+|-
+|align=center|11
+|[[2017–18 San Diego State Aztecs men's basketball team|San Diego State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|22–10
+|Auto
+|align=center|45
+|-
+|align=center|12
+|[[2017–18 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|[[Summit League]]
+|align=center|28–6
+|Auto
+|align=center|49
+|-
+|align=center|13
+|[[2017–18 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
+|[[Southern Conference|Southern]]
+|align=center|27–7
+|Auto
+|align=center|52
+|-
+|align=center|14
+|[[2017–18 Montana Grizzlies basketball team|Montana]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|26–7
+|Auto
+|align=center|56
+|-
+|align=center|15
+|[[2017–18 Lipscomb Bisons men's basketball team|Lipscomb]]
+|[[Atlantic Sun Conference|Atlantic Sun]]
+|align=center|23–9
+|Auto
+|align=center|59
+|-
+|rowspan=2 align=center|16*
+|[[2017–18 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|align=center|19–15
+|Auto
+|align=center|67
+|-
+|[[2017–18 Texas Southern Tigers basketball team|Texas Southern]]
+|[[Southwestern Athletic Conference|SWAC]]
+|align=center|15–19
+|Auto
+|align=center|68
+|}
+
+{|class="wikitable sortable plainrowheaders"
+|+East Regional, [[TD Garden]], [[Boston|Boston, Massachusetts]]
+|-
+!scope="col"|Seed
+!scope="col"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+!scope="col"|Overall rank
+|-
+|align=center|1
+|[[2017–18 Villanova Wildcats men's basketball team|Villanova]]
+|[[2017–18 Big East Conference men's basketball season|Big East]]
+|align=center|30–4
+|Auto
+|align=center|2
+|-
+|align=center|2
+|[[2017–18 Purdue Boilermakers men's basketball team|Purdue]] 
+|[[2017–18 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|28–6
+|At-large
+|align=center|7
+|-
+|align=center|3
+|[[2017–18 Texas Tech Red Raiders men's basketball team|Texas Tech]]
+|[[2017–18 Big 12 Conference men's basketball season|Big 12]]
+|align=center|24–9
+|At-large
+|align=center|12
+|-
+|align=center|4
+|[[2017–18 Wichita State Shockers men's basketball team|Wichita State]]
+|[[2017–18 American Athletic Conference men's basketball season|American]]
+|align=center|25–7
+|At-large
+|align=center|14
+|-
+|align=center|5
+|[[2017–18 West Virginia Mountaineers men's basketball team|West Virginia]] 
+|[[2017–18 Big 12 Conference men's basketball season|Big 12]]
+|align=center|24–10
+|At-large
+|align=center|18
+|-
+|align=center|6
+|[[2017–18 Florida Gators men's basketball team|Florida]]
+|[[2017–18 Southeastern Conference men's basketball season|SEC]]
+|align=center|20–12
+|At-large
+|align=center|21
+|-
+|align=center|7
+|[[2017–18 Arkansas Razorbacks men's basketball team|Arkansas]]
+|[[2017–18 Southeastern Conference men's basketball season|SEC]]
+|align=center|23–11
+|At-large
+|align=center|26
+|-
+|align=center|8
+|[[2017–18 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+|[[2017–18 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|21–11
+|At-large
+|align=center|31
+|-
+|align=center|9
+|[[2017–18 Alabama Crimson Tide men's basketball team|Alabama]]
+|[[2017–18 Southeastern Conference men's basketball season|SEC]]
+|align=center|19–15
+|At-large
+|align=center|36
+|-
+|align=center|10
+|[[2017–18 Butler Bulldogs men's basketball team|Butler]]
+|[[2017–18 Big East Conference men's basketball season|Big East]]
+|align=center|20–13
+|At-large
+|align=center|33
+|-
+|rowspan=2 align=center|11*
+|[[2017–18 St. Bonaventure Bonnies men's basketball team|St. Bonaventure]]
+|[[2017–18 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|25–7
+|At-large
+|align=center|42
+|-
+|[[2017–18 UCLA Bruins men's basketball team|UCLA]]
+|[[2017–18 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|21–11
+|At-large
+|align=center|41
+|-
+|align=center|12
+|[[2017–18 Murray State Racers men's basketball team|Murray State]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|26–5
+|Auto
+|align=center|50
+|-
+|align=center|13
+|[[2017–18 Marshall Thundering Herd men's basketball team|Marshall]]
+|[[Conference USA]]
+|align=center|24–10
+|Auto
+|align=center|54
+|-
+|align=center|14
+|[[2017–18 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]
+|[[Southland Conference|Southland]]
+|align=center|28–6
+|Auto
+|align=center|58
+|-
+|align=center|15
+|[[2017–18 Cal State Fullerton Titans men's basketball team|Cal State Fullerton]]
+|[[Big West Conference|Big West]]
+|align=center|20–11
+|Auto
+|align=center|61
+|-
+|rowspan=2 align=center|16*
+|[[2017–18 LIU Brooklyn Blackbirds men's basketball team|LIU Brooklyn]]
+|[[2017–18 Northeast Conference men's basketball season|NEC]]
+|align=center|18–16
+|Auto
+|align=center|66
+|-
+|[[2017–18 Radford Highlanders men's basketball team|Radford]]
+|[[Big South Conference|Big South]]
+|align=center|22–12
+|Auto
+|align=center|65
+|}
+
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional, [[CenturyLink Center Omaha]], [[Omaha, Nebraska]]
+|-
+!scope="col"|Seed
+!scope="col"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Berth type
+!scope="col"|Overall rank
+|-
+|align=center|1
+|[[2017–18 Kansas Jayhawks men's basketball team|Kansas]]
+|[[2017–18 Big 12 Conference men's basketball season|Big 12]]
+|align=center|27–7
+|Auto
+|align=center|3
+|-
+|align=center|2
+|[[2017–18 Duke Blue Devils men's basketball team|Duke]]
+|[[2017–18 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|26–7
+|At-large
+|align=center|6
+|-
+|align=center|3
+|[[2017–18 Michigan State Spartans men's basketball team|Michigan State]]
+|[[2017–18 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|29–4
+|At-large
+|align=center|9
+|-
+|align=center|4
+|[[2017–18 Auburn Tigers men's basketball team|Auburn]]
+|[[2017–18 Southeastern Conference men's basketball season|SEC]]
+|align=center|25–7
+|At-large
+|align=center|13
+|-
+|align=center|5
+|[[2017–18 Clemson Tigers men's basketball team|Clemson]]
+|[[2017–18 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|23–9
+|At-large
+|align=center|19
+|-
+|align=center|6
+|[[2017–18 TCU Horned Frogs men's basketball team|TCU]]
+|[[2017–18 Big 12 Conference men's basketball season|Big 12]]
+|align=center|21–11
+|At-large
+|align=center|24
+|-
+|align=center|7
+|[[2017–18 Rhode Island Rams men's basketball team|Rhode Island]]
+|[[2017–18 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|25–7
+|At-large
+|align=center|28
+|-
+|align=center|8
+|[[2017–18 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[2017–18 Big East Conference men's basketball season|Big East]]
+|align=center|21–11
+|At-large
+|align=center|29
+|-
+|align=center|9
+|[[2017–18 NC State Wolfpack men's basketball team|NC State]]
+|[[2017–18 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|21–11
+|At-large
+|align=center|37
+|-
+|align=center|10
+|[[2017–18 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[2017–18 Big 12 Conference men's basketball season|Big 12]]
+|align=center|18–13
+|At-large
+|align=center|40
+|-
+|rowspan=2 align=center|11*
+|[[2017–18 Arizona State Sun Devils men's basketball team|Arizona State]]
+|[[2017–18 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|20–11
+|At-large
+|align=center|43
+|-
+|[[2017–18 Syracuse Orange men's basketball team|Syracuse]]
+|[[2017–18 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|20–13
+|At-large
+|align=center|44
+|-
+|align=center|12
+|[[2017–18 New Mexico State Aggies men's basketball team|New Mexico State]]
+|[[Western Athletic Conference|WAC]]
+|align=center|28–5
+|Auto
+|align=center|47
+|-
+|align=center|13
+|[[2017–18 College of Charleston Cougars men's basketball team|College of Charleston]]
+|[[2017–18 Colonial Athletic Association men's basketball season|CAA]]
+|align=center|26–7
+|Auto
+|align=center|53
+|-
+|align=center|14
+|[[2017–18 Bucknell Bison men's basketball team|Bucknell]]
+|[[Patriot League|Patriot]]
+|align=center|25–9
+|Auto
+|align=center|55
+|-
+|align=center|15
+|[[2017–18 Iona Gaels men's basketball team|Iona]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|20–13
+|Auto
+|align=center|62
+|-
+|align=center|16
+|[[2017–18 Penn Quakers men's basketball team|Penn]]
+|[[Ivy League]]
+|align=center|24–8
+|Auto
+|align=center|64
+|}
+
+<nowiki>*</nowiki>See [[#First Four – Dayton, Ohio|First Four]]
+
+The 2018 tournament was the first time since the [[1978 NCAA Division I Basketball Tournament|1978 tournament]] that none of the six Division I college basketball-playing schools based in the [[Washington, DC metropolitan area]] – [[American Eagles men's basketball|American]], [[Georgetown Hoyas men's basketball|Georgetown]], [[George Mason Patriots men's basketball|George Mason]], [[George Washington Colonials men's basketball|George Washington]], [[Howard Bison men's basketball|Howard]], and [[Maryland Terrapins men's basketball|Maryland]] – made the NCAA Tournament.<ref>{{cite news |title=DC colleges will have a season without March Madness for the first time since 1978 |url=https://www.washingtonpost.com/sports/colleges/dc-colleges-will-have-a-season-without-march-madness-for-the-first-time-since-1978/2018/03/10/3b474b1c-23d1-11e8-94da-ebf9d112159c_story.html |date=March 10, 2018 |newspaper=Washington Post}}</ref>
+
+==Regional brackets==
+All times are listed as [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4:00|UTC−4]])<br>
+<nowiki>*</nowiki> – Denotes overtime period
+
+===First Four – [[UD Arena|Dayton, Ohio]]===
+{{align|left|{{2TeamBracket | RD1= March 13 – East Region
+| team-width = 
+| RD1-seed1=16
+| RD1-team1=[[2017–18 LIU Brooklyn Blackbirds men's basketball team|LIU Brooklyn]]
+| RD1-score1=61
+| RD1-seed2=16
+| RD1-team2='''[[2017–18 Radford Highlanders men's basketball team|Radford]]'''
+| RD1-score2='''71'''
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 13 – East Region
+| team-width = 
+| RD1-seed1=11
+| RD1-team1='''[[2017–18 St. Bonaventure Bonnies men's basketball team|St. Bonaventure]]'''
+| RD1-score1='''65'''
+| RD1-seed2= 11
+| RD1-team2=[[2017–18 UCLA Bruins men's basketball team|UCLA]]
+| RD1-score2=58
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 14 – West Region
+| team-width = 
+| RD1-seed1=16
+| RD1-team1='''[[2017–18 Texas Southern Tigers men's basketball team|Texas Southern]]'''
+| RD1-score1='''64'''
+| RD1-seed2=16
+| RD1-team2=[[2017–18 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+| RD1-score2=46
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 14 – Midwest Region
+| team-width = 
+| RD1-seed1=11
+| RD1-team1='''[[2017–18 Syracuse Orange men's basketball team|Syracuse]]
+| RD1-score1='''60'''
+| RD1-seed2=11
+| RD1-team2=[[2017–18 Arizona State Sun Devils men's basketball team|Arizona State]]'''
+| RD1-score2=56
+}}}}{{clear left}}
+
+===South Regional – [[Philips Arena|Atlanta, Georgia]]===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 15–16
+| RD2=Second Round<br />Round of 32<br />March 17–18
+| RD3=Regional Semifinals<br />Sweet 16<br />March 22
+| RD4=Regional Final<br />Elite 8<br />March 24
+| subgroup1=[[Spectrum Center (arena)|Charlotte]] – Fri/Sun
+| subgroup2=[[Taco Bell Arena|Boise]] – Thu/Sat
+| subgroup3=[[American Airlines Center|Dallas]] – Thu/Sat
+| subgroup4=[[Bridgestone Arena|Nashville]] – Fri/Sun
+
+| RD1-seed01=1
+| RD1-team01=[[2017–18 Virginia Cavaliers men's basketball team|Virginia]]
+| RD1-score01=54
+| RD1-seed02=16
+| RD1-team02='''[[2017–18 UMBC Retrievers men's basketball team|UMBC]]'''
+| RD1-score02='''74'''
+
+| RD1-seed03=8
+| RD1-team03=[[2017–18 Creighton Bluejays men's basketball team|Creighton]]
+| RD1-score03=59
+| RD1-seed04=9
+| RD1-team04='''[[2017–18 Kansas State Wildcats men's basketball team|Kansas State]]'''
+| RD1-score04='''69'''
+
+| RD1-seed05=5
+| RD1-team05='''[[2017–18 Kentucky Wildcats men's basketball team|Kentucky]]'''
+| RD1-score05='''78'''
+| RD1-seed06=12
+| RD1-team06=[[2017–18 Davidson Wildcats men's basketball team|Davidson]]
+| RD1-score06=73
+
+| RD1-seed07=4
+| RD1-team07=[[2017–18 Arizona Wildcats men's basketball team|Arizona]]
+| RD1-score07=68
+| RD1-seed08=13
+| RD1-team08='''[[2017–18 Buffalo Bulls men's basketball team|Buffalo]]'''
+| RD1-score08='''89'''
+
+| RD1-seed09=6
+| RD1-team09=[[2017–18 Miami Hurricanes men's basketball team|Miami (FL)]]
+| RD1-score09=62
+| RD1-seed10=11
+| RD1-team10='''[[2017–18 Loyola Ramblers men's basketball team|Loyola–Chicago]]'''
+| RD1-score10='''64'''
+
+| RD1-seed11=3
+| RD1-team11='''[[2017–18 Tennessee Volunteers basketball team|Tennessee]]'''
+| RD1-score11='''73'''
+| RD1-seed12=14
+| RD1-team12=[[2017–18 Wright State Raiders men's basketball team|Wright State]]
+| RD1-score12=47
+
+| RD1-seed13=7
+| RD1-team13='''[[2017–18 Nevada Wolf Pack men's basketball team|Nevada]]'''
+| RD1-score13='''87*'''
+| RD1-seed14=10
+| RD1-team14=[[2017–18 Texas Longhorns men's basketball team|Texas]]
+| RD1-score14=83
+
+| RD1-seed15=2
+| RD1-team15='''[[2017–18 Cincinnati Bearcats men's basketball team|Cincinnati]]'''
+| RD1-score15='''68'''
+| RD1-seed16=15
+| RD1-team16=[[2017–18 Georgia State Panthers men's basketball team|Georgia State]]
+| RD1-score16=53
+
+| RD2-seed01=16
+| RD2-team01=UMBC
+| RD2-score01=43
+| RD2-seed02=9
+| RD2-team02='''Kansas State'''
+| RD2-score02='''50'''
+
+| RD2-seed03=5
+| RD2-team03='''Kentucky'''
+| RD2-score03='''95'''
+| RD2-seed04=13
+| RD2-team04=Buffalo
+| RD2-score04=75
+
+| RD2-seed05=11
+| RD2-team05='''Loyola–Chicago'''
+| RD2-score05='''63'''
+| RD2-seed06=3
+| RD2-team06=Tennessee
+| RD2-score06=62
+
+| RD2-seed07=7
+| RD2-team07='''Nevada'''
+| RD2-score07='''75'''
+| RD2-seed08=2
+| RD2-team08=Cincinnati
+| RD2-score08=73
+
+| RD3-seed01=9
+| RD3-team01='''Kansas State'''
+| RD3-score01='''61'''
+| RD3-seed02=5
+| RD3-team02=Kentucky
+| RD3-score02=58
+
+| RD3-seed03=11
+| RD3-team03='''Loyola–Chicago'''
+| RD3-score03='''69'''
+| RD3-seed04=7
+| RD3-team04=Nevada
+| RD3-score04=68
+
+| RD4-seed01=9
+| RD4-team01=Kansas State
+| RD4-score01=62
+| RD4-seed02=11
+| RD4-team02='''Loyola–Chicago'''
+| RD4-score02='''78'''
+}}
+
+====South Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 24
+ | time = 6:09 pm [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2018/03/24/loyola-il-kansas-st Box score]
+ | team1 = '''#11 Loyola–Chicago Ramblers'''
+ | score1 = '''78'''
+ | team2 = #9 Kansas State Wildcats
+ | score2 = 62
+ | points1 = [[Ben Richardson (basketball)|B. Richardson]] – 23
+ | rebounds1 = [[Donte Ingram|D. Ingram]] – 8
+ | assist1 = [[Clayton Custer|C. Custer]] – 5
+ | otherstat1 = 
+ | points2 = X. Sneed – 16
+ | rebounds2 = X. Sneed – 6
+ | assist2 = K. Stokes – 4
+ | H1 = 36–24
+ | H2 = 42–38
+ | place = Philips Arena – Atlanta, GA
+ | attendance = 15,477
+ | referee = Gerry Pollard, Terry Wymer, Bert Smith
+ | TV = TBS
+}}
+
+====South Regional all tournament team====
+* [[Ben Richardson (basketball)|Ben Richardson]] (Sr, Loyola-Chicago) – South Regional most outstanding player<ref name=southreg>{{cite tweet |user=marchmadness |number=978069584040398849 |date=March 25, 2018 |title=South Region All-Tournament Team }}</ref>
+* [[Clayton Custer]] (Jr, Loyola-Chicago)<ref name=southreg/>
+* [[Donte Ingram]] (Sr, Loyola-Chicago)<ref name=southreg/>
+* Xavier Sneed (So, Kansas State)<ref name=southreg/>
+* [[Barry Brown Jr.]] (Jr, Kansas State)<ref name=southreg/>
+
+===West Regional – [[Staples Center|Los Angeles, California]]===
+{{16TeamBracket
+| RD1=First Round<br/>Round of 64<br/>March 15–16
+| RD2=Second Round<br/>Round of 32<br/>March 17–18
+| RD3=Regional Semifinals<br/>Sweet 16<br/>March 22
+| RD4=Regional Final<br/>Elite 8<br/>March 24
+| subgroup1=[[Bridgestone Arena|Nashville]] – Fri/Sun
+| subgroup2=[[Taco Bell Arena|Boise]] – Thu/Sat
+| subgroup3=[[Intrust Bank Arena|Wichita]] – Thu/Sat
+| subgroup4=[[Spectrum Center (arena)|Charlotte]] – Fri/Sun
+
+| RD1-seed01=1
+| RD1-team01='''[[2017–18 Xavier Musketeers men's basketball team|Xavier]]'''
+| RD1-score01='''102'''
+| RD1-seed02=16
+| RD1-team02=[[2017–18 Texas Southern Tigers basketball team|Texas Southern]]
+| RD1-score02=83
+
+| RD1-seed03=8
+| RD1-team03=[[2017–18 Missouri Tigers men's basketball team|Missouri]]
+| RD1-score03=54
+| RD1-seed04=9
+| RD1-team04='''[[2017–18 Florida State Seminoles men's basketball team|Florida State]]'''
+| RD1-score04='''67'''
+
+| RD1-seed05=5
+| RD1-team05='''[[2017–18 Ohio State Buckeyes men's basketball team|Ohio State]]'''
+| RD1-score05='''81'''
+| RD1-seed06=12
+| RD1-team06=[[2017–18 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+| RD1-score06=73
+
+| RD1-seed07=4
+| RD1-team07='''[[2017–18 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-score07='''68'''
+| RD1-seed08=13
+| RD1-team08=[[2017–18 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
+| RD1-score08=64
+
+| RD1-seed09=6
+| RD1-team09='''[[2017–18 Houston Cougars men's basketball team|Houston]]'''
+| RD1-score09='''67'''
+| RD1-seed10=11
+| RD1-team10=[[2017–18 San Diego State Aztecs men's basketball team|San Diego State]]
+| RD1-score10=65
+
+| RD1-seed11=3
+| RD1-team11='''[[2017–18 Michigan Wolverines men's basketball team|Michigan]]'''
+| RD1-score11='''61'''
+| RD1-seed12=14
+| RD1-team12=[[2017–18 Montana Grizzlies basketball team|Montana]]
+| RD1-score12=47
+
+| RD1-seed13=7
+| RD1-team13='''[[2017–18 Texas A&M Aggies men's basketball team|Texas A&M]]'''
+| RD1-score13='''73'''
+| RD1-seed14=10
+| RD1-team14=[[2017–18 Providence Friars men's basketball team|Providence]]
+| RD1-score14=69
+
+| RD1-seed15=2
+| RD1-team15='''[[2017–18 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score15='''84'''
+| RD1-seed16=15
+| RD1-team16=[[2017–18 Lipscomb Bisons men's basketball team|Lipscomb]]
+| RD1-score16=66
+
+| RD2-seed01=1
+| RD2-team01=Xavier
+| RD2-score01=70
+| RD2-seed02=9
+| RD2-team02='''Florida State'''
+| RD2-score02='''75'''
+
+| RD2-seed03=5
+| RD2-team03=Ohio State
+| RD2-score03=84
+| RD2-seed04=4
+| RD2-team04='''Gonzaga'''
+| RD2-score04='''90'''
+
+| RD2-seed05=6
+| RD2-team05=Houston
+| RD2-score05=63
+| RD2-seed06=3
+| RD2-team06='''Michigan'''
+| RD2-score06='''64'''
+
+| RD2-seed07=7
+| RD2-team07='''Texas A&M'''
+| RD2-score07='''86'''
+| RD2-seed08=2
+| RD2-team08=North Carolina
+| RD2-score08=65
+
+| RD3-seed01=9
+| RD3-team01='''Florida State'''
+| RD3-score01='''75'''
+| RD3-seed02=4
+| RD3-team02=Gonzaga
+| RD3-score02=60
+
+| RD3-seed03=3
+| RD3-team03='''Michigan'''
+| RD3-score03='''99'''
+| RD3-seed04=7
+| RD3-team04=Texas A&M
+| RD3-score04=72
+
+| RD4-seed01=9
+| RD4-team01=Florida State
+| RD4-score01=54
+| RD4-seed02=3
+| RD4-team02='''Michigan'''
+| RD4-score02='''58'''
+}}
+
+====West Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 24
+ | time = 5:49 pm [[Pacific Daylight Time|PDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2018/03/24/michigan-florida-st Box score]
+ | team1 = #9 Florida State Seminoles
+ | score1 = 54
+ | team2 = '''#3 Michigan Wolverines'''
+ | score2 = '''58'''
+ | points1 = [[Phil Cofer|P. Cofer]] - 16
+ | rebounds1 = P. Cofer - 11
+ | assist1 = [[Braian Angola|B. Angola]], T. Mann, T. Forrest - 2
+ | otherstat1 = 
+ | points2 = [[Charles Matthews (basketball)|C. Matthews]] – 17
+ | rebounds2 = C. Matthews – 8
+ | assist2 = [[Zavier Simpson|Z. Simpson]] – 5
+ | H1 = 26–27
+ | H2 = 28–31
+ | place = Staples Center – Los Angeles, CA
+ | attendance = 19,665
+ | referee = Randy McCall, Keith Kimble, John Gaffney
+ | TV = TBS
+}}
+
+====West Regional all tournament team====
+* [[Charles Matthews (basketball)|Charles Matthews]] (So, Michigan) – West Regional most outstanding player<ref name=westreg>{{cite tweet |user=marchmadness |number=978070719773986816 |date=March 25, 2018 |title=West Region All-Tournament Team }}</ref>
+* [[Moritz Wagner (basketball)|Moritz Wagner]] (Jr, Michigan)<ref name=westreg/>
+* [[Muhammad-Ali Abdur-Rahkman]] (Sr, Michigan)<ref name=westreg/>
+* [[Phil Cofer]] (Sr, Florida State)<ref name=westreg/>
+* Terance Mann (Jr, Florida State)<ref name=westreg/>
+
+===East Regional – [[TD Garden|Boston, Massachusetts]]===
+{{16TeamBracket
+| RD1=First Round<br/>Round of 64<br/>March 15–16
+| RD2=Second Round<br/>Round of 32<br/>March 17–18
+| RD3=Regional Semifinals<br/>Sweet 16<br/>March 23
+| RD4=Regional Final<br/>Elite 8<br/>March 25
+| subgroup1=[[PPG Paints Arena|Pittsburgh]] – Thu/Sat
+| subgroup2=[[Viejas Arena|San Diego]] – Fri/Sun
+| subgroup3=[[American Airlines Center|Dallas]] – Thu/Sat
+| subgroup4=[[Little Caesars Arena|Detroit]] – Fri/Sun
+
+| RD1-seed01=1
+| RD1-team01='''[[2017–18 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-score01='''87'''
+| RD1-seed02=16
+| RD1-team02=[[2017–18 Radford Highlanders men's basketball team|Radford]]
+| RD1-score02=61
+
+| RD1-seed03=8
+| RD1-team03=[[2017–18 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+| RD1-score03=83
+| RD1-seed04=9
+| RD1-team04='''[[2017–18 Alabama Crimson Tide men's basketball team|Alabama]]'''
+| RD1-score04='''86'''
+
+| RD1-seed05=5
+| RD1-team05='''[[2017–18 West Virginia Mountaineers men's basketball team|West Virginia]]'''
+| RD1-score05='''85'''
+| RD1-seed06=12
+| RD1-team06=[[2017–18 Murray State Racers men's basketball team|Murray State]]
+| RD1-score06=68
+
+| RD1-seed07=4
+| RD1-team07=[[2017–18 Wichita State Shockers men's basketball team|Wichita State]]
+| RD1-score07=75
+| RD1-seed08=13
+| RD1-team08='''[[2017–18 Marshall Thundering Herd men's basketball team|Marshall]]'''
+| RD1-score08='''81'''
+
+| RD1-seed09=6
+| RD1-team09='''[[2017–18 Florida Gators men's basketball team|Florida]]'''
+| RD1-score09='''77'''
+| RD1-seed10=11
+| RD1-team10=[[2017–18 St. Bonaventure Bonnies men's basketball team|St. Bonaventure]]
+| RD1-score10=62
+
+| RD1-seed11=3
+| RD1-team11='''[[2017–18 Texas Tech Red Raiders men's basketball team|Texas Tech]]'''
+| RD1-score11='''70'''
+| RD1-seed12=14
+| RD1-team12=[[2017–18 Stephen F. Austin Lumberjacks basketball team|Stephen F. Austin]]
+| RD1-score12=60
+
+| RD1-seed13=7
+| RD1-team13=[[2017–18 Arkansas Razorbacks men's basketball team|Arkansas]]
+| RD1-score13=62
+| RD1-seed14=10
+| RD1-team14='''[[2017–18 Butler Bulldogs men's basketball team|Butler]]'''
+| RD1-score14='''79'''
+
+| RD1-seed15=2
+| RD1-team15='''[[2017–18 Purdue Boilermakers men's basketball team|Purdue]]'''
+| RD1-score15='''74'''
+| RD1-seed16=15
+| RD1-team16=[[2017–18 Cal State Fullerton Titans men's basketball team|Cal State Fullerton]]
+| RD1-score16=48
+
+| RD2-seed01=1
+| RD2-team01='''Villanova'''
+| RD2-score01='''81'''
+| RD2-seed02=9
+| RD2-team02=Alabama
+| RD2-score02=58
+
+| RD2-seed03=5
+| RD2-team03='''West Virginia'''
+| RD2-score03='''94'''
+| RD2-seed04=13
+| RD2-team04=Marshall
+| RD2-score04=71
+
+| RD2-seed05=6
+| RD2-team05=Florida
+| RD2-score05=66
+| RD2-seed06=3
+| RD2-team06='''Texas Tech'''
+| RD2-score06='''69'''
+
+| RD2-seed07=10
+| RD2-team07=Butler
+| RD2-score07=73
+| RD2-seed08=2
+| RD2-team08='''Purdue'''
+| RD2-score08='''76'''
+
+| RD3-seed01=1
+| RD3-team01='''Villanova'''
+| RD3-score01='''90'''
+| RD3-seed02=5
+| RD3-team02=West Virginia
+| RD3-score02=78
+
+| RD3-seed03=3
+| RD3-team03='''Texas Tech'''
+| RD3-score03='''78'''
+| RD3-seed04=2
+| RD3-team04=Purdue
+| RD3-score04=65
+
+| RD4-seed01=1
+| RD4-team01='''Villanova'''
+| RD4-score01='''71'''
+| RD4-seed02=3
+| RD4-team02=Texas Tech
+| RD4-score02=59
+}}
+
+====East Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 25
+ | time = 2:20 pm [[Eastern Daylight Time (North America)|EDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2018/03/25/texas-tech-villanova  Box score]
+ | team1 = #3 Texas Tech Red Raiders
+ | score1 = 59
+ | team2 = '''#1 Villanova Wildcats'''
+ | score2 = '''71'''
+ | points1 = [[Keenan Evans|K. Evans]] – 12
+ | rebounds1 = J. Gray – 9
+ | assist1 = [[Keenan Evans|K. Evans]] - 4
+ | otherstat1 = 
+ | points2 = [[Jalen Brunson|J. Brunson]] – 15
+ | rebounds2 = [[Eric Paschall|E. Paschall]] – 14
+ | assist2 = [[Jalen Brunson|J. Brunson]] – 4
+ | H1 = 23–36
+ | H2 = 36–35
+ | place = TD Garden – Boston, MA
+ | attendance = 19,169
+ | referee = Terry Oglesby, Mike Reed, Michael Stephens
+ | TV = CBS
+}}
+
+====East Regional all tournament team====
+* [[Jalen Brunson]] (Jr, Villanova) – East Regional most outstanding player<ref name=eastreg>{{cite tweet |user=marchmadness |number=978072003856003073 |date=March 25, 2018 |title=East Region All-Tournament Team }}</ref>
+* [[Omari Spellman]] (Fr, Villanova)<ref name=eastreg/>
+* [[Eric Paschall]] (Jr, Villanova)<ref name=eastreg/>
+* [[Carsen Edwards]] (So, Purdue)<ref name=eastreg/>
+* [[Keenan Evans]] (Sr, Texas Tech)<ref name=eastreg/>
+
+===Midwest Regional – [[CenturyLink Center Omaha|Omaha, Nebraska]]===
+{{16TeamBracket
+| RD1=First Round<br />Round of 64<br />March 15–16
+| RD2=Second Round<br />Round of 32<br />March 17–18
+| RD3=Regional Semifinals<br />Sweet 16<br />March 23
+| RD4=Regional Final<br />Elite 8<br />March 25
+| subgroup1=[[Intrust Bank Arena|Wichita]] – Thu/Sat
+| subgroup2=[[Viejas Arena|San Diego]] – Fri/Sun
+| subgroup3=[[Little Caesars Arena|Detroit]] – Fri/Sun
+| subgroup4=[[PPG Paints Arena|Pittsburgh]] – Thu/Sat
+
+| RD1-seed01=1
+| RD1-team01='''[[2017–18 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-score01='''76'''
+| RD1-seed02=16
+| RD1-team02=[[2017–18 Penn Quakers men's basketball team|Penn]]
+| RD1-score02=60
+
+| RD1-seed03=8
+| RD1-team03='''[[2017–18 Seton Hall Pirates men's basketball team|Seton Hall]]'''
+| RD1-score03='''94'''
+| RD1-seed04=9
+| RD1-team04=[[2017–18 NC State Wolfpack men's basketball team|NC State]]
+| RD1-score04=83
+
+| RD1-seed05=5
+| RD1-team05='''[[2017–18 Clemson Tigers men's basketball team|Clemson]]'''
+| RD1-score05='''79'''
+| RD1-seed06=12
+| RD1-team06=[[2017–18 New Mexico State Aggies men's basketball team|New Mexico State]]
+| RD1-score06=68
+
+| RD1-seed07=4
+| RD1-team07='''[[2017–18 Auburn Tigers men's basketball team|Auburn]]'''
+| RD1-score07='''62'''
+| RD1-seed08=13
+| RD1-team08=[[2017–18 College of Charleston Cougars men's basketball team|College of Charleston]]
+| RD1-score08=58
+
+| RD1-seed09=6
+| RD1-team09=[[2017–18 TCU Horned Frogs men's basketball team|TCU]]
+| RD1-score09=52
+| RD1-seed10=11
+| RD1-team10='''[[2017–18 Syracuse Orange men's basketball team|Syracuse]]'''
+| RD1-score10='''57'''
+
+| RD1-seed11=3
+| RD1-team11='''[[2017–18 Michigan State Spartans men's basketball team|Michigan State]]'''
+| RD1-score11='''82'''
+| RD1-seed12=14
+| RD1-team12=[[2017–18 Bucknell Bison men's basketball team|Bucknell]]
+| RD1-score12=78
+
+| RD1-seed13=7
+| RD1-team13='''[[2017–18 Rhode Island Rams men's basketball team|Rhode Island]]'''
+| RD1-score13='''83'''*
+| RD1-seed14=10
+| RD1-team14=[[2017–18 Oklahoma Sooners men's basketball team|Oklahoma]]
+| RD1-score14=78
+
+| RD1-seed15=2
+| RD1-team15='''[[2017–18 Duke Blue Devils men's basketball team|Duke]]'''
+| RD1-score15='''89'''
+| RD1-seed16=15
+| RD1-team16=[[2017–18 Iona Gaels men's basketball team|Iona]]
+| RD1-score16=67
+
+| RD2-seed01=1
+| RD2-team01='''Kansas'''
+| RD2-score01='''83'''
+| RD2-seed02=8
+| RD2-team02=Seton Hall
+| RD2-score02=79
+
+| RD2-seed03=5
+| RD2-team03='''Clemson'''
+| RD2-score03='''84'''
+| RD2-seed04=4
+| RD2-team04=Auburn
+| RD2-score04=53
+
+| RD2-seed05=11
+| RD2-team05='''Syracuse'''
+| RD2-score05='''55'''
+| RD2-seed06=3
+| RD2-team06=Michigan State
+| RD2-score06=53
+
+| RD2-seed07=7
+| RD2-team07=Rhode Island
+| RD2-score07=62
+| RD2-seed08=2
+| RD2-team08='''Duke'''
+| RD2-score08='''87'''
+
+| RD3-seed01=1
+| RD3-team01='''Kansas'''
+| RD3-score01='''80'''
+| RD3-seed02=5
+| RD3-team02=Clemson
+| RD3-score02=76
+
+| RD3-seed03=11
+| RD3-team03=Syracuse
+| RD3-score03=65
+| RD3-seed04=2
+| RD3-team04='''Duke'''
+| RD3-score04='''69'''
+
+| RD4-seed01=1
+| RD4-team01='''Kansas'''
+| RD4-score01='''85*'''
+| RD4-seed02=2
+| RD4-team02=Duke
+| RD4-score02=81
+}}
+
+====Midwest Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 25
+ | time = 4:05 pm [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2018/03/25/duke-kansas Box score]
+ | team1 = #2 Duke Blue Devils
+ | score1 = 81
+ | team2 = '''#1 Kansas Jayhawks'''
+ | score2 = '''85'''
+ | points1 = [[Trevon Duval|T. Duval]] – 20
+ | rebounds1 = [[Marvin Bagley III|M. Bagley III]] – 10
+ | assist1 = [[Trevon Duval|T. Duval]] – 6
+ | otherstat1 = 
+ | points2 = [[Malik Newman|M. Newman]] – 32
+ | rebounds2 = [[Sviatoslav Mykhailiuk|S. Mykhailiuk]], [[Silvio De Sousa|S. De Sousa]] – 10
+ | assist2 = [[Devonte' Graham|D. Graham]] - 6
+ | H1 = 36–33
+ | H2 = 36–39
+ | OT = 9–13
+ | place = CenturyLink Center Omaha – Omaha, NE
+ | attendance = 17,579
+ | referee = Roger Ayers, Doug Sirmons, Jeffrey Anderson
+ | TV = CBS
+}}
+
+====Midwest Regional all tournament team====
+* [[Malik Newman]] (So, Kansas) – Midwest Regional most outstanding player<ref name=mwreg>{{cite tweet |user=marchmadness |number=978073503084793862 |date=March 25, 2018 |title=Midwest Region All-Tournament Team }}</ref>
+* [[Trevon Duval]] (Fr, Duke)<ref name=mwreg/>
+* [[Gabe DeVoe]] (Sr, Clemson)<ref name=mwreg/>
+* [[Marvin Bagley III]] (Fr, Duke)<ref name=mwreg/>
+* [[Devonte' Graham]] (Sr, Kansas)<ref name=mwreg/>
+* [[Gary Trent Jr.]] (Fr, Duke)<ref name=mwreg/>
+
+==Final Four==
+During the Final Four round, regardless of the seeds of the participating teams, the champion of the top overall top seed's region (Virginia's South Region) plays against the champion of the fourth-ranked top seed's region (Xavier's West Region), and the champion of the second overall top seed's region (Villanova's East Region) plays against the champion of the third-ranked top seed's region (Kansas's Midwest Region).
+
+===[[Alamodome]] – San Antonio, Texas===
+
+{{4TeamBracket
+| RD1=National Semifinals<br />March 31
+| RD2=National Championship Game<br />April 2
+| score-width=25
+| team-width=130
+| RD1-seed1=S11
+| RD1-team1=[[2017–18 Loyola Ramblers men's basketball team|Loyola–Chicago]]
+| RD1-score1=57
+| RD1-seed2=W3
+| RD1-team2='''[[2017–18 Michigan Wolverines men's basketball team|Michigan]]
+| RD1-score2='''69
+
+| RD1-seed3=E1
+| RD1-team3='''[[2017–18 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-score3='''95'''
+| RD1-seed4=MW1
+| RD1-team4=[[2017–18 Kansas Jayhawks men's basketball team|Kansas]]
+| RD1-score4=79
+
+| RD2-seed1=W3
+| RD2-team1=Michigan
+| RD2-score1=62
+| RD2-seed2=E1
+| RD2-team2='''Villanova'''
+| RD2-score2='''79'''
+}}
+
+====National Semifinals====
+
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 31
+ | time = 5:09 pm [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2018/03/31/loyola-il-michigan Box score]
+ | team1 = #11 Loyola-Chicago Ramblers
+ | score1 = 57
+ | team2 = '''#3 Michigan Wolverines'''
+ | score2 = '''69'''
+ | points1 = [[Cameron Krutwig|C. Krutwig]] – 17
+ | rebounds1 = [[Donte Ingram|D. Ingram]] – 9
+ | assist1 = D. Ingram – 2
+ | otherstat1 = 
+ | points2 = [[Moritz Wagner (basketball)|M. Wagner]] – 24
+ | rebounds2 = [[Moritz Wagner (basketball)|M. Wagner]] – 15
+ | assist2 = [[Zavier Simpson|Z. Simpson]] – 3
+ | H1 = 29–22
+ | H2 = 28–47
+ | place = Alamodome – San Antonio
+ | attendance = 68,257
+ | referee = Roger Ayers, Mike Roberts, Terry Oglesby
+ | TV = TBS
+}}
+{{basketballbox
+ | bg = #fff
+ | date = March 31
+ | time = 7:49 pm [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2018/03/31/kansas-villanova Box score]
+ | team1 = #1 Kansas Jayhawks
+ | score1 = 79
+ | team2 = '''#1 Villanova Wildcats'''
+ | score2 = '''95'''
+ | points1 = [[Devonte' Graham|D. Graham]] – 23
+ | rebounds1 = [[Malik Newman|M. Newman]] – 8
+ | assist1 = [[Devonte' Graham|D. Graham]], [[Sviatoslav Mykhailiuk|S. Mykhailiuk]] – 3
+ | otherstat1 = 
+ | points2 = [[Eric Paschall|E. Paschall]] – 24
+ | rebounds2 = [[Omari Spellman|O. Spellman]] – 13
+ | assist2 = [[Phil Booth (basketball)|P. Booth]], [[Jalen Brunson|J. Brunson]] – 6
+ | H1 = 32–47
+ | H2 = 47–48
+ | place = Alamodome – San Antonio
+ | attendance = 68,257
+ | referee = Randy McCall, Michael Stephens, Kipp Kissinger
+ | TV = TBS
+}}
+
+====National Championship====
+
+{{Main article|2018 NCAA  Division I Men's Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = April 2
+ | time = 8:20 pm [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2018/04/02/michigan-villanova Box score]
+ | team1 = #3 Michigan Wolverines
+ | score1 = 62
+ | team2 = '''#1 Villanova Wildcats'''
+ | score2 = 79
+ | points1 = [[Muhammad-Ali Abdur-Rahkman|M. Abdur-Rahkman]] – 23
+ | rebounds1 = [[Moritz Wagner (basketball)|M. Wagner]] – 7
+ | assist1 = [[Zavier Simpson|Z. Simpson]] – 2
+ | otherstat1 =
+ | points2 = [[Donte DiVincenzo|D. DiVincenzo]] – 31
+ | rebounds2 = [[Omari Spellman|O. Spellman]] – 11
+ | assist2 = [[Donte DiVincenzo|D. DiVincenzo]] – 3
+ | H1 = 28–37
+ | H2 = 34–42
+ | place = Alamodome – San Antonio
+ | attendance = 67,831
+ | referee = Doug Sirmons, Terry Wymer, Jeffrey Anderson
+ | TV = TBS
+}}
+
+====Final Four all-tournament team====
+* [[Donte DiVincenzo]] (So, Villanova) – [[NCAA Basketball Tournament Most Outstanding Player|Final Four Most Outstanding Player]]<ref name=finalfouratt>{{cite web |url=http://www.villanova.com/sports/m-baskbl/spec-rel/040318aaa.html |title=Villanova Wins National Championship For Second Time in Three Years |publisher=villanova.com |date=April 3, 2018 |accessdate=April 3, 2018}}</ref>
+* [[Mikal Bridges]] (Jr, Villanova)<ref name=finalfouratt/>
+* [[Jalen Brunson]] (Jr, Villanova)<ref name=finalfouratt/>
+* [[Eric Paschall]] (Jr, Villanova)<ref name=finalfouratt/>
+* [[Moritz Wagner (basketball)|Moritz Wagner]] (Jr, Michigan)<ref name=finalfouratt/>
+
+==Record by conference==
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+!scope="col"|Conference
+!scope="col"|Bids
+!scope="col"|Record
+!scope="col"|Win %
+!scope="col"|R64
+!scope="col"|R32
+!scope="col"|S16
+!scope="col"|E8
+!scope="col"|F4
+!scope="col"|CG
+!scope="col"|NC
+|-
+!scope="row"|[[Big East Conference|Big East]]
+|6
+|9–5
+|{{winpct|9|5}}
+|6
+|4
+|1
+|1
+|1
+|1
+|1
+|-
+!scope="row"|[[Big Ten Conference|Big Ten]]
+|4
+|9–4
+|{{winpct|9|4}}
+|4
+|4
+|2
+|1
+|1
+|1
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Big 12 Conference|Big 12]]
+|7
+|12–7
+|{{winpct|12|7}}
+|7
+|4
+|4
+|3
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Missouri Valley Conference|Missouri Valley]]
+|1
+|4–1
+|{{winpct|4|1}}
+|1
+|1
+|1
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Atlantic Coast Conference|ACC]]
+|9
+|12–9
+|{{winpct|12|9}}
+|9
+|5
+|4
+|2
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[West Coast Conference|WCC]]
+|1
+|2–1
+|{{winpct|2|1}}
+|1
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Southeastern Conference|SEC]]
+|8
+|8–8
+|{{winpct|8|8}}
+|8
+|6
+|2
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Mountain West Conference|Mountain West]]
+|2
+|2–2
+|{{winpct|2|2}}
+|2
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[American Athletic Conference|American]]
+|3
+|2–3
+|{{winpct|2|3}}
+|3
+|2
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Atlantic 10 Conference|Atlantic 10]]
+|3
+|2–3
+|{{winpct|2|3}}
+|3
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[America East Conference|America East]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Conference USA|C-USA]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Mid-American Conference|MAC]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Big South Conference|Big South]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Southwestern Athletic Conference|SWAC]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Pac-12 Conference|Pac-12]]
+|3
+|0–3
+|{{winpct|0|3}}
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|}
+{{reflist|group=note|close}}
+*The R64, R32, S16, E8, F4, CG, and NC columns indicate how many teams from each conference were in the round of 64 (first round), round of 32 (second round), Sweet 16, Elite Eight, Final Four, championship game, and national champion, respectively.
+*The "Record" column includes wins in the First Four for the ACC, Atlantic 10, Big South, and SWAC conferences and two losses in the First Four for the Pac-12 conference.
+*The MEAC and NEC conferences each had one representative, eliminated in the First Four with a record of 0–1.
+*The Atlantic Sun, Big Sky, Big West, CAA, Horizon, Ivy League, MAAC, Ohio Valley, Patriot, Southern, Southland, Summit, Sun Belt and WAC conferences each had one representative, eliminated in the First Round with a record of 0–1.
+
+The Pac-12 lost all of its teams after the first day of the main tournament draw, marking the first time since the Big 12 began play in 1996 that one of the six major conferences—defined as the ACC, Big Ten, Big 12, Pac-12, SEC, and [[Big East Conference (1979–2013)|both]] [[Big East Conference|versions]] of the Big East—failed to have a team advance to the tournament's round of 32.<ref>{{cite news|url=http://www.espn.com/mens-college-basketball/story/_/id/22785553/ncaa-tournament-fast-unprecedented-fall-pac-12 |title=The fast and unprecedented fall of the Pac-12 |first=Myron |last=Medcalf |website=ESPN.com |date=March 16, 2018 |accessdate=March 16, 2018}}</ref>
+
+==Media coverage==
+===Television===
+[[CBS Sports]] and [[Turner Sports]] had U.S. television rights to the Tournament under the ''[[NCAA March Madness (CBS/Turner)|NCAA March Madness]]'' brand. As part of a cycle beginning in 2016, TBS held the rights to the Final Four and to the championship game.<ref>{{cite web |title=2018 NCAA Division I Men's Basketball Championship commentator teams announced |url=https://www.ncaa.com/news/basketball-men/article/2018-03-05/2018-ncaa-division-i-mens-basketball-championship-commentator |publisher=NCAA |accessdate=March 5, 2018 |date=February 7, 2018}}</ref> 
+
+For the first time, TBS held the rights to the 2018 Selection Show, which expanded into a two-hour format, was presented in front of a studio audience, and promoted that the entire field of the tournament would be unveiled within the first ten minutes of the broadcast.<ref>{{Cite news |url=https://www.washingtonpost.com/entertainment/tv/selection-show-tournament-teams-revealed-in-1st-10-minutes/2018/03/06/98632aa8-215d-11e8-946c-9420060cb7bd_story.html |title=Selection show: Tournament teams revealed in 1st 10 minutes |agency=Associated Press |last=Russo  |first=Ralph D. |date=March 6, 2018 |newspaper=Washington Post |access-date=March 12, 2018 |issn=0190-8286}}</ref> However, this entailed the 68-team field  (beginning with automatic qualifiers, followed by at-large teams) being revealed in alphabetical order, and not by bracket matchups (which was done later in the show). The new format was criticized for lacking suspense, and the show also faced criticism for technical issues, as well as a segment containing [[product placement]] for [[Pizza Hut]].<ref>{{Cite news |url=https://www.boston.com/sports/college-sports/2018/03/12/tbs-really-made-a-mess-of-the-ncaa-selection-show |title=TBS really made a mess of the NCAA selection show |date=March 12, 2018 |work=Boston.com |access-date=March 12, 2018}}</ref><ref>{{Cite news |url=https://www.sbnation.com/college-basketball/2018/3/11/17107550/2018-selection-show-ncaa-tournament |title=6 ways the NCAA bracket selection show was pretty odd |work=SBNation.com |access-date=March 12, 2018}}</ref><ref>{{Cite news |url=http://www.stltoday.com/sports/college/mizzou/media-views-ncaa-tourney-selection-show-loses-suspense-adds-immediacy/article_4b202688-4129-55d7-ae24-9ca6883ebcad.html |title=Media Views: NCAA tourney 'Selection Show' loses suspense, adds immediacy |last=Caesar |first=Dan |work=stltoday.com |access-date=March 12, 2018}}</ref>
+
+====Television channels====
+*First Four – [[TruTV]]
+*First and Second Rounds – [[CBS]], [[TBS (U.S. TV channel)|TBS]], [[TNT (U.S. TV network)|TNT]], and TruTV
+*Regional Semifinals and Finals (Sweet Sixteen and Elite Eight) – CBS and TBS
+*National Semifinals (Final Four) and Championship – TBS
+
+====Studio hosts====
+* [[Greg Gumbel]] (New York City and San Antonio) – First Round, Second Round, Regionals, Final Four and National Championship Game
+* [[Ernie Johnson Jr.]] (New York City, Atlanta, and San Antonio) – First Round, Second Round, Regional Semi-Finals, Final Four and National Championship Game
+* [[Casey Stern]] (Atlanta) – First Four, First Round and Second Round
+
+====Studio analysts====
+* [[Charles Barkley]] (New York City and San Antonio) – First Round, Second Round, Regionals, Final Four and National Championship Game
+* [[Seth Davis]] (Atlanta and San Antonio) – First Four, First Round, Second Round, Regional Semi-Finals, Final Four and National Championship Game
+* [[Brendan Haywood]] (Atlanta and San Antonio) – First Four, First Round, Second Round, Regional Semi-Finals and Final Four
+* [[Clark Kellogg]] (New York City and San Antonio) – First Round, Second Round, Regionals, Final Four and National Championship Game
+* [[Gregg Marshall]] (Atlanta) – Regional Semi-Finals
+* [[Frank Martin (basketball)|Frank Martin]] (Atlanta) – Second Round
+* [[Candace Parker]] (Atlanta and San Antonio) – First Four, First Round, Second Round, Regional Semi-Finals and Final Four
+* [[Kenny Smith]] (New York City and San Antonio) – First Round, Second Round, Regionals, Final Four and National Championship Game
+* [[Wally Szczerbiak]] (New York City) – Second Round
+* [[Brad Underwood]] (Atlanta) – First Round
+* [[Christian Laettner]] (San Antonio) – Final Four
+* [[Danny Manning]] (San Antonio) – Final Four
+* [[Kris Jenkins (basketball)|Kris Jenkins]] (San Antonio) – Final Four
+
+====Commentary teams====
+* [[Jim Nantz]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – First and Second Rounds at Charlotte, North Carolina; Midwest Regional at Omaha, Nebraska; Final Four and National Championship at San Antonio, Texas
+* [[Brian Anderson (broadcaster)|Brian Anderson]]/[[Chris Webber]]/[[Lisa Byington]] – First and Second Rounds at Boise, Idaho; South Regional at Atlanta, Georgia
+* [[Ian Eagle]]/[[Jim Spanarkel]]/[[Allie LaForce]] – First Four at Dayton, Ohio (Wednesday); First and Second Rounds at Detroit, Michigan; East Regional at Boston, Massachusetts
+* [[Kevin Harlan]]/[[Reggie Miller]]/[[Dan Bonner]]/[[Dana Jacobson]] – First and Second Rounds at Pittsburgh, Pennsylvania; West Regional at Los Angeles, California
+* [[Brad Nessler]]/[[Steve Lavin]]/[[Evan Washburn]] – First and Second Rounds at Wichita, Kansas
+* [[Spero Dedes]]/[[Steve Smith (basketball)|Steve Smith]]/[[Len Elmore]]/[[Rosalyn Gold-Onwude]] – First Four at Dayton, Ohio (Tuesday); First and Second Rounds at Dallas, Texas
+* [[Andrew Catalon]]/[[Steve Lappas]]/[[Jamie Erdahl]] – First and Second Rounds at Nashville, Tennessee
+* [[Carter Blackburn]]/[[Debbie Antonelli]]/[[John Schriffen]] – First and Second Rounds at San Diego, California
+
+=====''Team Stream'' broadcasts=====
+;Final Four
+*[[Matt Park]]/[[Jay Feely]]/[[Dr. Sanjay Gupta]] – Michigan Team Stream on TNT
+*[[Jeff Hagedorn]]/[[Jerry Harkness]]/[[Shams Charania]] – Loyola–Chicago Team Stream on truTV
+*[[Dave Armstrong (sportscaster)|Dave Armstrong]]/[[Scot Pollard]]/[[Rob Riggle]]– Kansas Team Stream on TNT
+*[[Scott Graham]]/[[Randy Foye]]/[[Kacie McDonnell]] – Villanova Team Stream on truTV
+;National Championship Game
+*[[Matt Park]]/[[Jay Feely]]/[[Dr. Sanjay Gupta]] – Michigan Team Stream on TNT
+*[[Scott Graham]]/[[Randy Foye]]/[[Kacie McDonnell]] – Villanova Team Stream on truTV
+
+===Radio===
+[[Westwood One (current)|Westwood One]] had exclusive radio rights to the entire tournament.
+{{col-begin}}
+{{col-2}}
+
+====First Four====
+*[[Ted Emrich]] and [[Austin Croshere]] – at Dayton, Ohio
+
+====First and Second rounds====
+*[[Scott Graham]] and [[Kelly Tripucka]] – Pittsburgh, Pennsylvania
+*[[Brandon Gaudin]] and [[Donny Marshall]] – Wichita, Kansas
+*[[Ryan Radtke]] and [[Jim Jackson (basketball)|Jim Jackson]] – Dallas, Texas
+*[[Jason Benetti]] and [[Dan Dickau]] – Boise, Idaho
+*[[Kevin Kugler]] and [[Eric Montross]]/[[John Thompson (basketball)|John Thompson]] – Charlotte, North Carolina (Montross – Friday night; Thompson – Friday Afternoon & Sunday)
+*[[Chris Carrino]] and [[P. J. Carlesimo]] – Detroit, Michigan
+*Ted Emrich – Friday Afternoon/[[Craig Way]] – Friday Night & Sunday and [[Will Perdue]] – Nashville, Tennessee 
+*[[John Sadak]] and [[Mike Montgomery]] – San Diego, California
+{{col-2}}
+
+====Regionals====
+*[[Gary Cohen]] and P. J. Carlesimo – East Regional at Boston, Massachusetts
+*Kevin Kugler and Donny Marshall – Midwest Regional at Omaha, Nebraska
+*Brandon Gaudin and John Thompson – South Regional at Atlanta, Georgia
+*[[Tom McCarthy (sportscaster)|Tom McCarthy]] and Jim Jackson – West Regional at Los Angeles, California
+
+====Final four====
+*Kevin Kugler, John Thompson, Clark Kellogg, and [[Jim Gray (sportscaster)|Jim Gray]] – San Antonio, Texas
+{{col-end}}
+
+===Internet===
+====Video====
+Live video of games was available for streaming through the following means:<ref name="2017 TV">{{cite web|last1=Maiman|first1=Beth|title=March Madness TV schedule: How to watch and live stream every game in the NCAA men's basketball tournament|url=https://www.ncaa.com/news/basketball-men/article/march-madness-2017-tv-schedule-how-watch-and-live-stream|publisher=NCAA|accessdate=March 9, 2017|date=March 8, 2017}}</ref>
+* NCAA March Madness Live (website and app, no CBS games on [[digital media player]]s; access to games on Turner channels requires [[TV Everywhere]] authentication through provider; 3 hour preview for Turner games is provided before authentication is required)
+* [[CBS All Access]] (only CBS games, service subscription required)
+* [[CBSSports.com|CBS Sports website]] and app (only CBS games)
+* [[Bleacher Report]] website and ''Team Stream'' app (only Turner games, access requires subscription)
+* Watch TBS website and app (only TBS games, requires TV Everywhere authentication)
+* Watch TNT website and app (only TNT games, requires TV Everywhere authentication)
+* Watch truTV website and app (only truTV games, requires TV Everywhere authentication)
+* Websites and apps of cable, satellite, and OTT providers of CBS & Turner (access requires subscription)
+
+====Audio====
+Live audio of games was available for streaming through the following means:
+* NCAA March Madness Live (website and app)
+* Westwood One Sports website
+* [[TuneIn]] (website and app)
+* Websites and apps of Westwood One Sports affiliates
+
+==See also==
+{{Portal|College basketball}}
+* [[2018 NCAA Division II Men's Basketball Tournament]]
+* [[2018 NCAA Division III Men's Basketball Tournament]]
+* [[2018 NAIA Division I Men's Basketball Tournament]]
+* [[2018 U Sports Men's Basketball Championship]]
+* [[2018 UMBC vs. Virginia men's basketball game]]
+
+==References==
+{{reflist}}
+
+{{NCAA Men's Division I Basketball Tournament navbox}}
+{{2018 NCAA Division I men's basketball tournament navbox}}
+{{2017–18 NCAA Division I championships navbox}}
+
+{{DEFAULTSORT:2018 ncaa Men's Division I Basketball Tournament}}
+[[Category:2017–18 NCAA Division I men's basketball season|Ncaa Tournament]]
+[[Category:NCAA Division I Men's Basketball Tournament]]
+[[Category:Basketball in San Antonio]]
+[[Category:2018 in sports in Texas|NCAA Division I Men's Basketball]]
+[[Category:21st century in San Antonio]]
