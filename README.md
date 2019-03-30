@@ -30,6 +30,7 @@ After #16 seed UMBC became the first to beat a #1 seed, I was curious what the h
 (2014) 25:            Tennessee 11 vs 14 Mercer
 (2015) 25:                 UCLA 11 vs 14 UAB
 (2016) 25:             Syracuse 10 vs 15 Middle Tennessee
+(2018) 25:                 UMBC 16 vs  9 Kansas State
 (1997) 24:          Chattanooga 14 vs 10 Providence
 (1993) 22:               Temple  7 vs 15 Santa Clara
 (2012) 22:              Florida  7 vs 15 Norfolk State
@@ -113,6 +114,7 @@ The least crazy was [2008's final four][2008], the only with four 1 seeds.
 18 2014          Florida (1)     Connecticut (7)        Wisconsin ( 2)        Kentucky ( 8)
 18 2013       Louisville (1)   Wichita State (9)         Michigan ( 4)        Syracuse ( 4)
 15 2016        Villanova (2)        Oklahoma (2)   North Carolina ( 1)        Syracuse (10)
+16 2018  Loyola–Chicago (11)       Michigan ( 3)        Villanova ( 1)          Kansas ( 1)
 15 1986             Duke (1)          Kansas (1)              LSU (11)      Louisville ( 2)
 13 2010   Michigan State (5)          Butler (5)    West Virginia ( 2)            Duke ( 1)
 13 1992             Duke (1)         Indiana (2)        Michigan# ( 6)      Cincinnati ( 4)
