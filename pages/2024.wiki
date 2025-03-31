@@ -1,0 +1,2073 @@
+{{Short description|American college basketball tournament}}
+{{Use mdy dates|date=August 2023}}
+{{Infobox NCAA Basketball Tournament
+| Year            = 2024
+| Image           = File:2024 NCAA Men's Final Four logo.svg
+| Caption         =
+| Teams           = 68
+| FinalFourArena  = [[State Farm Stadium]]
+| FinalFourCity   = [[Glendale, Arizona]]
+| Champions       =[[2023–24 UConn Huskies men's basketball team|UConn Huskies]]
+| TitleCount      = 6th
+| ChampGameCount  = 6th
+| ChampFFCount    = 7th
+| RunnerUp        =[[2023–24 Purdue Boilermakers men's basketball team|Purdue Boilermakers]]
+| GameCount       = 2nd
+| RunnerFFCount   = 3rd
+| Semifinal1      = [[2023–24 Alabama Crimson Tide men's basketball team|Alabama Crimson Tide]]
+| FinalFourCount  = 1st
+| Semifinal2      = [[2023–24 NC State Wolfpack men's basketball team|North Carolina State Wolfpack]]
+| FinalFourCount2 = 4th
+| Coach           = [[Dan Hurley]]
+| CoachCount      = 2nd
+| MOP             = [[Tristen Newton]]
+| MOPTeam         = UConn Huskies
+| Attendance      = 713,877
+| OneTopScorer    =
+| TwoTopScorers   =
+| TopScorer       = [[Zach Edey]]
+| TopScorerTeam   = Purdue Boilermakers
+| TopScorer2      = 
+| TopScorerTeam2  = 
+| Points          = 177
+}}
+The '''2024 NCAA Division I men's basketball tournament''' involved 68 teams playing in a [[single-elimination tournament]] to determine the [[National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] men's [[College basketball|basketball]] national champion for the [[2023–24 NCAA Division I men's basketball season|2023–24 season]]. The 85th annual edition of [[NCAA Division I Men's Basketball Tournament|the tournament]] began on March 19, 2024, and concluded with the [[2023–24 UConn Huskies men's basketball team|UConn Huskies]] successfully defending their title to become the first repeat champion since [[2006–07 Florida Gators men's basketball team|Florida]] in [[2007 NCAA Division I men's basketball tournament|2007]], defeating the [[2023–24 Purdue Boilermakers men's basketball team|Purdue Boilermakers]] 75–60 in the [[2024 NCAA Division I men's basketball championship game|championship game]] on April 8, at [[State Farm Stadium]] in [[Glendale, Arizona]].<ref name="Futures-info" />
+
+[[ASUN Conference|ASUN]] champion [[2023–24 Stetson Hatters men's basketball team|Stetson]] and [[Southwestern Athletic Conference|SWAC]] champion [[2023–24 Grambling State Tigers men's basketball team|Grambling State]] made their NCAA tournament debuts. Additionally, [[2023–24 Duquesne Dukes men's basketball team|Duquesne]] made its first appearance since [[1977 NCAA Division I basketball tournament|1977]], [[2023–24 Samford Bulldogs men's basketball team|Samford]] made its first appearance since [[2000 NCAA Division I men's basketball tournament|2000]], [[2023–24 McNeese Cowboys basketball team|McNeese]] made its first appearance since [[2002 NCAA Division I men's basketball tournament|2002]], and [[2023–24 Wagner Seahawks men's basketball team|Wagner]] made its second-ever appearance, its first since [[2003 NCAA Division I men's basketball tournament|2003]].
+
+The first round of the tournament saw the [[Southeastern Conference]] (SEC) struggle, with only three out of the initial eight teams advancing to the next round.<ref>{{cite web|url=https://collegesportswire.usatoday.com/lists/sec-basketball-first-round-ncaa-tournament-kentucky-auburn-tennessee/|title=Disaster performance by SEC in first round of 2024 NCAA Tournament|date=March 22, 2024|access-date=April 7, 2024|work=College Sports Wire|author=Patton, Andy}}</ref><ref>{{cite web | url=https://www.wtvm.com/2024/03/23/alabama-defeats-charleston-109-96-becomes-third-team-sec-advance-ncaa-tournament/ | title=Alabama defeats Charleston 109-96, becomes third SEC team to advance in NCAA tournament | date=March 23, 2024|author=Collins, Mackenzie|website=wtvm.com}}</ref> Three SEC teams suffered first-round [[#Tournament upsets|upsets]]. On the other hand, the [[Pac-12 Conference]] saw all four of their teams advance to the second round, though [[2023–24 Arizona Wildcats men's basketball team|Arizona]] was the only team in the conference to make the Sweet Sixteen.<ref>{{Cite web |title=March Madness winners and losers: Pac-12 riding high after perfect first round |url=https://www.usatoday.com/story/sports/ncaab/2024/03/22/march-madness-first-round-winners-losers-pac-12/73071734007/ |access-date=2024-03-24 |website=USA TODAY |language=en-US}}</ref>
+
+This was the first NCAA tournament since [[2019 NCAA Division I men's basketball tournament|2019]] to not see a 15-seed defeat a 2-seed. All the 1 and 2-seeds advanced to the Sweet Sixteen, marking only the fifth time it has happened and the first since 2019.<ref>{{Cite web |first=Teresa |last=Walker |title=Houston gives top 8 seeds clean sweep to Sweet 16, holding off Aggies 100-95 |url=https://apnews.com/article/march-madness-houston-aggies-533e8672c7a7ffa2b4e8e67848bcf063 |date=March 25, 2024 |access-date=March 25, 2024 |website=AP |language=en-US}}</ref> Also, with No. 11 seeded [[2023–24 NC State Wolfpack men's basketball team|NC State]] advancing to the Sweet Sixteen, this marked the 16th consecutive tournament where a double-digit seed made the regional semifinals. The Wolfpack eventually became the sixth 11-seed to reach the Final Four.
+
+The Final Four consisted of UConn (second consecutive appearance), [[2023–24 Alabama Crimson Tide men's basketball team|Alabama]] (their first Final Four appearance in program history), NC State (first appearance since [[1983 NCAA Division I men's basketball tournament|1983]]), and Purdue (first appearance since [[1980 NCAA Division I basketball tournament|1980]]).
+
+With No. 1 overall seed UConn winning the championship, this was the first time that the top overall seed won the tournament since [[2011–12 Kentucky Wildcats men's basketball team|Kentucky]] in [[2012 NCAA Division I men's basketball tournament|2012]], along with becoming the first defending champion to advance to the Sweet Sixteen since 2016.{{efn-ua|[[2012–13 Louisville Cardinals men's basketball team|Louisville]] won the tournament the [[2013 NCAA Division I men's basketball tournament|following year]] as the top overall seed; however, their title later was vacated due to a [[2015 University of Louisville basketball sex scandal|sex scandal]].}} 
+
+==Tournament procedure==
+{{further|NCAA Division I Men's Basketball Tournament#Format}}
+
+A total of 68 teams entered the 2024 tournament. A total of 32 automatic bids are awarded to each program that won a [[List of NCAA conferences#Division I|conference]] tournament. The remaining 36 bids are issued "at-large", with selections extended by the [[NCAA basketball tournament selection process|NCAA Selection Committee]]. The Selection Committee also [[Seed (sports)|seeds]] the entire field from 1 to 68.
+
+Eight teams (the four-lowest seeded automatic qualifiers and the four lowest-seeded at-large teams) played in the [[First Four]]. The winners of those games advanced to the main tournament [[Bracket (tournament)|bracket]].
+
+{|class="wikitable sortable plainrowheaders"
+|+First four out
+|-
+!scope="col"|[[NCAA Evaluation Tool|NET]]
+!scope="col" style="width:130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+|-
+|align=center|46
+!scope="row" style="text-align:left"|[[2023–24 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[Big 12 Conference|Big 12]]
+|align=center|20–12
+|-
+|align=center|67
+!scope="row" style="text-align:left"|[[2023–24 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[Big East Conference|Big East]]
+|align=center|20–12
+|-
+|align=center|29
+!scope="row" style="text-align:left"|[[2023–24 Indiana State Sycamores men's basketball team|Indiana State]]
+|[[Missouri Valley Conference|MVC]]
+|align=center|28–6
+|-
+|align=center|40
+!scope="row" style="text-align:left"|[[2023–24 Pittsburgh Panthers men's basketball team|Pittsburgh]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|22–11
+|}
+
+==2024 NCAA Tournament schedule and venues==
+The following are the sites selected to host each round of the 2024 tournament:<ref name="Futures-info">{{cite web|url=https://www.ncaa.com/mens-final-four/future-info|accessdate=March 30, 2012|publisher=[[NCAA]]|title=Future Dates & Sites}}</ref>
+{{Location map+|USA|width=455|float=right|caption=2024 First Four (orange) and first and second rounds (green)|places=
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.7404|lon_deg=-84.1792|position=right|background=#FFFFFF|label=Dayton|link=UD Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.682662|lon_deg=-73.975225|position=right|background=#FFFFFF|label=Brooklyn|link=Barclays Center}}  
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.225|lon_deg=-80.839167|position=left|background=#FFFFFF|label=Charlotte|link=Spectrum Center (arena)}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.763889|lon_deg=-86.155556|position=left|background=#FFFFFF|label=Indianapolis|link=Gainbridge Fieldhouse}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.263|lon_deg=-95.928|position=top|background=#FFFFFF|label=Omaha|link=CHI Health Center Omaha}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.439444|lon_deg=-79.989167|position=top|background=#FFFFFF|label=Pittsburgh|link=PPG Paints Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.768333|lon_deg=-111.901111|position=bottom|background=#FFFFFF|label=Salt Lake City|link=Vivint Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=47.666|lon_deg=-117.423|position=bottom|background=#FFFFFF|label=Spokane|link=Spokane Veterans Memorial Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=35.138333|lon_deg=-90.050556|position=bottom|background=#FFFFFF|label=Memphis|link=FedExForum}} 
+}}
+{{Location map+|USA|width=455|float=right|caption=2024 Regionals (blue) and '''Final Four''' (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=42.366303|lon_deg=-71.062228|position=left|background=#FFFFFF|label=Boston|link=TD Garden}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=32.790556|lon_deg=-96.810278|position=right|background=#FFFFFF|label=Dallas|link=American Airlines Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=42.341111|lon_deg=-83.055|position=bottom|background=#FFFFFF|label=Detroit|link=Little Caesars Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=34.043056|lon_deg=-118.267222|position=top|background=#FFFFFF|label=Los Angeles|link=Crypto.com Arena}}
+{{location map~|USA|mark=red pog.svg|lat_deg=33.528|lon_deg=-112.263|position=right|background=#FFFFFF|label='''Glendale'''|link=State Farm Stadium}}
+}}
+
+'''First Four'''
+*March 19 and 20
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+'''First and Second Rounds''' (Subregionals)
+*March 21 and 23
+**[[Spectrum Center (arena)|Spectrum Center]], [[Charlotte, North Carolina]] (Host: [[University of North Carolina at Charlotte]])
+**[[CHI Health Center Omaha|CHI Health Center]], [[Omaha, Nebraska]] (Host: [[Creighton University]])
+**[[PPG Paints Arena]], [[Pittsburgh|Pittsburgh, Pennsylvania]] (Host: [[Duquesne University]])
+**[[Vivint Arena|Delta Center]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
+*March 22 and 24
+**[[Barclays Center]], [[Brooklyn|Brooklyn, New York]] (Host: [[Atlantic 10 Conference]])
+**[[Gainbridge Fieldhouse]], [[Indianapolis|Indianapolis, Indiana]] (Host: [[IUPUI]], [[Horizon League]])
+**[[FedExForum]], [[Memphis, Tennessee]] (Host: [[University of Memphis]])
+**[[Spokane Veterans Memorial Arena]], [[Spokane, Washington]] (Host: [[University of Idaho]])
+
+'''Regional Semi-Finals and Finals''' (Sweet Sixteen and Elite Eight)
+*March 28 and 30
+**'''East Regional'''
+***[[TD Garden]], [[Boston|Boston, Massachusetts]] (Host: [[Boston College]])
+**'''West Regional'''
+***[[Crypto.com Arena]], [[Los Angeles|Los Angeles, California]] (Host: [[Pepperdine University]])
+*March 29 and 31
+**'''South Regional'''
+***[[American Airlines Center]], [[Dallas|Dallas, Texas]] (Host: [[Big 12 Conference]])
+**'''Midwest Regional'''
+***[[Little Caesars Arena]], [[Detroit|Detroit, Michigan]] (Hosts: [[University of Detroit Mercy]], [[Oakland University]])
+
+'''National Semifinals and Championship''' (Final Four)
+*April 6 and 8
+**[[State Farm Stadium]], [[Glendale, Arizona]] (Host: [[Arizona State University]])
+
+Glendale hosted the Final Four for the second time, having previously hosted in [[2017 NCAA Division I Men's Basketball Tournament|2017]].
+
+==Qualification and selection of teams==
+{{Further|2024 NCAA Division I men's basketball tournament qualifying teams}}
+The 68 teams came from 34 states and the District of Columbia.
+
+{{Location map+|USA2|width=800|float=center|caption=Teams that participated in the 2024 tournament. South Region (red), East Region (blue), Midwest Region (green), and West Region (purple)|places= 
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=38.189|lon_deg=-83.431|position=right|background=#FFFFFFAA|label=[[2023–24 Morehead State Eagles men's basketball team|Morehead State]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=37.3015|lon_deg=-78.3942|position=right|background=#FFFFFFAA|label=[[2023–24 Longwood Lancers men's basketball team|Longwood]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=41.6022|lon_deg=-93.6541|position=bottom|background=#FFFFFFAA|label=[[2023–24 Drake Bulldogs men's basketball team|Drake]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=29.035|lon_deg=-81.3026|position=right|background=#FFFFFFAA|label=[[2023–24 Stetson Hatters men's basketball team|Stetson]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=38.4384|lon_deg=-78.8737|position=top|background=#FFFFFFAA|label=[[2023–24 James Madison Dukes men's basketball team|JMU]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=33.4649|lon_deg=-86.7937|position=right|background=#FFFFFFAA|label=[[2023–24 Samford Bulldogs men's basketball team|Samford]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=40.6149664|lon_deg=-74.095729|position=right|background=#FFFFFFAA|label=[[2023–24 Wagner Seahawks men's basketball team|Wagner]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=42.673972|lon_deg=-83.213158|position=top|background=#FFFFFFAA|label=[[2023–24 Oakland Golden Grizzlies men's basketball team|Oakland]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=32.7841|lon_deg=-79.9381|position=right|background=#FFFFFFAA|label=[[2023–24 College of Charleston Cougars men's basketball team|Charleston]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=37.841247|lon_deg=-122.106409|position=top|background=#FFFFFFAA|label=[[2023–24 Saint Mary's Gaels men's basketball team|Saint Mary's]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=44.318056|lon_deg=-96.783333|position=top|background=#FFFFFFAA|label=[[2023–24 South Dakota State Jackrabbits men's basketball team|South Dakota State]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=30.13698|lon_deg=-93.211476|position=top|background=#FFFFFFAA|label=[[2023–24 McNeese Cowboys basketball team|McNeese]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=42.8194|lon_deg=-75.5364|position=top|background=#FFFFFFAA|label=[[2023–24 Colgate Raiders men's basketball team|Colgate]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=45.668333|lon_deg=-111.05|position=right|background=#FFFFFFAA|label=[[2023–24 Montana State Bobcats men's basketball team|Montana State]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=44.4779|lon_deg=-73.1965|position=right|background=#FFFFFFAA|label=[[2023–24 Vermont Catamounts men's basketball team|Vermont]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=38.922222|lon_deg=-77.019444|position=right|background=#FFFFFFAA|label=[[2023–24 Howard Bison men's basketball team|Howard]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=42.0266|lon_deg=-93.6465|position=top|background=#FFFFFFAA|label=[[2023–24 Iowa State Cyclones men's basketball team|Iowa State]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=35.08389|lon_deg=-106.61861|position=right|background=#FFFFFFAA|label=[[2023–24 New Mexico Lobos men's basketball team|New Mexico]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=41.8072|lon_deg=-72.2525|position=right|background=#FFFFFFAA|label=[[2023–24 UConn Huskies men's basketball team|UConn]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=41.0752|lon_deg=-81.5115|position=top|background=#FFFFFFAA|label=[[2023–24 Akron Zips men's basketball team|Akron]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=40.727222|lon_deg=-74.071667|position=left|background=#FFFFFFAA|label=[[2023–24 Saint Peter's Peacocks men's basketball team|Saint Peter's]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=35.7872|lon_deg=-78.6705|position=right|background=#FFFFFFAA|label=[[2023–24 NC State Wolfpack men's basketball team|NC State]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=36.986111|lon_deg=-86.455556|position=left|background=#FFFFFFAA|label=[[2023–24 Western Kentucky Hilltoppers basketball team|WKU]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=44.0448|lon_deg=-123.0726|position=right|background=#FFFFFFAA|label=[[2023–24 Oregon Ducks men's basketball team|Oregon]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=33.783022|lon_deg=-118.112858|position=top|background=#FFFFFFAA|label=[[2023–24 Long Beach State Beach men's basketball team|Long Beach State]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=32.5252|lon_deg=-92.7153|position=bottom|background=#FFFFFFAA|label=[[2023–24 Grambling State Tigers men's basketball team|Grambling]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=33.5125|lon_deg=-112.13|position=top|background=#FFFFFFAA|label=[[2023–24 Grand Canyon Antelopes men's basketball team|Grand Canyon]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=41.316389|lon_deg=-72.922222|position=right|background=#FFFFFFAA|label=[[2023–24 Yale Bulldogs men's basketball team|Yale]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=40.436111|lon_deg=-79.993056|position=right|background=#FFFFFFAA|label=[[2023–24 Duquesne Dukes men's basketball team|Duquesne]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=32.603|lon_deg=-85.486|position=bottom|background=#FFFFFFAA|label=[[2023–24 Auburn Tigers men's basketball team|Auburn]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=40.1105|lon_deg=-88.2283|position=left|background=#FFFFFFAA|label=[[2023–24 Illinois Fighting Illini men's basketball team|Illinois]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=38.0458|lon_deg=-78.506944|position=right|background=#FFFFFFAA|label=[[2023–24 Virginia Cavaliers men's basketball team|Virginia]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=40.5756|lon_deg=-105.0933|position=top|background=#FFFFFFAA|label=[[2023–24 Colorado State Rams men's basketball team|Colorado State]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=43.6035|lon_deg=-116.199|position=left|background=#FFFFFFAA|label=[[2023–24 Boise State Broncos men's basketball team|Boise State]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=40.0047|lon_deg=-105.2606|position=bottom|background=#FFFFFFAA|label=[[2023–24 Colorado Buffaloes men's basketball team|Colorado]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=29.7247|lon_deg=-95.3469|position=bottom|background=#FFFFFFAA|label=[[2023–24 Houston Cougars men's basketball team|Houston]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=40.8178|lon_deg=-96.7133|position=bottom|background=#FFFFFFAA|label=[[2023–24 Nebraska Cornhuskers men's basketball team|Nebraska]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=30.6058|lon_deg=-96.3462|position=top|background=#FFFFFFAA|label=[[2023–24 Texas A&M Aggies men's basketball team|Texas A&M]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=43.0694|lon_deg=-89.3970|position=left|background=#FFFFFFAA|label=[[2023–24 Wisconsin Badgers men's basketball team|Wisconsin]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=35.9976|lon_deg=-78.9422|position=top|background=#FFFFFFAA|label=[[2023–24 Duke Blue Devils men's basketball team|Duke]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=33.5813|lon_deg=-101.8867|position=left|background=#FFFFFFAA|label=[[2023–24 Texas Tech Red Raiders basketball team|Texas Tech]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=38.0494|lon_deg=-84.5028|position=left|background=#FFFFFFAA|label=[[2023–24 Kentucky Wildcats men's basketball team|Kentucky]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=29.6494|lon_deg=-82.3511|position=left|background=#FFFFFFAA|label=[[2023–24 Florida Gators men's basketball team|Florida]]}}
+{{Location map~|USA2|mark=red pog.svg|lat_deg=43.0450|lon_deg=-87.9181|position=top|background=#FFFFFFAA|label=[[2023–24 Marquette Golden Eagles men's basketball team|Marquette]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=26.3722|lon_deg=-80.1092|position=left|background=#FFFFFFAA|label=[[2023–24 Florida Atlantic Owls men's basketball team|FAU]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=42.1036|lon_deg=-87.9328|position=bottom|background=#FFFFFFAA|label={{nowrap|[[2023–24 Northwestern Wildcats men's basketball team|Northwestern]]}}}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=32.7739|lon_deg=-117.0747|position=bottom|background=#FFFFFFAA|label=[[2023–24 San Diego State Aztecs men's basketball team|San Diego State]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=33.5022|lon_deg=-86.8092|position=top|background=#FFFFFFAA|label=[[2023–24 UAB Blazers men's basketball team|UAB]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=40.254|lon_deg=-111.649|position=bottom|background=#FFFFFFAA|label=[[2023–24 BYU Cougars men's basketball team|BYU]]}}
+{{Location map~|USA2|mark=blue pog.svg|lat_deg=46.735|lon_deg=-117.1575|position=left|background=#FFFFFFAA|label=[[2023–24 Washington State Cougars men's basketball team|Washington State]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=40.4333|lon_deg=-86.9161|position=right|background=#FFFFFFAA|label=[[2023–24 Purdue Boilermakers men's basketball team|Purdue]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=41.748|lon_deg=-111.812|position=top|background=#FFFFFFAA|label=[[2023–24 Utah State Aggies men's basketball team|Utah State]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=47.665|lon_deg=-117.399|position=right|background=#FFFFFFAA|label=[[2023–24 Gonzaga Bulldogs men's basketball team|Gonzaga]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=38.9544|lon_deg=-95.2525|position=left|background=#FFFFFFAA|label=[[2023–24 Kansas Jayhawks men's basketball team|Kansas]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=33.995|lon_deg=-81.0372|position=top|background=#FFFFFFAA|label=[[2023–24 South Carolina Gamecocks men's basketball team|South Carolina]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=41.263|lon_deg=-95.928|position=top|background=#FFFFFFAA|label=[[2023–24 Creighton Bluejays men's basketball team|Creighton]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=30.2811|lon_deg=-97.7306|position=left|background=#FFFFFFAA|label=[[2023–24 Texas Longhorns men's basketball team|Texas]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=35.9511|lon_deg=-83.925|position=left|background=#FFFFFFAA|label=[[2023–24 Tennessee Volunteers basketball team|Tennessee]]}}
+{{Location map~|USA2|mark=green pog.svg|lat_deg=32.710|lon_deg=-97.362|position=top|background=#FFFFFFAA|label=[[2023–24 TCU Horned Frogs men's basketball team|TCU]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=35.8997|lon_deg=-79.0439|position=left|background=#FFFFFFAA|label=[[2023–24 North Carolina Tar Heels men's basketball team|UNC]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=33.4617|lon_deg=-88.7944|position=left|background=#FFFFFFAA|label=[[2023–24 Mississippi State Bulldogs men's basketball team|Mississippi State]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=42.7282|lon_deg=-84.4924|position=bottom|background=#FFFFFFAA|label=[[2023–24 Michigan State Spartans men's basketball team|Michigan State]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=33.2029|lon_deg=-87.5397|position=bottom|background=#FFFFFFAA|label=[[2023–24 Alabama Crimson Tide men's basketball team|Alabama]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=34.6803|lon_deg=-82.8464|position=left|background=#FFFFFFAA|label=[[2023–24 Clemson Tigers men's basketball team|Clemson]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=31.55|lon_deg=-97.1167|position=top|background=#FFFFFFAA|label=[[2023–24 Baylor Bears men's basketball team|Baylor]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=39.7404|lon_deg=-84.1792|position=right|background=#FFFFFFAA|label=[[2023–24 Dayton Flyers men's basketball team|Dayton]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=39.545|lon_deg=-119.8183|position=right|background=#FFFFFFAA|label=[[2023–24 Nevada Wolf Pack men's basketball team|Nevada]]}}
+{{Location map~|USA2|mark=purple pog.svg|lat_deg=32.23|lon_deg=-110.95|position=bottom|background=#FFFFFFAA|label=[[2023–24 Arizona Wildcats men's basketball team|Arizona]]}}
+}}
+
+===Automatic qualifiers===
+Teams who won their conference championships automatically qualify.
+{|class="wikitable sortable plainrowheaders"
+|+Automatic qualifiers in the 2024 NCAA Division I men's basketball tournament
+|-
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|[[2024 America East men's basketball tournament|America East]]
+!scope="row" style="text-align:left"|[[2023–24 Vermont Catamounts men's basketball team|Vermont]]
+|align=center|10th
+|align=center|2023
+|-
+|[[2024 American Athletic Conference men's basketball tournament|American]]
+!scope="row" style="text-align:left"|[[2023–24 UAB Blazers men's basketball team|UAB]]
+|align=center|17th
+|align=center|2022
+|-
+|[[2024 Atlantic 10 men's basketball tournament|Atlantic 10]]
+!scope="row" style="text-align:left"|[[2023–24 Duquesne Dukes men's basketball team|Duquesne]]
+|align=center|6th
+|align=center|1977
+|-
+|[[2024 ACC men's basketball tournament|ACC]]
+!scope="row" style="text-align:left"|[[2023–24 NC State Wolfpack men's basketball team|NC State]]
+|align=center|29th
+|align=center|2023
+|-
+|[[2024 Atlantic Sun men's basketball tournament|ASUN]]
+!scope="row" style="text-align:left"|[[2023–24 Stetson Hatters men's basketball team|Stetson]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[2024 Big 12 men's basketball tournament|Big 12]]
+!scope="row" style="text-align:left"|[[2023–24 Iowa State Cyclones men's basketball team|Iowa State]]
+|align=center|23rd
+|align=center|2023
+|-
+|[[2024 Big East men's basketball tournament|Big East]]
+!scope="row" style="text-align:left"|[[2023–24 UConn Huskies men's basketball team|UConn]]
+|align=center|36th
+|align=center|2023
+|-
+|[[2024 Big Sky Conference men's basketball tournament|Big Sky]]
+!scope="row" style="text-align:left"|[[2023–24 Montana State Bobcats men's basketball team|Montana State]]
+|align=center|6th
+|align=center|2023
+|-
+|[[2024 Big South Conference men's basketball tournament|Big South]]
+!scope="row" style="text-align:left"|[[2023–24 Longwood Lancers men's basketball team|Longwood]]
+|align=center|2nd
+|align=center|2022
+|-
+|[[2024 Big Ten men's basketball tournament|Big Ten]]
+!scope="row" style="text-align:left"|[[2023–24 Illinois Fighting Illini men's basketball team|Illinois]]
+|align=center|34th
+|align=center|2023
+|-
+|[[2024 Big West Conference men's basketball tournament|Big West]]
+!scope="row" style="text-align:left"|[[2023–24 Long Beach State Beach men's basketball team|Long Beach State]]
+|align=center|7th
+|align=center|2012
+|-
+|[[2024 CAA men's basketball tournament|CAA]]
+!scope="row" style="text-align:left"|[[2023–24 Charleston Cougars men's basketball team|Charleston]]
+|align=center|7th
+|align=center|2023
+|-
+|[[2024 Conference USA men's basketball tournament|CUSA]]
+!scope="row" style="text-align:left"|[[2023–24 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
+|align=center|26th
+|align=center|2013
+|-
+|[[2024 Horizon League men's basketball tournament|Horizon]]
+!scope="row" style="text-align:left"|[[2023–24 Oakland Golden Grizzlies men's basketball team|Oakland]]
+|align=center|4th
+|align=center|2011
+|-
+|[[2024 Ivy League men's basketball tournament|Ivy League]]
+!scope="row" style="text-align:left"|[[2023–24 Yale Bulldogs men's basketball team|Yale]]
+|align=center|7th
+|align=center|2022
+|-
+|[[2024 MAAC men's basketball tournament|MAAC]]
+!scope="row" style="text-align:left"|[[2023–24 Saint Peter's Peacocks men's basketball team|Saint Peter's]]
+|align=center|5th
+|align=center|2022
+|-
+|[[2024 MAC men's basketball tournament|MAC]]
+!scope="row" style="text-align:left"|[[2023–24 Akron Zips men's basketball team|Akron]]
+|align=center|6th
+|align=center|2022
+|-
+|[[2024 MEAC men's basketball tournament|MEAC]]
+!scope="row" style="text-align:left"|[[2023–24 Howard Bison men's basketball team|Howard]]
+|align=center|4th
+|align=center|2023
+|-
+|[[2024 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+!scope="row" style="text-align:left"|[[2023–24 Drake Bulldogs men's basketball team|Drake]]
+|align=center|7th
+|align=center|2023
+|-
+|[[2024 Mountain West Conference men's basketball tournament|Mountain West]]
+!scope="row" style="text-align:left"|[[2023–24 New Mexico Lobos men's basketball team|New Mexico]]
+|align=center|16th
+|align=center|2014
+|-
+|[[2024 Northeast Conference men's basketball tournament|NEC]]
+!scope="row" style="text-align:left"|[[2023–24 Wagner Seahawks men's basketball team|Wagner]]
+|align=center|2nd
+|align=center|2003
+|-
+|[[2024 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+!scope="row" style="text-align:left"|[[2023–24 Morehead State Eagles men's basketball team|Morehead State]]
+|align=center|9th
+|align=center|2021
+|-
+|[[2024 Pac-12 Conference men's basketball tournament|Pac-12]]
+!scope="row" style="text-align:left"|[[2023–24 Oregon Ducks men's basketball team|Oregon]]
+|align=center|18th
+|align=center|2021
+|-
+|[[2024 Patriot League men's basketball tournament|Patriot]]
+!scope="row" style="text-align:left"|[[2023–24 Colgate Raiders men's basketball team|Colgate]]
+|align=center|7th
+|align=center|2023
+|-
+|[[2024 SEC men's basketball tournament|SEC]]
+!scope="row" style="text-align:left"|[[2023–24 Auburn Tigers men's basketball team|Auburn]]
+|align=center|13th
+|align=center|2023
+|-
+|[[2024 Southern Conference men's basketball tournament|Southern]]
+!scope="row" style="text-align:left"|[[2023–24 Samford Bulldogs men's basketball team|Samford]]
+|align=center|3rd
+|align=center|2000
+|-
+|[[2024 Southland Conference men's basketball tournament|Southland]]
+!scope="row" style="text-align:left"|[[2023–24 McNeese Cowboys basketball team|McNeese]]
+|align=center|3rd
+|align=center|2002
+|-
+|[[2024 SWAC men's basketball tournament|SWAC]]
+!scope="row" style="text-align:left"|[[2023–24 Grambling State Tigers men's basketball team|Grambling State]]
+|align=center|1st
+|align=center|{{sort|0|Never}}
+|-
+|[[2024 Summit League men's basketball tournament|Summit League]]
+!scope="row" style="text-align:left"|[[2023–24 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|align=center|7th
+|align=center|2022
+|-
+|[[2024 Sun Belt Conference men's basketball tournament|Sun Belt]]
+!scope="row" style="text-align:left"|[[2023–24 James Madison Dukes men's basketball team|James Madison]]
+|align=center|6th
+|align=center|2013
+|-
+|[[2024 West Coast Conference men's basketball tournament|WCC]]
+!scope="row" style="text-align:left"|[[2023–24 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+|align=center|13th
+|align=center|2023
+|-
+|[[2024 WAC men's basketball tournament|WAC]]
+!scope="row" style="text-align:left"|[[2023–24 Grand Canyon Antelopes men's basketball team|Grand Canyon]]
+|align=center|3rd
+|align=center|2023
+|}
+
+===<span id="RegionSeeds">Seeds</span>===
+<section begin="RegionSeeds" />
+The tournament seeds and regions were determined through the [[NCAA basketball tournament selection process]] and were published by the selection committee after the brackets were released on March 17.
+{|
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+East Regional – [[TD Garden]], [[Boston|Boston, MA]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+!scope="col"|Last bid
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2023–24 UConn Huskies men's basketball team|UConn]]
+|[[Big East Conference|Big East]]
+|align=center|31–3
+|align=center|1
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2023–24 Iowa State Cyclones men's basketball team|Iowa State]]
+|[[Big 12 Conference|Big 12]]
+|align=center|27–7
+|align=center|8
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2023–24 Illinois Fighting Illini men's basketball team|Illinois]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|26–8
+|align=center|12
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2023–24 Auburn Tigers men's basketball team|Auburn]]
+|[[Southeastern Conference|SEC]]
+|align=center|27–7
+|align=center|15
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2023–24 San Diego State Aztecs men's basketball team|San Diego State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|24–10
+|align=center|18
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2023–24 BYU Cougars men's basketball team|BYU]]
+|[[Big 12 Conference|Big 12]]
+|align=center|23–10
+|align=center|21
+|align=center|At Large
+|align=center|2021
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2023–24 Washington State Cougars men's basketball team|Washington State]]
+|[[Pac-12 Conference|Pac-12]]
+|align=center|24–9
+|align=center|26
+|align=center|At Large
+|align=center|2008
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2023–24 Florida Atlantic Owls men's basketball team|Florida Atlantic]]
+|[[American Athletic Conference|American]]
+|align=center|25–8
+|align=center|31
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2023–24 Northwestern Wildcats men's basketball team|Northwestern]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|21–11
+|align=center|36
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2023–24 Drake Bulldogs men's basketball team|Drake]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|28–6
+|align=center|40
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2023–24 Duquesne Dukes men's basketball team|Duquesne]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|24–11
+|align=center|46
+|align=center|Automatic
+|align=center|1977
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2023–24 UAB Blazers men's basketball team|UAB]]
+|[[American Athletic Conference|American]]
+|align=center|23–11
+|align=center|50
+|align=center|Automatic
+|align=center|2022
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2023–24 Yale Bulldogs men's basketball team|Yale]]
+|[[Ivy League|Ivy]]
+|align=center|22–9
+|align=center|52
+|align=center|Automatic
+|align=center|2022
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2023–24 Morehead State Eagles men's basketball team|Morehead State]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|26–8
+|align=center|57
+|align=center|Automatic
+|align=center|2021
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2023–24 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|[[Summit League|Summit]]
+|align=center|22–12
+|align=center|61
+|align=center|Automatic
+|align=center|2022
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[2023–24 Stetson Hatters men's basketball team|Stetson]]
+|[[Atlantic Sun Conference|ASUN]]
+|align=center|22–12
+|align=center|64
+|align=center|Automatic
+|align=center|Never
+|}
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+West Regional – [[Crypto.com Arena]], [[Los Angeles|Los Angeles, CA]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+!scope="col"|Last bid
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2023–24 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|27–7
+|align=center|4
+|align=center|At Large
+|align=center|2022
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2023–24 Arizona Wildcats men's basketball team|Arizona]]
+|[[Pac-12 Conference|Pac-12]]
+|align=center|25–8
+|align=center|6
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2023–24 Baylor Bears men's basketball team|Baylor]]
+|[[Big 12 Conference|Big 12]]
+|align=center|23–10
+|align=center|9
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2023–24 Alabama Crimson Tide men's basketball team|Alabama]]
+|[[Southeastern Conference|SEC]]
+|align=center|21–11
+|align=center|16
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2023–24 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+|[[West Coast Conference|WCC]]
+|align=center|26–7
+|align=center|20
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2023–24 Clemson Tigers men's basketball team|Clemson]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|21–11
+|align=center|22
+|align=center|At Large
+|align=center|2021
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2023–24 Dayton Flyers men's basketball team|Dayton]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|26–7
+|align=center|28
+|align=center|At Large
+|align=center|2017
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2023–24 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+|[[Southeastern Conference|SEC]]
+|align=center|21–13
+|align=center|32
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2023–24 Michigan State Spartans men's basketball team|Michigan State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|19–14
+|align=center|33
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2023–24 Nevada Wolf Pack men's basketball team|Nevada]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|26–7
+|align=center|37
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2023–24 New Mexico Lobos men's basketball team|New Mexico]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|26–9
+|align=center|44
+|align=center|Automatic
+|align=center|2014
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2023–24 Grand Canyon Antelopes men's basketball team|Grand Canyon]]
+|[[Western Athletic Conference|WAC]]
+|align=center|29–4
+|align=center|47
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2023–24 Charleston Cougars men's basketball team|Charleston]]
+|[[Coastal Athletic Association|CAA]]
+|align=center|27–7
+|align=center|54
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2023–24 Colgate Raiders men's basketball team|Colgate]]
+|[[Patriot League|Patriot]]
+|align=center|25–9
+|align=center|58
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2023–24 Long Beach State Beach men's basketball team|Long Beach State]]
+|[[Big West Conference|Big West]]
+|align=center|21–14
+|align=center|59
+|align=center|Automatic
+|align=center|2012
+|-
+|rowspan="2" style="text-align:center;"|16*
+!scope="row" style="text-align:left"|[[2023–24 Howard Bison men's basketball team|Howard]]
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|align=center|18–16
+|align=center|67
+|align=center|Automatic
+|align=center|2023
+|-
+!scope="row" style="text-align:left"|[[2023–24 Wagner Seahawks men's basketball team|Wagner]]
+|[[Northeast Conference|NEC]]
+|align=center|16–15
+|align=center|68
+|align=center|Automatic
+|align=center|2003
+|}
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+South Regional – [[American Airlines Center]], [[Dallas, Texas|Dallas, TX]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+!scope="col"|Last bid
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2023–24 Houston Cougars men's basketball team|Houston]]
+|[[Big 12 Conference|Big 12]]
+|align=center|30–4
+|align=center|2
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2023–24 Marquette Golden Eagles men's basketball team|Marquette]]
+|[[Big East Conference|Big East]]
+|align=center|25–9
+|align=center|7
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2023–24 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[Southeastern Conference|SEC]]
+|align=center|23–9
+|align=center|11
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2023–24 Duke Blue Devils men's basketball team|Duke]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|24–8
+|align=center|13
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2023–24 Wisconsin Badgers men's basketball team|Wisconsin]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|22–13
+|align=center|19
+|align=center|At Large
+|align=center|2022
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2023–24 Texas Tech Red Raiders basketball team|Texas Tech]]
+|[[Big 12 Conference|Big 12]]
+|align=center|23–10
+|align=center|23
+|align=center|At Large
+|align=center|2022
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2023–24 Florida Gators men's basketball team|Florida]]
+|[[Southeastern Conference|SEC]]
+|align=center|24–11
+|align=center|25
+|align=center|At Large
+|align=center|2021
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2023–24 Nebraska Cornhuskers men's basketball team|Nebraska]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|23–10
+|align=center|29
+|align=center|At Large
+|align=center|2014
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2023–24 Texas A&M Aggies men's basketball team|Texas A&M]]
+|[[Southeastern Conference|SEC]]
+|align=center|20–14
+|align=center|34
+|align=center|At Large
+|align=center|2023
+|-
+|rowspan="2" style="text-align:center;"|10*
+!scope="row" style="text-align:left"|[[2023–24 Boise State Broncos men's basketball team|Boise State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|22–10
+|align=center|38
+|align=center|At Large
+|align=center|2023
+|-
+!scope="row" style="text-align:left"|[[2023–24 Colorado Buffaloes men's basketball team|Colorado]]
+|[[Pac-12 Conference|Pac-12]]
+|align=center|24–10
+|align=center|39
+|align=center|At Large
+|align=center|2021
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2023–24 NC State Wolfpack men's basketball team|NC State]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|22–14
+|align=center|45
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2023–24 James Madison Dukes men's basketball team|James Madison]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|31–3
+|align=center|48
+|align=center|Automatic
+|align=center|2013
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2023–24 Vermont Catamounts men's basketball team|Vermont]]
+|[[America East Conference|America East]]
+|align=center|28–6
+|align=center|51
+|align=center|Automatic
+|align=center|2023
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2023–24 Oakland Golden Grizzlies men's basketball team|Oakland]]
+|[[Horizon League|Horizon]]
+|align=center|23–11
+|align=center|55
+|align=center|Automatic
+|align=center|2011
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2023–24 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
+|[[Conference USA|C-USA]]
+|align=center|22–11
+|align=center|60
+|align=center|Automatic
+|align=center|2013
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[2023–24 Longwood Lancers men's basketball team|Longwood]]
+|[[Big South Conference|Big South]]
+|align=center|21–13
+|align=center|63
+|align=center|Automatic
+|align=center|2022
+|}
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional – [[Little Caesars Arena]], [[Detroit|Detroit, MI]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+!scope="col"|Last bid
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2023–24 Purdue Boilermakers men's basketball team|Purdue]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|29–4
+|align=center|3
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2023–24 Tennessee Volunteers basketball team|Tennessee]]
+|[[Southeastern Conference|SEC]]
+|align=center|24–8
+|align=center|5
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2023–24 Creighton Bluejays men's basketball team|Creighton]]
+|[[Big East Conference|Big East]]
+|align=center|23–9
+|align=center|10
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2023–24 Kansas Jayhawks men's basketball team|Kansas]]
+|[[Big 12 Conference|Big 12]]
+|align=center|22–10
+|align=center|14
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2023–24 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|[[West Coast Conference|West Coast]]
+|align=center|25–7
+|align=center|17
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2023–24 South Carolina Gamecocks men's basketball team|South Carolina]]
+|[[Southeastern Conference|SEC]]
+|align=center|26–7
+|align=center|24
+|align=center|At Large
+|align=center|2017
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2023–24 Texas Longhorns men's basketball team|Texas]]
+|[[Big 12 Conference|Big 12]]
+|align=center|20–12
+|align=center|27
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2023–24 Utah State Aggies men's basketball team|Utah State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|27–6
+|align=center|30
+|align=center|At Large
+|align=center|2023
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2023–24 TCU Horned Frogs men's basketball team|TCU]]
+|[[Big 12 Conference|Big 12]]
+|align=center|21–12
+|align=center|35
+|align=center|At Large
+|align=center|2023
+|-
+|rowspan="2" style="text-align:center;"|10*
+!scope="row" style="text-align:left"|[[2023–24 Virginia Cavaliers men's basketball team|Virginia]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|23–10
+|align=center|41
+|align=center|At Large
+|align=center|2023
+|-
+!scope="row" style="text-align:left"|[[2023–24 Colorado State Rams men's basketball team|Colorado State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|24–10
+|align=center|42
+|align=center|At Large
+|align=center|2022
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2023–24 Oregon Ducks men's basketball team|Oregon]]
+|[[Pac-12 Conference|Pac-12]]
+|align=center|23–11
+|align=center|43
+|align=center|Automatic
+|align=center|2021
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2023–24 McNeese Cowboys basketball team|McNeese]]
+|[[Southland Conference|Southland]]
+|align=center|30–3
+|align=center|49
+|align=center|Automatic
+|align=center|2002
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2023–24 Samford Bulldogs men's basketball team|Samford]]
+|[[Southern Conference|Southern]]
+|align=center|29–5
+|align=center|53
+|align=center|Automatic
+|align=center|2000
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2023–24 Akron Zips men's basketball team|Akron]]
+|[[Mid-American Conference|MAC]]
+|align=center|24–10
+|align=center|56
+|align=center|Automatic
+|align=center|2022
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2023–24 Saint Peter's Peacocks men's basketball team|Saint Peter's]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|19–13
+|align=center|62
+|align=center|Automatic
+|align=center|2022
+|-
+|rowspan="2" style="text-align:center;"|16*
+!scope="row" style="text-align:left"|[[2023–24 Montana State Bobcats men's basketball team|Montana State]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|17–17
+|align=center|65
+|align=center|Automatic
+|align=center|2023
+|-
+!scope="row" style="text-align:left"|[[2023–24 Grambling State Tigers men's basketball team|Grambling State]]
+|[[Southwestern Athletic Conference|SWAC]]
+|align=center|20–14
+|align=center|66
+|align=center|Automatic
+|align=center|Never
+|}
+|}
+<nowiki>*</nowiki>See [[#First Four – Dayton, OH|First Four]]<br/>
+Source:<ref>{{cite web|first=Cameron|last=Salerno|title=March Madness 2024: Committee reveals official NCAA Tournament bracket seed list from 1-68|url=https://www.cbssports.com/college-basketball/news/march-madness-2024-committee-reveals-official-ncaa-tournament-bracket-seed-list-from-1-68/|work=CBS Sports|date=March 17, 2024|access-date=March 17, 2024}}</ref>
+<section end="RegionSeeds" />
+
+==Tournament bracket==
+All times are listed in [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4:00|UTC−4]])
+ 
+===First Four – Dayton, Ohio===
+
+The [[First Four]] games involve eight teams: the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams.
+ 
+{{align|left|{{2TeamBracket | RD1=March 19 – West Regional |boldwinner=high
+ 
+| RD1-seed1=16
+| RD1-team1=[[2023–24 Howard Bison men's basketball team|Howard]]
+| RD1-score1=68
+| RD1-seed2=16
+| RD1-team2=[[2023–24 Wagner Seahawks men's basketball team|Wagner]]
+| RD1-score2=71
+}}}}
+
+{{align|left|{{2TeamBracket | RD1=March 19 – Midwest Regional |boldwinner=high
+ 
+| RD1-seed1=10
+| RD1-team1=[[2023–24 Virginia Cavaliers men's basketball team|Virginia]]
+| RD1-score1=42
+| RD1-seed2=10
+| RD1-team2=[[2023–24 Colorado State Rams men's basketball team|Colorado State]]
+| RD1-score2=67
+}}}}
+
+{{align|left|{{2TeamBracket | RD1=March 20 – Midwest Regional |boldwinner=high
+
+| RD1-seed1=16
+| RD1-team1=[[2023–24 Montana State Bobcats men's basketball team|Montana State]]
+| RD1-score1=81
+| RD1-seed2=16
+| RD1-team2=[[2023–24 Grambling State Tigers men's basketball team|Grambling State]]
+| RD1-score2=88<sup>OT</sup>
+}}}}
+
+{{align|left|{{2TeamBracket | RD1=March 20 – South Regional |boldwinner=high
+ 
+| RD1-seed1=10
+| RD1-team1=[[2023–24 Boise State Broncos men's basketball team|Boise State]]
+| RD1-score1=53
+| RD1-seed2=10
+| RD1-team2=[[2023–24 Colorado Buffaloes men's basketball team|Colorado]]
+| RD1-score2=60
+}}}}
+{{clear left}}
+
+=== East regional – Boston, Massachusetts ===
+
+{{16TeamBracket | nowrap = yes
+ 
+| RD1=First round<br />Round of 64<br />March 21–22
+| RD2=Second round<br />Round of 32<br />March 23–24
+| RD3=Regional semifinals<br />Sweet 16<br />March 28
+| RD4=Regional Final<br />Elite 8<br />March 30
+
+| boldwinner = high
+
+| subgroup1=[[Barclays Center|Brooklyn]] – Fri/Sun
+| subgroup2=[[Spokane Arena|Spokane]] –&nbsp;Fri/Sun
+| subgroup3=[[CHI Health Center Omaha|Omaha]] – Thu/Sat
+| subgroup4=[[CHI Health Center Omaha|Omaha]] – Thu/Sat
+ 
+| RD1-seed01=1
+| RD1-team01=[[2023–24 UConn Huskies men's basketball team|UConn]]
+| RD1-score01=91
+| RD1-seed02=16
+| RD1-team02=[[2023–24 Stetson Hatters men's basketball team|Stetson]]
+| RD1-score02=52
+ 
+| RD1-seed03=8
+| RD1-team03=[[2023–24 Florida Atlantic Owls men's basketball team|Florida Atlantic]]
+| RD1-score03=65
+| RD1-seed04=9
+| RD1-team04=[[2023–24 Northwestern Wildcats men's basketball team|Northwestern]]
+| RD1-score04=77<sup>OT</sup>
+ 
+| RD1-seed05=5
+| RD1-team05=[[2023–24 San Diego State Aztecs men's basketball team|San Diego State]]
+| RD1-score05=69
+| RD1-seed06=12
+| RD1-team06=[[2023–24 UAB Blazers men's basketball team|UAB]]
+| RD1-score06=65
+ 
+| RD1-seed07=4
+| RD1-team07=[[2023–24 Auburn Tigers men's basketball team|Auburn]]
+| RD1-score07=76
+| RD1-seed08=13
+| RD1-team08=[[2023–24 Yale Bulldogs men's basketball team|Yale]]
+| RD1-score08=78
+ 
+| RD1-seed09=6
+| RD1-team09=[[2023–24 BYU Cougars men's basketball team|BYU]]
+| RD1-score09=67
+| RD1-seed10=11
+| RD1-team10=[[2023–24 Duquesne Dukes men's basketball team|Duquesne]]
+| RD1-score10=71
+ 
+| RD1-seed11=3
+| RD1-team11=[[2023–24 Illinois Fighting Illini men's basketball team|Illinois]]
+| RD1-score11=85
+| RD1-seed12=14
+| RD1-team12=[[2023–24 Morehead State Eagles men's basketball team|Morehead State]]
+| RD1-score12=69
+ 
+| RD1-seed13=7
+| RD1-team13=[[2023–24 Washington State Cougars men's basketball team|Washington State]]
+| RD1-score13=66
+| RD1-seed14=10
+| RD1-team14=[[2023–24 Drake Bulldogs men's basketball team|Drake]]
+| RD1-score14=61
+ 
+| RD1-seed15=2
+| RD1-team15=[[2023–24 Iowa State Cyclones men's basketball team|Iowa State]]
+| RD1-score15=82
+| RD1-seed16=15
+| RD1-team16=[[2023–24 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+| RD1-score16=65
+ 
+| RD2-seed01=1
+| RD2-team01=UConn
+| RD2-score01=75
+| RD2-seed02=9
+| RD2-team02=Northwestern
+| RD2-score02=58
+ 
+| RD2-seed03=5
+| RD2-team03=San Diego State
+| RD2-score03=85
+| RD2-seed04=13
+| RD2-team04=Yale
+| RD2-score04=57
+ 
+| RD2-seed05=11
+| RD2-team05=Duquesne
+| RD2-score05=63
+| RD2-seed06=3
+| RD2-team06=Illinois
+| RD2-score06=89
+ 
+| RD2-seed07=7
+| RD2-team07=Washington State
+| RD2-score07=56
+| RD2-seed08=2
+| RD2-team08=Iowa State
+| RD2-score08=67
+ 
+| RD3-seed01=1
+| RD3-team01=UConn
+| RD3-score01=82
+| RD3-seed02=5
+| RD3-team02=San Diego State
+| RD3-score02=52
+ 
+| RD3-seed03=3
+| RD3-team03=Illinois
+| RD3-score03=72
+| RD3-seed04=2
+| RD3-team04=Iowa State
+| RD3-score04=69
+ 
+| RD4-seed01=1
+| RD4-team01=UConn
+| RD4-score01=77
+| RD4-seed02=3
+| RD4-team02=Illinois
+| RD4-score02=52
+}}
+
+====East regional final====
+{{basketballbox
+ | date = March 30
+ | time = 6:09 p.m. [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/501 Recap]
+ | team1 = No. 3 Illinois Fighting Illini
+ | score1 = 52
+ | team2 = '''No. 1  UConn Huskies'''
+ | score2 = '''77'''
+ | points1 = [[Marcus Domask|Domask]] (17)
+ | rebounds1 = Goode (6)
+ | assist1 = [[Terrence Shannon Jr.|Shannon Jr.]] (3)
+ | points2 = [[Donovan Clingan|Clingan]] (22)
+ | rebounds2 = Clingan (10)
+ | assist2 = ''Tied'' (5)
+ | H1 = 23−'''28'''
+ | H2 = 29−'''49'''
+ | place = [[TD Garden]] – [[Boston|Boston, Massachusetts]]
+ | attendance = 19,181
+ | referee = Doug Shows, Terry Oglesby, Byron Jarrett
+ | TV = [[NCAA March Madness (TV program)|TBS]]
+}}
+
+====East regional all-tournament team====
+* '''[[Donovan Clingan]]''' (MOP) - UConn
+* [[Cam Spencer]] - UConn
+* [[Stephon Castle]] - UConn
+* [[Terrence Shannon Jr.]] - Illinois
+* [[Jaedon LeDee]] - San Diego State
+
+=== West regional – Los Angeles, California ===
+
+{{16TeamBracket | nowrap = yes
+ 
+| RD1=First round<br />Round of 64<br />March 21–22
+| RD2=Second round<br />Round of 32<br />March 23–24
+| RD3=Regional semifinals<br />Sweet 16<br />March 28
+| RD4=Regional Final<br />Elite 8<br />March 30
+
+| boldwinner = high
+ 
+| subgroup1=[[Spectrum Center|Charlotte]] – Thu/Sat
+| subgroup2=[[Spokane Arena|Spokane]] –&nbsp;Fri/Sun
+| subgroup3=[[FedExForum|Memphis]] –&nbsp;Fri/Sun
+| subgroup4=[[Delta Center|Salt Lake City]] –&nbsp;Thu/Sat
+ 
+| RD1-seed01=1
+| RD1-team01=[[2023–24 North Carolina Tar Heels men's basketball team|North Carolina]]
+| RD1-score01=90
+| RD1-seed02=16
+| RD1-team02=[[2023–24 Wagner Seahawks men's basketball team|Wagner]]
+| RD1-score02=62
+ 
+| RD1-seed03=8
+| RD1-team03=[[2023–24 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+| RD1-score03=51
+| RD1-seed04=9
+| RD1-team04=[[2023–24 Michigan State Spartans men's basketball team|Michigan State]]
+| RD1-score04=69
+ 
+| RD1-seed05=5
+| RD1-team05=[[2023–24 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+| RD1-score05=66
+| RD1-seed06=12
+| RD1-team06=[[2023–24 Grand Canyon Antelopes men's basketball team|Grand Canyon]]
+| RD1-score06=75
+ 
+| RD1-seed07=4
+| RD1-team07=[[2023–24 Alabama Crimson Tide men's basketball team|Alabama]]
+| RD1-score07= 109
+| RD1-seed08=13
+| RD1-team08=[[2023–24 Charleston Cougars men's basketball team|Charleston]]
+| RD1-score08=96
+ 
+| RD1-seed09=6
+| RD1-team09=[[2023–24 Clemson Tigers men's basketball team|Clemson]]
+| RD1-score09=77
+| RD1-seed10=11
+| RD1-team10=[[2023–24 New Mexico Lobos men's basketball team|New Mexico]]
+| RD1-score10=56
+ 
+| RD1-seed11=3
+| RD1-team11=[[2023–24 Baylor Bears men's basketball team|Baylor]]
+| RD1-score11=92
+| RD1-seed12=14
+| RD1-team12=[[2023–24 Colgate Raiders men's basketball team|Colgate]]
+| RD1-score12=67
+ 
+| RD1-seed13=7
+| RD1-team13=[[2023–24 Dayton Flyers men's basketball team|Dayton]]
+| RD1-score13=63
+| RD1-seed14=10
+| RD1-team14=[[2023–24 Nevada Wolf Pack men's basketball team|Nevada]]
+| RD1-score14=60
+ 
+| RD1-seed15=2
+| RD1-team15=[[2023–24 Arizona Wildcats men's basketball team|Arizona]]
+| RD1-score15=85
+| RD1-seed16=15
+| RD1-team16=[[2023–24 Long Beach State Beach men's basketball team|Long Beach State]]
+| RD1-score16=65
+ 
+| RD2-seed01=1
+| RD2-team01=North Carolina
+| RD2-score01=85
+| RD2-seed02=9
+| RD2-team02=Michigan State
+| RD2-score02=69
+ 
+| RD2-seed03=12
+| RD2-team03=Grand Canyon
+| RD2-score03=61
+| RD2-seed04=4
+| RD2-team04=Alabama
+| RD2-score04=72
+ 
+| RD2-seed05=6
+| RD2-team05=Clemson
+| RD2-score05=72
+| RD2-seed06=3
+| RD2-team06=Baylor
+| RD2-score06=64
+
+ 
+| RD2-seed07=7
+| RD2-team07=Dayton
+| RD2-score07=68
+| RD2-seed08=2
+| RD2-team08=Arizona
+| RD2-score08=78
+ 
+| RD3-seed01=1
+| RD3-team01=North Carolina
+| RD3-score01=87
+| RD3-seed02=4
+| RD3-team02=Alabama
+| RD3-score02=89
+ 
+| RD3-seed03=6
+| RD3-team03=Clemson
+| RD3-score03=77
+| RD3-seed04=2
+| RD3-team04=Arizona
+| RD3-score04=72
+ 
+| RD4-seed01=4
+| RD4-team01=Alabama
+| RD4-score01=89
+| RD4-seed02=6
+| RD4-team02=Clemson
+| RD4-score02=82
+}}
+ 
+====West regional final====
+{{basketballbox
+ | date = March 30
+ | time = 8:49 p.m. [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/502 Recap]
+ | team1 = No. 6 Clemson Tigers
+ | score1 = 82
+ | team2 = '''No. 4 Alabama Crimson Tide'''
+ | score2 = '''89'''
+ | points1 = [[Mark Sears|Sears]] (23)
+ | rebounds1 = Pringle (11)
+ | assist1 = [[Aaron Estrada|Estrada]] (7)
+ | points2 = [[Joseph Girard III|Girard]] (19)
+ | rebounds2 = Schieffelin (11)
+ | assist2 = Hunter (6)
+ | H1 = 32–'''35'''
+ | H2 = 50–'''54'''
+ | place = [[Crypto.com Arena]] – [[Los Angeles|Los Angeles, California]]
+ | attendance = 19,227
+ | referee = James Breeding, Keith Kimble, Brian Dorsey
+ | TV = [[NCAA March Madness (TV program)|TBS]]
+}}
+
+====West regional all-tournament team====
+* '''[[Mark Sears]]''' (MOP) - Alabama
+* [[Grant Nelson (basketball)|Grant Nelson]] - Alabama
+* [[PJ Hall (basketball)|PJ Hall]] - Clemson
+* [[Chase Hunter]] - Clemson
+* [[Ian Schieffelin]] - Clemson
+
+=== South regional – Dallas, Texas ===
+
+{{16TeamBracket | nowrap = yes
+ 
+| RD1=First round<br />Round of 64<br />March 21–22
+| RD2=Second round<br />Round of 32<br />March 23–24
+| RD3=Regional semifinals<br />Sweet 16<br />March 29
+| RD4=Regional Final<br />Elite 8<br />March 31
+
+| boldwinner = high
+ 
+| subgroup1=[[FedExForum|Memphis]] –&nbsp;Fri/Sun
+| subgroup2=[[Barclays Center|Brooklyn]] –&nbsp;Fri/Sun
+| subgroup3=[[PPG Paints Arena|Pittsburgh]] –&nbsp;Thu/Sat
+| subgroup4=[[Gainbridge Fieldhouse|Indianapolis]] –&nbsp;Fri/Sun
+ 
+| RD1-seed01=1
+| RD1-team01=[[2023–24 Houston Cougars men's basketball team|Houston]]
+| RD1-score01=86
+| RD1-seed02=16
+| RD1-team02=[[2023–24 Longwood Lancers men's basketball team|Longwood]]
+| RD1-score02=46
+ 
+| RD1-seed03=8
+| RD1-team03=[[2023–24 Nebraska Cornhuskers men's basketball team|Nebraska]]
+| RD1-score03=83
+| RD1-seed04=9
+| RD1-team04= [[2023–24 Texas A&M Aggies men's basketball team|Texas A&M]]
+| RD1-score04=98
+ 
+| RD1-seed05=5
+| RD1-team05=[[2023–24 Wisconsin Badgers men's basketball team|Wisconsin]]
+| RD1-score05=61
+| RD1-seed06=12
+| RD1-team06=[[2023–24 James Madison Dukes men's basketball team|James Madison]]
+| RD1-score06=72
+ 
+| RD1-seed07=4
+| RD1-team07= [[2023–24 Duke Blue Devils men's basketball team|Duke]]
+| RD1-score07=64
+| RD1-seed08=13
+| RD1-team08=[[2023–24 Vermont Catamounts men's basketball team|Vermont]]
+| RD1-score08=47
+ 
+| RD1-seed09=6
+| RD1-team09=[[2023–24 Texas Tech Red Raiders basketball team|Texas Tech]]
+| RD1-score09=67
+| RD1-seed10=11
+| RD1-team10=[[2023–24 NC State Wolfpack men's basketball team|NC State]]
+| RD1-score10=80
+ 
+| RD1-seed11=3
+| RD1-team11=[[2023–24 Kentucky Wildcats men's basketball team|Kentucky]]
+| RD1-score11=76
+| RD1-seed12=14
+| RD1-team12=[[2023–24 Oakland Golden Grizzlies men's basketball team|Oakland]]
+| RD1-score12=80
+ 
+| RD1-seed13=7
+| RD1-team13=[[2023–24 Florida Gators men's basketball team|Florida]]
+| RD1-score13=100
+| RD1-seed14=10
+| RD1-team14=[[2023–24 Colorado Buffaloes men's basketball team|Colorado]]
+| RD1-score14=102
+ 
+| RD1-seed15=2
+| RD1-team15=[[2023–24 Marquette Golden Eagles men's basketball team|Marquette]]
+| RD1-score15=87
+| RD1-seed16=15
+| RD1-team16=[[2023–24 Western Kentucky Hilltoppers basketball team|Western Kentucky]]
+| RD1-score16=69
+ 
+| RD2-seed01=1
+| RD2-team01=Houston
+| RD2-score01=100<sup>OT</sup>
+| RD2-seed02=9
+| RD2-team02=Texas A&M
+| RD2-score02=95
+ 
+| RD2-seed03=12
+| RD2-team03=James Madison
+| RD2-score03=55
+| RD2-seed04=4
+| RD2-team04=Duke
+| RD2-score04=93
+ 
+| RD2-seed05=11
+| RD2-team05=NC State
+| RD2-score05=79<sup>OT</sup>
+| RD2-seed06=14
+| RD2-team06=Oakland
+| RD2-score06=73
+ 
+| RD2-seed07=10
+| RD2-team07=Colorado
+| RD2-score07=77
+| RD2-seed08=2
+| RD2-team08=Marquette
+| RD2-score08=81
+ 
+| RD3-seed01=1
+| RD3-team01=Houston
+| RD3-score01=51
+| RD3-seed02=4
+| RD3-team02=Duke
+| RD3-score02=54
+ 
+| RD3-seed03=11
+| RD3-team03=NC State
+| RD3-score03=67
+| RD3-seed04=2
+| RD3-team04=Marquette
+| RD3-score04=58
+ 
+| RD4-seed01=4
+| RD4-team01=Duke
+| RD4-score01=64
+| RD4-seed02=11
+| RD4-team02=NC State
+| RD4-score02=76
+}}
+
+====South regional final====
+
+: ''Related article: [[Tobacco Road (rivalry)]]''
+
+{{basketballbox
+ | date = March 31
+ | time = 5:05 p.m. [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/503 Recap]
+ | team1 = '''No. 11 NC State Wolfpack'''
+ | score1 = '''76'''
+ | team2 = No. 4 Duke Blue Devils
+ | score2 = 64
+ | points1 = [[D. J. Burns|Burns]] (29)	
+ | rebounds1 = O'Connell (11)
+ | assist1 = O'Connell (6)
+ | points2 = [[Jared McCain|McCain]] (32)
+ | rebounds2 = [[Kyle Filipowski|Filipowski]] (9)
+ | assist2 = [[Tyrese Proctor|Proctor]] (4)
+ | H1 = 21−'''27'''
+ | H2 = '''55'''−37
+ | place = [[American Airlines Center]] – [[Dallas, Texas]]
+ | attendance = 16,969
+ | referee = Michael Irving, Brian O'Connell, Doug Sirmons
+ | TV = [[NCAA March Madness (TV program)|CBS]]
+}}
+
+====South regional all-tournament team====
+* '''[[D. J. Burns]]''' (MOP) - N.C. State
+* [[DJ Horne]] - N.C. State
+* [[Jared McCain]] - Duke
+* [[Jamal Shead]] - Houston
+* [[Tyler Kolek (basketball)|Tyler Kolek]] - Marquette
+
+=== Midwest regional – Detroit, Michigan ===
+
+{{16TeamBracket | nowrap = yes
+ 
+| RD1=First round<br />Round of 64<br />March 21–22
+| RD2=Second round<br />Round of 32<br />March 23–24
+| RD3=Regional semifinals<br />Sweet 16<br />March 29
+| RD4=Regional Final<br />Elite 8<br />March 31
+
+| boldwinner=high
+ 
+| subgroup1=[[Gainbridge Fieldhouse|Indianapolis]] – Fri/Sun
+| subgroup2=[[Delta Center|Salt Lake City]] –&nbsp;Thu/Sat
+| subgroup3=[[PPG Paints Arena|Pittsburgh]] –&nbsp;Thu/Sat
+| subgroup4=[[Spectrum Center|Charlotte]] – Thu/Sat
+ 
+| RD1-seed01=1
+| RD1-team01=[[2023–24 Purdue Boilermakers men's basketball team|Purdue]]
+| RD1-score01=78
+| RD1-seed02=16
+| RD1-team02=[[2023–24 Grambling State Tigers men's basketball team|Grambling State]]
+| RD1-score02=50
+ 
+| RD1-seed03=8
+| RD1-team03=[[2023–24 Utah State Aggies men's basketball team|Utah State]]
+| RD1-score03=88
+| RD1-seed04=9
+| RD1-team04=[[2023–24 TCU Horned Frogs men's basketball team|TCU]]
+| RD1-score04=72
+ 
+| RD1-seed05=5
+| RD1-team05=[[2023–24 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+| RD1-score05=86
+| RD1-seed06=12
+| RD1-team06=[[2023–24 McNeese Cowboys basketball team|McNeese]]
+| RD1-score06=65
+ 
+| RD1-seed07=4
+| RD1-team07=[[2023–24 Kansas Jayhawks men's basketball team|Kansas]]
+| RD1-score07=93
+| RD1-seed08=13
+| RD1-team08=[[2023–24 Samford Bulldogs men's basketball team|Samford]]
+| RD1-score08=89
+ 
+| RD1-seed09=6
+| RD1-team09=[[2023–24 South Carolina Gamecocks men's basketball team|South Carolina]]
+| RD1-score09=73
+| RD1-seed10=11
+| RD1-team10=[[2023–24 Oregon Ducks men's basketball team|Oregon]]
+| RD1-score10=87
+ 
+| RD1-seed11=3
+| RD1-team11=[[2023–24 Creighton Bluejays men's basketball team|Creighton]]
+| RD1-score11=77
+| RD1-seed12=14
+| RD1-team12=[[2023–24 Akron Zips men's basketball team|Akron]]
+| RD1-score12=60
+ 
+| RD1-seed13=7
+| RD1-team13=[[2023–24 Texas Longhorns men's basketball team|Texas]]
+| RD1-score13=56
+| RD1-seed14=10
+| RD1-team14=[[2023–24 Colorado State Rams men's basketball team|Colorado State]]
+| RD1-score14=44
+ 
+| RD1-seed15=2
+| RD1-team15=[[2023–24 Tennessee Volunteers basketball team|Tennessee]]
+| RD1-score15=83
+| RD1-seed16=15
+| RD1-team16=[[2023–24 Saint Peter's Peacocks men's basketball team|Saint Peter's]]
+| RD1-score16=49
+ 
+| RD2-seed01=1
+| RD2-team01=Purdue
+| RD2-score01=106
+| RD2-seed02=8
+| RD2-team02=Utah State
+| RD2-score02=67
+ 
+| RD2-seed03=5
+| RD2-team03=Gonzaga
+| RD2-score03=89
+| RD2-seed04=4
+| RD2-team04=Kansas
+| RD2-score04=68
+ 
+| RD2-seed05=11
+| RD2-team05=Oregon
+| RD2-score05=73
+| RD2-seed06=3
+| RD2-team06=Creighton
+| RD2-score06=86<sup>2OT</sup>
+ 
+| RD2-seed07=7
+| RD2-team07=Texas
+| RD2-score07=58
+| RD2-seed08=2
+| RD2-team08=Tennessee
+| RD2-score08=62
+ 
+| RD3-seed01=1
+| RD3-team01=Purdue
+| RD3-score01=80
+| RD3-seed02=5
+| RD3-team02=Gonzaga
+| RD3-score02=68
+ 
+| RD3-seed03=3
+| RD3-team03=Creighton
+| RD3-score03=75
+| RD3-seed04=2
+| RD3-team04=Tennessee
+| RD3-score04=82
+ 
+| RD4-seed01=1
+| RD4-team01=Purdue
+| RD4-score01=72
+| RD4-seed02=2
+| RD4-team02=Tennessee
+| RD4-score02= 66
+}}
+ 
+====Midwest regional final====
+{{basketballbox
+ | date = March 31
+ | time = 2:20 p.m. [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/504 Recap]
+ | team1 = No. 2 Tennessee Volunteers
+ | score1 = 66
+ | team2 = '''No. 1 Purdue Boilermakers'''
+ | score2 = '''72'''
+ | points1 = [[Dalton Knecht|Knecht]] (37)
+ | rebounds1 = ''Tied'' (4)
+ | assist1 = [[Zakai Zeigler|Zeigler]] (8)
+ | points2 = [[Zach Edey|Edey]] (40)
+ | rebounds2 = Edey (16)
+ | assist2 = [[Braden Smith (basketball)|Smith]] (7)
+ | H1 = 34−'''36'''
+ | H2 = 32−'''36'''
+ | place = [[Little Caesars Arena]] – [[Detroit|Detroit, Michigan]]
+ | attendance = 18,577
+ | referee = Ron Groover, Marques Pettigrew, Ray Natali
+ | TV = [[NCAA March Madness (TV program)|CBS]]
+}}
+
+====Midwest regional all-tournament team====
+* '''[[Zach Edey]]''' (MOP) - Purdue
+* [[Braden Smith (basketball)|Braden Smith]] - Purdue
+* [[Dalton Knecht]] - Tennessee
+* [[Zakai Zeigler]] - Tennessee
+* [[Baylor Scheierman]] - Creighton
+
+===Final Four – Glendale, Arizona===
+
+{{4TeamBracket
+| RD1=National Semifinals<br />Final Four<br />Saturday, April 6
+| RD2=National Championship Game<br />Monday, April 8
+| team-width=130
+| boldwinner=high
+ 
+| RD1-seed1=E1
+| RD1-team1=[[2023–24 UConn Huskies men's basketball team|UConn]]
+| RD1-score1=86
+| RD1-seed2=W4
+| RD1-team2=[[2023–24 Alabama Crimson Tide men's basketball team|Alabama]]
+| RD1-score2=72
+ 
+| RD1-seed3=S11
+| RD1-team3=[[2023–24 NC State Wolfpack men's basketball team|NC State]]
+| RD1-score3=50
+| RD1-seed4=MW1
+| RD1-team4=[[2023–24 Purdue Boilermakers men's basketball team|Purdue]]
+| RD1-score4=63
+ 
+| RD2-seed1= E1
+| RD2-team1= UConn
+| RD2-score1=75
+| RD2-seed2=MW1
+| RD2-team2=Purdue
+| RD2-score2=60
+}}
+
+====National semifinals====
+{{basketballbox
+ | date = April 6
+ | time = 6:09 p.m. [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/602 Preview]
+ | team1 = #S11 NC State Wolfpack
+ | score1 = 50
+ | team2 = '''#MW1 Purdue Boilermakers'''
+ | score2 = '''63'''
+ | points1 = DJ Horne, 20
+ | rebounds1 = DJ Horne, 6
+ | assist1 = D. J. Burns, 3
+ | points2 = Zach Edey, 20
+ | rebounds2 = Zach Edey, 12
+ | assist2 = Braden Smith, 6
+ | H1 = 29−'''35'''
+ | H2 = 21−'''28'''
+ | place = [[State Farm Stadium]] – [[Glendale, Arizona]]
+ | attendance = 74,720
+ | referee = Keith Kimble, Kipp Kissinger, Michael Reed
+ | TV = [[NCAA March Madness (TV program)|TBS]]
+}}
+{{basketballbox
+ | bg = fff
+ | date = April 6
+ | time = 8:49 p.m. [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/601 Preview]
+ | team1 = #W4 Alabama Crimson Tide
+ | score1 = 72
+ | team2 = '''#E1 UConn Huskies'''
+ | score2 = '''86'''
+ | points1 = Mark Sears, 24
+ | rebounds1 = Grant Nelson, 15
+ | assist1 = ''{{tooltip|Tied|Estrada, Sears}}'', 3
+ | points2 = Stephon Castle, 21
+ | rebounds2 = ''{{tooltip|Tied|Karaban, Spencer}}'', 8
+ | assist2 = Tristen Newton, 9
+ | H1 = 40−'''44'''
+ | H2 = 32−'''42'''
+ | place = State Farm Stadium – Glendale, Arizona
+ | attendance = 74,720
+ | referee = Ron Groover, Patrick Adams, Paul Szelc
+ | TV = TBS
+}}
+
+====National championship====
+{{Main article|2024 NCAA Division I men's basketball championship game}}
+{{basketballbox
+ | date = April 8, 2024
+ | time = 9:20 p.m. [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/701 Report]
+ | team1 = #MW1 Purdue Boilermakers
+ | score1 = 60
+ | team2 = '''#E1 UConn Huskies'''
+ | score2 = '''75'''
+ | H1 = 30−'''36'''
+ | H2 = 30−'''39'''
+ | points1 = Zach Edey, 37
+ | rebounds1 = Zach Edey, 10
+ | assist1 = Braden Smith, 8
+ | points2 = Tristen Newton, 20
+ | rebounds2 = Cam Spencer, 8
+ | assist2 = Tristen Newton, 7
+ | place = State Farm Stadium – Glendale, Arizona
+ | attendance = 74,423
+ | referee = Jeffrey Anderson, Terry Oglesby, Roger Ayers
+ | TV = TBS
+}}
+
+====Final Four all-tournament team====
+* '''[[Tristen Newton]]''' ([[NCAA basketball tournament Most Outstanding Player|MOP]]) - UConn
+* [[Stephon Castle]] - UConn
+* [[Donovan Clingan]] - UConn
+* [[Zach Edey]] - Purdue
+* [[Cam Spencer]] - UConn
+Source:<ref>{{cite news|first1=Emily|last1=Horos|first2=Jason|last2=Wolf|title=UConn repeats with second men's basketball national title|date=April 8, 2024|work=Arizona Republic|url=https://www.azcentral.com/story/sports/ncaab/final-four/2024/04/08/purdue-uconn-ncaa-national-championship-game-live-updates-score/73236546007/|access-date=April 10, 2024}}</ref>
+
+==Record by conference==
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+|+Overview of conference performance in the 2024 NCAA Division I men's basketball tournament
+|-
+!scope="col"|Conference
+!scope="col"|Bids
+!scope="col"|Record
+!scope="col"|Win %
+!scope="col"|{{abbr|FF|First Four}}
+!scope="col"|{{abbr|R64|Round of 64}}
+!scope="col"|{{abbr|R32|Round of 32}}
+!scope="col"|{{abbr|S16|Sweet 16}}
+!scope="col"|{{abbr|E8|Elite 8}}
+!scope="col"|{{abbr|F4|Final 4}}
+!scope="col"|{{abbr|CG|Championship Game}}
+!scope="col"|{{abbr|NC|National Champion}}
+|-
+! scope="row" |[[Atlantic Coast Conference|Atlantic Coast]]
+| 5 || 12–5 || .705 || 1 || 4 || 4 || 4 || 3 || 1 || – || –
+|-
+! scope="row" |[[Big East Conference|Big East]]
+| 3 || 10–2 || .833 || – || 3 || 3 || 3 || 1 || 1 || 1 || 1
+|-
+! scope="row" |[[Big Ten Conference|Big Ten]]
+| 6 || 10–6 || .625 || – || 6 || 4 || 2 || 2 || 1 || 1 || –
+|-
+! scope="row" |[[Southeastern Conference|Southeastern]]
+| 8 || 8–8 || .500 || – || 8 || 3 || 2 || 2 || 1 || – || –
+|-
+! scope="row" |[[Big 12 Conference|Big 12]]
+| 8 || 7–8 || .467 || – || 8 || 5 || 2 || – || – || – || –
+|-
+! scope="row" |[[Pac-12 Conference|Pac-12]]
+| 4 || 6–4 || .600 || 1 || 4 || 4 || 1 || – || – || – || –
+|-
+! scope="row" |[[Mountain West Conference|Mountain West]]
+| 6 || 4–6 || .400 || 2 || 5 || 2 || 1 || – || – || – || –
+|-
+! scope="row" |[[West Coast Conference|West Coast]]
+| 2 || 2–2 || .500 || – || 2 || 1 || 1 || – || – || – || –
+|-
+! scope="row" |[[Atlantic 10 Conference|Atlantic 10]]
+| 2 || 2–2 || .500 || – || 2 || 2 || – || – || – || – || –
+|-
+! scope="row" |[[Horizon League|Horizon]]
+| 1 || 1–1 || .500 || – || 1 || 1|| – || – || – || – || –
+|-
+! scope="row" |[[Ivy League]]
+| 1 || 1–1 || .500 || – || 1 || 1 || – || – || – || – || –
+|-
+! scope="row" |[[Sun Belt Conference|Sun Belt]]
+| 1 || 1–1 || .500 || – || 1 || 1 || – || – || – || – || –
+|-
+! scope="row" |[[Western Athletic Conference|WAC]]
+| 1 || 1–1 || .500 || – || 1 || 1 || – || – || – || – || –
+|-
+!scope="row"|[[Northeast Conference|Northeast]]
+| 1 || 1–1 || .500 || 1 || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Southwestern Athletic Conference|SWAC]]
+| 1 || 1–1 || .500 || 1 || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[American Athletic Conference|American]]
+| 2 || 0–2 || .000 || – || 2 || – || – || – || – || – || –
+|-
+! scope="row" |[[America East Conference|America East]]
+| 1 || 0–1 || .000 || – || 1 ||  – || – || – || – || – || –
+|-
+! scope="row" |[[Atlantic Sun Conference|ASUN]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Big South Conference|Big South]]
+| 1 || 0–1 || .000 || – || 1 ||  – || – || – || – || – || –
+|-
+! scope="row" |[[Big West Conference|Big West]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Coastal Athletic Association|CAA]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Conference USA|CUSA]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Metro Atlantic Athletic Conference|MAAC]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Mid-American Conference|MAC]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Missouri Valley Conference|Missouri Valley]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Ohio Valley Conference|Ohio Valley]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Patriot League|Patriot]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Southern Conference|Southern]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Southland Conference|Southland]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Summit League|Summit]]
+| 1 || 0–1 || .000 || – || 1 || – || – || – || – || – || –
+|-
+! scope="row" |[[Big Sky Conference|Big Sky]]
+| 1 || 0–1 || .000 || 1 || – || – || – || – || – || – || –
+|-
+! scope="row" |[[Mid-Eastern Athletic Conference|MEAC]]
+| 1 || 0–1 || .000 || 1 || – || – || – || – || – || – || –
+|}
+
+==Game summaries and tournament notes==
+
+===Tournament upsets===
+Per the NCAA, an upset occurs "when the losing team in an NCAA tournament game was seeded at least five seed lines better than the winning team."<ref>{{Cite web |last=Wittry |first=Andy |date=March 15, 2023 |title=Here's how to pick March Madness men's upsets, according to the data |url=https://www.ncaa.com/news/basketball-men/bracketiq/2018-03-13/heres-how-pick-march-madness-upsets-according-data |url-status=live |archive-url=https://web.archive.org/web/20230312204528/https://www.ncaa.com/news/basketball-men/bracketiq/2018-03-13/heres-how-pick-march-madness-upsets-according-data |archive-date=March 12, 2023 |access-date=2023-03-12 |publisher=NCAA}}</ref>
+
+The 2024 tournament saw a total of 9 upsets, with seven in the first round, one in the Sweet Sixteen and one in the Elite Eight.
+
+{| class="wikitable" style="text-align:left;"
+|+Upsets in the 2024 NCAA Division I men's basketball tournament
+!scope="col"|Round
+!scope="col"|West
+!scope="col"|Midwest
+!scope="col"|South
+!scope="col"|East
+|-
+!scope="row"|Round of 64
+| No. 12 [[2023–24 Grand Canyon Antelopes men's basketball team|Grand Canyon]] defeated No. 5 [[2023–24 Saint Mary's Gaels men's basketball team|Saint Mary's]], 75–66
+|No. 11 [[2023–24 Oregon Ducks men's basketball team|Oregon]] defeated No. 6 [[2023–24 South Carolina Gamecocks men's basketball team|South Carolina]], 87–73
+| No. 14 [[2023–24 Oakland Golden Grizzlies men's basketball team|Oakland]] defeated No. 3 [[2023–24 Kentucky Wildcats men's basketball team|Kentucky]], 80–76<br> No. 11 [[2023–24 NC State Wolfpack men's basketball team|NC State]] defeated No. 6 [[2023–24 Texas Tech Red Raiders basketball team|Texas Tech]], 80–67<br>No. 12 [[2023–24 James Madison Dukes men's basketball team|James Madison]] defeated No. 5 [[2023–24 Wisconsin Badgers men's basketball team|Wisconsin]], 72–61
+|No. 11 [[2023–24 Duquesne Dukes men's basketball team|Duquesne]] defeated No. 6 [[2023–24 BYU Cougars men's basketball team|BYU]], 71–67<br>No. 13 [[2023–24 Yale Bulldogs men's basketball team|Yale]] defeated No. 4 [[2023–24 Auburn Tigers men's basketball team|Auburn]], 78–76
+|-align=center
+!scope="row"|Round of 32
+|''None''
+|''None''
+|''None''
+|''None''
+|-align=center
+!scope="row"|Sweet 16
+|''None''
+|''None''
+|align=left|No. 11 NC State defeated No. 2 [[2023–24 Marquette Golden Eagles men's basketball team|Marquette]], 67–58
+|''None''
+|-align=center
+!scope="row"|Elite 8
+|''None''
+|''None''
+|align=left| No. 11 NC State defeated No. 4  [[2023–24 Duke Blue Devils men's basketball team|Duke]], 76–64
+|''None''
+|-
+!scope="row"|Final 4
+|colspan=4 align=center| ''None''
+|-
+!scope="row"|National Championship 
+|colspan=4 align=center| ''None''
+
+|}
+<!--
+===Tournament records===
+
+===Game officials===-->
+
+==Media coverage==
+
+===Television===
+{{main|NCAA March Madness (TV program)}}
+[[CBS Sports]] and [[TNT Sports (United States)|TNT Sports]] (formerly Warner Bros. Discovery Sports during the previous 2023 tournament, and Turner Sports two years prior) have US television rights to the tournament.<ref name="wp-2032extend">{{cite news|last=Bonesteel|first=Matt|title=CBS and Turner Sports lock down NCAA tournament through 2032|url=https://www.washingtonpost.com/news/earlylead/wp/2016/04/12/cbs-and-turner-sports-lock-down-ncaa-tournament-through-2032/|newspaper=[[The Washington Post]]|date=April 12, 2016|access-date=April 12, 2016}}</ref><ref>{{Cite web |title=CBS Sports and TNT Sports Announce 2024 NCAA Division I Men's Basketball Championship Commentator Teams {{!}} NCAA.com |url=https://www.ncaa.com/news/basketball-men/article/2024-03-12/cbs-sports-and-tnt-sports-announce-2024-ncaa-division-i-mens-basketball |access-date=2024-03-12 |website=www.ncaa.com |language=en|date=March 12, 2024}}</ref> As part of a cycle that began in 2016, [[TBS (American TV channel)|TBS]] televised the 2024 Final Four and the National Championship Game.
+
+This was the first tournament with [[Ian Eagle]] as the lead play-by-play announcer.
+
+For the first time since 1997, longtime studio host [[Greg Gumbel]] was not part of this year's March Madness coverage due to family health issues.<ref>{{cite news|url=https://nypost.com/2024/03/12/sports/greg-gumbel-missing-cbs-march-madness-coverage-due-family-health-issues/|publisher=[[New York Post]]|title=Greg Gumbel missing CBS' March Madness coverage due to 'family health issues'|first=Ryan|last=Glasspiegel|date=March 12, 2024|access-date=March 12, 2024}}</ref> Gumbel died from cancer on December 27, 2024.<ref>{{Cite web |last=Nivison |first=Austin |date=December 27, 2024 |title=Greg Gumbel, trailblazing CBS Sports broadcast legend, dies at 78 |url=https://www.cbssports.com/general/news/greg-gumbel-trailblazing-cbs-sports-broadcast-legend-dies-at-78/ |url-status=live |archive-url=https://web.archive.org/web/20241227235739/https://www.cbssports.com/general/news/greg-gumbel-trailblazing-cbs-sports-broadcast-legend-dies-at-78/ |archive-date=December 27, 2024 |access-date=December 27, 2024 |website=[[CBSSports.com]] |language=en-US}}</ref>
+
+Beginning this tournament, [[Max (streaming service)|Max]] will be streaming all of its games airing on its networks (TNT, TBS and TruTv) on its [[Bleacher Report Sports Add-On]].<ref>{{Cite web |last=Roth |first=Emma |date=2023-09-19 |title=Max will start offering a live sports tier in October |url=https://www.theverge.com/2023/9/19/23880831/max-live-sports-tier-launch-dateprice |access-date=2023-09-25 |website=The Verge |language=en-US}}</ref>
+
+CBS will continue to stream all of its games on [[Paramount+]] and for free on March Madness Live.
+
+====Television channels====
+*Selection Show – [[CBS]]
+*First Four – [[TruTV]]
+*First and Second Rounds – CBS, [[TBS (American TV channel)|TBS]], [[TNT (American TV network)|TNT]] and TruTV  
+*Regional Semifinals (Sweet 16) and Finals (Elite 8)  – CBS, TBS, and TruTV
+*National Semifinals (Final Four) and Championship – TBS, TNT, and TruTV
+
+====Studio hosts====
+* [[Ernie Johnson Jr.|Ernie Johnson]] (New York City and Glendale) – First and second rounds, regionals, Final Four and national championship game
+* [[Adam Lefkoe]] (Atlanta and Glendale) – First Four, first, second rounds, regional semifinals and Final Four
+* [[Adam Zucker]] (New York City) – First and second rounds
+* [[Jamie Erdahl]] – First and second rounds (game breaks)
+
+====Studio analysts====
+* [[Charles Barkley]] (New York City and Glendale) – First and second rounds, regionals, Final Four and national championship game
+* [[Seth Davis]] (Atlanta and Glendale) – First Four, first and second rounds, regional semifinals and Final Four
+* [[Clark Kellogg]] (New York City and Glendale) – First and second rounds, regionals, Final Four and national championship game
+* [[Candace Parker]] (Atlanta and Glendale) – First Four, first and second rounds, regional semifinals and Final Four
+* [[Bruce Pearl]] (Atlanta) – Regional Semifinals
+* [[Kenny Smith]] (New York City and Glendale) – First and second rounds, regionals, Final Four and national championship game
+* [[Gene Steratore]] (New York City and Glendale) (Rules Analyst) – First Four, first and second rounds, regionals, Final Four and national championship game
+* [[Wally Szczerbiak]] (New York City) – Second round
+* [[Jay Wright (basketball)|Jay Wright]] (Atlanta, New York City and Glendale) – First Four, first and second rounds, regionals, Final Four and national championship game
+
+====Broadcast assignments====
+* [[Ian Eagle]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – First and second rounds at Brooklyn, New York; South Regional at Dallas, Texas; Final Four and National Championship at Glendale, Arizona
+* [[Brian Anderson (broadcaster)|Brian Anderson]]/[[Jim Jackson (basketball)|Jim Jackson]]/[[Allie LaForce]] – First and second rounds at Charlotte, North Carolina; West Regional at Los Angeles, California
+* [[Kevin Harlan]]/[[Dan Bonner]]/[[Stan Van Gundy]]/[[Andy Katz]] – First and second rounds at Indianapolis, Indiana; East Regional at Boston, Massachusetts 
+* [[Andrew Catalon]]/[[Steve Lappas]]/[[Evan Washburn]] – First and second rounds at Pittsburgh, Pennsylvania; Midwest Regional at Detroit, Michigan
+* [[Brad Nessler]]/[[Brendan Haywood]]/[[Dana Jacobson]] – First and second rounds at Salt Lake City, Utah
+* [[Spero Dedes]]/[[Jim Spanarkel]]/[[Jon Rothstein]] – First Four at Dayton, Ohio; First and second rounds at Memphis, Tennessee
+* [[Lisa Byington]]/[[Steve Smith (basketball)|Steve Smith]]/[[Robbie Hummel]]/[[Lauren Shehadi]] – First and second rounds at Spokane, Washington
+* [[Tom McCarthy (sportscaster)|Tom McCarthy]]/[[Debbie Antonelli]]/[[Avery Johnson]]/[[AJ Ross]] – First and second rounds at Omaha, Nebraska
+
+====Most watched tournament games====
+{{small|(#) Tournament seedings and region in parentheses.}}
+{| class="wikitable sortable" style="text-align:center;" size="95"
+|-
+! Rank !! Round !! Date and Time ([[Eastern Time Zone|ET]]) !! class="unsortable" colspan=3|Matchup !! Network !! data-sort-type="number"|Viewers (millions) !! data-sort-type="number"|TV rating<ref>{{Cite web |title=NCAA men's viewership up slightly through first weekend |date=March 26, 2024 |url=https://www.sportsmediawatch.com/2024/03/ncaa-mens-tournament-ratings-first-weekend-cbs-tbs-tnt-trutv-viewership/}}</ref><ref>{{cite web |last1=Lewis |first1=Jon |title=NC State-Duke hops to five-year high, 15 million, on Easter Sunday |url=https://www.sportsmediawatch.com/2024/04/nc-state-duke-ratings-most-watched-elite-eight-game-five-years-easter/ |website=sportsmediawatch.com |date=April 2, 2024 |access-date=2 April 2024}}</ref>
+|-
+| 1 || Elite Eight|| data-sort-value="9" | March 31, 2024, 5:10&nbsp;p.m. || (11 S) '''[[2023–24 NC State Wolfpack men's basketball team|NC State]]'''|| 76–64 || (4 S) [[2023–24 Duke Blue Devils men's basketball team|Duke]]|| [[NCAA March Madness (TV program)|CBS]] || 15.14|| 6.4
+|-
+| 2 || National Championship|| data-sort-value="10" | April 8, 2024, 9:09&nbsp;p.m. || (1 MW) [[2023–24 Purdue Boilermakers men's basketball team|Purdue]]|| 60–75 || (1 E) '''[[2023–24 UConn Huskies men's basketball team|UConn]]'''|| rowspan="3" | [[NCAA March Madness (TV program)|TBS]]|| 14.82|| 6.5
+|-
+| 3 || Final Four|| data-sort-value="2" | April 6, 2024, 8:39&nbsp;p.m. || (4 W) [[2023–24 Alabama Crimson Tide men's basketball team|Alabama]]|| 72–86 || (1 E) '''UConn'''|| 14.18||6.7
+|-
+| 4 || Final Four|| data-sort-value="1" | April 6, 2024, 6:09&nbsp;p.m. || (11 S) NC State|| 50–63 || (1 MW) '''Purdue'''|| 11.45||5.3
+|-
+| 5 || Elite Eight|| data-sort-value="4" | March 31, 2024, 2:20&nbsp;p.m. || (2 MW) [[2023–24 Tennessee Volunteers basketball team|Tennessee]]|| 66–72 || (1 MW) '''Purdue'''|| rowspan="5" | CBS|| 10.39||4.4
+|-
+| 6 || Second Round|| data-sort-value="5" | March 23, 2024, 5:36&nbsp;p.m. || (9 W) [[2023–24 Michigan State Spartans men's basketball team|Michigan State]]|| 69–85 || (1 W) '''[[2023–24 North Carolina Tar Heels men's basketball team|North Carolina]]'''|| 10.02||5.0
+|-
+| 7 || Second Round|| data-sort-value="8" | March 23, 2024, 3:15&nbsp;p.m. || (5 MW) '''[[2023–24 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''|| 89–68 || (4 MW) [[2023–24 Kansas Jayhawks men's basketball team|Kansas]]|| 8.28||4.38
+|-
+| 8 || Second Round|| data-sort-value="6" | March 24, 2024, 2:40&nbsp;p.m. || (8 MW) [[2023–24 Utah State Aggies men's basketball team|Utah State]]|| 67–106|| (1 MW) '''Purdue'''|| 8.08||4.34
+|-
+| 9 || Second Round|| data-sort-value="7" | March 24, 2024, 5:15&nbsp;p.m. || (12 S) [[2023–24 James Madison Dukes men's basketball team|James Madison]]|| 55–93 || (4 S) '''Duke'''|| 7.80||4.03
+|-
+| 10 || Elite Eight|| data-sort-value="3" | March 30, 2024, 9:44&nbsp;p.m. || (6 W) [[2023–24 Clemson Tigers men's basketball team|Clemson]]|| 82–89 || (4 W) '''Alabama'''|| TBS || 7.80||3.80
+|}
+
+===Radio===
+[[Westwood One]] had exclusive coverage of the entire tournament.
+
+{{col-begin}}
+{{col-2}}
+
+====First Four====
+*[[Nate Gatter]] and [[Jim Boeheim]] – at Dayton, Ohio
+
+====First and second rounds====
+*[[Jason Benetti]] and [[Casey Jacobsen]] – Charlotte, North Carolina
+*[[Kevin Kugler]] and [[Stephen Bardo]] – Omaha, Nebraska
+*[[Scott Graham]] and [[Jordan Cornette]] – Pittsburgh, Pennsylvania
+*[[Dave Pasch]] and [[P. J. Carlesimo]] – Salt Lake City, Utah
+*[[Chris Carrino]] and [[Jon Crispin]] – Brooklyn, New York
+*[[Ted Emrich]] and [[Austin Croshere]] – Indianapolis, Indiana
+*[[John Sadak]] and [[Tom Crean (basketball)|Tom Crean]] – Memphis, Tennessee
+*[[Ryan Radtke]] and [[Dan Dickau]] – Spokane, Washington
+{{col-2}}
+
+====Regionals====
+*[[Tom McCarthy (sportscaster)|Tom McCarthy]] (Thursday)/Scott Graham (Saturday) and Jordan Cornette – East Regional at Boston, Massachusetts
+*[[Spero Dedes]] and Austin Croshere – West Regional at Los Angeles, California
+*Ryan Radtke and P. J. Carlesimo – South Regional at Dallas, Texas
+*Kevin Kugler and [[Robbie Hummel]] – Midwest Regional at Detroit, Michigan
+
+====Final Four and national championship====
+*Kevin Kugler, [[Jim Jackson (basketball)|Jim Jackson]], [[Clark Kellogg]], and [[Andy Katz]] – Glendale, Arizona
+{{col-end}}
+
+===International===
+
+===Internet===
+'''Video'''
+
+Live video of games is available for streaming through the following means:<ref name="2017 TV">{{cite web |last1=Maiman |first1=Beth |title=March Madness TV schedule: How to watch and live stream every game in the NCAA men's basketball tournament |url=https://www.ncaa.com/news/basketball-men/article/march-madness-2017-tv-schedule-how-watch-and-live-stream |publisher=NCAA |access-date=March 9, 2017 |date=March 8, 2017 |archive-date=March 9, 2017 |archive-url=https://web.archive.org/web/20170309203801/http://www.ncaa.com/news/basketball-men/article/march-madness-2017-tv-schedule-how-watch-and-live-stream |url-status=live }}</ref>
+
+* NCAA March Madness Live (website and app, CBS games available for free on [[digital media player]]s; access to all other games requires [[TV Everywhere]] authentication through provider)
+* [[Paramount+]] (only CBS games)
+* [[Max (streaming service)|Max]] (only TBS, TNT, and truTV games)
+* Watch TBS website and app (only TBS games, required TV Everywhere authentication)
+* Watch TNT website and app (only TNT games, required TV Everywhere authentication)
+* Watch truTV website and app (only truTV games, required TV Everywhere authentication)
+* CBS website and app (only CBS games, required TV Everywhere authentication)
+* Websites and apps of cable, satellite, and OTT providers of CBS, TBS, TNT, and truTV (access required subscription)
+
+For the app this year, a multiview which showed all games airing simultaneously was available for the second straight year.<ref>{{Cite web |last=Costa |first=Brandon |date=2023-03-16 |title=March Madness Live Returns with Four-Game Multiview on Desktop; Greater Focus on Discoverability Across Devices |url=https://www.sportsvideo.org/2023/03/16/march-madness-live-returns-with-four-game-multiview-on-desktop-greater-focus-on-discoverability-across-devices/ |access-date=2023-03-17 |work=Sports Video Group |archive-date=March 17, 2023 |archive-url=https://web.archive.org/web/20230317042041/https://www.sportsvideo.org/2023/03/16/march-madness-live-returns-with-four-game-multiview-on-desktop-greater-focus-on-discoverability-across-devices/ |url-status=live }}</ref>
+
+In addition, the March Madness app will offer '''Fast Break''', whiparound coverage of games similar to [[NFL RedZone]] on the First weekend of the tournament (First and Second rounds).
+
+* [[Dave Briggs (journalist)|Dave Briggs]], [[Tony Delk]], [[Randolph Childress]], [[Josh Pastner]] (Atlanta)<ref>{{Cite web |date=2024-03-18 |title=Roundup: March Madness, Irish Dancing, BMS Science Olympiad ... |url=https://06880danwoog.com/2024/03/18/roundup-staples-sports-kicking-screening-fun-run/ |access-date=2024-03-21 |website=06880 |language=en-US}}</ref>
+
+'''Audio'''
+
+Live audio of games is available for streaming through the following means:
+* NCAA March Madness Live (website and app)
+* Westwood One Sports website
+* [[TuneIn]] (website and app, required TuneIn Premium subscription) 
+* Varsity Network app
+* Websites and apps of Westwood One Sports affiliates
+The March Madness app also supported Apple CarPlay and Android Auto through a native app.<ref>{{Cite web |last=Miller |first=Chance |date=2023-03-10 |title=NCAA March Madness app will support Live Activities, CarPlay, and more this year |url=https://9to5mac.com/2023/03/10/stream-march-madness-app-live-activites/ |access-date=2023-03-17 |website=9to5Mac |archive-date=March 17, 2023 |archive-url=https://web.archive.org/web/20230317042036/https://9to5mac.com/2023/03/10/stream-march-madness-app-live-activites/ |url-status=live }}</ref>
+
+== See also ==
+*[[2024 NCAA Division I women's basketball tournament]]
+*[[2024 NCAA Division II men's basketball tournament]]
+*[[2024 NCAA Division III men's basketball tournament]]
+*[[2024 National Invitation Tournament]]
+*[[2024 College Basketball Invitational]]
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+{{NCAA Division I Men's Basketball Tournament navbox}}
+{{2023–24 NCAA Division I championships navbox}}
+{{2024 NCAA Division I men's basketball tournament navbox}}
+
+[[Category:2023–24 NCAA Division I men's basketball season|Tournament]]
+[[Category:2024 in sports in Arizona|NCAA Division I men's basketball tournament]]
+[[Category:NCAA Division I men's basketball tournament]]
+[[Category:March 2024 sports events in the United States|NCAA]]

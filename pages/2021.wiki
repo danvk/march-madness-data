@@ -1,0 +1,1985 @@
+{{Short description|2021 edition of NCAA Division 1 Men's college basketball tournament}}
+{{Use mdy dates|date=March 2021}}
+{{Infobox NCAA basketball tournament 
+| Year            = 2021
+| Image           = 2021 NCAA Men's Final Four logo.svg
+| Caption         = 
+| Teams           = 68 (including one that did not play)
+| FinalFourArena  = [[Lucas Oil Stadium]]
+| FinalFourCity   = [[Indianapolis|Indianapolis, Indiana]]
+| Champions       = [[2020–21 Baylor Bears basketball team|Baylor Bears]]
+| TitleCount      = 1st
+| ChampGameCount  = 2nd
+| ChampFFCount    = 3rd
+| RunnerUp        = [[2020–21 Gonzaga Bulldogs men's basketball team|Gonzaga Bulldogs]]
+| GameCount       = 2nd
+| RunnerFFCount   = 2nd
+| Semifinal1      = [[2020–21 Houston Cougars men's basketball team|Houston Cougars]]
+| FinalFourCount  = 6th
+| Semifinal2      = [[2020–21 UCLA Bruins men's basketball team|UCLA Bruins]]
+| FinalFourCount2 = 19th
+| Coach           = [[Scott Drew]]
+| CoachCount      = 1st
+| MOP             = [[Jared Butler]]
+| MOPTeam         = Baylor
+| Attendance      = 173,592<ref>{{cite web |title=2021 ATTENDANCE SUMMARY~ |url=http://fs.ncaa.org/Docs/stats/m_basketball_RB/2022/Attend.pdf}}</ref>
+| OneTopScorer    = 
+| TwoTopScorers   = 
+| TopScorer       = 
+| TopScorerTeam   = 
+| TopScorer2      = 
+| TopScorer2Team  = 
+| Points          = 
+}}
+
+The '''2021 NCAA Division I men's basketball tournament''' was a [[single-elimination tournament]] of 68 teams to determine the [[NCAA|National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] men's [[college basketball]] national champion for the [[2020–21 NCAA Division I men's basketball season|2020–21 season]]. The 82nd edition of [[NCAA Division I men's basketball tournament|the tournament]] began play on March 18, 2021, in sites around the state of [[Indiana]],<ref>{{cite news |title=NCAA announces dates for preliminary March Madness rounds |url=https://www.espn.com/mens-college-basketball/story/_/id/30743037/ncaa-announces-dates-preliminary-march-madness-rounds |access-date=January 19, 2021 |work=ESPN.com |date=January 19, 2021}}</ref> and concluded with the [[2021 NCAA Division I Men's Basketball Championship Game|championship game]] at [[Lucas Oil Stadium]] in [[Indianapolis]] on April 5, with the [[2020–21 Baylor Bears basketball team|Baylor Bears]] defeating the previously undefeated [[2020–21 Gonzaga Bulldogs men's basketball team|Gonzaga Bulldogs]] 86–70 to earn the team's first ever title.
+
+For logistical considerations surrounding the ongoing [[COVID-19 pandemic in the United States|COVID-19 pandemic]] (which resulted in the cancellation of the [[2020 NCAA Division I men's basketball tournament|previous year's tournament]]), the NCAA announced in January 2021 that all tournament games would be held in Indiana rather than at sites across the country. This was the only time in the history of the tournament to date that a single state has hosted it in its entirety.<ref name="indiana">{{cite web |title=NCAA announces further details for 2021 Division I men's basketball championship |url=https://www.ncaa.com/news/basketball-men/article/2021-01-04/ncaa-announces-further-details-2021-division-i-mens-basketball-championship |access-date=January 4, 2021}}</ref>
+
+This marked the first time since [[1976 NCAA Division I basketball tournament|1976]] that neither [[Duke Blue Devils men's basketball|Duke]] or [[Kentucky Wildcats men's basketball|Kentucky]] qualified for the tournament.<ref>{{cite news|title=Gonzaga, Baylor, Illinois, Michigan get top seeds in NCAA men's basketball tournament|url=https://www.espn.com/mens-college-basketball/story/_/id/31066148/gonzaga-baylor-illinois-michigan-get-top-seeds-ncaa-men-basketball-tournament|work=ESPN.com|access-date=March 14, 2021|date=March 14, 2021}}</ref> It was also the first time since [[1995 NCAA Division I men's basketball tournament|1995]] that Duke failed to make the tournament, breaking a streak of 24 consecutive appearances. [[America East Conference|America East]] champion [[2020–21 Hartford Hawks men's basketball team|Hartford]] and [[Western Athletic Conference|WAC]] champion [[2020–21 Grand Canyon Antelopes men's basketball team|Grand Canyon]] made their NCAA Tournament debuts.
+
+The tournament was marked by many upsets, with [[Yahoo Sports]] journalist [[Pete Thamel]] calling it "one of the most dizzying NCAA men's tournaments in history". With only half of the 16 second-round games having been played, there had been 11 upsets to that point, using the NCAA's definition of "upset" as a win by a team [[seed (sports)|seeded]] five or more lines below its defeated opponent. This had already broken the record for most upsets prior to the round of 16; by the end of the second round, this number went up to 12. In addition, at least one team seeded #9 through #15 won a first-round game for the fourth time ever, and the first time since [[2016 NCAA Division I men's basketball tournament|2016]]. Also, a record four teams seeded 13 or lower won first-round games.<ref>{{cite news|url=https://sports.yahoo.com/why-this-may-already-be-the-wildest-ncaa-mens-tournament-ever-061712534.html |title=Why this may already be the craziest NCAA men's tournament ever |first=Pete |last=Thamel |author-link=Pete Thamel |website=[[Yahoo Sports]] |date=March 22, 2021 |access-date=March 22, 2021}}</ref> Another notable mark set during the tournament was a record-breaking 14 upsets throughout the event, breaking the original record of 13 upsets from the [[1985 NCAA Division I men's basketball tournament|1985]] and [[2014 NCAA Division I men's basketball tournament|2014]] tournaments.
+
+The Final Four game between UCLA and Gonzaga (the first semifinal game to go into overtime since [[1998 NCAA Division I men's basketball tournament|1998]]) saw a game-winning buzzer-beater by [[Jalen Suggs]] to take Gonzaga into the championship game, the first buzzer-beater in a national semifinal since [[1977 NCAA Division I men's basketball tournament|1977]]. By defeating Gonzaga [[2021 NCAA Division I Men's Basketball Championship Game|in the championship game]], the [[Baylor Bears basketball|Baylor Bears]] became the second consecutive first-time NCAA champions, following the [[Virginia Cavaliers men's basketball|Virginia Cavaliers]] in [[2019 NCAA Division I men's basketball tournament|2019]]. The last time this happened was in [[2002 NCAA Division I men's basketball tournament|2002]] and [[2003 NCAA Division I men's basketball tournament|2003]], when the [[Maryland Terrapins men's basketball|Maryland Terrapins]] and [[Syracuse Orange men's basketball|Syracuse Orange]] (then nicknamed Orangemen) won their first titles in their respective years. Baylor also joined [[1965–66 Texas Western Miners men's basketball team|Texas Western]] (now known as the [[University of Texas at El Paso]]) as the only two teams from the state of Texas to have won an NCAA Division I Basketball championship, the Miners having done so in [[1966 NCAA University Division basketball tournament|1966]].
+
+==Tournament procedure==
+{{further|NCAA Division I men's basketball tournament#Current tournament format}}
+	
+A total of 68 teams entered the 2021 tournament, with 31 of them (down from 32, due to the [[Ivy League]] having canceled all winter semester sports due to COVID-19)<ref>{{Cite web|title=Ivy League cancels basketball season for 2020-21 as part of ban on winter sports due to COVID-19|url=https://www.cbssports.com/college-basketball/news/ivy-league-cancels-basketball-season-for-2020-21-as-part-of-ban-on-winter-sports-due-to-covid-19/|access-date=November 15, 2020|website=CBSSports.com|date=November 12, 2020 }}</ref> having received an automatic bid by winning their [[List of NCAA conferences|conference's]] tournament. The remaining 37 bids were "at-large", with selections extended by the NCAA Selection Committee. Teams met sport sponsorship requirements and were considered for NCAA championship selection if they played 13 games, which represented a 50 percent reduction of the current minimum. For NCAA championship consideration, all 13 games had to be against other Division I opponents. Teams could also play 12 regular-season games against Division I opponents and one conference tournament game to be eligible for tournament consideration.<ref>{{cite web|title=DI Council approves Nov. 25 start date for men's and women's basketball|url=https://www.ncaa.org/about/resources/media-center/news/di-council-approves-nov-25-start-date-men-s-and-women-s-basketball|date=September 16, 2020|publisher=[[NCAA]]}}</ref>
+
+The [[NCAA basketball tournament selection process|Selection Committee]] seeded the entire field from 1 to 68. The four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams played in the [[First Four]] round: for the 2021 tournament, the games were played between the overall 65th and 66th seeds, the 67th and 68th seed, and the last four at-large seeds.<ref>{{Cite web|title=New bracketing principles adopted for 2021 NCAA tournament|url=https://www.ncaa.com/news/basketball-men/article/2021-01-15/new-bracketing-principles-adopted-2021ncaa-tournament|access-date=2021-03-08|website=NCAA.com|language=en}}</ref>
+
+The top four teams outside of the ranking (commonly known as the "first four out" in pre-tourney analyses) acted as standbys in the event a school was forced to withdraw from the tournament due to COVID-19 protocols.<ref>{{cite news|last=Gleeson|first=Scott|date=March 14, 2021|title=March Madness: Here's how Duke could play in the 2021 NCAA Tournament after all|publisher=USA Today|url=https://www.usatoday.com/story/sports/ncaab/2021/03/14/march-madness-heres-how-duke-could-play-ncaa-tournament/4687883001/|access-date=March 14, 2021}}</ref><ref>{{cite news|last1=Gleeson|first1=Scott|last2=Mast|first2=Shelby|date=March 14, 2021|title=NCAA Tournament bracketology: Final March Madness projection on Selection Sunday|publisher=USA Today|url=https://www.desmoinesregister.com/story/sports/ncaab/2021/03/14/march-madness-bracketology-final-ncaa-tournament-field/4686838001/|access-date=March 14, 2021}}</ref> However, if a team withdrew within 48 hours of the tournament's commencement, they would not be replaced; the bracket was not reseeded, and the affected team's opponent would [[walkover|automatically advance]] to the next round. The replacement teams are as follows, in order: 
+{|class="wikitable sortable plainrowheaders"
+|+First Four Out<ref>{{Cite web|url=https://www.espn.com/womens-college-basketball/story/_/id//|title=Memphis, Colorado State, Saint Louis, Ole Miss are top seeds in NIT bracket. Louisville did not play in the NIT.  |website=ESPN.com|language=en|access-date=2021-03-14}}</ref>
+|-
+!scope="col"|[[NCAA Evaluation Tool|NET]]
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+|-
+|align=center|56
+!scope="row" style="text-align:left"|[[2020–21 Louisville Cardinals men's basketball team|Louisville]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|13–7
+|-
+|align=center|51
+!scope="row" style="text-align:left"|[[2020–21 Colorado State Rams men's basketball team|Colorado State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|18–6
+|-
+|align=center|43
+!scope="row" style="text-align:left"|[[2020–21 Saint Louis Billikens men's basketball team|Saint Louis]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|14–6
+|-
+|align=center|53
+!scope="row" style="text-align:left"|[[2020–21 Ole Miss Rebels men's basketball team|Ole Miss]]
+|[[Southeastern Conference|SEC]]
+|align=center|16–11
+|}
+<ref>{{cite news|last=Wells|first=Adam|date=February 21, 2021|title=NCAA Tournament teams won't be replaced if forced to withdraw due to COVID-19|publisher=Bleacher Report|url=https://syndication.bleacherreport.com/amp/2933487-ncaa-tournament-teams-wont-be-replaced-if-forced-to-withdraw-due-to-covid-19.amp.html|access-date=March 8, 2021}}</ref>
+
+==Schedule and venues==
+{{Maplink|frame=yes|text=2021 NCAA tournament venues|zoom=7|frame-height=400
+|type=point|id=Q867160|title=Lucas Oil Stadium|description=First Round, Second Round, Elite Eight, Final Four
+|type2=point|id2=Q3785713|title2=Hinkle Fieldhouse|description2=First Round, Second Round, Sweet 16
+|type3=point|id3=Q545007|title3=Bankers Life Fieldhouse|description3=First Round, Second Round, Sweet 16
+|type4=point|id4=Q14688354|title4=Indiana Farmers Coliseum|description4=First Round, Second Round
+|type5=point|id5=Q4808661|title5=Simon Skjodt Assembly Hall|description5=First Four, First Round
+|type6=point|id6=Q6724456|title6=Mackey Arena|description6=First Four, First Round
+}}
+[[File:2021 NCAA Division I Men's Basketball Tournament 03.jpg|thumb|Gonzaga vs. University of Southern California at [[Lucas Oil Stadium]]]]
+On January 4, 2021, the NCAA announced that due to logistical considerations associated with the [[COVID-19 pandemic in the United States|COVID-19 pandemic]] (which prompted the cancellation of the 2020 tournament), the entirety of the tournament would be conducted at sites  within the [[Indianapolis metropolitan area|Indianapolis metro area]] and [[Geography of Indiana#Central Indiana|central Indiana]], rather than across the country.<ref>{{Cite web|date=2021-01-04|title=NCAA men's basketball tournament to be played entirely in Indiana|url=https://www.espn.com/mens-college-basketball/story/_/id/30650595/ncaa-men-basketball-tournament-played-entirely-indiana|access-date=2021-04-07|website=ESPN.com}}</ref> Players stayed at hotels near the [[Indiana Convention Center]], which served as the main practice facility.<ref name=":0">{{Cite web|last1=Benbow|first1=Dana Hunsinger|last2=Doyel|first2=Gregg|last3=Osterman|first3=Zach|title=It's official: 2021 NCAA tournament to be played entirely in Central Indiana, Indianapolis|url=https://www.indystar.com/story/sports/college/2021/01/04/2021-march-madness-played-entirely-indianapolis-central-indiana/4124594001/|access-date=February 22, 2021|work=The Indianapolis Star}}</ref> Lucas Oil Stadium had two courts named "Unity Court" and "Equality Court" during the First Round, Second Round, and Elite Eight.
+
+On February 19, it was announced that all venues would operate at a maximum of 25% capacity. As this capacity includes staff and players, the exact number of spectators varied by venue.<ref>{{Cite web|title=A limited number of fans will be allowed to attend 2021 NCAA Tournament games|url=https://www.cbssports.com/college-basketball/news/a-limited-number-of-fans-will-be-allowed-to-attend-2021-ncaa-tournament-games/|access-date=February 22, 2021|website=CBSSports.com|date=February 19, 2021 }}</ref><ref>{{Cite web|date=February 19, 2021|title=NCAA to allow limited number of fans for Division I men's basketball tournament|url=https://www.espn.com/mens-college-basketball/story/_/id/30929531/ncaa-allow-limited-fans-division-men-basketball-tournament|access-date=February 22, 2021|website=ESPN.com}}</ref> [[Artificial crowd noise]] was used at all venues to augment the limited in-person attendance.<ref>{{Cite web|last=Daley|first=Dan|title=March Madness 2021: Broadcast Audio Mixes in Crowd Sound — Real and Augmented|url=https://www.sportsvideo.org/2021/03/26/march-madness-2021-broadcast-audio-mixes-in-crowd-sound-real-and-augmented/|access-date=2021-03-26|website=Sports Video Group|date=March 26, 2021 }}</ref>
+
+This tournament marked the first time ever that Indiana Farmers Coliseum was a tournament venue, the first time since [[2017 NCAA Division I men's basketball tournament|2017]] that Bankers Life Fieldhouse was a tournament venue, the first time since [[1940 NCAA basketball tournament|1940]] that Hinkle Fieldhouse was a tournament venue, the first time since [[1980 NCAA Division I basketball tournament|1980]] that Mackey Arena was a tournament venue, and the first time since [[1981 NCAA Division I basketball tournament|1981]] that Assembly Hall was a tournament venue.<!--The NCAA didn't split into divisions until 1956, didn't create its current three-division setup until 1973, and didn't sponsor women's sports until 1981–82.-->
+
+'''First Four:'''
+
+* Thursday, March 18
+** [[Mackey Arena]], [[West Lafayette, Indiana]] (Host: [[Purdue University]])
+** [[Simon Skjodt Assembly Hall]], [[Bloomington, Indiana]] (Host: [[Indiana University Bloomington]])
+
+'''First and Second Rounds:'''
+* Friday, March 19 and Saturday, March 20
+** [[Mackey Arena]], [[West Lafayette|West Lafayette, Indiana]] (Host: Purdue University)
+** [[Simon Skjodt Assembly Hall]], [[Bloomington, Indiana]] (Host: Indiana University Bloomington)
+** [[Bankers Life Fieldhouse]], [[Indianapolis|Indianapolis, Indiana]] (Host: [[Ball State University]])
+** [[Hinkle Fieldhouse]], [[Indianapolis|Indianapolis, Indiana]] (Host: [[Butler University]])
+** [[Indiana Farmers Coliseum]], Indianapolis, Indiana (Host: [[IUPUI]])
+** [[Lucas Oil Stadium]], Indianapolis, Indiana (Unity Court and Equality Court) (Hosts: [[IUPUI]], [[Horizon League]])
+* Sunday, March 21 and Monday, March 22
+** Bankers Life Fieldhouse, Indianapolis, Indiana (Host: Ball State University)
+** Hinkle Fieldhouse, Indianapolis, Indiana (Host: Butler University)
+** Indiana Farmers Coliseum, Indianapolis, Indiana (Host: IUPUI)
+** Lucas Oil Stadium, Indianapolis, Indiana (Unity Court and Equality Court) (Hosts: IUPUI, Horizon League)
+
+'''Regional Semifinals and Finals (Sweet Sixteen and Elite Eight):'''
+
+* Saturday, March 27 and Sunday, March 28
+** Bankers Life Fieldhouse, Indianapolis, Indiana (Host: Ball State University) 
+** Hinkle Fieldhouse, Indianapolis, Indiana (Host: Butler University)
+* Monday, March 29 and Tuesday, March 30
+** Lucas Oil Stadium, Indianapolis, Indiana (Unity Court and Equality Court) (Hosts: IUPUI, Horizon League)
+
+'''National Semifinals and Championship (Final Four and Championship):'''
+
+* Saturday, April 3 and Monday, April 5
+** Lucas Oil Stadium, Indianapolis, Indiana (Hosts: IUPUI, Horizon League)
+
+===Original 2021 NCAA Tournament schedule and venues===
+{{Maplink|frame=yes|text=2021 First Four (orange) and First and Second Rounds (green) as originally selected.|zoom=3|frame-width=350|frame-height=250|frame-coord={{coord|38.828175|-96.5795}}
+|type=point|id=Q7895321|title=University of Dayton Arena, Dayton, Ohio|description=First Four|marker-color=#F80
+|type2=point|id2=Q1266006|title2=Dunkin' Donuts Center, Providence, Rhode Island|description2=First Round, Second Round|marker-color2=#0F0
+|type3=point|id3=Q14687332|title3=ExtraMile Arena, Boise, Idaho|description3=First Round, Second Round|marker-color3=#0F0
+|type4=point|id4=Q18154984|title4=Little Caesars Arena, Detroit, Michigan|description4=First Round, Second Round|marker-color4=#0F0
+|type5=point|id5=Q463345|title5=American Airlines Center, Dallas, Texas|description5=First Round, Second Round|marker-color5=#0F0
+|type6=point|id6=Q6059074|title6=Intrust Bank Arena, Wichita, Kansas|description6=First Round, Second Round|marker-color6=#0F0
+|type7=point|id7=Q842965|title7=Rupp Arena, Lexington, Kentucky|description7=First Round, Second Round|marker-color7=#0F0
+|type8=point|id8=Q39177|title8=PNC Arena, Raleigh, North Carolina|description8=First Round, Second Round|marker-color8=#0F0
+|type9=point|id9=Q261863|title9=SAP Center, San Jose, California |description9=First Round, Second Round|marker-color9=#0F0
+}}
+
+{{Maplink|frame=yes|text=2021 Regionals (blue) and Final Four (red) as originally selected.|zoom=3|frame-width=350|frame-height=250|frame-coord={{coord|38.828175|-96.5795}}
+|type=point|id=Q867160|title=Lucas Oil Stadium, Indianapolis, Indiana|description=Final Four|marker-color=#F00
+|type2=point|id2=Q282675|title2=Target Center, Minneapolis, Minnesota|description2=Midwest Regional
+|type3=point|id3=Q795470|title3=Ball Arena, Denver, Colorado|description3=West Regional
+|type4=point|id4=Q641212|title4=FedExForum, Memphis, Tennessee|description4=South Regional
+|type5=point|id5=Q807966|title5=Barclays Center, Brooklyn, New York|description5=East Regional
+}}
+
+The following sites were originally selected to host each round of the 2021 tournament;<ref>{{cite web|url=https://www.ncaa.org/championships/future-division-i-mens-basketball-championship-sites|date=March 22, 2019|publisher=[[NCAA]]|title=Future Division I Men's Basketball Championship sites}}</ref> with the exceptions of Boise and Minneapolis, all cities and venues listed are scheduled to host tournament games after 2021:
+
+'''First Four'''
+* March 16 and 17
+** [[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+'''First and Second Rounds'''
+* March 18 and 20
+** [[Dunkin' Donuts Center]], [[Providence, Rhode Island]] (Host: [[Providence College]])
+** [[ExtraMile Arena]], [[Boise, Idaho]] (Host: [[Boise State University]])
+** [[Little Caesars Arena]], [[Detroit, Michigan]] (Hosts: [[University of Detroit Mercy]], [[Oakland University]])
+** [[American Airlines Center]], [[Dallas, Texas]] (Host: [[Big 12 Conference]])
+* March 19 and 21
+** [[Intrust Bank Arena]], [[Wichita, Kansas]] (Host: [[Wichita State University]])
+** [[Rupp Arena]], [[Lexington, Kentucky]] (Host: [[University of Kentucky]])
+** [[PNC Arena]], [[Raleigh, North Carolina]] (Host: [[North Carolina State University]])
+** [[SAP Center]], [[San Jose, California]] (Host: [[West Coast Conference]])
+
+'''Regional Semifinals and Finals''' (Sweet Sixteen and Elite Eight)
+* March 25 and 27
+**'''Midwest Regional''', [[Target Center]], [[Minneapolis, Minnesota]] (Host: [[University of Minnesota, Twin Cities]])
+**'''West Regional''',  [[Ball Arena]], [[Denver, Colorado]] (Host: [[Mountain West Conference]])
+* March 26 and 28
+**'''South Regional''', [[FedExForum]], [[Memphis, Tennessee]] (Host: [[University of Memphis]])
+**'''East Regional''', [[Barclays Center]], [[Brooklyn|Brooklyn, New York]] (Host: [[Atlantic 10 Conference]])
+
+'''National Semifinals and Championship''' (Final Four and Championship)
+* April 3 and 5
+**[[Lucas Oil Stadium]], [[Indianapolis, Indiana]] (Hosts: [[IUPUI]], [[Horizon League]])
+
+==Qualification and selection==
+{{further|2021 NCAA Division I men's basketball tournament qualifying teams}}
+
+===Automatic qualifiers===
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|[[2021 America East men's basketball tournament|America East]]
+!scope="row" style="text-align:left"| [[2020–21 Hartford Hawks men's basketball team|Hartford]]
+|1st
+|{{sort|0|Never}}
+|-
+|[[2021 American Athletic Conference men's basketball tournament|American]]
+!scope="row" style="text-align:left"|[[2020–21 Houston Cougars men's basketball team|Houston]]
+|22nd
+|2019
+|-
+|[[2021 Atlantic 10 men's basketball tournament|Atlantic 10]]
+!scope="row" style="text-align:left"|[[2020–21 St. Bonaventure Bonnies men's basketball team|St. Bonaventure]]
+|8th
+|2018
+|-
+|[[2021 ACC men's basketball tournament|ACC]]
+!scope="row" style="text-align:left"|[[2020–21 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+|17th 
+|2010
+|-
+|[[2021 ASUN men's basketball tournament|ASUN]]
+!scope="row" style="text-align:left"|[[2020–21 Liberty Flames basketball team|Liberty]]
+|5th
+|2019
+|-
+|[[2021 Big 12 men's basketball tournament|Big 12]]
+!scope="row" style="text-align:left"|[[2020–21 Texas Longhorns men's basketball team|Texas]]
+|35th
+|2018
+|-
+|[[2021 Big East men's basketball tournament|Big East]]
+!scope="row" style="text-align:left"| [[2020–21 Georgetown Hoyas men's basketball team|Georgetown]]
+|31st
+|2015
+|-
+|[[2021 Big Sky Conference men's basketball tournament|Big Sky]]
+!scope="row" style="text-align:left"|[[2020–21 Eastern Washington Eagles men's basketball team|Eastern Washington]]
+|3rd
+|2015
+|-
+|[[2021 Big South Conference men's basketball tournament|Big South]]
+!scope="row" style="text-align:left"|[[2020–21 Winthrop Eagles men's basketball team|Winthrop]]
+|11th
+|2017
+|-
+|[[2021 Big Ten Conference men's basketball tournament|Big Ten]]
+!scope="row" style="text-align:left"|[[2020–21 Illinois Fighting Illini men's basketball team|Illinois]]
+|31st
+|2013
+|-
+|[[2021 Big West Conference men's basketball tournament|Big West]]
+!scope="row" style="text-align:left"|[[2020–21 UC Santa Barbara Gauchos men's basketball team|UC Santa Barbara]]
+|6th
+|2011
+|-
+|[[2021 CAA men's basketball tournament|CAA]]
+!scope="row" style="text-align:left"|[[2020–21 Drexel Dragons men's basketball team|Drexel]]
+|5th
+|1996
+|-
+|[[2021 Conference USA men's basketball tournament|C-USA]]
+!scope="row" style="text-align:left"|[[2020–21 North Texas Mean Green men's basketball team|North Texas]]
+|4th
+|2010
+|-
+|[[2021 Horizon League men's basketball tournament|Horizon]]
+!scope="row" style="text-align:left"| [[2020–21 Cleveland State Vikings men's basketball team|Cleveland State]]
+|3rd
+|2009
+|-
+|Ivy League
+!scope="row" style="text-align:center" colspan=3| ''Season not played''
+|-
+|[[2021 MAAC men's basketball tournament|MAAC]]
+!scope="row" style="text-align:left"|[[2020–21 Iona Gaels men's basketball team|Iona]]
+|15th
+|2019
+|-
+|[[2021 MAC men's basketball tournament|MAC]]
+!scope="row" style="text-align:left"| [[2020–21 Ohio Bobcats men's basketball team|Ohio]]
+|14th
+|2012
+|-
+|[[2021 MEAC men's basketball tournament|MEAC]]
+!scope="row" style="text-align:left"|[[2020–21 Norfolk State Spartans men's basketball team|Norfolk State]]
+|2nd
+|2012
+|-
+|[[2021 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+!scope="row" style="text-align:left"|[[2020–21 Loyola Ramblers men's basketball team|Loyola Chicago]]
+|7th
+|2018
+|-
+|[[2021 Mountain West Conference men's basketball tournament|Mountain West]]
+!scope="row" style="text-align:left"|[[2020–21 San Diego State Aztecs men's basketball team|San Diego State]]
+|13th
+|2018
+|-
+|[[2021 Northeast Conference men's basketball tournament|NEC]]
+!scope="row" style="text-align:left"|[[2020–21  Mount St. Mary's Mountaineers men's basketball team|Mount St. Mary's]]
+|6th
+|2017
+|-
+|[[2021 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+!scope="row" style="text-align:left"|[[2020–21 Morehead State Eagles men's basketball team|Morehead State]]
+|8th
+|2011
+|-
+|[[2021 Pac-12 Conference men's basketball tournament|Pac-12]]
+!scope="row" style="text-align:left"| [[2020–21 Oregon State Beavers men's basketball team|Oregon State]]
+|15th
+|2016
+|-
+|[[2021 Patriot League men's basketball tournament|Patriot]]
+!scope="row" style="text-align:left"| [[2020–21 Colgate Raiders men's basketball team|Colgate]]
+|4th
+|2019
+|-
+|[[2021 SEC men's basketball tournament|SEC]]
+!scope="row" style="text-align:left"|[[2020–21 Alabama Crimson Tide men's basketball team|Alabama]]
+|22nd
+|2018
+|-
+|[[2021 Southern Conference men's basketball tournament|Southern]]
+!scope="row" style="text-align:left"| [[2020–21 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
+| 4th
+| 2018
+|-
+|[[2021 Southland Conference men's basketball tournament|Southland]]
+!scope="row" style="text-align:left"| [[2020–21 Abilene Christian Wildcats men's basketball team|Abilene Christian]]
+|2nd
+|2019
+|-
+|[[2021 SWAC men's basketball tournament|SWAC]]
+!scope="row" style="text-align:left"|[[2020–21 Texas Southern Tigers basketball team|Texas Southern]]
+|9th
+|2018
+|-
+|[[2021 Summit League men's basketball tournament|Summit League]]
+!scope="row" style="text-align:left"|[[2020–21 Oral Roberts Golden Eagles men's basketball team|Oral Roberts]]
+|6th
+|2008
+|-
+|[[2021 Sun Belt Conference men's basketball tournament|Sun Belt]]
+!scope="row" style="text-align:left"|[[2020–21 Appalachian State Mountaineers men's basketball team|Appalachian State]]
+|3rd
+|2000
+|-
+|[[2021 WAC men's basketball tournament|WAC]]
+!scope="row" style="text-align:left"|[[2020–21 Grand Canyon Antelopes men's basketball team|Grand Canyon]]
+|1st
+|{{sort|0|Never}}
+|-
+|[[2021 West Coast Conference men's basketball tournament|WCC]]
+!scope="row" style="text-align:left"| [[2020–21 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|23rd
+|2019
+|}
+
+===<span id="RegionSeeds">Tournament seeds</span>===
+<section begin="RegionSeeds" />
+The tournament seeds and regions were determined through the [[NCAA basketball tournament selection process]].
+
+In contrast to previous years, the S-Curve used to establish overall seeds will also be used as primary determinant of the tournament bracket; this was made possible by the relatively condensed locations of this year's tournament making geographic concerns irrelevant. However, rules that can modify pairings to avoid early rematches and to distribute top conference representatives to different regions will remain in effect.<ref>{{cite web |title=New bracketing principles adopted for 2021 NCAA tournament|url=https://www.ncaa.com/news/basketball-men/article/2021-01-15/new-bracketing-principles-adopted-2021ncaa-tournament |website=www.ncaa.com |publisher=NCAA |access-date=March 6, 2021 |date=January 15, 2021}}</ref><ref>{{cite web |title=The NCAA bracket S-curve, explained|url=https://www.ncaa.com/news/basketball-men/article/2021-01-15/ncaa-bracket-s-curve-explained |website=www.ncaa.com |publisher=NCAA |access-date=March 6, 2021 |date=January 15, 2021}}</ref>
+{|
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+West Regional
+|-
+!scope="col"|Seed
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2020–21 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|[[West Coast Conference|West Coast]]
+|align=center|26–0
+|align=center|1
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2020–21 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|21–8
+|align=center|7
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2020–21 Kansas Jayhawks men's basketball team|Kansas]]
+|[[Big 12 Conference|Big 12]]
+|align=center|20–8
+|align=center|12
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2020–21 Virginia Cavaliers men's basketball team|Virginia]] 
+|[[Atlantic Coast Conference|ACC]]
+|align=center|18–6
+|align=center|16
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2020–21 Creighton Bluejays men's basketball team|Creighton]]
+|[[Big East Conference|Big East]]
+|align=center|20–8
+|align=center|17
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2020–21 USC Trojans men's basketball team|USC]]
+|[[Pac-12 Conference|Pac-12]]
+|align=center|22–7
+|align=center|21
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2020–21 Oregon Ducks men's basketball team|Oregon]]
+|[[Pac-12 Conference|Pac-12]]
+|align=center|20–6
+|align=center|25
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2020–21 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[Big 12 Conference|Big 12]]
+|align=center|15–10
+|align=center|32
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2020–21 Missouri Tigers men's basketball team|Missouri]]
+|[[Southeastern Conference|SEC]]
+|align=center|16–9
+|align=center|33
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2020–21 VCU Rams men's basketball team|VCU]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|19–7
+|align=center|38
+|align=center|At-Large
+|-
+|rowspan=2 align=center|11*
+!scope="row" style="text-align:left"|[[2020–21 Wichita State Shockers men's basketball team|Wichita State]]
+|[[American Athletic Conference|American]]
+|align=center|16–5
+|align=center|45
+|align=center|At-Large
+|-
+!scope="row" style="text-align:left"|[[2020–21 Drake Bulldogs men's basketball team|Drake]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|25–4
+|align=center|48
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2020–21 UC Santa Barbara Gauchos men's basketball team|UC Santa Barbara]]
+|[[Big West Conference|Big West]]
+|align=center|22–4
+|align=center|50
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2020–21 Ohio Bobcats men's basketball team|Ohio]]
+|[[Mid-American Conference|MAC]]
+|align=center|16–7
+|align=center|51
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2020–21 Eastern Washington Eagles men's basketball team|Eastern Washington]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|16–7
+|align=center|58
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2020–21 Grand Canyon Antelopes men's basketball team|Grand Canyon]]
+|[[Western Athletic Conference|WAC]]
+|align=center|17–6
+|align=center|59
+|align=center|Automatic
+|-
+|rowspan=2 align=center|16*
+!scope="row" style="text-align:left"|[[2020–21 Norfolk State Spartans men's basketball team|Norfolk State]]
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|align=center|16–7
+|align=center|67
+|align=center|Automatic
+|-
+!scope="row" style="text-align:left"|[[2020–21 Appalachian State Mountaineers men's basketball team|Appalachian State]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|17–11
+|align=center|68
+|align=center|Automatic
+|-
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+East Regional
+|-
+!scope="col"|Seed
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2020–21 Michigan Wolverines men's basketball team|Michigan]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|20–4
+|align=center|4
+|align=center|At-Large
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2020–21 Alabama Crimson Tide men's basketball team|Alabama]]
+|[[Southeastern Conference|SEC]]
+|align=center|24–6
+|align=center|5
+|align=center|Automatic
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2020–21 Texas Longhorns men's basketball team|Texas]]
+|[[Big 12 Conference|Big 12]]
+|align=center|19–7
+|align=center|11
+|align=center|Automatic
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2020–21 Florida State Seminoles men's basketball team|Florida State]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|16–6
+|align=center|13
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2020–21 Colorado Buffaloes men's basketball team|Colorado]]
+|[[Pac-12 Conference|Pac-12]]
+|align=center|22–8
+|align=center|20
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2020–21 BYU Cougars men's basketball team|BYU]]
+|[[West Coast Conference|West Coast]]
+|align=center|20–6
+|align=center|23
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2020–21 UConn Huskies men's basketball team|UConn]]
+|[[Big East Conference|Big East]]
+|align=center|15–7
+|align=center|26
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2020–21 LSU Tigers basketball team|LSU]]
+|[[Southeastern Conference|SEC]]
+|align=center|18–9
+|align=center|29
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2020–21 St. Bonaventure Bonnies men's basketball team|St. Bonaventure]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|16–4
+|align=center|39
+|align=center|Automatic
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2020–21 Maryland Terrapins men's basketball team|Maryland]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|16–13
+|align=center|36
+|align=center|At-Large
+|-
+|rowspan=2 align=center|11*
+!scope="row" style="text-align:left"|[[2020–21 Michigan State Spartans men's basketball team|Michigan State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|15–12
+|align=center|43
+|align=center|At-Large
+|-
+!scope="row" style="text-align:left"|[[2020–21 UCLA Bruins men's basketball team|UCLA]]
+|[[Pac-12 Conference|Pac-12]]
+|align=center|17–9
+|align=center|44
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2020–21 Georgetown Hoyas men's basketball team|Georgetown]]
+|[[Big East Conference|Big East]]
+|align=center|13–12
+|align=center|47
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2020–21 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
+|[[Southern Conference|Southern]]
+|align=center|21–8
+|align=center|54
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2020–21 Abilene Christian Wildcats men's basketball team|Abilene Christian]]
+|[[Southland Conference|Southland]]
+|align=center|23–4
+|align=center|55
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2020–21 Iona Gaels men's basketball team|Iona]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|12–5
+|align=center|62
+|align=center|Automatic
+|-
+|rowspan=2 align=center|16*
+!scope="row" style="text-align:left"|[[2020–21 Mount St. Mary's Mountaineers men's basketball team|Mount St. Mary's]]
+|[[Northeast Conference|Northeast]]
+|align=center|12–10
+|align=center|65
+|align=center|Automatic
+|-
+!scope="row" style="text-align:left"|[[2020–21 Texas Southern Tigers basketball team|Texas Southern]]
+|[[Southwestern Athletic Conference|SWAC]]
+|align=center|16–8
+|align=center|66
+|align=center|Automatic
+|-
+|}
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+South Regional
+|-
+!scope="col"|Seed
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2020–21 Baylor Bears basketball team|Baylor]]
+|[[Big 12 Conference|Big 12]]
+|align=center|22–2
+|align=center|2
+|align=center|At-Large
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2020–21 Ohio State Buckeyes men's basketball team|Ohio State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|21–9
+|align=center|6
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2020–21 Arkansas Razorbacks men's basketball team|Arkansas]]
+|[[Southeastern Conference|SEC]]
+|align=center|22–6
+|align=center|9
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2020–21 Purdue Boilermakers men's basketball team|Purdue]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|18–9
+|align=center|14
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2020–21 Villanova Wildcats men's basketball team|Villanova]]
+|[[Big East Conference|Big East]]
+|align=center|16–6
+|align=center|18
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2020–21 Texas Tech Red Raiders basketball team|Texas Tech]]
+|[[Big 12 Conference|Big 12]]
+|align=center|17–10
+|align=center|22
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2020–21 Florida Gators men's basketball team|Florida]]
+|[[Southeastern Conference|SEC]]
+|align=center|14–9
+|align=center|28
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2020–21 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|18–10
+|align=center|31
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2020–21 Wisconsin Badgers men's basketball team|Wisconsin]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|17–12
+|align=center|35
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2020–21 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|15–6
+|align=center|37
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2020–21 Utah State Aggies men's basketball team|Utah State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|20–8
+|align=center|42
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2020–21 Winthrop Eagles men's basketball team|Winthrop]]
+|[[Big South Conference|Big South]]
+|align=center|23–1
+|align=center|49
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2020–21 North Texas Mean Green men's basketball team|North Texas]]
+|[[Conference USA|C-USA]]
+|align=center|17–9
+|align=center|52
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2020–21 Colgate Raiders men's basketball team|Colgate]]
+|[[Patriot League|Patriot]]
+|align=center|14–1
+|align=center|57
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2020–21 Oral Roberts Golden Eagles men's basketball team|Oral Roberts]]
+|[[Summit League|Summit]]
+|align=center|16–10
+|align=center|61
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[2020–21 Hartford Hawks men's basketball team|Hartford]]
+|[[America East Conference|America East]]
+|align=center|15–8
+|align=center|64
+|align=center|Automatic
+|-
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional
+|-
+!scope="col"|Seed
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2020–21 Illinois Fighting Illini men's basketball team|Illinois]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|23–6
+|align=center|3
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2020–21 Houston Cougars men's basketball team|Houston]]
+|[[American Athletic Conference|American]]
+|align=center|24–3
+|align=center|8
+|align=center|Automatic
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2020–21 West Virginia Mountaineers men's basketball team|West Virginia]]
+|[[Big 12 Conference|Big 12]]
+|align=center|18–9
+|align=center|10
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2020–21 Oklahoma State Cowboys basketball team|Oklahoma State]]
+|[[Big 12 Conference|Big 12]]
+|align=center|20–8
+|align=center|15
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2020–21 Tennessee Volunteers basketball team|Tennessee]]
+|[[Southeastern Conference|SEC]]
+|align=center|18–8
+|align=center|19
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2020–21 San Diego State Aztecs men's basketball team|San Diego State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|23–4
+|align=center|24
+|align=center|Automatic
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2020–21 Clemson Tigers men's basketball team|Clemson]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|16–7
+|align=center|27
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2020–21 Loyola Ramblers men's basketball team|Loyola Chicago]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|24–4
+|align=center|30
+|align=center|Automatic
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2020–21 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|17–8
+|align=center|34
+|align=center|Automatic
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2020–21 Rutgers Scarlet Knights men's basketball team|Rutgers]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|15–11
+|align=center|40
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2020–21 Syracuse Orange men's basketball team|Syracuse]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|16–9
+|align=center|41
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2020–21 Oregon State Beavers men's basketball team|Oregon State]]
+|[[Pac-12 Conference|Pac-12]]
+|align=center|17–12
+|align=center|46
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2020–21 Liberty Flames basketball team|Liberty]]
+|[[Atlantic Sun Conference|Atlantic Sun]]
+|align=center|23–5
+|align=center|53
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2020–21 Morehead State Eagles men's basketball team|Morehead State]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|23–7
+|align=center|56
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2020–21 Cleveland State Vikings men's basketball team|Cleveland State]]
+|[[Horizon League|Horizon]]
+|align=center|19–7
+|align=center|60
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[2020–21 Drexel Dragons men's basketball team|Drexel]]
+|[[Colonial Athletic Association|Colonial]]
+|align=center|12–7
+|align=center|63
+|align=center|Automatic
+|-
+|}
+|}
+<nowiki>*</nowiki>See [[#First Four|First Four]]
+<section end="RegionSeeds" />
+
+==Tournament bracket==
+''Note: Unlike past tournaments, teams are not grouped as pods. Second round games will match teams that played at different venues in the first round.''
+
+===First Four===
+The [[First Four]] games involved eight teams: the four overall lowest-ranked teams, and the four lowest-ranked at-large teams.
+
+{{align|left|{{2TeamBracket | RD1=March 18 – West Regional <br />[[Simon Skjodt Assembly Hall]]<br />[[Bloomington, Indiana|Bloomington]]
+| team-width = 
+| RD1-seed1=16
+| RD1-team1='''[[2020–21 Norfolk State Spartans men's basketball team|Norfolk State]]'''
+| RD1-score1='''54'''
+| RD1-seed2=16 
+| RD1-team2=[[2020–21 Appalachian State Mountaineers men's basketball team|Appalachian State]]
+| RD1-score2=53
+}}}}
+{{align|left|{{2TeamBracket | RD1=March 18 – West Regional <br />[[Mackey Arena]]<br />[[West Lafayette, Indiana|West Lafayette]]
+| team-width = 
+| RD1-seed1=11
+| RD1-team1=[[2020–21 Wichita State Shockers men's basketball team|Wichita State]]
+| RD1-score1=52
+| RD1-seed2=11
+| RD1-team2='''[[2020–21 Drake Bulldogs men's basketball team|Drake]]'''
+| RD1-score2='''53'''
+}}}}
+{{align|left|{{2TeamBracket | RD1=March 18 – East Regional <br />[[Mackey Arena]]<br>[[West Lafayette, Indiana|West Lafayette]]
+| team-width = 
+| RD1-seed1=11
+| RD1-team1=[[2020–21 Michigan State Spartans men's basketball team|Michigan State]]
+| RD1-score1=80
+| RD1-seed2=11 
+| RD1-team2='''[[2020–21 UCLA Bruins men's basketball team|UCLA]]'''
+| RD1-score2='''86<sup>OT</sup>'''
+}}}}
+{{align|left|{{2TeamBracket | RD1=March 18 – East Regional <br />[[Simon Skjodt Assembly Hall]]<br />[[Bloomington, Indiana|Bloomington]]
+| team-width = 
+| RD1-seed1=16 
+| RD1-team1=[[2020–21 Mount St. Mary's Mountaineers men's basketball team|Mount St. Mary's]]
+| RD1-score1=52
+| RD1-seed2=16
+| RD1-team2='''[[2020–21 Texas Southern Tigers basketball team|Texas Southern]]'''
+| RD1-score2='''60'''
+}}}}{{clear left}}
+
+===West Regional===
+{{16TeamBracket-Info
+| RD1=First Round<br />Round of 64<br />Saturday, March 20
+| RD2=Second Round<br />Round of 32<br />Monday, March 22
+| RD3=Regional Semifinals<br />Sweet 16<br />Sunday, March 28
+| RD4=Regional Final<br />Elite 8<br />Tuesday, March 30
+
+| RD1-seed01=1
+| RD1-team01='''[[2020–21 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-score01='''98'''
+| RD1-seed02=16
+| RD1-team02=[[2020–21 Norfolk State Spartans men's basketball team|Norfolk State]]
+| RD1-score02=55
+
+| RD1-seed03=8
+| RD1-team03='''[[2020–21 Oklahoma Sooners men's basketball team|Oklahoma]]'''
+| RD1-score03='''72'''
+| RD1-seed04=9
+| RD1-team04=[[2020–21 Missouri Tigers men's basketball team|Missouri]]
+| RD1-score04=68
+
+| RD1-seed05=5
+| RD1-team05='''[[2020–21 Creighton Bluejays men's basketball team|Creighton]]'''
+| RD1-score05='''63'''
+| RD1-seed06=12
+| RD1-team06=[[2020–21 UC Santa Barbara Gauchos men's basketball team|UC Santa Barbara]]
+| RD1-score06=62
+
+| RD1-seed07=4
+| RD1-team07=[[2020–21 Virginia Cavaliers men's basketball team|Virginia]]
+| RD1-score07=58
+| RD1-seed08=13
+| RD1-team08='''[[2020–21 Ohio Bobcats men's basketball team|Ohio]]'''
+| RD1-score08='''62'''
+
+| RD1-seed09=6
+| RD1-team09='''[[2020–21 USC Trojans men's basketball team|USC]]'''
+| RD1-score09='''72'''
+| RD1-seed10=11
+| RD1-team10=[[2020–21 Drake Bulldogs men's basketball team|Drake]]
+| RD1-score10=56
+
+| RD1-seed11=3
+| RD1-team11='''[[2020–21 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-score11='''93'''
+| RD1-seed12=14
+| RD1-team12=[[2020–21 Eastern Washington Eagles men's basketball team|Eastern Washington]]
+| RD1-score12=84
+
+| RD1-seed13=7
+| RD1-team13='''[[2020–21 Oregon Ducks men's basketball team|Oregon]]'''
+| RD1-score13='''1'''
+| RD1-seed14=10
+| RD1-team14=[[2020–21 VCU Rams men's basketball team|VCU]]{{efn-ua|name=VCU|Game declared no contest due to COVID-19 protocols with VCU. Oregon advances in the tournament.<ref>{{cite news|author=NCAA staff|title=VCU-Oregon game ruled a no-contest due to COVID-19 protocols|url=https://www.ncaa.com/news/basketball-men/article/2021-03-20/vcu-oregon-game-ruled-no-contest-due-covid-19-protocols|website=NCAA.com|date=March 20, 2021|access-date=March 24, 2021|language=en-US}}</ref>}}
+| RD1-score14=0
+
+| RD1-seed15=2
+| RD1-team15='''[[2020–21 Iowa Hawkeyes men's basketball team|Iowa]]'''
+| RD1-score15='''86'''
+| RD1-seed16=15
+| RD1-team16=[[2020–21 Grand Canyon Antelopes men's basketball team|Grand Canyon]]
+| RD1-score16=74
+
+| RD2-seed01=1
+| RD2-team01='''Gonzaga'''
+| RD2-score01='''87'''
+| RD2-seed02=8
+| RD2-team02=Oklahoma
+| RD2-score02=71
+
+| RD2-seed03=5
+| RD2-team03='''Creighton'''
+| RD2-score03='''72'''
+| RD2-seed04=13
+| RD2-team04=Ohio
+| RD2-score04=58
+
+| RD2-seed05=6
+| RD2-team05='''USC'''
+| RD2-score05='''85'''
+| RD2-seed06=3
+| RD2-team06=Kansas
+| RD2-score06=51
+
+| RD2-seed07=7
+| RD2-team07='''Oregon'''
+| RD2-score07='''95'''
+| RD2-seed08=2
+| RD2-team08=Iowa
+| RD2-score08=80
+
+| RD3-seed01=1
+| RD3-team01='''Gonzaga'''
+| RD3-score01='''83'''
+| RD3-seed02=5
+| RD3-team02=Creighton
+| RD3-score02=65
+
+| RD3-seed03=6
+| RD3-team03='''USC'''
+| RD3-score03='''82'''
+| RD3-seed04=7
+| RD3-team04=Oregon
+| RD3-score04=68
+
+| RD4-seed01='''1'''
+| RD4-team01='''Gonzaga'''
+| RD4-score01='''85'''
+| RD4-seed02=6
+| RD4-team02=USC
+| RD4-score02=66
+|RD1T1-loc=<br>[[Bankers Life Fieldhouse]]|RD1T2-loc=<br>[[Lucas Oil Stadium]] – Equality|RD1T3-loc=<br>Lucas Oil Stadium – Unity|RD1T4-loc=<br>[[Simon Skjodt Assembly Hall]]|RD1T5-loc=<br>Bankers Life Fieldhouse|RD1T6-loc=<br>[[Indiana Farmers Coliseum]]|RD1T7-loc=<br>Indiana Farmers Coliseum|RD1T8-loc=<br>Indiana Farmers Coliseum|RD2T1-loc=[[Hinkle Fieldhouse]]|RD2T2-loc=Hinkle Fieldhouse|RD2T3-loc=Hinkle Fieldhouse|RD2T4-loc=Bankers Life Fieldhouse|RD3T1-loc=Hinkle Fieldhouse|RD3T2-loc=Bankers Life Fieldhouse|RD4T1-loc=Lucas Oil Stadium – Equality}}
+
+====West Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 30
+ | time = 7:15 pm [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/501?cid=mml2021_editorial_gamecenter Box score]
+ | team1 = #6 USC Trojans
+ | score1 = 66
+ | team2 = '''#1 Gonzaga Bulldogs'''
+ | score2 = '''85'''
+ | points1 = [[Isaiah Mobley|I. Mobley]], 19
+ | rebounds1 = I. Mobley, 7
+ | assist1 = I. Mobley, [[Evan Mobley|E. Mobley]], 3
+ | otherstat1 = 
+ | points2 = [[Drew Timme|D. Timme]], 23
+ | rebounds2 = [[Jalen Suggs|J. Suggs]], 10
+ | assist2 = J. Suggs, 8
+ | H1 = 30–'''49'''
+ | H2 = 36–36
+ | place = Equality Court – Lucas Oil Stadium<br />Indianapolis, Indiana
+ | attendance = 6,166
+ | referee = Randy McCall, Doug Shows, Bert Smith, Tony Henderson <ref>{{Cite web|url=https://www.wric.com/sports/sports-headlines/official-collapses-wheeled-off-court-on-stretcher-from-ncaa-tournament-game/|title = Official collapses, wheeled off court on stretcher from NCAA tournament game|date = March 30, 2021}}</ref>
+ | TV = TBS
+}}
+
+====West Regional all tournament team====
+* [[Drew Timme]], Gonzaga (MOP)
+* [[Corey Kispert]], Gonzaga
+* [[Evan Mobley]], USC 
+* [[Isaiah Mobley]], USC 
+* [[Jalen Suggs]], Gonzaga
+
+===East Regional===
+{{16TeamBracket-Info
+| RD1=First round<br />Round of 64<br />Saturday, March 20
+| RD2=Second Round<br />Round of 32<br />Monday, March 22
+| RD3=Regional Semifinals<br />Sweet 16<br />Sunday, March 28
+| RD4=Regional Final<br />Elite 8<br />Tuesday, March 30
+
+| RD1-seed01=1
+| RD1-team01='''[[2020–21 Michigan Wolverines men's basketball team|Michigan]]'''
+| RD1-score01='''82'''
+| RD1-seed02=16
+| RD1-team02=[[2020–21 Texas Southern Tigers basketball team|Texas Southern]]
+| RD1-score02=66
+
+| RD1-seed03=8
+| RD1-team03='''[[2020–21 LSU Tigers basketball team|LSU]]'''
+| RD1-score03='''76'''
+| RD1-seed04=9
+| RD1-team04=[[2020–21 St. Bonaventure Bonnies men's basketball team|St. Bonaventure]]
+| RD1-score04=61
+
+| RD1-seed05=5
+| RD1-team05='''[[2020–21 Colorado Buffaloes men's basketball team|Colorado]]'''
+| RD1-score05='''96'''
+| RD1-seed06=12
+| RD1-team06=[[2020–21 Georgetown Hoyas men's basketball team|Georgetown]]
+| RD1-score06=73
+
+| RD1-seed07=4
+| RD1-team07='''[[2020–21 Florida State Seminoles men's basketball team|Florida State]]'''
+| RD1-score07='''64'''
+| RD1-seed08=13
+| RD1-team08=[[2020–21 UNC Greensboro Spartans men's basketball team|UNC Greensboro]]
+| RD1-score08=54
+
+| RD1-seed09=6
+| RD1-team09=[[2020–21 BYU Cougars men's basketball team|BYU]]
+| RD1-score09=62
+| RD1-seed10=11
+| RD1-team10='''[[2020–21 UCLA Bruins men's basketball team|UCLA]]'''
+| RD1-score10='''73'''
+
+| RD1-seed11=3
+| RD1-team11=[[2020–21 Texas Longhorns men's basketball team|Texas]]
+| RD1-score11=52
+| RD1-seed12=14
+| RD1-team12='''[[2020–21 Abilene Christian Wildcats men's basketball team|Abilene Christian]]'''
+| RD1-score12='''53'''
+
+| RD1-seed13=7
+| RD1-team13=[[2020–21 UConn Huskies men's basketball team|UConn]]
+| RD1-score13=54
+| RD1-seed14=10
+| RD1-team14='''[[2020–21 Maryland Terrapins men's basketball team|Maryland]]'''
+| RD1-score14='''63'''
+
+| RD1-seed15=2
+| RD1-team15='''[[2020–21 Alabama Crimson Tide men's basketball team|Alabama]]'''
+| RD1-score15='''68'''
+| RD1-seed16=15
+| RD1-team16=[[2020–21 Iona Gaels men's basketball team|Iona]]
+| RD1-score16=55
+
+| RD2-seed01=1
+| RD2-team01='''Michigan'''
+| RD2-score01='''86'''
+| RD2-seed02=8
+| RD2-team02=LSU
+| RD2-score02=78
+
+| RD2-seed03=5
+| RD2-team03=Colorado
+| RD2-score03=53
+| RD2-seed04=4
+| RD2-team04='''Florida State'''
+| RD2-score04='''71'''
+
+| RD2-seed05=11
+| RD2-team05='''UCLA'''
+| RD2-score05='''67'''
+| RD2-seed06=14
+| RD2-team06=Abilene Christian
+| RD2-score06=47
+
+| RD2-seed07=10
+| RD2-team07=Maryland
+| RD2-score07=77
+| RD2-seed08=2
+| RD2-team08='''Alabama'''
+| RD2-score08='''96'''
+
+| RD3-seed01=1
+| RD3-team01='''Michigan'''
+| RD3-score01='''76'''
+| RD3-seed02=4
+| RD3-team02=Florida State
+| RD3-score02=58
+
+| RD3-seed03=11
+| RD3-team03='''UCLA'''
+| RD3-score03='''88<sup>OT</sup>'''
+| RD3-seed04=2
+| RD3-team04=Alabama
+| RD3-score04=78
+
+| RD4-seed01=1
+| RD4-team01=Michigan
+| RD4-score01=49
+| RD4-seed02=11
+| RD4-team02='''UCLA'''
+| RD4-score02='''51'''
+|RD1T1-loc=<br>[[Mackey Arena]]|RD1T2-loc=<br>[[Simon Skjodt Assembly Hall]]|RD1T3-loc=<br>[[Hinkle Fieldhouse]]|RD1T4-loc=<br>[[Bankers Life Fieldhouse]]|RD1T5-loc=<br>Hinkle Fieldhouse|RD1T6-loc=<br>[[Lucas Oil Stadium]] – Unity|RD1T7-loc=<br>Mackey Arena|RD1T8-loc=<br>Hinkle Fieldhouse|RD2T1-loc=Lucas Oil Stadium – Unity|RD2T2-loc=Indiana Farmers Coliseum|RD2T3-loc=Bankers Life Fieldhouse|RD2T4-loc=Bankers Life Fieldhouse|RD3T1-loc=Bankers Life Fieldhouse|RD3T2-loc=Hinkle Fieldhouse|RD4T1-loc=Lucas Oil Stadium – Unity}}
+
+====East Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 30
+ | time = 9:57 pm [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/502 Box score]
+ | team1 = '''#11 UCLA Bruins'''
+ | score1 = '''51'''
+ | team2 = #1 Michigan Wolverines
+ | score2 = 49
+ | points1 = [[Johnny Juzang|J. Juzang]], 28
+ | rebounds1 = [[Jules Bernard|J. Bernard]], 9
+ | assist1 = [[Jaime Jaquez Jr.|J. Jaquez Jr.]], 4
+ | otherstat1 = 
+ | points2 = [[Hunter Dickinson|H. Dickinson]], 11
+ | rebounds2 = [[Chaundee Brown|C. Brown Jr.]], 9
+ | assist2 = [[Eli Brooks|E. Brooks]], [[Mike Smith (basketball, born 1997)|M. Smith]], 4
+ | H1 = '''27'''–23
+ | H2 = 24–'''26'''
+ | place = Unity Court – Lucas Oil Stadium<br />Indianapolis, Indiana
+ | attendance = 7,515
+ | referee = Bo Boroski, Verne Harris, Lee Cassell
+ | TV = TBS
+}}
+
+====East Regional all tournament team====
+* [[Johnny Juzang]], UCLA (MOP)
+* [[Chaundee Brown Jr.]], Michigan
+* [[Tyger Campbell]], UCLA
+* [[Hunter Dickinson]], Michigan
+* [[Jaime Jaquez Jr.]], UCLA
+
+===South Regional===
+{{16TeamBracket-Info
+| RD1=First round<br />Round of 64<br />Friday, March 19
+| RD2=Second Round<br />Round of 32<br />Sunday, March 21
+| RD3=Regional semifinals<br />Sweet 16<br />Saturday, March 27
+| RD4=Regional Final<br />Elite 8<br />Monday, March 29
+
+| RD1-seed01=1
+| RD1-team01='''[[2020–21 Baylor Bears basketball team|Baylor]]'''
+| RD1-score01='''79'''
+| RD1-seed02=16
+| RD1-team02=[[2020–21 Hartford Hawks men's basketball team|Hartford]]
+| RD1-score02=55
+
+| RD1-seed03=8
+| RD1-team03=[[2020–21 North Carolina Tar Heels men's basketball team|North Carolina]]
+| RD1-score03=62
+| RD1-seed04=9
+| RD1-team04='''[[2020–21 Wisconsin Badgers men's basketball team|Wisconsin]]'''
+| RD1-score04='''85'''
+
+| RD1-seed05=5
+| RD1-team05='''[[2020–21 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-score05='''73'''
+| RD1-seed06=12
+| RD1-team06=[[2020–21 Winthrop Eagles men's basketball team|Winthrop]]
+| RD1-score06=63
+
+| RD1-seed07=4
+| RD1-team07=[[2020–21 Purdue Boilermakers men's basketball team|Purdue]]
+| RD1-score07=69
+| RD1-seed08=13
+| RD1-team08='''[[2020–21 North Texas Mean Green men's basketball team|North Texas]]'''
+| RD1-score08='''78<sup>OT</sup>'''
+
+| RD1-seed09=6
+| RD1-team09='''[[2020–21 Texas Tech Red Raiders basketball team|Texas Tech]]'''
+| RD1-score09='''65'''
+| RD1-seed10=11
+| RD1-team10=[[2020–21 Utah State Aggies men's basketball team|Utah State]]
+| RD1-score10=53
+
+| RD1-seed11=3
+| RD1-team11='''[[2020–21 Arkansas Razorbacks men's basketball team|Arkansas]]'''
+| RD1-score11='''85'''
+| RD1-seed12=14
+| RD1-team12=[[2020–21 Colgate Raiders men's basketball team|Colgate]]
+| RD1-score12=68
+
+| RD1-seed13=7
+| RD1-team13='''[[2020–21 Florida Gators men's basketball team|Florida]]'''
+| RD1-score13='''75<sup>OT</sup>'''
+| RD1-seed14=10
+| RD1-team14=[[2020–21 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+| RD1-score14=70
+
+| RD1-seed15=2
+| RD1-team15=[[2020–21 Ohio State Buckeyes men's basketball team|Ohio State]]
+| RD1-score15=72
+| RD1-seed16=15
+| RD1-team16='''[[2020–21 Oral Roberts Golden Eagles men's basketball team|Oral Roberts]]'''
+| RD1-score16='''75<sup>OT</sup>'''
+
+| RD2-seed01=1
+| RD2-team01='''Baylor'''
+| RD2-score01='''76'''
+| RD2-seed02=9
+| RD2-team02=Wisconsin
+| RD2-score02=63
+
+| RD2-seed03=5
+| RD2-team03='''Villanova'''
+| RD2-score03='''84'''
+| RD2-seed04= 13
+| RD2-team04= North Texas
+| RD2-score04=61
+
+| RD2-seed05=6
+| RD2-team05=Texas Tech
+| RD2-score05=66
+| RD2-seed06=3
+| RD2-team06='''Arkansas'''
+| RD2-score06='''68'''
+
+| RD2-seed07=7
+| RD2-team07=Florida
+| RD2-score07=78
+| RD2-seed08=15
+| RD2-team08='''Oral Roberts'''
+| RD2-score08='''81'''
+
+| RD3-seed01=1
+| RD3-team01='''Baylor'''
+| RD3-score01='''62'''
+| RD3-seed02=5
+| RD3-team02=Villanova
+| RD3-score02=51
+
+| RD3-seed03=3
+| RD3-team03='''Arkansas'''
+| RD3-score03='''72'''
+| RD3-seed04=15
+| RD3-team04=Oral Roberts
+| RD3-score04=70
+
+| RD4-seed01=1
+| RD4-team01='''Baylor'''
+| RD4-score01='''81'''
+| RD4-seed02=3
+| RD4-team02=Arkansas
+| RD4-score02=72
+|RD1T1-loc=<br>[[Lucas Oil Stadium]] – Unity|RD1T2-loc=<br>[[Mackey Arena]]|RD1T3-loc=<br>[[Indiana Farmers Coliseum]]|RD1T4-loc=<br>Lucas Oil Stadium – Equality|RD1T5-loc=<br>[[Simon Skjodt Assembly Hall]]|RD1T6-loc=<br>[[Bankers Life Fieldhouse]]|RD1T7-loc=<br>[[Hinkle Fieldhouse]]|RD1T8-loc=<br>Mackey Arena|RD2T1-loc=Hinkle Fieldhouse|RD2T2-loc=Bankers Life Fieldhouse|RD2T3-loc=Hinkle Fieldhouse|RD2T4-loc=Indiana Farmers Coliseum|RD3T1-loc=Hinkle Fieldhouse|RD3T2-loc=Bankers Life Fieldhouse|RD4T1-loc=Lucas Oil Stadium – Unity}}
+
+====South Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 29
+ | time = 9:57 pm [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/503 Box score]
+ | team1 = #3 Arkansas Razorbacks
+ | score1 = 72
+ | team2 ='''#1 Baylor Bears'''
+ | score2 ='''81'''
+ | points1 = D. Davis, [[JD Notae|J. Notae]], 14
+ | rebounds1 = [[Justin Smith (basketball)|J. Smith]], D. Davis, D. Sills, 6
+ | assist1 = D. Sills, 4
+ | otherstat1 = 
+ | points2 = [[MaCio Teague|M. Teague]], 22
+ | rebounds2 = [[Jonathan Tchamwa Tchatchoua|J. Tchamwa Tchatchoua]], 6
+ | assist2 = [[Davion Mitchell|D. Mitchell]], 6
+ | H1 = 38–'''46'''
+ | H2 = 34–'''35'''
+ | place = Unity Court – Lucas Oil Stadium<br />Indianapolis, Indiana
+ | attendance = 7,519
+ | referee = Terry Oglesby, Jeff Clark, Paul Szelc
+ | TV = CBS
+}}
+
+====South Regional all tournament team====
+* [[Davion Mitchell]], Baylor (MOP)
+* [[Max Abmas]], Oral Roberts
+* [[Jared Butler]], Baylor
+* [[Jalen Tate]], Arkansas
+* [[MaCio Teague]], Baylor
+
+===Midwest Regional===
+{{16TeamBracket-Info
+| RD1=First round<br />Round of 64<br />Friday, March 19
+| RD2=Second Round<br />Round of 32<br />Sunday, March 21
+| RD3=Regional Semifinals<br />Sweet 16<br />Saturday, March 27
+| RD4=Regional Final<br />Elite 8<br />Monday, March 29
+
+| RD1-seed01=1
+| RD1-team01='''[[2020–21 Illinois Fighting Illini men's basketball team|Illinois]]'''
+| RD1-score01='''78'''
+| RD1-seed02=16
+| RD1-team02=[[2020–21 Drexel Dragons men's basketball team|Drexel]]
+| RD1-score02=49
+
+| RD1-seed03=8
+| RD1-team03='''[[2020–21 Loyola Ramblers men's basketball team|Loyola Chicago]]'''
+| RD1-score03='''71'''
+| RD1-seed04=9
+| RD1-team04=[[2020–21 Georgia Tech Yellow Jackets men's basketball team|Georgia Tech]]
+| RD1-score04=60
+
+| RD1-seed05=5
+| RD1-team05=[[2020–21 Tennessee Volunteers basketball team|Tennessee]]
+| RD1-score05=56
+| RD1-seed06=12
+| RD1-team06='''[[2020–21 Oregon State Beavers men's basketball team|Oregon State]]'''
+| RD1-score06='''70'''
+
+| RD1-seed07=4
+| RD1-team07='''[[2020–21 Oklahoma State Cowboys basketball team|Oklahoma State]]'''
+| RD1-score07='''69'''
+| RD1-seed08=13
+| RD1-team08=[[2020–21 Liberty Flames basketball team|Liberty]]
+| RD1-score08=60
+
+| RD1-seed09=6
+| RD1-team09=[[2020–21 San Diego State Aztecs men's basketball team|San Diego State]]
+| RD1-score09=62
+| RD1-seed10=11
+| RD1-team10='''[[2020–21 Syracuse Orange men's basketball team|Syracuse]]'''
+| RD1-score10='''78'''
+
+| RD1-seed11=3
+| RD1-team11='''[[2020–21 West Virginia Mountaineers men's basketball team|West Virginia]]'''
+| RD1-score11='''84'''
+| RD1-seed12=14
+| RD1-team12=[[2020–21 Morehead State Eagles men's basketball team|Morehead State]]
+| RD1-score12=67
+
+| RD1-seed13=7
+| RD1-team13=[[2020–21 Clemson Tigers men's basketball team|Clemson]]
+| RD1-score13=56
+| RD1-seed14=10
+| RD1-team14='''[[2020–21 Rutgers Scarlet Knights men's basketball team|Rutgers]]'''
+| RD1-score14='''60'''
+
+| RD1-seed15=2
+| RD1-team15='''[[2020–21 Houston Cougars men's basketball team|Houston]]'''
+| RD1-score15='''87'''
+| RD1-seed16=15
+| RD1-team16=[[2020–21 Cleveland State Vikings men's basketball team|Cleveland State]]
+| RD1-score16=56
+
+| RD2-seed01=1
+| RD2-team01=Illinois
+| RD2-score01=58
+| RD2-seed02=8
+| RD2-team02='''Loyola Chicago'''
+| RD2-score02='''71'''
+
+| RD2-seed03=12
+| RD2-team03='''Oregon State'''
+| RD2-score03='''80'''
+| RD2-seed04=4
+| RD2-team04=Oklahoma State
+| RD2-score04=70
+
+| RD2-seed05=11
+| RD2-team05='''Syracuse'''
+| RD2-score05='''75'''
+| RD2-seed06=3
+| RD2-team06=West Virginia
+| RD2-score06=72
+
+| RD2-seed07=10
+| RD2-team07=Rutgers
+| RD2-score07=60
+| RD2-seed08=2
+| RD2-team08='''Houston'''
+| RD2-score08='''63'''
+
+| RD3-seed01=8
+| RD3-team01=Loyola Chicago
+| RD3-score01=58
+| RD3-seed02=12
+| RD3-team02='''Oregon State'''
+| RD3-score02='''65'''
+
+| RD3-seed03=11
+| RD3-team03=Syracuse
+| RD3-score03=46
+| RD3-seed04=2
+| RD3-team04='''Houston'''
+| RD3-score04='''62'''
+
+| RD4-seed01=12
+| RD4-team01=Oregon State
+| RD4-score01=61
+| RD4-seed02=2
+| RD4-team02='''Houston'''
+| RD4-score02='''67'''
+|RD1T1-loc=<br>[[Indiana Farmers Coliseum]]|RD1T2-loc=<br>[[Hinkle Fieldhouse]]|RD1T3-loc=<br>[[Bankers Life Fieldhouse]]|RD1T5-loc=<br>Hinkle Fieldhouse|RD1T4-loc=<br>Indiana Farmers Coliseum|RD1T7-loc=<br>Bankers Life Fieldhouse|RD1T6-loc=<br>[[Lucas Oil Stadium]] – Unity|RD1T8-loc=<br>[[Simon Skjodt Assembly Hall]]|RD2T1-loc=Bankers Life Fieldhouse|RD2T2-loc=Hinkle Fieldhouse|RD2T3-loc=Bankers Life Fieldhouse|RD2T4-loc=Lucas Oil Stadium – Unity|RD3T1-loc=Bankers Life Fieldhouse|RD3T2-loc=Hinkle Fieldhouse|RD4T1-loc=Lucas Oil Stadium – Equality}}
+
+====Midwest Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 29
+ | time = 7:15 pm [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/504 Box score]
+ | team1 = #12 Oregon State Beavers
+ | score1 = 61
+ | team2 = '''#2 Houston Cougars'''
+ | score2 = '''67'''
+ | points1 = M. Calloo, 13
+ | rebounds1 = [[Ethan Thompson|E. Thompson]], 7
+ | assist1 = E. Thompson, 6
+ | otherstat1 = 
+ | points2 = [[Marcus Sasser|M. Sasser]], 20
+ | rebounds2 = [[Justin Gorham|J. Gorham]], 10
+ | assist2 = [[DeJon Jarreau|D. Jarreau]], 8
+ | H1 = 17–'''34'''
+ | H2 = '''44'''–33
+ | place = Equality Court – Lucas Oil Stadium<br />Indianapolis, Indiana
+ | attendance = 7,519
+ | referee = Ron Groover, Jeff Anderson, Mike Reed
+ | TV = CBS
+}}
+
+====Midwest Regional all tournament team====
+* [[DeJon Jarreau]], Houston (MOP)
+* [[Quentin Grimes]], Houston
+* [[Cameron Krutwig]], Loyola Chicago
+* [[Marcus Sasser]], Houston
+* [[Ethan Thompson]], Oregon State
+
+===Final Four – [[Lucas Oil Stadium]]===
+{{4TeamBracket
+| RD1=National Semifinals<br />Saturday, April 3
+| RD2=National Championship Game<br />Monday, April 5
+| score-width=25
+| team-width=130
+
+| RD1-seed1=W1
+| RD1-team1='''Gonzaga'''
+| RD1-score1='''93<sup>OT</sup>'''
+| RD1-seed2=E11
+| RD1-team2=UCLA
+| RD1-score2=90
+
+| RD1-seed3=S1
+| RD1-team3='''Baylor'''
+| RD1-score3='''78'''
+| RD1-seed4=MW2
+| RD1-team4=Houston
+| RD1-score4=59
+
+| RD2-seed1=W1
+| RD2-team1=Gonzaga
+| RD2-score1=70
+| RD2-seed2=S1
+| RD2-team2='''Baylor'''
+| RD2-score2='''86'''
+}}
+
+====National semifinals====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = April 3
+ | time = 5:14 pm [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/602?cid=mml2021_editorial_gamecenter Box score]
+ | team1 = '''S1 Baylor Bears'''
+ | score1 = '''78'''
+ | team2 = MW2 Houston Cougars
+ | score2 = 59
+ | points1 = [[Jared Butler|J. Butler]], 17
+ | rebounds1 = [[Jonathan Tchamwa Tchatchoua|J. Tchamwa Tchatchoua]], 6
+ | assist1 = [[Davion Mitchell|D. Mitchell]], 11
+ | otherstat1 = 
+ | points2 = [[Marcus Sasser|M. Sasser]], 20
+ | rebounds2 = [[Justin Gorham|J. Gorham]], 6
+ | assist2 = J. Gorham, 3
+ | H1 = '''45'''–20
+ | H2 = 33–'''39'''
+ | place = Lucas Oil Stadium – Indianapolis, Indiana
+ | attendance = 8,131
+ | referee = Doug Sirmons, Pat Adams, Chris Rastatter
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = fff
+ | date = April 3
+ | time = 8:34 pm [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/601?cid=mml2021_editorial_gamecenter Box score]
+ | team1 = '''W1 Gonzaga Bulldogs'''
+ | score1 = '''93'''
+ | team2 = E11 UCLA Bruins 
+ | score2 = 90
+ | points1 = [[Drew Timme|D. Timme]], 25
+ | rebounds1 = [[Joël Ayayi|J. Ayayi]], 6
+ | assist1 = [[Andrew Nembhard|A. Nembhard]], 8
+ | otherstat1 = 
+ | points2 = [[Johnny Juzang|J. Juzang]], 29
+ | rebounds2 = [[Cody Riley|C. Riley]], 10
+ | assist2 = [[Tyger Campbell|T. Campbell]], 7
+ | H1 = '''45'''–44
+ | H2 = 36–'''37'''
+ | OT = '''12'''–9
+ | place = Lucas Oil Stadium – Indianapolis, Indiana
+ | attendance = 8,131
+ | referee = Ron Groover, Jeff Anderson, James Breeding
+ | TV = CBS
+}}
+
+====National championship====
+{{Main article|2021 NCAA Division I men's basketball championship game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = April 5
+ | time = 9:20 pm [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/701 Box score]
+ | team1 = '''S1 Baylor Bears'''
+ | score1 = '''86'''
+ | team2 = W1 Gonzaga Bulldogs
+ | score2 = 70
+ | points1 = [[Jared Butler|J. Butler]], 22
+ | rebounds1 = [[Mark Vital|M. Vital]], 11
+ | assist1 = [[Jared Butler|J. Butler]], 7
+ | otherstat1 = 
+ | points2 = [[Jalen Suggs|J. Suggs]], 22
+ | rebounds2 = [[Drew Timme|D. Timme]], 5
+ | assist2 = [[Andrew Nembhard|A. Nembhard]], 4
+ | H1 = '''47'''–37
+ | H2 = '''39'''–33
+ | place = Lucas Oil Stadium – Indianapolis, Indiana
+ | attendance = 
+ | referee = Randy McCall, Bo Boroski, Keith Kimble
+ | TV = CBS
+}}
+
+====Final Four all-tournament team====
+* [[Jared Butler]], Baylor ([[NCAA basketball tournament Most Outstanding Player|MOP]])
+* [[Johnny Juzang]], UCLA
+* [[Davion Mitchell]], Baylor
+* [[Jalen Suggs]], Gonzaga
+* [[Drew Timme]], Gonzaga
+Source:<ref>{{cite news|title=NCAA All-Tournament Teams|date=April 6, 2021|agency=Associated Press|url=https://wtop.com/ncaa-basketball/2021/04/ncaa-all-tournament-teams/|access-date=April 7, 2021}}</ref>
+
+==Game summaries and tournament notes==
+
+===Upsets===
+Per the NCAA, "Upsets are defined as when the winner of the game was seeded five or more places lower than the team it defeated." The 2021 tournament saw a record total of 14 upsets; 7 of them were in the first round, 5 of them were in the second round, and one of them in the Sweet Sixteen and Elite Eight, respectively.<ref>{{cite web |url=https://www.ncaa.com/live-updates/basketball-men/d1/2021-march-madness-upset-tracker |title=We're tracking upsets in the 2021 NCAA tournament |website=NCAA.com |date=March 19, 2021 |accessdate=March 27, 2022}}</ref>
+
+{| class="wikitable" style="text-align:left; font-size: 95%;"
+! Round !! West !! East !! South !! Midwest
+|-
+| First round 
+| No. 13 [[2020–21 Ohio Bobcats men's basketball team|Ohio]] defeated No. 4 [[2020–21 Virginia Cavaliers men's basketball team|Virginia]], 62–58
+| {{ubl |No. 14 [[2020–21 Abilene Christian Wildcats men's basketball team|Abilene Christian]] defeated No. 3 [[2020–21 Texas Longhorns men's basketball team|Texas]], 53–52 |No. 11 [[2020–21 UCLA Bruins men's basketball team|UCLA]] defeated No. 6 [[2020–21 BYU Cougars men's basketball team|BYU]], 73–62}}
+| {{ubl |No. 15 [[2020–21 Oral Roberts Golden Eagles men's basketball team|Oral Roberts]] defeated No. 2 [[2020–21 Ohio State Buckeyes men's basketball team|Ohio State]], 75–72 (OT) |No. 13 [[2020–21 North Texas Mean Green men's basketball team|North Texas]] defeated No. 4 [[2020–21 Purdue Boilermakers men's basketball team|Purdue]], 78–69 (OT)}}
+| {{ubl | No. 12 [[2020–21 Oregon State Beavers men's basketball team|Oregon State]] defeated No. 5 [[2020–21 Tennessee Volunteers basketball team|Tennessee]], 70–56 | No. 11 [[2020–21 Syracuse Orange men's basketball team|Syracuse]] defeated No. 6 [[2020–21 San Diego State Aztecs men's basketball team|San Diego State]], 78–62}}
+|-
+| Second Round 
+| No. 7 [[2020–21 Oregon Ducks men's basketball team|Oregon]] defeated No. 2 [[2020–21 Iowa Hawkeyes men's basketball team|Iowa]], 95–80
+| ''None''
+| No. 15 Oral Roberts defeated No. 7 [[2020–21 Florida Gators men's basketball team|Florida]], 81–78
+| {{ubl |No. 12 Oregon State defeated No. 4 [[2020–21 Oklahoma State Cowboys men's basketball team|Oklahoma State]], 80–70 |No. 11 Syracuse defeated No. 3 [[2020–21 West Virginia Mountaineers men's basketball team|West Virginia]], 75–72 |No. 8 [[2020–21 Loyola Ramblers men's basketball team|Loyola Chicago]] defeated No. 1 [[2020–21 Illinois Fighting Illini men's basketball team|Illinois]], 71–58}}
+|-
+| Sweet 16
+|''None''
+| No. 11 UCLA defeated No. 2 [[2020–21 Alabama Crimson Tide men's basketball team|Alabama]], 88–78 (OT)
+|''None''
+|''None''
+|-
+|Elite 8
+|''None''
+| No. 11 UCLA defeated No. 1 [[2020–21 Michigan Wolverines men's basketball team|Michigan]], 51–49
+|''None''
+|''None''
+|}
+
+==Record by conference==
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+!scope="col"|Conference
+!scope="col"|Bids
+!scope="col"|Record
+!scope="col"|Win %
+!scope="col"|FF
+!scope="col"|R64
+!scope="col"|R32
+!scope="col"|S16
+!scope="col"|E8
+!scope="col"|F4
+!scope="col"|CG
+!scope="col"|NC
+|-
+!scope="row"|[[Big 12 Conference|Big 12]]
+| 7 || 11–6 || {{winpct|11|6}} || – || 7 || 6 || 1 || 1 || 1 || 1 || 1
+|-
+!scope="row"|[[West Coast Conference|WCC]]
+| 2 || 5–2 || {{winpct|5|2}} || – || 2 || 1 || 1 || 1 || 1 || 1 || –
+|-
+!scope="row"|[[American Athletic Conference|American]]
+| 2 || 4–2 || {{winpct|4|2}} || 1 || 1 || 1 || 1 || 1 || 1 || – || –
+|-
+!scope="row"|[[Pac-12 Conference|Pac-12]]
+| 5 || 13–5 || {{winpct|13|5}} || 1 || 5{{sup|†}} || 5 || 4 || 3 || 1 || – || –
+|-
+!scope="row"|[[Big Ten Conference|Big Ten]]
+| 9 || 8–9 || {{winpct|8|9}} || 1 || 8 || 6 || 1 || 1 || – || – || –
+|-
+!scope="row"|[[Southeastern Conference|SEC]]
+| 6 || 7–6 || {{winpct|7|6}} || – || 6 || 4 || 2 || 1 || – || – || –
+|-
+!scope="row"|[[Atlantic Coast Conference|ACC]]
+| 7 || 4–7 || {{winpct|4|7}} || – || 7 || 2 || 2 || – || – || – || –
+|-
+!scope="row"|[[Big East Conference|Big East]]
+| 4 || 4–4 || {{winpct|4|4}} || – || 4 || 2 || 2 || – || – || – || –
+|-
+!scope="row"|[[Missouri Valley Conference|Missouri Valley]]
+| 2 || 3–2 || {{winpct|3|2}} || 1 || 2 || 1 || 1 || – || – || – || –
+|-
+!scope="row"|[[Summit League|Summit]]
+| 1 || 2–1 || {{winpct|2|1}} || – || 1 || 1 || 1 || – || – || – || –
+|-
+!scope="row"|[[Conference USA|C-USA]]
+| 1 || 1–1 || {{winpct|1|1}} || – || 1 || 1 || – || – || – || – || –
+|-
+!scope="row"|[[Mid-American Conference|MAC]]
+| 1 || 1–1 || {{winpct|1|1}} || – || 1 || 1 || – || – || – || – || –
+|-
+!scope="row"|[[Southland Conference|Southland]]
+| 1 || 1–1 || {{winpct|1|1}} || – || 1 || 1 || – || – || – || – || – 
+|-
+!scope="row"|[[Mid-Eastern Athletic Conference|MEAC]]
+| 1 || 1–1 || {{winpct|1|1}} || 1 || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Southwestern Athletic Conference|SWAC]]
+| 1 || 1–1 || {{winpct|1|1}} || 1 || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Atlantic 10 Conference|Atlantic 10]]
+| 2 || 0–1 || {{winpct|0|1}} || – || 2{{sup|†}} || – || – || – || – || – || –
+|-
+!scope="row"|[[Mountain West Conference|Mountain West]]
+| 2 || 0–2 || {{winpct|0|2}} || – || 2 || – || – || – || – || – || –
+|-
+!scope="row"|[[America East Conference|America East]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Atlantic Sun Conference|Atlantic Sun]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Big Sky Conference|Big Sky]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Big South Conference|Big South]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Big West Conference|Big West]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Colonial Athletic Association|Colonial]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Horizon League|Horizon]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Metro Atlantic Athletic Conference|MAAC]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Ohio Valley Conference|Ohio Valley]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Patriot League|Patriot]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Southern Conference|Southern]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Western Athletic Conference|WAC]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Northeast Conference|Northeast]]
+| 1 || 0–1 || {{winpct|0|1}} || 1 || – || – || – || – || – || – || –
+|-
+!scope="row"|[[Sun Belt Conference|Sun Belt]]
+| 1 || 0–1 || {{winpct|0|1}} || 1 || – || – || – || – || – || – || –
+|}
+
+{{sup|†}} Includes a game declared no-contest due to COVID-19 protocols with VCU. Oregon of the Pac-12 conference advanced to the second round and VCU of the Atlantic 10 conference was eliminated from the tournament.
+
+{{reflist|group=note}}
+* The FF, R64, R32, S16, E8, F4, CG, and NC columns indicate how many teams from each conference were in the First Four, Round of 64 (first round), Round of 32 (second round), Regional semifinals (Sweet 16), Regional Finals (Elite Eight), National semifinals (Final Four), National Championship Game, and national champion, respectively.
+* The Record column does not include wins or losses in games declared no-contest.
+
+==Media coverage==
+
+===Television===
+[[CBS Sports]] and [[Turner Sports]] had US television rights to the tournament.<ref name="wp-2032extend">{{cite news|last=Bonesteel|first=Matt|title=CBS and Turner Sports lock down NCAA tournament through 2032|url=https://www.washingtonpost.com/news/early-lead/wp/2016/04/12/cbs-and-turner-sports-lock-down-ncaa-tournament-through-2032/|newspaper=[[The Washington Post]]|date=April 12, 2016|access-date=April 12, 2016}}</ref><ref>{{cite web |title=Turner Sports and CBS Sports Announce 2021 NCAA Division I Men's Basketball Championship Commentator Teams |url=https://pressroom.warnermedia.com/us/media-release/turner-sports/turner-sports-and-cbs-sports-announce-2021-ncaa-division-i-mens-basketball |publisher=Warner Media |access-date=March 11, 2021 |date=March 11, 2021 }}</ref> As part of a cycle that began in 2016, CBS televised the 2021 Final Four and the national championship game. Because the 2020 tournament had been cancelled due to COVID-19 concerns, the last two rounds in back-to-back editions were broadcast on CBS for the first time since 2015 (TBS would have broadcast the 2020 Final Four and National Championship according to the arrangement).
+
+====Television channels====
+*First Four – truTV and TBS
+*First and Second Rounds – CBS, TBS, TNT, and truTV
+*Regional semifinals and Final (Sweet Sixteen and Elite Eight) – CBS and TBS
+*National semifinals (Final Four) and championship – CBS
+
+====Studio hosts====
+* [[Greg Gumbel]] (New York City and Indianapolis) – First Four, first round, second round, Regionals, Final Four and National Championship Game
+* [[Ernie Johnson Jr.|Ernie Johnson]] (Atlanta and Indianapolis) – First Four, first round, second round, Regionals and Final Four
+* [[Adam Zucker]] (New York City) – First round and Second round
+* [[Matt Winer]] (Atlanta) – First round (Game Breaks)
+
+====Studio analysts====
+* [[Charles Barkley]] (Atlanta and Indianapolis) – First Four, first round, second round, Regionals, Final Four and National Championship Game
+* [[Seth Davis]] (New York City and Indianapolis) – First Four, first round, second round, Regionals, Final Four and National Championship Game
+* [[Jim Jackson (basketball)|Jim Jackson]] (Indianapolis) – National Championship Game
+* [[Andy Katz]] (Atlanta) – First Four, first round, second round and Regionals
+* [[Clark Kellogg]] (New York City and Indianapolis) – First Four, first round, second round, Regionals, Final Four and National Championship Game
+* [[Candace Parker]] (Indianapolis) – Final Four
+* [[Kenny Smith]] (Atlanta and Indianapolis) – First Four, first round, second round, Regionals, Final Four and National Championship Game
+* [[Gene Steratore]] (New York City and Indianapolis) (Rules Analyst) – First Four, first round, second round, Regionals, Final Four and National Championship Game
+* [[Wally Szczerbiak]] (New York City) – First Four, first round, second round and Regionals
+
+====Commentary teams====
+* [[Jim Nantz]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – First round at Hinkle Fieldhouse; Second Round and Regional Semi-finals at Bankers Life Fieldhouse (Sunday); South Regional Final at Lucas Oil Stadium Unity (South); Final Four and National Championship at Lucas Oil Stadium
+** Hill joined Nantz, Raftery and Wolfson during the Regionals, Final Four and National Championship Games.
+* [[Brian Anderson (broadcaster)|Brian Anderson]]/[[Jim Jackson (basketball)|Jim Jackson]]/[[Allie LaForce]] – First Four at Mackey Arena; First and Second Rounds at Bankers Life Fieldhouse; Regional Semi-finals at Hinkle Fieldhouse (Saturday); West Regional Final at Lucas Oil Stadium Unity (South)
+* [[Ian Eagle]]/[[Grant Hill]] or [[Jim Spanarkel]]/[[Jamie Erdahl]] – First round at Mackey Arena; Second Round and Regional Semi-finals at Hinkle Fieldhouse (Sunday); Midwest Regional Final at Lucas Oil Stadium Equality (North)
+** Hill called the First & Second Rounds, Spanarkel did the Regionals.
+* [[Kevin Harlan]]/[[Dan Bonner]]/[[Dana Jacobson]] – First round at Indiana Farmers Coliseum; Second Round at Hinkle Fieldhouse; Regional Semi-finals at Bankers Life Fieldhouse (Saturday); East Regional Final at Lucas Oil Stadium Equality (North)
+* [[Brad Nessler]]/[[Steve Lavin]]/[[Avery Johnson]] (First Four only)/[[Evan Washburn]] – First Four at Assembly Hall; First and Second Rounds at Indiana Farmers Coliseum
+* [[Spero Dedes]]/[[Brendan Haywood]]/[[Lauren Shehadi]] – First round at Bankers Life Fieldhouse; Second Round at Lucas Oil Stadium Unity (South)
+* [[Andrew Catalon]]/[[Steve Lappas]]/[[AJ Ross]] – First and Second Rounds at Hinkle Fieldhouse
+* [[Carter Blackburn]]/[[Debbie Antonelli]]/[[Evan Washburn]] (Friday)/[[Dana Jacobson]] (Saturday)/[[Lauren Shehadi]] (Monday) – First round at Assembly Hall; Second Round at Hinkle Fieldhouse
+* [[Lisa Byington]]/[[Steve Smith (basketball)|Steve Smith]]/[[AJ Ross]] (Friday & Sunday)/[[Lauren Shehadi]] (Saturday) – First round at Lucas Oil Stadium Unity (South); Second Round at Indiana Farmers Coliseum
+* [[Tom McCarthy (sportscaster)|Tom McCarthy]]/[[Avery Johnson]]/[[AJ Ross]] (Friday)/[[Lauren Shehadi]] (Saturday) – First round at Lucas Oil Stadium Equality (North)
+[[ESPN International]] had international rights to the tournament. Coverage used CBS/Turner play-by-play teams until the Final Four.<ref>{{Cite web|date=2021-04-02|title=ESPN's College GameDay Covered by State Farm Headlines Men's College Basketball Studio Programming this Weekend|url=https://espnpressroom.com/us/press-releases/2021/04/espns-college-gameday-covered-by-state-farm-headlines-mens-college-basketball-studio-programming-this-weekend/|access-date=2021-04-04|website=ESPN Press Room U.S.|language=en-US}}</ref>
+
+* [[Sean McDonough]]/[[Jay Bilas]] or [[Dick Vitale]] - Final Four and National Championship at Lucas Oil Stadium
+**Bilas did UCLA vs. Gonzaga, Vitale did Houston vs. Baylor and the National Championship Game
+
+====Most-watched tournament games====
+{{small|All times [[Eastern Time Zone|Eastern]].}}
+{{small|Tournament seedings and region are in parentheses.}}
+{| class="wikitable" style="text-align:center;"
+|-
+! Rank || Round || Date !! colspan=4|Matchup !! Network || Viewers (millions) || TV Rating<ref>{{cite web |last1=Paulsen |title=NCAA Tournament off to solid start despite dip |url=https://www.sportsmediawatch.com/2021/03/ncaa-tournament-ratings-decline-not-bad/ |website=sportsmediawatch.com |date=March 24, 2021 |access-date=24 March 2021}}</ref><ref>{{cite web |last1=Paulsen |title=Super Sweet 16: schedule change boosts regional semis |url=https://www.sportsmediawatch.com/2021/03/ncaa-tournament-ratings-sweet-16-up-scheduling-change/ |website=sportsmediawatch.com |date=March 30, 2021 |access-date=30 March 2021}}</ref><ref>{{cite web |last1=Paulsen |title=Steep declines for men's Elite Eight |url=https://www.sportsmediawatch.com/2021/03/ncaa-elite-eight-ratings-decline-cbs-tbs-scheduling-shift/ |website=sportsmediawatch.com |date=March 31, 2021 |access-date=2 April 2021}}</ref><ref>{{cite web |last1=Paulsen |title=Final Four ratings: Gonzaga-UCLA thriller hits post-hiatus high despite drop |url=https://www.sportsmediawatch.com/2021/04/gonzaga-ucla-ratings-not-bad-despite-drop-baylor-houston-record-low/ |website=sportsmediawatch.com |date=April 6, 2021 |access-date=6 April 2021}}</ref><ref>{{cite web |last1=Paulsen |title=Nearly 17 million watch Baylor bully Bulldogs |url=https://www.sportsmediawatch.com/2021/04/march-madness-ratings-national-championship-baylor-gonzaga/ |website=sportsmediawatch.com |date=April 7, 2021 |access-date=7 April 2021}}</ref>
+|-
+| 1
+| National Championship
+| April 5, 2021, 9:20 ET
+| {{small|(1 S)}} '''[[2020-21 Baylor Bears men's basketball team|Baylor]]'''
+| '''86'''
+| {{small|(1 W)}} [[2020-21 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+| 70
+| rowspan="7"|[[NCAA March Madness (TV program)|CBS]]
+| 16.92
+| 9.4
+|-
+| 2
+| Final Four
+| April 3, 2021, 8:34 ET
+| {{small|(11 E)}} [[2020-21 UCLA Bruins men's basketball team|UCLA]]
+| 90
+| {{small|(1 W)}} '''[[2020-21 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| '''93'''
+| 14.94
+| 7.6
+|-
+| 3
+| Sweet 16
+| March 28, 2021 5:00 ET
+| {{small|(4 E)}} [[2020-21 Florida State Seminoles men's basketball team|Florida State]]
+| 58
+| {{small|(1 E)}} '''[[2020-21 Michigan Wolverines men's basketball team|Michigan]]'''
+| '''76'''
+| 9.03
+| 5.1
+|-
+| 4
+| Final Four
+| April 3, 2021, 5:14 ET
+| {{small|(2 MW)}} [[2020-21 Houston Cougars men's basketball team|Houston]]
+| 59
+| {{small|(1 S)}} '''[[2020-21 Baylor Bears men's basketball team|Baylor]]'''
+| '''78'''
+| 8.18
+| 4.4
+|-
+| 5
+| Round of 32
+| March 21, 2021, 5:15 ET
+| {{small|(11 MW)}} '''[[2020-21 Syracuse Orange men's basketball team|Syracuse]]'''
+| '''75'''
+| {{small|(3 MW)}} [[2020-21 West Virginia Mountaineers men's basketball team|West Virginia]]
+| 72
+| 7.86
+| 4.5
+|-
+| 6
+| Sweet 16
+| March 27, 2021 5:15 ET
+| {{small|(5 S)}} [[2020-21 Villanova Wildcats men's basketball team|Villanova]] 
+| 51
+| {{small|(1 S)}} '''[[2020-21 Baylor Bears men's basketball team|Baylor]]'''
+| '''62'''
+| 7.54
+| 4.2
+|-
+| 7
+| Round of 32
+| March 21, 2021, 2:40 ET
+| {{small|(9 S)}} [[2020-21 Wisconsin Badgers men's basketball team|Wisconsin]]
+| 63
+| {{small|(1 S)}} '''[[2020-21 Baylor Bears men's basketball team|Baylor]]'''
+| '''76'''
+| 7.42
+| 4.5
+|-
+| 8
+| Elite Eight
+| March 30, 2021, 9:57 ET
+| {{small|(11 E)}} '''[[2020-21 UCLA Bruins men's basketball team|UCLA]]'''
+| '''51'''
+| {{small|(1 E)}} [[2020-21 Michigan Wolverines men's basketball team|Michigan]]
+| 49
+| [[NCAA March Madness (TV program)|TBS]]
+| 6.89
+| 3.9
+|-
+| 9
+| Sweet 16
+| March 28, 2021, 2:10 ET
+| {{small|(5 W)}} [[2020-21 Creighton Bluejays men's basketball team|Creighton]]
+| 65
+| {{small|(1 W)}} '''[[2020-21 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| '''83'''
+| [[NCAA March Madness (TV program)|CBS]]
+| 6.66
+| 3.9
+|-
+| 10
+| Sweet 16
+| March 28, 2021, 7:15 ET
+| {{small|(11 E)}} '''[[2020-21 UCLA Bruins men's basketball team|UCLA]]'''
+| '''88'''
+| {{small|(2 E)}} [[2020-21 Alabama Crimson Tide men's basketball team|Alabama]]
+| 78
+| [[NCAA March Madness (TV program)|TBS]]
+| 6.51
+| 3.7
+|-
+|}
+
+===Radio===
+{{col-begin}}
+{{col-2}}
+
+====First Four====
+*[[Ted Emrich]] and [[Kyle Macy]] – at Assembly Hall
+*[[John Sadak]] and [[Jordan Cornette]] – at Mackey Arena
+
+====First and Second Rounds====
+*[[Ryan Radtke]] and [[Austin Croshere]] – at Hinkle Fieldhouse and Indiana Farmers Coliseum
+*[[Kevin Kugler]] and [[P. J. Carlesimo]] – at Bankers Life Fieldhouse and Lucas Oil Stadium
+*[[Craig Way]] and [[Donny Marshall]] – at Indiana Farmers Coliseum and Hinkle Fieldhouse
+*Ted Emrich and Kyle Macy – at Assembly Hall
+*[[John Sadak]] and Jordan Cornette – at Mackey Arena
+*[[Bill Rosinski]] and [[Will Perdue]] – at Lucas Oil Stadium and Bankers Life Fieldhouse
+*[[Jason Benetti]] and [[Robbie Hummel]] – at Lucas Oil Stadium, Bankers Life Fieldhouse and Hinkle Fieldhouse
+*[[Brandon Gaudin]] and [[Dan Dickau]] – at Hinkle Fieldhouse and Bankers Life Fieldhouse
+*[[Dave Pasch]] and [[Danny Manning]] – at Bankers Life Fieldhouse and Hinkle Fieldhouse
+*[[Scott Graham]] and [[Jon Crispin]] – at Indiana Farmers Coliseum, Lucas Oil Stadium and Bankers Life Fieldhouse
+{{col-2}}
+
+====Regionals====
+*Ryan Radtke and Donny Marshall – at Bankers Life Fieldhouse (Saturday) and Hinkle Fieldhouse (Sunday)
+*Kevin Kugler and P. J. Carlesimo – at Hinkle Fieldhouse (Saturday), Bankers Life Fieldhouse (Sunday) and Lucas Oil Stadium (Monday & Tuesday)
+*Ryan Radtke and Robbie Hummel – at Lucas Oil Stadium (Monday & Tuesday)
+
+====Final Four and National Championship====
+*Kevin Kugler, Jim Jackson, P. J. Carlesimo, and [[Jim Gray (sportscaster)|Jim Gray]] – Lucas Oil Stadium
+{{col-end}}
+
+===Internet===
+'''FastBreak''' is an online-only program providing whiparound coverage of all tournament games similar to ''[[NFL RedZone]]'' during the first weekend. 
+* [[Dave Briggs (journalist)|Dave Briggs]], [[Rex Chapman]], [[Tony Delk]] (New York City)<ref>{{Cite news|date=2021-03-18|title=Community news: Summer concert series announced and more|url=https://www.westport-news.com/living/article/Community-news-Summer-concert-series-announced-16035174.php|access-date=2021-03-19|newspaper=Ct Insider|language=en-US}}</ref>
+<!--
+====Video====
+
+====Audio====
+-->
+
+==See also==
+* [[2021 NCAA Division I women's basketball tournament]]
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+{{commons category}}
+
+{{NCAA Division I men's basketball tournament navbox}}
+{{2021 NCAA Division I men's basketball tournament navbox}}
+{{2020–21 NCAA Division I championships navbox}}
+
+[[Category:2020–21 NCAA Division I men's basketball season|Ncaa tournament]]
+[[Category:NCAA Division I men's basketball tournament]]
+[[Category:Basketball in Indianapolis]]
+[[Category:2020s in Indianapolis]]
+[[Category:2021 in sports in Indiana|NCAA]]
+[[Category:March 2021 sports events in the United States|NCAA]]
+[[Category:April 2021 sports events in the United States|NCAA]]
+[[Category:Sports events affected by the COVID-19 pandemic|NCAA Division I]]
