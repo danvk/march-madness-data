@@ -1,0 +1,1981 @@
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=March 2022}}
+{{Infobox NCAA basketball tournament 
+| Year=2022	
+| Image          = 2022 NCAA Men's Final Four logo.svg
+| Caption        =
+| Teams          = 68	
+| FinalFourArena = [[Caesars Superdome]]
+| FinalFourCity  = [[New Orleans|New Orleans, Louisiana]]
+| Champions      = [[2021–22 Kansas Jayhawks men's basketball team|Kansas Jayhawks]]
+| TitleCount     = 4th
+| ChampGameCount = 10th
+| ChampFFCount   = 16th
+| RunnerUp       = [[2021–22 North Carolina Tar Heels men's basketball team|North Carolina Tar Heels]]
+| GameCount      = 12th
+| RunnerFFCount  = 21st
+| Semifinal1     = [[2021–22 Duke Blue Devils men's basketball team|Duke Blue Devils]]
+| FinalFourCount = 17th
+| Semifinal2     = [[2021–22 Villanova Wildcats men's basketball team|Villanova Wildcats]]
+| FinalFourCount2= 7th
+| Coach          = [[Bill Self]]
+| CoachCount     = 2nd
+| MOP            = [[Ochai Agbaji]]
+| MOPTeam        = Kansas
+| Attendance     = 684,425<ref>{{cite web |title=2022 ATTENDANCE SUMMARY |url=http://fs.ncaa.org/Docs/stats/m_basketball_RB/2023/Attend.pdf}}</ref>
+| OneTopScorer   =
+| TwoTopScorers  =
+| TopScorer      =
+| TopScorerTeam  =
+| TopScorer2     =
+| TopScorer2Team =
+| Points         =
+}}
+
+The '''2022 NCAA Division I men's basketball tournament''' involved 68 teams playing in a [[single-elimination tournament]] that determined the  [[National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] men's [[college basketball]] national champion for the [[2021–22 NCAA Division I men's basketball season|2021–22 season]]. The 83rd annual edition of [[NCAA Division I men's basketball tournament|the tournament]] began on March 15, 2022, and concluded with the [[2022 NCAA Division I men's basketball championship game|championship game]] on April 4 at the [[Caesars Superdome]] in [[New Orleans, Louisiana]], with the [[2021–22 Kansas Jayhawks men's basketball team|Kansas Jayhawks]] defeating the [[2021-22 North Carolina Tar Heels men's basketball team|North Carolina Tar Heels]], 72–69, overcoming a 16-point first-half deficit (the largest deficit overcome in championship game history), to claim the school's fourth national title.
+
+[[Big South Conference]] champion [[2021–22 Longwood Lancers men's basketball team|Longwood]] and [[Northeast Conference]] (NEC) champion [[2021–22 Bryant Bulldogs men's basketball team|Bryant]] made their tournament debuts. Bryant was eliminated in the First Four by [[2021–22 Wright State Raiders men's basketball team|Wright State]], and Longwood was eliminated by [[2021–22 Tennessee Volunteers basketball team|Tennessee]] in the first round.
+
+A major upset occurred on the first full day of the tournament, when 15-seed [[2021–22 Saint Peter's Peacocks men's basketball team|Saint Peter's]] upset 2-seed [[2021–22 Kentucky Wildcats men's basketball team|Kentucky]], and subsequently became the third 15-seed to reach the Sweet 16 (the second consecutive year in which this occurred and third in the last nine years) and the first ever 15-seed to advance to the Elite Eight.<ref>{{Cite web |last=Bushnell |first=Henry |date=March 17, 2022 |title=Kentucky stunned by No. 15 seed Saint Peter's, a new March Madness low for John Calipari |url=https://sports.yahoo.com/kentucky-saint-peters-upset-march-madness-014205235.html |access-date=March 17, 2022 |website=[[Yahoo! Sports]]}}</ref> This was the tenth time a 15-seed defeated a 2-seed overall, but it was the sixth time since 2012 this occurred. The defending champions [[2021–22 Baylor Bears men's basketball team|Baylor]] were defeated by [[2021–22 North Carolina Tar Heels men's basketball team|North Carolina]] in the second round, ensuring the defending champion and at least one top seed was eliminated before the regional semifinals for the fifth consecutive tournament, and at least one double-digit seed (this year, four: 15-seed Saint Peter's, 11-seeds [[2021–22 Michigan Wolverines men's basketball team|Michigan]] and [[2021–22 Iowa State Cyclones men's basketball team|Iowa State]], and 10-seed [[2021–22 Miami Hurricanes men's basketball team|Miami]]) made the Sweet 16 for the 14th straight tournament.
+
+==Tournament procedure==
+{{further|NCAA Division I men's basketball tournament#Current tournament format}}
+
+A total of 68 teams were entered into the 2022 tournament. A total of 32 automatic bids were awarded to each program that won a [[List of NCAA conferences#Division I|conference]] tournament (with one exception, as the [[2021–22 Bellarmine Knights men's basketball team|tournament winner]] in the ASUN Conference was ineligible, due to its transition from Division II). The remaining 36 bids were issued "at-large", with selections extended by the [[NCAA basketball tournament selection process|NCAA Selection Committee]]. The Selection Committee also [[Seed (sports)|seed]]ed the entire field from 1 to 68.
+ 
+Eight teams (the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams) played in the [[First Four]]. The winners of these games advanced to the main [[Bracket (tournament)|bracket]] of the tournament.
+
+The top four teams outside of the ranking (commonly known as the "first four out" in pre-tournament analyses) acted as standbys in the event a school was forced to withdraw before the start of the tournament due to COVID-19 protocols. Any recipient of an automatic bid would designate a replacement from within their own conference if they need to withdraw. Otherwise, the replacement teams were as follows, in order:
+
+{|class="wikitable sortable plainrowheaders"
+|+First Four Out<ref>{{Cite web|url=https://www.espn.com/womens-college-basketball/story/_/id/33497918/|title=Dayton, Oklahoma, SMU, Texas A&M are top seeds in NIT bracket|author=Jeff Borzello|date=2022-03-13|website=ESPN.com|language=en|access-date=2022-03-13}}</ref>
+|-
+!scope="col"|[[NCAA Evaluation Tool|NET]]
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+|-
+|align=center|58
+!scope="row" style="text-align:left"|[[2021–22 Dayton Flyers men's basketball team|Dayton]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|23–10
+|-
+|align=center|40
+!scope="row" style="text-align:left"|[[2021–22 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[Big 12 Conference|Big 12]]
+|align=center|18–15
+|-
+|align=center|44
+!scope="row" style="text-align:left"|[[2021–22 SMU Mustangs men's basketball team|SMU]]
+|[[American Athletic Conference|American]]
+|align=center|23–8
+|-
+|align=center|42
+!scope="row" style="text-align:left"|[[2021–22 Texas A&M Aggies men's basketball team|Texas A&M]]
+|[[Southeastern Conference|SEC]]
+|align=center|23–12
+|}
+
+Once the tournament started, any team that would have been forced to withdraw would not be replaced; the bracket would not be reseeded, and the affected team's opponent would [[walkover|automatically advance]] to the next round.
+
+==2022 NCAA Tournament schedule and venues==
+{{Location map+|USA|width=455|float=right|caption=2022 First Four (orange) and first and second rounds (green)|places= 
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.7404|lon_deg=-84.1792|position=right|background=#FFFFFF|label=Dayton|link=UD Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=45.523062|lon_deg=-122.676482|position=right|background=#FFFFFF|label=Portland|link=Moda Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=42.886447|lon_deg=-78.878369|position=right|background=#FFFFFF|label=Buffalo|link=KeyBank Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.763889|lon_deg=-86.155556|position=left|background=#FFFFFF|label=Indianapolis|link=Gainbridge Fieldhouse}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.755488|lon_deg=-97.330766|position=left|background=#FFFFFF|label=Fort Worth|link=Dickies Arena}}
+
+{{Location map~|USA|mark=green pog.svg|lat_deg=43.038902|lon_deg=-87.906474|position=left|background=#FFFFFF|label=Milwaukee|link=Fiserv Forum}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=34.852618|lon_deg=-82.394010|position=left|background=#FFFFFF|label=Greenville|link=Bon Secours Wellness Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.440625|lon_deg=-79.995886|position=right|background=#FFFFFF|label=Pittsburgh|link=PPG Paints Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=32.715738|lon_deg=-117.161084|position=right|background=#FFFFFF|label=San Diego|link=Viejas Arena}}
+}}
+{{Location map+|USA|width=455|float=right|caption=2022 Regionals (blue) and '''Final Four''' (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=37.774929|lon_deg=-122.419416|position=right|background=#FFFFFF|label={{nowrap|San Francisco}}|link=Chase Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=29.424122|lon_deg=-98.493628|position=left|background=#FFFFFF|label=San Antonio|link=AT&T Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.952584|lon_deg=-75.165222|position=left|background=#FFFFFF|label=Philadelphia|link=Wells Fargo Center (Philadelphia)}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=41.878114|lon_deg=-87.629798|position=left|background=#FFFFFF|label=Chicago|link=United Center}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=29.951066|lon_deg=-90.071532|position=right|background=#FFFFFF|label={{nowrap|'''New Orleans'''}}|link=Mercedes-Benz Superdome}}
+}}
+After the [[2020 NCAA Division I men's basketball tournament|2020 tournament]] was cancelled and the [[2021 NCAA Division I men's basketball tournament|2021 tournament]] was held in a single location due to the [[COVID-19 pandemic in the United States|COVID-19 pandemic]], it was reverted to the standard format for the first time since [[2019 NCAA Division I men's basketball tournament|2019]].
+
+The sites selected to host each round of the 2022 tournament were:<ref>{{cite web|url=https://www.ncaa.org/championships/future-division-i-mens-basketball-championship-sites|date=21 April 2017|publisher=[[NCAA]]|title=Future Division I Men's Basketball Championship sites}}</ref>
+
+'''First Four'''
+*March 15 and 16
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+'''First and second rounds''' (Subregionals)
+*March 17 and 19
+*** [[Dickies Arena]], [[Fort Worth, Texas]] (Host: [[Texas Christian University]])
+*** [[Gainbridge Fieldhouse]], [[Indianapolis|Indianapolis, Indiana]] (Hosts: [[Indiana University–Purdue University Indianapolis|IUPUI]], [[Horizon League]])<ref>{{cite web |last1=Page |first1=Fletcher |title=2022 NCAA Tournament moving away from Cincinnati, Heritage Bank Center, to Indianapolis |url=https://www.cincinnati.com/story/sports/college/university-of-cincinnati/2019/12/11/ncaa-tournament-host-sites-2022-games-leave-cincinnati-indianapolis/4398559002/ |website=cincinnati.com |publisher=Cincinnati Enquirer |access-date=9 February 2021|date=December 11, 2019}}</ref>
+*** [[KeyBank Center]], [[Buffalo, New York]] (Hosts: [[Canisius College]], [[Niagara University]], [[Metro Atlantic Athletic Conference]])
+*** [[Moda Center]], [[Portland, Oregon]] (Host: [[Oregon State University]])
+*March 18 and 20
+*** [[Bon Secours Wellness Arena]], [[Greenville, South Carolina]] (Hosts: [[Furman University]], [[Southern Conference]])
+*** [[Fiserv Forum]], [[Milwaukee|Milwaukee, Wisconsin]] (Host: [[Marquette University]])
+*** [[PPG Paints Arena]], [[Pittsburgh|Pittsburgh, Pennsylvania]] (Host: [[Duquesne University]])
+*** [[Viejas Arena]], [[San Diego|San Diego, California]] (Host: [[San Diego State University]])
+
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 24 and 26
+**'''West Regional''', [[Chase Center]], [[San Francisco|San Francisco, California]] (Host: [[Pac-12 Conference]])
+**'''South Regional''', [[AT&T Center]], [[San Antonio|San Antonio, Texas]] (Host: [[University of Texas at San Antonio]])
+*March 25 and 27
+**'''East Regional''', [[Wells Fargo Center (Philadelphia)|Wells Fargo Center]], [[Philadelphia|Philadelphia, Pennsylvania]] (Host: [[University of Pennsylvania]])
+**'''Midwest Regional''', [[United Center]], [[Chicago|Chicago, Illinois]] (Host: [[Northwestern University]])
+
+'''National semifinals and championship''' (Final Four and Championship)
+*April 2 and 4
+** [[Caesars Superdome]], [[New Orleans|New Orleans, Louisiana]] (Hosts: [[Tulane University]], [[University of New Orleans]])
+
+New Orleans hosted the Final Four for the sixth time, having previously hosted in [[2012 NCAA Division I men's basketball tournament|2012]].<ref>{{cite web|url=https://www.ncaa.com/futurefinalfour|date=14 November 2014|publisher=[[NCAA]]|title=Five future Final Four sites announced|access-date=4 April 2018|archive-date=30 March 2016|archive-url=https://web.archive.org/web/20160330052800/http://www.ncaa.com/futurefinalfour|url-status=dead}}</ref>
+
+==Qualification and selection of teams==
+{{Further|2022 NCAA Division I men's basketball tournament qualifying teams}}
+
+===Automatic qualifiers===
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|[[2022 America East men's basketball tournament|America East]]
+!scope="row" style="text-align:left"| [[2021–22 Vermont Catamounts men's basketball team|Vermont]]
+|8th
+|2019
+|-
+|[[2022 American Athletic Conference men's basketball tournament|American]]
+!scope="row" style="text-align:left"| [[2021–22 Houston Cougars men's basketball team|Houston]]
+|23rd
+|2021
+|-
+|[[2022 Atlantic 10 men's basketball tournament|Atlantic 10]]
+!scope="row" style="text-align:left"|[[2021–22 Richmond Spiders men's basketball team|Richmond]]
+|10th
+|2011
+|-
+|[[2022 ACC men's basketball tournament|ACC]]
+!scope="row" style="text-align:left"|[[2021–22 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+|13th
+|2021
+|-
+|[[2022 ASUN men's basketball tournament|ASUN]]
+!scope="row" style="text-align:left"|[[2021–22 Jacksonville State Gamecocks men's basketball team|Jacksonville State]]{{efn-ua|name=JSU|Jacksonville State, the ASUN regular-season champion, was awarded the ASUN's NCAA tournament bid because [[2021–22 Bellarmine Knights men's basketball team|Bellarmine]], which won the [[2022 ASUN men's basketball tournament|conference tournament]], is ineligible due to a transition from Division II.<ref>{{cite news|title=Division I newcomer Bellarmine wins Atlantic Sun championship but ineligible for NCAA tournament|url=https://www.espn.com/mens-college-basketball/story/_/id/33456772/division-newcomer-bellarmine-wins-atlantic-sun-championship-ineligible-ncaa-tournament|website=ESPN|date=March 8, 2022|quote=Bellarmine defeated Jacksonville 77–72 in the Atlantic Sun Conference tournament final on Tuesday, handing the automatic bid to the NCAA tournament to regular-season champion Jacksonville State.}}</ref>}}
+|2nd
+|2017
+|-
+|[[2022 Big 12 men's basketball tournament|Big 12]]
+!scope="row" style="text-align:left"|[[2021–22 Kansas Jayhawks men's basketball team|Kansas]]
+|50th
+|2021
+|-
+|[[2022 Big East men's basketball tournament|Big East]]
+!scope="row" style="text-align:left"|[[2021–22 Villanova Wildcats men's basketball team|Villanova]]
+|41st
+|2021
+|-
+|[[2022 Big Sky Conference men's basketball tournament|Big Sky]]
+!scope="row" style="text-align:left"| [[2021–22 Montana State Bobcats men's basketball team|Montana State]]
+|4th
+|1996
+|-
+|[[2022 Big South Conference men's basketball tournament|Big South]]
+!scope="row" style="text-align:left"| [[2021–22 Longwood Lancers men's basketball team|Longwood]]
+|1st
+|{{sort|0|Never}}
+|-
+|[[2022 Big Ten men's basketball tournament|Big Ten]]
+!scope="row" style="text-align:left"| [[2021–22 Iowa Hawkeyes men's basketball team|Iowa]]
+|28th
+|2021
+|-
+|[[2022 Big West Conference men's basketball tournament|Big West]]
+!scope="row" style="text-align:left"| [[2021–22 Cal State Fullerton Titans men's basketball team|Cal State Fullerton]]
+|4th
+|2018
+|-
+|[[2022 CAA men's basketball tournament|CAA]]
+!scope="row" style="text-align:left"| [[2021–22 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
+| 6th
+| 2014
+|-
+|[[2022 Conference USA men's basketball tournament|C-USA]]
+!scope="row" style="text-align:left"|[[2021–22 UAB Blazers men's basketball team|UAB]]
+|16th
+|2015
+|-
+|[[2022 Horizon League men's basketball tournament|Horizon]]
+!scope="row" style="text-align:left"|[[2021–22 Wright State Raiders men's basketball team|Wright State]]
+| 4th
+| 2018
+|-
+|[[2022 Ivy League men's basketball tournament|Ivy League]]
+!scope="row" style="text-align:left"| [[2021–22 Yale Bulldogs men's basketball team|Yale]]
+|6th
+|2019
+|-
+|[[2022 MAAC men's basketball tournament|MAAC]]
+!scope="row" style="text-align:left"|[[2021–22 Saint Peter's Peacocks basketball team|Saint Peter's]]
+|4th
+|2011
+|-
+|[[2022 MAC men's basketball tournament|MAC]]
+!scope="row" style="text-align:left"|[[2021–22 Akron Zips men's basketball team|Akron]]
+|5th
+|2013
+|-
+|[[2022 MEAC men's basketball tournament|MEAC]]
+!scope="row" style="text-align:left"|[[2021–22 Norfolk State Spartans men's basketball team|Norfolk State]]
+|3rd
+|2021
+|-
+|[[2022 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+!scope="row" style="text-align:left"|[[2021–22 Loyola Ramblers men's basketball team|Loyola Chicago]]
+|8th
+|2021
+|-
+|[[2022 Mountain West Conference men's basketball tournament|Mountain West]]
+!scope="row" style="text-align:left"|[[2021–22 Boise State Broncos men's basketball team|Boise State]]
+|8th
+|2015
+|-
+|[[2022 Northeast Conference men's basketball tournament|NEC]]
+!scope="row" style="text-align:left"|[[2021–22 Bryant Bulldogs men's basketball team|Bryant]]
+|1st
+|{{sort|0|Never}}
+|-
+|[[2022 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+!scope="row" style="text-align:left"|[[2021–22 Murray State Racers men's basketball team|Murray State]]
+|18th
+|2019
+|-
+|[[2022 Pac-12 Conference men's basketball tournament|Pac-12]]
+!scope="row" style="text-align:left"|[[2021–22 Arizona Wildcats men's basketball team|Arizona]]
+|36th
+|2018
+|-
+|[[2022 Patriot League men's basketball tournament|Patriot]]
+!scope="row" style="text-align:left"|[[2021–22 Colgate Raiders men's basketball team|Colgate]]
+|5th
+|2021
+|-
+|[[2022 SEC men's basketball tournament|SEC]]
+!scope="row" style="text-align:left"| [[2021–22 Tennessee Volunteers basketball team|Tennessee]]
+| 23rd
+| 2021
+|-
+|[[2022 Southern Conference men's basketball tournament|Southern]]
+!scope="row" style="text-align:left"|[[2021–22 Chattanooga Mocs men's basketball team|Chattanooga]]
+|12th
+|2016
+|-
+|[[2022 Southland Conference men's basketball tournament|Southland]]
+!scope="row" style="text-align:left"|[[2021–22 Texas A&M–Corpus Christi Islanders men's basketball team|Texas A&M–Corpus Christi]]
+|2nd
+|2007
+|-
+|[[2022 SWAC men's basketball tournament|SWAC]]
+!scope="row" style="text-align:left"|[[2021–22 Texas Southern Tigers basketball team|Texas Southern]]
+|10th
+|2021
+|-
+|[[2022 Summit League men's basketball tournament|Summit League]]
+!scope="row" style="text-align:left"|[[2021–22 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|6th
+|2018
+|-
+|[[2022 Sun Belt Conference men's basketball tournament|Sun Belt]]
+!scope="row" style="text-align:left"|[[2021–22 Georgia State Panthers men's basketball team|Georgia State]]
+|6th
+|2019
+|-
+|[[2022 West Coast Conference men's basketball tournament|WCC]]
+!scope="row" style="text-align:left"|[[2021–22 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|24th
+|2021
+|-
+|[[2022 WAC men's basketball tournament|WAC]]
+!scope="row" style="text-align:left"|[[2021–22 New Mexico State Aggies men's basketball team|New Mexico State]]
+|26th
+|2019
+|}
+
+===<span id="RegionSeeds"> Tournament seeds</span>===
+<section begin="RegionSeeds" />
+The tournament seeds and regions were determined through the [[NCAA basketball tournament selection process]] and were published by the selection committee after the brackets were released.<ref>{{cite tweet|user=MarchMadnessMBB|number=1503189533554315264|title=1 to 68... 🔥 The COMPLETE 2022 seed list from Selection Sunday! #MarchMadness|author=NCAA March Madness}}</ref> This was the fifth consecutive tournament in which at least one of  the four #1 seeds repeated their #1 seeding from the year before.
+{|
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+West Regional – [[Chase Center]], [[San Francisco|San Francisco, California]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2021–22 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|[[West Coast Conference|West Coast]]
+|align=center|26–3
+|align=center|1
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2021–22 Duke Blue Devils men's basketball team|Duke]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|28–6
+|align=center|8
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2021–22 Texas Tech Red Raiders basketball team|Texas Tech]]
+|[[Big 12 Conference|Big 12]]
+|align=center|25–9
+|align=center|12
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2021–22 Arkansas Razorbacks men's basketball team|Arkansas]]
+|[[Southeastern Conference|SEC]]
+|align=center|25–8
+|align=center|16
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2021–22 UConn Huskies men's basketball team|UConn]]
+|[[Big East Conference|Big East]]
+|align=center|23–9
+|align=center|17
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2021–22 Alabama Crimson Tide men's basketball team|Alabama]]
+|[[Southeastern Conference|SEC]]
+|align=center|19–13
+|align=center|21
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2021–22 Michigan State Spartans men's basketball team|Michigan State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|22–12
+|align=center|27
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2021–22 Boise State Broncos men's basketball team|Boise State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|27–7
+|align=center|29
+|align=center|Automatic
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2021–22 Memphis Tigers men's basketball team|Memphis]]
+|[[American Athletic Conference|American]]
+|align=center|21–10
+|align=center|36
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2021–22 Davidson Wildcats men's basketball team|Davidson]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|27–6
+|align=center|40
+|align=center|At-Large
+|-
+| rowspan="2" style="text-align:center;"|11*
+!scope="row" style="text-align:left"|[[2021–22 Rutgers Scarlet Knights men's basketball team|Rutgers]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|18–13
+|align=center|44
+|align=center|At-Large
+|-
+!scope="row" style="text-align:left"|[[2021–22 Notre Dame Fighting Irish men's basketball team|Notre Dame]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|22–10
+|align=center|45
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2021–22 New Mexico State Aggies men's basketball team|New Mexico State]]
+|[[Western Athletic Conference|WAC]]
+|align=center|26–6
+|align=center|50
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2021–22 Vermont Catamounts men's basketball team|Vermont]]
+|[[America East Conference|America East]]
+|align=center|28–5
+|align=center|53
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2021–22 Montana State Bobcats men's basketball team|Montana State]]
+|[[Big Sky Conference|Big Sky]]
+|align=center|27–7
+|align=center|58
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2021–22 Cal State Fullerton Titans men's basketball team|Cal State Fullerton]]
+|[[Big West Conference|Big West]]
+|align=center|21–10
+|align=center|62
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[2021–22 Georgia State Panthers men's basketball team|Georgia State]]
+|[[Sun Belt Conference|Sun Belt]]
+|align=center|18–10
+|align=center|63
+|align=center|Automatic
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+East Regional – [[Wells Fargo Center (Philadelphia)|Wells Fargo Center]], [[Philadelphia|Philadelphia, Pennsylvania]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2021–22 Baylor Bears men's basketball team|Baylor]]
+|[[Big 12 Conference|Big 12]]
+|align=center|26–6
+|align=center|4
+|align=center|At-Large
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2021–22 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[Southeastern Conference|SEC]]
+|align=center|26–7
+|align=center|6
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2021–22 Purdue Boilermakers men's basketball team|Purdue]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|27–7
+|align=center|11
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2021–22 UCLA Bruins men's basketball team|UCLA]]
+|[[Pac-12 Conference|Pac–12]]
+|align=center|25–7
+|align=center|13
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2021–22 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+|[[West Coast Conference|West Coast]]
+|align=center|25–7
+|align=center|19
+|align=center|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2021–22 Texas Longhorns men's basketball team|Texas]]
+|[[Big 12 Conference|Big 12]]
+|align=center|21–11
+|align=center|23
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2021–22 Murray State Racers men's basketball team|Murray State]]
+|[[Ohio Valley Conference|Ohio Valley]]
+|align=center|30–2
+|align=center|26
+|align=center|Automatic
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2021–22 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|24–9
+|align=center|30
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2021–22 Marquette Golden Eagles men's basketball team|Marquette]]
+|[[Big East Conference|Big East]]
+|align=center|19–12
+|align=center|35
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2021–22 San Francisco Dons men's basketball team|San Francisco]]
+|[[West Coast Conference|West Coast]]
+|align=center|24–9
+|align=center|37
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2021–22 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|23–12
+|align=center|43
+|align=center|Automatic
+|-
+| rowspan="2" style="text-align:center;"|12*
+!scope="row" style="text-align:left"|[[2021–22 Wyoming Cowboys basketball team|Wyoming]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|25–8
+|align=center|46
+|align=center|At-Large
+|-
+!scope="row" style="text-align:left"|[[2021–22 Indiana Hoosiers men's basketball team|Indiana]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|20–13
+|align=center|47
+|align=center|At-Large
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2021–22 Akron Zips men's basketball team|Akron]]
+|[[Mid-American Conference|MAC]]
+|align=center|24–9
+|align=center|54
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2021–22 Yale Bulldogs men's basketball team|Yale]]
+|[[Ivy League|Ivy]]
+|align=center|19–11
+|align=center|56
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2021–22 Saint Peter's Peacocks basketball team|Saint Peter's]]
+|[[Metro Atlantic Athletic Conference|MAAC]]
+|align=center|19–11
+|align=center|60
+|align=center|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[2021–22 Norfolk State Spartans men's basketball team|Norfolk State]]
+|[[Mid-Eastern Athletic Conference|MEAC]]
+|align=center|24–6
+|align=center|64
+|align=center|Automatic
+|}
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+South Regional – [[AT&T Center]], [[San Antonio|San Antonio, Texas]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2021–22 Arizona Wildcats men's basketball team|Arizona]]
+|[[Pac-12 Conference|Pac–12]]
+|align=center|31–3
+|align=center|2
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2021–22 Villanova Wildcats men's basketball team|Villanova]]
+|[[Big East Conference|Big East]]
+|align=center|26–7
+|align=center|7
+|align=center|Automatic
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2021–22 Tennessee Volunteers basketball team|Tennessee]]
+|[[Southeastern Conference|SEC]]
+|align=center|26–7
+|align=center|10
+|align=center|Automatic
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2021–22 Illinois Fighting Illini men's basketball team|Illinois]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|22–9 
+|align=center|14
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2021–22 Houston Cougars men's basketball team|Houston]]
+|[[American Athletic Conference|American]]
+|align=center|29–5
+|align=center|18
+|align=center|Automatic
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2021–22 Colorado State Rams men's basketball team|Colorado State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|25–5
+|align=center|24
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2021–22 Ohio State Buckeyes men's basketball team|Ohio State]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|19–11
+|align=center|28
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2021–22 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[Big East Conference|Big East]]
+|align=center|21–10
+|align=center|32
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2021–22 TCU Horned Frogs men's basketball team|TCU]]
+|[[Big 12 Conference|Big 12]]
+|align=center|20–12
+|align=center|34
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2021–22 Loyola Ramblers men's basketball team|Loyola Chicago]]
+|[[Missouri Valley Conference|Missouri Valley]]
+|align=center|25–7
+|align=center|39
+|align=center|Automatic
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2021–22 Michigan Wolverines men's basketball team|Michigan]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|17–14
+|align=center|42
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2021–22 UAB Blazers men's basketball team|UAB]]
+|[[Conference USA|C-USA]]
+|align=center|27–7
+|align=center|48
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2021–22 Chattanooga Mocs men's basketball team|Chattanooga]]
+|[[Southern Conference|Southern]]
+|align=center|27–7
+|align=center|51
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2021–22 Longwood Lancers men's basketball team|Longwood]]
+|[[Big South Conference|Big South]]
+|align=center|26–6
+|align=center|55
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2021–22 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
+|[[Colonial Athletic Association|Colonial]]
+|align=center|22–12
+|align=center|59
+|align=center|Automatic
+|-
+| rowspan="2" style="text-align:center;"|16*
+!scope="row" style="text-align:left"|[[2021–22 Wright State Raiders men's basketball team|Wright State]]
+|[[Horizon League|Horizon]]
+|align=center|21–13
+|align=center|65
+|align=center|Automatic
+|-
+!scope="row" style="text-align:left"|[[2021–22 Bryant Bulldogs men's basketball team|Bryant]]
+|[[Northeast Conference|Northeast]]
+|align=center|22–9
+|align=center|66
+|align=center|Automatic
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional – [[United Center]], [[Chicago|Chicago, Illinois]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 165px;"|School
+!scope="col" style="width: 80px;"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2021–22 Kansas Jayhawks men's basketball team|Kansas]]
+|[[Big 12 Conference|Big 12]]
+|align=center|28–6
+|align=center|3
+|align=center|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2021–22 Auburn Tigers men's basketball team|Auburn]]
+|[[Southeastern Conference|SEC]]
+|align=center|27–5
+|align=center|5
+|align=center|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2021–22 Wisconsin Badgers men's basketball team|Wisconsin]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|24–7
+|align=center|9
+|align=center|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2021–22 Providence Friars men's basketball team|Providence]]
+|[[Big East Conference|Big East]]
+|align=center|25–5
+|align=center|15
+|align=center|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2021–22 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[Big Ten Conference|Big Ten]]
+|align=center|26–9
+|align=center|20
+|align=center|Automatic
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2021–22 LSU Tigers men's basketball team|LSU]]
+|[[Southeastern Conference|SEC]]
+|align=center|22–11
+|align=center|22
+|align=center|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2021–22 USC Trojans men's basketball team|USC]]
+|[[Pac-12 Conference|Pac–12]]
+|align=center|26–7
+|align=center|25
+|align=center|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2021–22 San Diego State Aztecs men's basketball team|San Diego State]]
+|[[Mountain West Conference|Mountain West]]
+|align=center|23–8
+|align=center|31
+|align=center|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2021–22 Creighton Bluejays men's basketball team|Creighton]]
+|[[Big East Conference|Big East]]
+|align=center|22–11
+|align=center|33
+|align=center|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2021–22 Miami Hurricanes men's basketball team|Miami (FL)]]
+|[[Atlantic Coast Conference|ACC]]
+|align=center|23–10
+|align=center|38
+|align=center|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2021–22 Iowa State Cyclones men's basketball team|Iowa State]]
+|[[Big 12 Conference|Big 12]]
+|align=center|20–12
+|align=center|41
+|align=center|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2021–22 Richmond Spiders men's basketball team|Richmond]]
+|[[Atlantic 10 Conference|Atlantic 10]]
+|align=center|23–12
+|align=center|49
+|align=center|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2021–22 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+|[[Summit League|Summit]]
+|align=center|30–4
+|align=center|52
+|align=center|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2021–22 Colgate Raiders men's basketball team|Colgate]]
+|[[Patriot League|Patriot]]
+|align=center|23–11
+|align=center|57
+|align=center|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2021–22 Jacksonville State Gamecocks men's basketball team|Jacksonville State]]
+|[[ASUN Conference|ASUN]]
+|align=center|21–10
+|align=center|61
+|align=center|Automatic
+|-
+| rowspan="2" style="text-align:center;"|16*
+!scope="row" style="text-align:left"|[[2021–22 Texas Southern Tigers basketball team|Texas Southern]]
+|[[Southwestern Athletic Conference|SWAC]]
+|align=center|18–12
+|align=center|67
+|align=center|Automatic
+|-
+!scope="row" style="text-align:left"|[[2021–22 Texas A&M–Corpus Christi Islanders men's basketball team|Texas A&M–Corpus Christi]]
+|[[Southland Conference|Southland]]
+|align=center|23–11
+|align=center|68
+|align=center|Automatic
+|}
+|}
+<nowiki>*</nowiki>See [[#First Four – Dayton, OH|First Four]]
+<section end="RegionSeeds" />
+
+==Tournament bracket==
+All times are listed in [[Eastern Time Zone|Eastern Daylight Time]] ([[UTC−4:00|UTC−4]])<br>
+[[File:P.J. Henry (7097781).jpg|thumb|The first game of the tournament – a First Four matchup featuring [[Texas Southern Tigers basketball|Texas Southern]] vs. [[Texas A&M–Corpus Christi Islanders men's basketball|Texas A&M-Corpus Christi]]]]
+
+===First Four – [[UD Arena|Dayton, OH]]===
+The [[First Four]] games involve eight teams: the four overall lowest-ranked teams and the four lowest-ranked at-large teams.
+
+{{align|left|{{2TeamBracket | RD1= March 15 – Midwest Region
+| RD1-seed1=16
+| RD1-team1='''[[2021–22 Texas Southern Tigers basketball team|Texas Southern]]'''
+| RD1-score1='''76'''
+| RD1-seed2=16
+| RD1-team2={{nowrap|[[2021–22 Texas A&M–Corpus Christi Islanders men's basketball team|Texas A&M–Corpus Christi]]}}
+| RD1-score2=67
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 15 – East Region
+| RD1-seed1=12
+| RD1-team1={{nowrap|[[2021–22 Wyoming Cowboys basketball team|Wyoming]]}}
+| RD1-score1=58
+| RD1-seed2=12
+| RD1-team2='''[[2021–22 Indiana Hoosiers men's basketball team|Indiana]]'''
+| RD1-score2='''66'''
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 16 – South Region
+| RD1-seed1=16
+| RD1-team1='''[[2021–22 Wright State Raiders men's basketball team|Wright State]]'''
+| RD1-score1='''93'''
+| RD1-seed2=16
+| RD1-team2=[[2021–22 Bryant Bulldogs men's basketball team|Bryant]]
+| RD1-score2=82
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 16 – West Region
+| RD1-seed1=11
+| RD1-team1={{nowrap|[[2021–22 Rutgers Scarlet Knights men's basketball team|Rutgers]]}}
+| RD1-score1=87
+| RD1-seed2=11
+| RD1-team2='''[[2021–22 Notre Dame Fighting Irish men's basketball team|Notre Dame]]'''
+| RD1-score2='''89<sup>2OT</sup>'''
+}}}}
+{{clear left}}
+
+===West Regional – [[Chase Center|San Francisco, CA]]===
+{{16TeamBracket | nowrap = yes
+
+| RD1=First round<br />Round of 64<br />March 17–18
+| RD2=Second Round<br />Round of 32<br />March 19–20
+| RD3=Regional semifinals<br />Sweet 16<br />March 24
+| RD4=Regional Final<br />Elite 8<br />March 26
+
+| subgroup1=[[Moda Center|Portland]] – Thu/Sat
+| subgroup2=[[KeyBank Center|Buffalo]] – Thu/Sat
+| subgroup3=[[Viejas Arena|San Diego]] – Fri/Sun
+| subgroup4=[[Bon Secours Wellness Arena|Greenville]] – Fri/Sun
+
+| RD1-seed01=1
+| RD1-team01= '''[[2021–22 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-score01= '''93'''
+| RD1-seed02=16
+| RD1-team02=[[2021–22 Georgia State Panthers men's basketball team|Georgia State]]
+| RD1-score02=72
+
+| RD1-seed03=8
+| RD1-team03=[[2021–22 Boise State Broncos men's basketball team|Boise State]]
+| RD1-score03=53
+| RD1-seed04=9
+| RD1-team04='''[[2021–22 Memphis Tigers men's basketball team|Memphis]]'''
+| RD1-score04='''64'''
+
+| RD1-seed05=5
+| RD1-team05=[[2021–22 UConn Huskies men's basketball team|UConn]]
+| RD1-score05=63
+| RD1-seed06=12
+| RD1-team06='''[[2021–22 New Mexico State Aggies men's basketball team|New Mexico State]]'''
+| RD1-score06= '''70'''
+
+| RD1-seed07=4
+| RD1-team07='''[[2021–22 Arkansas Razorbacks men's basketball team|Arkansas]]'''
+| RD1-score07='''75'''
+| RD1-seed08=13
+| RD1-team08=[[2021–22 Vermont Catamounts men's basketball team|Vermont]]
+| RD1-score08=71
+
+| RD1-seed09=6
+| RD1-team09=[[2021-22 Alabama Crimson Tide men's basketball team|Alabama]]
+| RD1-score09=64
+| RD1-seed10=11
+| RD1-team10='''[[2021–22 Notre Dame Fighting Irish men's basketball team|Notre Dame]]'''
+| RD1-score10='''78'''
+
+| RD1-seed11=3
+| RD1-team11='''[[2021–22 Texas Tech Red Raiders basketball team|Texas Tech]]'''
+| RD1-score11='''97'''
+| RD1-seed12=14
+| RD1-team12=[[2021–22 Montana State Bobcats men's basketball team|Montana State]]
+| RD1-score12=62
+
+| RD1-seed13=7
+| RD1-team13='''[[2021–22 Michigan State Spartans men's basketball team|Michigan State]]'''
+| RD1-score13='''74'''
+| RD1-seed14=10
+| RD1-team14=[[2021–22 Davidson Wildcats men's basketball team|Davidson]]
+| RD1-score14=73
+
+| RD1-seed15=2
+| RD1-team15='''[[2021–22 Duke Blue Devils men's basketball team|Duke]]'''
+| RD1-score15='''78'''
+| RD1-seed16=15
+| RD1-team16=[[2021–22 Cal State Fullerton Titans men's basketball team|Cal State Fullerton]]
+| RD1-score16=61
+
+| RD2-seed01=1
+| RD2-team01='''Gonzaga'''
+| RD2-score01='''82'''
+| RD2-seed02=9
+| RD2-team02=Memphis
+| RD2-score02=78
+
+| RD2-seed03=12
+| RD2-team03=New Mexico State
+| RD2-score03=48
+| RD2-seed04=4
+| RD2-team04='''Arkansas'''
+| RD2-score04='''53'''
+
+| RD2-seed05=11
+| RD2-team05=Notre Dame
+| RD2-score05=53
+| RD2-seed06=3
+| RD2-team06='''Texas Tech'''
+| RD2-score06='''59'''
+
+| RD2-seed07=7
+| RD2-team07=Michigan State
+| RD2-score07=76
+| RD2-seed08=2
+| RD2-team08='''Duke'''
+| RD2-score08='''85'''
+
+| RD3-seed01=1
+| RD3-team01=Gonzaga
+| RD3-score01=68
+| RD3-seed02=4
+| RD3-team02='''Arkansas'''
+| RD3-score02='''74'''
+
+| RD3-seed03=3
+| RD3-team03=Texas Tech
+| RD3-score03=73
+| RD3-seed04=2
+| RD3-team04='''Duke'''
+| RD3-score04='''78'''
+
+| RD4-seed01=4
+| RD4-team01=Arkansas
+| RD4-score01=69
+| RD4-seed02=2
+| RD4-team02='''Duke'''
+| RD4-score02='''78'''
+}}
+
+====West Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 26
+ | time = 5:49 pm [[Pacific Daylight Time|PDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/501?cid=mml_partner_ncaa_editorial_t1]
+ | team1 = #4 Arkansas Razorbacks
+ | score1 = 69
+ | team2 = '''#2 Duke Blue Devils'''
+ | score2 = '''78'''
+ | points1 = [[Jaylin Williams (basketball, born 2002)|Jaylin Williams]], 19
+ | rebounds1 = Jaylin Williams, 10
+ | assist1 = [[JD Notae]], 4
+ | points2 = [[AJ Griffin (basketball)|AJ Griffin]], 18
+ | rebounds2 = [[Mark Williams (basketball)|Mark Williams]], 12
+ | assist2 = [[Paolo Banchero]], 3
+ | H1 = 33–'''45'''
+ | H2 = '''36'''–33
+ | place = Chase Center – San Francisco, California
+ | attendance = 17,739
+ | referee = Ron Groover, Joe Lindsay, Larry Scirotto
+ | TV = TBS
+}}
+
+====West Regional all-tournament team====
+* [[JD Notae]] – [[Arkansas Razorbacks men's basketball|Arkansas]]
+* [[Jaylin Williams (basketball, born 2002)|Jaylin Williams]] – Arkansas
+* [[Mark Williams (basketball)|Mark Williams]] – [[Duke Blue Devils men's basketball|Duke]]
+* [[Jeremy Roach]] – Duke
+* [[Paolo Banchero]] – Duke (MOP)
+
+===East Regional – [[Wells Fargo Center (Philadelphia)|Philadelphia, PA]]===
+{{16TeamBracket | nowrap = yes
+
+| RD1=First round<br />Round of 64<br />March 17–18
+| RD2=Second Round<br />Round of 32<br />March 19–20
+| RD3=Regional semifinals<br />Sweet 16<br />March 25
+| RD4=Regional Final<br />Elite 8<br />March 27
+
+| subgroup1=[[Dickies Arena|Fort Worth]] – Thu/Sat
+| subgroup2=[[Moda Center|Portland]] – Thu/Sat
+| subgroup3=[[Fiserv Forum|Milwaukee]] – Fri/Sun
+| subgroup4=[[Gainbridge Fieldhouse|Indianapolis]] – Thu/Sat
+
+| RD1-seed01=1
+| RD1-team01='''[[2021–22 Baylor Bears men's basketball team|Baylor]]'''
+| RD1-score01='''85'''
+| RD1-seed02=16
+| RD1-team02=[[2021–22 Norfolk State Spartans men's basketball team|Norfolk State]]
+| RD1-score02=49
+
+| RD1-seed03=8
+| RD1-team03='''[[2021–22 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score03='''95'''
+| RD1-seed04=9
+| RD1-team04=[[2021-22 Marquette Golden Eagles men's basketball team|Marquette]]
+| RD1-score04=63
+
+| RD1-seed05=5
+| RD1-team05='''[[2021–22 Saint Mary's Gaels men's basketball team|Saint Mary's]]'''
+| RD1-score05='''82'''
+| RD1-seed06=12
+| RD1-team06=[[2021–22 Indiana Hoosiers men's basketball team|Indiana]]
+| RD1-score06=53
+
+| RD1-seed07=4
+| RD1-team07='''[[2021–22 UCLA Bruins men's basketball team|UCLA]]'''
+| RD1-score07='''57'''
+| RD1-seed08=13
+| RD1-team08=[[2021–22 Akron Zips men's basketball team|Akron]]
+| RD1-score08=53
+
+| RD1-seed09=6
+| RD1-team09='''[[2021–22 Texas Longhorns men's basketball team|Texas]]'''
+| RD1-score09='''81'''
+| RD1-seed10=11
+| RD1-team10=[[2021–22 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+| RD1-score10=73
+
+| RD1-seed11=3
+| RD1-team11='''[[2021–22 Purdue Boilermakers men's basketball team|Purdue]]'''
+| RD1-score11='''78'''
+| RD1-seed12=14
+| RD1-team12=[[2021–22 Yale Bulldogs men's basketball team|Yale]]
+| RD1-score12=56
+
+| RD1-seed13=7
+| RD1-team13='''[[2021–22 Murray State Racers men's basketball team|Murray State]]'''
+| RD1-score13='''92<sup>OT</sup>'''
+| RD1-seed14=10
+| RD1-team14=[[2021–22 San Francisco Dons men's basketball team|San Francisco]]
+| RD1-score14=87
+
+| RD1-seed15=2
+| RD1-team15=[[2021–22 Kentucky Wildcats men's basketball team|Kentucky]]
+| RD1-score15=79
+| RD1-seed16=15
+| RD1-team16='''[[2021–22 Saint Peter's Peacocks basketball team|Saint Peter's]]'''
+| RD1-score16='''85<sup>OT</sup>'''
+
+| RD2-seed01=1
+| RD2-team01=Baylor
+| RD2-score01=86
+| RD2-seed02=8
+| RD2-team02='''North Carolina'''
+| RD2-score02='''93<sup>OT</sup>'''
+
+| RD2-seed03=5
+| RD2-team03=Saint Mary's
+| RD2-score03=56
+| RD2-seed04=4
+| RD2-team04='''UCLA'''
+| RD2-score04='''72'''
+
+| RD2-seed05=6
+| RD2-team05=Texas
+| RD2-score05=71
+| RD2-seed06=3
+| RD2-team06='''Purdue'''
+| RD2-score06='''81'''
+
+| RD2-seed07=7
+| RD2-team07=Murray State
+| RD2-score07=60
+| RD2-seed08=15
+| RD2-team08='''Saint Peter's'''
+| RD2-score08='''70'''
+
+| RD3-seed01=8
+| RD3-team01='''North Carolina'''
+| RD3-score01='''73'''
+| RD3-seed02=4
+| RD3-team02=UCLA
+| RD3-score02=66
+
+| RD3-seed03=3
+| RD3-team03=Purdue
+| RD3-score03=64
+| RD3-seed04=15
+| RD3-team04='''Saint Peter's'''
+| RD3-score04='''67'''
+
+| RD4-seed01=8
+| RD4-team01= '''North Carolina'''
+| RD4-score01= '''69'''
+| RD4-seed02=15
+| RD4-team02=Saint Peter's
+| RD4-score02=49
+}}
+
+====East Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 27
+ | time = 5:05 pm [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/502?cid=mml_partner_ncaa_editorial_t1]
+ | team1 = #15 Saint Peter's Peacocks
+ | score1 = 49
+ | team2 = #8 '''North Carolina Tar Heels'''
+ | score2 = '''69'''
+ | points1 = Fousseyni Drame, 12
+ | rebounds1 = ''2 tied'', 7
+ | assist1 = [[KC Ndefo]], 3
+ | points2 = [[Armando Bacot]], 20
+ | rebounds2 = Armando Bacot, 22
+ | assist2 = ''2 tied'', 4
+ | H1 = 19–'''38'''
+ | H2 = 30–'''31'''
+ | place = Wells Fargo Center – Philadelphia, Pennsylvania  
+ | attendance = 
+ | referee = Verne Harris, John Higgins, Bo Boroski
+ | TV = CBS
+}}
+
+====East Regional all-tournament team====
+* [[Armando Bacot]], [[North Carolina Tar Heels men's basketball|North Carolina]] (MOP)
+* Daryl Banks III, [[Saint Peter's Peacocks men's basketball|Saint Peter's]]
+* [[Doug Edert]], Saint Peter's
+* [[Caleb Love]], North Carolina
+* [[Brady Manek]], North Carolina
+
+===South Regional – [[AT&T Center|San Antonio, TX]]===
+{{16TeamBracket | nowrap = yes
+
+| RD1=First round<br />Round of 64<br />March 17–18
+| RD2=Second Round<br />Round of 32<br />March 19–20
+| RD3=Regional semifinals<br />Sweet 16<br />March 24
+| RD4=Regional Final<br />Elite 8<br />March 26
+
+| subgroup1= [[Viejas Arena|San Diego]] – Fri/Sun
+| subgroup2= [[PPG Paints Arena|Pittsburgh]] – Fri/Sun
+| subgroup3= [[Gainbridge Fieldhouse|Indianapolis]] – Thu/Sat
+| subgroup4= [[PPG Paints Arena|Pittsburgh]] – Fri/Sun
+
+| RD1-seed01=1
+| RD1-team01='''[[2021–22 Arizona Wildcats men's basketball team|Arizona]]'''
+| RD1-score01='''87'''
+| RD1-seed02=16
+| RD1-team02=[[2021–22 Wright State Raiders men's basketball team|Wright State]]
+| RD1-score02=70
+
+| RD1-seed03=8
+| RD1-team03=[[2021–22 Seton Hall Pirates men's basketball team|Seton Hall]]
+| RD1-score03=42
+| RD1-seed04=9
+| RD1-team04='''[[2021–22 TCU Horned Frogs men's basketball team|TCU]]'''
+| RD1-score04= '''69'''
+
+| RD1-seed05=5
+| RD1-team05='''[[2021–22 Houston Cougars men's basketball team|Houston]]'''
+| RD1-score05='''82'''
+| RD1-seed06=12
+| RD1-team06=[[2021–22 UAB Blazers men's basketball team|UAB]]
+| RD1-score06=68
+
+| RD1-seed07=4
+| RD1-team07='''[[2021–22 Illinois Fighting Illini men's basketball team|Illinois]]'''
+| RD1-score07='''54'''
+| RD1-seed08=13
+| RD1-team08=[[2021–22 Chattanooga Mocs men's basketball team|Chattanooga]]
+| RD1-score08=53
+
+| RD1-seed09=6
+| RD1-team09=[[2021–22 Colorado State Rams men's basketball team|Colorado State]]
+| RD1-score09=63
+| RD1-seed10=11
+| RD1-team10='''[[2021–22 Michigan Wolverines men's basketball team|Michigan]]'''
+| RD1-score10='''75'''
+
+| RD1-seed11=3
+| RD1-team11='''[[2021–22 Tennessee Volunteers basketball team|Tennessee]]'''
+| RD1-score11='''88'''
+| RD1-seed12=14
+| RD1-team12=[[2021–22 Longwood Lancers men's basketball team|Longwood]]
+| RD1-score12=56
+
+| RD1-seed13=7
+| RD1-team13='''[[2021–22 Ohio State Buckeyes men's basketball team|Ohio State]]'''
+| RD1-score13='''54'''
+| RD1-seed14=10
+| RD1-team14=[[2021–22 Loyola Ramblers men's basketball team|Loyola Chicago]]
+| RD1-score14=41
+
+| RD1-seed15=2
+| RD1-team15='''[[2021–22 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-score15='''80'''
+| RD1-seed16=15
+| RD1-team16=[[2021–22 Delaware Fightin' Blue Hens men's basketball team|Delaware]]
+| RD1-score16=60
+
+| RD2-seed01=1
+| RD2-team01='''Arizona'''
+| RD2-score01='''85<sup>OT</sup>'''
+| RD2-seed02=9
+| RD2-team02=TCU
+| RD2-score02=80
+
+| RD2-seed03=5
+| RD2-team03='''Houston'''
+| RD2-score03='''68'''
+| RD2-seed04=4
+| RD2-team04=Illinois
+| RD2-score04=53
+
+| RD2-seed05=11
+| RD2-team05='''Michigan'''
+| RD2-score05='''76'''
+| RD2-seed06=3
+| RD2-team06=Tennessee
+| RD2-score06=68
+
+| RD2-seed07=7
+| RD2-team07=Ohio State
+| RD2-score07=61
+| RD2-seed08=2
+| RD2-team08='''Villanova'''
+| RD2-score08='''71'''
+
+| RD3-seed01=1
+| RD3-team01=Arizona
+| RD3-score01=60
+| RD3-seed02=5
+| RD3-team02='''Houston'''
+| RD3-score02='''72'''
+
+| RD3-seed03=11
+| RD3-team03=Michigan
+| RD3-score03=55
+| RD3-seed04=2
+| RD3-team04='''Villanova'''
+| RD3-score04='''63'''
+
+| RD4-seed01=5
+| RD4-team01=Houston
+| RD4-score01=44
+| RD4-seed02=2
+| RD4-team02='''Villanova'''
+| RD4-score02='''50'''
+}}
+
+====South Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 26
+ | time = 5:09 pm [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/503]
+ | team1 = #5 Houston Cougars
+ | score1 = 44
+ | team2 = #2 '''Villanova Wildcats'''
+ | score2 = '''50'''
+ | points1 = [[Taze Moore]], 15
+ | rebounds1 = [[Taze Moore]], 10
+ | assist1 = [[Kyler Edwards]], 4
+ | points2 = [[Jermaine Samuels]], 16
+ | rebounds2 = [[Jermaine Samuels]], 10
+ | assist2 = ''2 tied'', 2
+ | H1 = 20–'''27'''
+ | H2 = '''24'''–23
+ | place = AT&T Center – San Antonio, Texas
+ | attendance = 17,186
+ | referee = Jeff Anderson, Kipp Kissinger, Mike Reed
+ | TV = TBS
+}}
+
+====South Regional all tournament team====
+* [[Jermaine Samuels]] – [[Villanova Wildcats men's basketball|Villanova]] (MOP)
+* [[Collin Gillespie]] – Villanova
+* [[Caleb Daniels]] – Villanova
+* [[Justin Moore (basketball)|Justin Moore]] – Villanova
+* [[Jamal Shead]] – [[Houston Cougars men's basketball|Houston]]
+
+===Midwest Regional – [[United Center|Chicago, IL]]===
+{{16TeamBracket | nowrap = yes
+
+| RD1=First round<br />Round of 64<br />March 17–18
+| RD2=Second Round<br />Round of 32<br />March 19–20
+| RD3=Regional semifinals<br />Sweet 16<br />March 25
+| RD4=Regional Final<br />Elite 8<br />March 27
+
+| subgroup1= [[Dickies Arena|Fort Worth]] – Thu/Sat
+| subgroup2= [[KeyBank Center|Buffalo]] – Thu/Sat
+| subgroup3= [[Fiserv Forum|Milwaukee]] – Fri/Sun
+| subgroup4= [[Bon Secours Wellness Arena|Greenville]] – Fri/Sun
+
+| RD1-seed01=1
+| RD1-team01='''[[2021–22 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-score01='''83'''
+| RD1-seed02=16
+| RD1-team02=[[2021–22 Texas Southern Tigers basketball team|Texas Southern]]
+| RD1-score02=56
+
+| RD1-seed03=8
+| RD1-team03=[[2021–22 San Diego State Aztecs men's basketball team|San Diego State]]
+| RD1-score03=69
+| RD1-seed04=9
+| RD1-team04='''[[2021–22 Creighton Bluejays men's basketball team|Creighton]]'''
+| RD1-score04='''72<sup>OT</sup>'''
+
+| RD1-seed05=5
+| RD1-team05=[[2021–22 Iowa Hawkeyes men's basketball team|Iowa]]
+| RD1-score05=63
+| RD1-seed06=12
+| RD1-team06='''[[2021–22 Richmond Spiders men's basketball team|Richmond]]'''
+| RD1-score06='''67'''
+
+| RD1-seed07=4
+| RD1-team07='''[[2021–22 Providence Friars men's basketball team|Providence]]'''
+| RD1-score07='''66'''
+| RD1-seed08=13
+| RD1-team08=[[2021–22 South Dakota State Jackrabbits men's basketball team|South Dakota State]]
+| RD1-score08=57
+
+| RD1-seed09=6
+| RD1-team09=[[2021–22 LSU Tigers men's basketball team|LSU]]
+| RD1-score09=54
+| RD1-seed10=11
+| RD1-team10='''[[2021–22 Iowa State Cyclones men's basketball team|Iowa State]]'''
+| RD1-score10='''59'''
+
+| RD1-seed11=3
+| RD1-team11='''[[2021–22 Wisconsin Badgers men's basketball team|Wisconsin]]'''
+| RD1-score11='''67'''
+| RD1-seed12=14
+| RD1-team12=[[2021–22 Colgate Raiders men's basketball team|Colgate]]
+| RD1-score12=60
+
+| RD1-seed13=7
+| RD1-team13=[[2021–22 USC Trojans men's basketball team|USC]]
+| RD1-score13=66
+| RD1-seed14=10
+| RD1-team14='''[[2021–22 Miami Hurricanes men's basketball team|Miami (FL)]]'''
+| RD1-score14='''68'''
+
+| RD1-seed15=2
+| RD1-team15='''[[2021–22 Auburn Tigers men's basketball team|Auburn]]'''
+| RD1-score15='''80'''
+| RD1-seed16=15
+| RD1-team16=[[2021–22 Jacksonville State Gamecocks men's basketball team|Jacksonville State]]
+| RD1-score16=61
+
+| RD2-seed01=1
+| RD2-team01='''Kansas'''
+| RD2-score01='''79'''
+| RD2-seed02=9
+| RD2-team02=Creighton
+| RD2-score02=72
+
+| RD2-seed03=12
+| RD2-team03=Richmond
+| RD2-score03=51
+| RD2-seed04=4
+| RD2-team04='''Providence'''
+| RD2-score04='''79'''
+
+| RD2-seed05=11
+| RD2-team05='''Iowa State'''
+| RD2-score05='''54'''
+| RD2-seed06=3
+| RD2-team06=Wisconsin
+| RD2-score06=49
+
+| RD2-seed07=10
+| RD2-team07='''Miami (FL)'''
+| RD2-score07='''79'''
+| RD2-seed08=2
+| RD2-team08=Auburn
+| RD2-score08=61
+
+| RD3-seed01=1
+| RD3-team01= '''Kansas'''
+| RD3-score01= '''66'''
+| RD3-seed02=4
+| RD3-team02=Providence
+| RD3-score02=61
+
+| RD3-seed03=11
+| RD3-team03=Iowa State
+| RD3-score03=56
+| RD3-seed04=10
+| RD3-team04= '''Miami (FL)'''
+| RD3-score04= '''70'''
+
+| RD4-seed01=1
+| RD4-team01='''Kansas'''
+| RD4-score01= '''76'''
+| RD4-seed02=10
+| RD4-team02=Miami (FL)
+| RD4-score02= 50
+}}
+
+====Midwest Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 27
+ | time = 1:20 pm [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/504]
+ | team1 = #10 Miami Hurricanes
+ | score1 = 50
+ | team2 = '''#1 Kansas Jayhawks'''
+ | score2 = '''76'''
+ | points1 = [[Kameron McGusty]], 18 
+ | rebounds1 = Anthony Walker, 5
+ | assist1 = [[Isaiah Wong]], 3
+ | points2 = [[Ochai Agbaji]], 18
+ | rebounds2 = [[Jalen Wilson]], 11
+ | assist2 = 3 tied, 4
+ | H1 = '''35'''–29
+ | H2 = 15–'''47'''
+ | place = United Center – Chicago, Illinois
+ | attendance = 
+ | referee = Roger Ayers, Terry Wymer, Earl Walton
+ | TV = CBS
+}}
+
+====Midwest Regional all-tournament team====
+* Al Durham, [[Providence Friars men's basketball|Providence]]
+* [[Kameron McGusty]], [[Miami Hurricanes men's basketball|Miami]]
+* [[Christian Braun]], [[Kansas Jayhawks men's basketball|Kansas]]
+* [[David McCormack (basketball)|David McCormack]], Kansas
+* [[Remy Martin (basketball)|Remy Martin]], Kansas (MOP)
+<!--
+===Final Four – [[Caesars Superdome|New Orleans, LA]]===
+: ''During the national semifinals/Final Four round, regardless of the seeds of the participating teams, the champion of the top overall top seed's region plays against the champion of the fourth-ranked top seed's region, and the champion of the second overall top seed's region plays against the champion of the third-ranked top seed's region.''
+
+{{4TeamBracket | nowrap = yes
+
+| RD1=National semifinals/Final Four<br />April 2
+| RD2=National championship game<br />April 4
+| score-width=25
+| team-width= 155
+
+| RD1-seed1=W2
+| RD1-team1=[[2021–22 Duke Blue Devils men's basketball team|Duke]]
+| RD1-score1=TBA
+| RD1-seed2= East Winner
+| RD1-team2=
+| RD1-score2=TBS
+
+| RD1-seed3= South Winner
+| RD1-team3=
+| RD1-score3=TBA
+| RD1-seed4= [[2021–22 Villanova Wildcats men's basketball team|Villanova]]
+| RD1-team4=
+| RD1-score4=TBS
+
+| RD2-seed1=
+| RD2-team1=
+| RD2-score1=TBA
+| RD2-seed2=
+| RD2-team2=
+| RD2-score2=TBS
+}}
+
+====National semifinals====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, April 2
+ | time = 
+ | report = 
+ | team1 = 
+ | score1 = 
+ | team2 = 
+ | score2 = 
+ | points1 = 
+ | rebounds1 = 
+ | assist1 = 
+ | points2 = 
+ | rebounds2 = 
+ | assist2 = 
+ | H1 = 
+ | H2 = 
+ | place = Caesars Superdome – New Orleans, Louisiana
+ | attendance = 
+ | referee = 
+ | TV = TBS
+}}
+{{basketballbox
+ | bg = #fff
+ | date = Saturday, April 2
+ | time = 
+ | report = 
+ | team1 = 
+ | score1 = 
+ | team2 = 
+ | score2 = 
+ | points1 = 
+ | rebounds1 = 
+ | assist1 = 
+ | points2 = 
+ | rebounds2 = 
+ | assist2 = 
+ | H1 = 
+ | H2 = 
+ | place = Caesars Superdome – New Orleans, Louisiana
+ | attendance = 
+ | referee = 
+ | TV = TBS
+}}
+
+====National Championship====
+{{Main article|2022 NCAA  Division I Men's Basketball Championship game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, April 4
+ | time = 
+ | report = 
+ | team1 = 
+ | score1 = 
+ | team2 = 
+ | score2 = 
+ | points1 = 
+ | rebounds1 = 
+ | assist1 = 
+ | points2 = 
+ | rebounds2 = 
+ | assist2 = 
+ | H1 = 
+ | H2 = 
+ | place = Caesars Superdome – New Orleans, Louisiana
+ | attendance = 
+ | referee = 
+ | TV = TBS
+}}
+
+====Final Four all-tournament team====
+* 
+*
+*
+*
+*
+-->
+
+===Final Four – [[Caesars Superdome|New Orleans, Louisiana]]===
+{{4TeamBracket
+| RD1=National semifinals<br /><!--Final Four<br />-->Saturday, April 2
+| RD2=National championship game<br />Monday, April 4
+| score-width=60
+| team-width=130
+
+| RD1-seed1=W2
+| RD1-team1=Duke
+| RD1-score1=77
+| RD1-seed2=E8
+| RD1-team2= '''North Carolina'''
+| RD1-score2= '''81'''
+
+| RD1-seed3=S2
+| RD1-team3=Villanova
+| RD1-score3=65
+| RD1-seed4=MW1
+| RD1-team4='''Kansas'''
+| RD1-score4='''81'''
+
+| RD2-seed1=E8
+| RD2-team1=North Carolina
+| RD2-score1=69
+| RD2-seed2=MW1
+| RD2-team2='''Kansas'''
+| RD2-score2='''72'''
+}}
+
+====National semifinals====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = April 2
+ | time = 5:09 pm [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/602 Preview]
+ | team1 = S2 Villanova Wildcats
+ | score1 = 65
+ | team2 = '''M<!--W-->1 Kansas Jayhawks'''
+ | score2 = '''81'''
+ | points1 = [[Collin Gillespie]], 19
+ | rebounds1 = '''3 tied''', 7
+ | assist1 = '''3 tied''', 3
+ | otherstat1 = 
+ | points2 = [[David McCormack (basketball)|David McCormack]], 25
+ | rebounds2 = [[Jalen Wilson]], 11
+ | assist2 = '''2 tied''', 5
+ | H1 = 29–'''40'''
+ | H2 = 36–'''41'''
+ | place = Caesars Superdome – New Orleans, Louisiana
+ | attendance = 70,602
+ | referee = Doug Sirmons, Keith Kimble, James Breeding
+ | TV = TBS
+}}
+: ''Related article: [[Carolina–Duke rivalry]]''
+{{basketballbox
+ | bg = fff
+ | date = April 2
+ | time = 7:49 pm [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/601 Preview]
+ | team1 = '''E8 North Carolina Tar Heels'''
+ | score1 = '''81'''
+ | team2 = W2 Duke Blue Devils
+ | score2 = 77
+ | points1 = Caleb Love, 28
+ | rebounds1 = Armando Bacot, 21
+ | assist1 = RJ Davis, 4
+ | otherstat1 = 
+ | points2 = Paolo Banchero, 20
+ | rebounds2 = Paolo Banchero, 10
+ | assist2 = Jeremy Roach, 5
+ | H1 = 34–'''37'''
+ | H2 = '''47'''–40
+ | place = Caesars Superdome – New Orleans, Louisiana
+ | attendance = 70,602
+ | referee = Roger Ayers, Tony Padilla, Bo Boroski
+ | TV = TBS
+}}
+
+====National championship====
+{{Main article|2022 NCAA Division I men's basketball championship game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = April 4
+ | time = 8:20 pm [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/march-madness-live/game/701?cid=mml2022_editorial_gamecenter Preview]
+ | team1 = E8 North Carolina Tar Heels
+ | score1 = 69
+ | team2 = '''M<!--W-->1 Kansas Jayhawks'''
+ | score2 = '''72'''
+ | points1 = [[Armando Bacot|A. Bacot]], [[R. J. Davis]] – 15
+ | rebounds1 = A. Bacot – 15
+ | assist1 = ''Four tied'' – 2
+ | points2 = [[Jalen Wilson|J. Wilson]], [[David McCormack (basketball)|D. McCormack]] – 15
+ | rebounds2 = [[Christian Braun|C. Braun]] – 12
+ | assist2 = [[Dajuan Harris Jr.|D. Harris]], C. Braun – 3
+ | H1 ='''40'''–25
+ | H2 =29–'''47''' 
+ | place = Caesars Superdome – New Orleans, Louisiana
+ | attendance = 69,423
+ | referee = Ron Groover, Jeff Anderson, Terry Oglesby
+ | TV = TBS
+}}
+
+====Final Four all-tournament team====
+* [[Ochai Agbaji]], [[Kansas Jayhawks men's basketball|Kansas]] ([[NCAA basketball tournament Most Outstanding Player|MOP]])
+* [[David McCormack (basketball)|David McCormack]], Kansas
+* [[Armando Bacot]], [[North Carolina Tar Heels men's basketball|North Carolina]]
+* [[Caleb Love]], North Carolina
+* [[Paolo Banchero]], [[Duke Blue Devils men's basketball|Duke]]
+
+==Game summaries and tournament notes==
+
+===Upsets===
+Per the NCAA, "Upsets are defined as when the winner of the game was seeded five or more places lower than the team it defeated." The 2022 tournament saw a total of 13 upsets; 6 of them were in the first round, 5 of them were in the second round, one in the Sweet Sixteen, none in the Elite Eight, and one in the Final Four.<ref>{{cite web |url=https://www.ncaa.com/live-updates/basketball-men/d1/2022-mens-march-madness-upset-tracker |title=We're tracking every upset in the NCAA men's tournament |website=NCAA.com |date=March 15, 2022 |accessdate=March 25, 2022}}</ref>
+
+{| class="wikitable" style="text-align:left; font-size: 95%;"
+! Round !! West !! Midwest !! South !! East
+|-
+| First round 
+| {{ubl |No. 12 [[2021-22 New Mexico State Aggies men's basketball team|New Mexico State]] defeated No. 5 [[2021-22 UConn Huskies men's basketball team|UConn]], 70–63 |No. 11 [[2021-22 Notre Dame Fighting Irish men's basketball team|Notre Dame]] defeated No. 6 [[2021-22 Alabama Crimson Tide men's basketball team|Alabama]], 78–64}}
+| {{ubl |No. 12 [[2021–22 Richmond Spiders men's basketball team|Richmond]] defeated No. 5 [[2021–22 Iowa Hawkeyes men's basketball team|Iowa]], 67–63 |No. 11 [[2021–22 Iowa State Cyclones men's basketball team|Iowa State]] defeated No. 6 [[2021–22 LSU Tigers men's basketball team|LSU]], 59–54}}
+| <!--South-->No. 11 [[2021–22 Michigan Wolverines men's basketball team|Michigan]] defeated No. 6 [[2021–22 Colorado State Rams men's basketball team|Colorado State]], 75–63
+| No. 15 [[2021–22 Saint Peter's Peacocks basketball team|Saint Peter's]] defeated No. 2 [[2021–22 Kentucky Wildcats men's basketball team|Kentucky]], 85–79 (OT)
+|-
+| Second Round 
+| ''None''
+| {{ubl |No. 11 Iowa State defeated No. 3 [[2021–22 Wisconsin Badgers men's basketball team|Wisconsin]], 54–49 |No. 10 [[2021–22 Miami Hurricanes men's basketball team|Miami (FL)]] defeated No. 2 [[2021–22 Auburn Tigers men's basketball team|Auburn]], 79–61}}
+| No. 11 Michigan defeated No. 3 [[2021–22 Tennessee Volunteers basketball team|Tennessee]], 76–68
+| {{ubl |No. 8 [[2021–22 North Carolina Tar Heels men's basketball team|North Carolina]] defeated No. 1 [[2021–22 Baylor Bears men's basketball team|Baylor]], 93–86 (OT) |No. 15 Saint Peter's defeated No. 7 [[2021–22 Murray State Racers men's basketball team|Murray State]], 70–60}}
+|-
+| Sweet 16
+|''None''
+|''None''
+|''None''
+| No. 15 Saint Peter's defeated No. 3 [[2021–22 Purdue Boilermakers men's basketball team|Purdue]], 67–64
+|-
+|Elite 8
+|''None''
+|''None''
+|''None''
+|''None''
+|-
+|Final 4
+|colspan="4" style="text-align:center;"|No. 8 North Carolina defeated No. 2 [[2021–22 Duke Blue Devils men's basketball team|Duke]], 81–77
+|}
+
+===Miscellaneous===
+
+* Indiana cheerleader Cassidy Cerny signed a [[student athlete compensation|name, image and likeness (NIL)]] deal after teaming with fellow cheerleader Nathan Paris to rescue a ball stuck on the backboard during the [[2021–22 Indiana Hoosiers men's basketball team|Hoosiers]]' first-round game against [[2021–22 Saint Mary's Gaels men's basketball team|Saint Mary's]].<ref>{{cite web |last1=Coons |first1=Zach |title=Indiana Cheerleader Who Rescued Stuck Ball During First Round Secures NIL Deal |url=https://www.si.com/extra-mustard/2022/03/22/indiana-cheerleader-cassidy-cerny-nil-deal-stuck-ball-st-marys |publisher=[[Sports Illustrated]] |access-date=22 March 2023 |date=22 March 2022}}</ref> The moment went [[Viral phenomenon|viral]], and Arkansas cheerleaders used the same approach when another ball was stuck on the backboard during the [[2021–22 Arkansas Razorbacks men's basketball team|Razorbacks]]' West Regional Final against [[2021–22 Duke Blue Devils men's basketball team|Duke]].<ref>{{cite web |last1=Bromberg |first1=Nick |title=NCAA tournament: Inspired by Indiana, Arkansas cheerleaders get basketball from top of backboard |url=https://sports.yahoo.com/ncaa-tournament-inspired-by-indiana-arkansas-cheerleaders-get-basketball-from-top-of-backboard-021833988.html |website=Yahoo! Sports |publisher=Yahoo! |access-date=22 March 2023 |date=26 March 2022}}</ref>
+
+==Record by conference==
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+|-
+!scope="col"|Conference
+!scope="col"|Bids
+!scope="col"|Record
+!scope="col"|Win %
+!scope="col"|FF
+!scope="col"|R64
+!scope="col"|R32
+!scope="col"|S16
+!scope="col"|E8
+!scope="col"|F4
+!scope="col"|CG
+!scope="col"|NC
+|-
+!scope="row"|[[Big 12 Conference|Big 12]]
+| 6 || 13–5 || {{winpct|13|5}} || – || 6 || 6 || 3 || 1 || 1 || 1 || 1
+|-
+!scope="row"|[[Atlantic Coast Conference|ACC]]
+| 5 || 14–5 || {{winpct|14|5}} || 1 || 5 || 4 || 3 || 3 || 2 || 1 || – 
+|-
+!scope="row"|[[Big East Conference|Big East]]
+| 6 || 7–6 || {{winpct|7|6}} || – || 6 || 3 || 2 || 1 || 1 || – || – 
+|-
+!scope="row"|[[Metro Atlantic Athletic Conference|MAAC]]
+| 1 || 3–1 || {{winpct|3|1}} || – || 1 || 1 || 1 || 1 || – || – || –
+|-
+!scope="row"|[[American Athletic Conference|American]]
+| 2 || 4–2 || {{winpct|4|2}} || – || 2 || 2 || 1 || 1 || – || – || –
+|-
+!scope="row"|[[Southeastern Conference|SEC]]
+| 6 || 5–6 || {{winpct|5|6}} || – || 6 || 3 || 1 || 1 || – || – || –
+|-
+!scope="row"|[[Pac-12 Conference|Pac-12]]
+| 3 || 4–3 || {{winpct|4|3}} || – || 3 || 2 || 2 || – || – || – || –
+|-
+!scope="row"|[[Big Ten Conference|Big Ten]]
+| 9 || 9–9 || {{winpct|9|9}} || 2 || 8 || 6 || 2 || – || – || – || –
+|-
+!scope="row"|[[West Coast Conference|WCC]]
+| 3 || 3–3 || {{winpct|3|3}} || – || 3 || 2 || 1 || – || – || – || –
+|-
+!scope="row"|[[Ohio Valley Conference|Ohio Valley]]
+| 1 || 1–1 || {{winpct|1|1}} || – || 1 || 1 || – || – || – || – || –
+|-
+!scope="row"|[[Western Athletic Conference|WAC]]
+| 1 || 1–1 || {{winpct|1|1}} || – || 1 || 1 || – || – || – || – || –
+|-
+!scope="row"|[[Atlantic 10 Conference|Atlantic 10]]
+| 2 || 1–2 || {{winpct|1|2}} || – || 2 || 1 || – || – || – || – || –
+|-
+!scope="row"|[[Horizon League|Horizon]]
+| 1 || 1–1 || {{winpct|1|1}} || 1 || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Southwestern Athletic Conference|SWAC]]
+| 1 || 1–1 || {{winpct|1|1}} || 1 || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Mountain West Conference|Mountain West]]
+| 4 || 0–4 || {{winpct|0|4}} || 1 || 3 || – || – || – || – || – || –
+|-
+!scope="row"|[[ASUN Conference|Atlantic Sun]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[America East Conference|America East]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Big Sky Conference|Big Sky]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Big South Conference|Big South]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Big West Conference|Big West]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Conference USA|C-USA]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Colonial Athletic Association|Colonial]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Ivy League]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Mid-American Conference|MAC]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Mid-Eastern Athletic Conference|MEAC]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Missouri Valley Conference|Missouri Valley]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Patriot League|Patriot]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Southern Conference|Southern]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Summit League|Summit]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Sun Belt Conference|Sun Belt]]
+| 1 || 0–1 || {{winpct|0|1}} || – || 1 || – || – || – || – || – || –
+|-
+!scope="row"|[[Northeast Conference|Northeast]]
+| 1 || 0–1 || {{winpct|0|1}} || 1 || – || – || – || – || – || – || –
+|-
+!scope="row"|[[Southland Conference|Southland]]
+| 1 || 0–1 || {{winpct|0|1}} || 1 || – || – || – || – || – || – || –
+|}
+{{notelist}}
+*The FF, R64, R32, S16, E8, F4, CG, and NC columns indicate how many teams from each conference were in the first four, round of 64 (first round), round of 32 (second round), Sweet 16, Elite Eight, Final Four, championship game, and national champion, respectively.
+
+==Media coverage==
+
+===Television===
+{{main|NCAA March Madness (TV program)}}
+[[CBS Sports]] and [[Turner Sports]] had US television rights to the tournament.<ref name="wp-2032extend">{{cite news|last=Bonesteel|first=Matt|title=CBS and Turner Sports lock down NCAA tournament through 2032|url=https://www.washingtonpost.com/news/early-lead/wp/2016/04/12/cbs-and-turner-sports-lock-down-ncaa-tournament-through-2032/|newspaper=[[The Washington Post]]|date=April 12, 2016|access-date=April 12, 2016}}</ref><ref>{{cite web |title=CBS Sports and Turner Sports announce 2022 NCAA Division I men's basketball championship commentator teams |url=https://www.ncaa.com/news/basketball-men/article/2022-03-08/cbs-sports-and-turner-sports-announce-2022-ncaa-division-i-mens-basketball |publisher=NCAA.com |access-date=8 March 2022 |date=8 March 2022}}</ref> As part of a cycle that began in 2016, [[TBS (American TV channel)|TBS]] televised the 2022 Final Four and the national championship game.  The Final Four and title game broadcasts were the last CBS Sports assignments for longtime director Bob Fishman, who retired from CBS Sports after 47 years (and 50 with [[CBS]]) and has been a director on 39 of the 40 Final Fours CBS/Turner have carried.<ref>{{cite web|url=https://www.nexttv.com/news/cbs-sports-director-bob-fishman-retiring-after-ncaa-hoop-tournament|title=CBS Sports Director Bob Fishman Retiring After NCAA Hoop Tournament|work=Broadcasting & Cable|date=August 31, 2021|author=Lafayette, Jon}}</ref><ref>{{cite web|url=https://apnews.com/article/march-madness-bob-fishman-final-four-9fc13773bdd1c245b481ae633dda1a92|title=Last dance: Director Fishman ready for his 39th Final Four|work=Associated Press|date=April 1, 2022|author=Reedy, Joe}}</ref>  The 2022 Tournament was [[Mark Emmert]]'s final one as the NCAA President  with [[Charlie Baker]] succeeding him starting in 2023.
+
+====Television channels====
+*Selection Show – [[CBS]]
+*First Four – [[truTV]]
+*First and second rounds – CBS, TBS, [[TNT (American TV network)|TNT]], and truTV  
+*Regional semifinals and final (Sweet Sixteen and Elite Eight) – CBS and TBS
+*National semifinals (final Four) and championship – TBS, TNT, and truTV
+
+====Number of games per network====
+* CBS: 21
+* TBS: 21
+* TruTV: 16
+* TNT: 15
+
+====Studio hosts====
+* [[Greg Gumbel]] (New York City and New Orleans) – first round, second round, regionals, Final Four and national championship game
+* [[Ernie Johnson Jr.|Ernie Johnson]] (New York City, Atlanta, and New Orleans) – first round, second round, regional semi-finals, Final Four and national championship game
+* Nabil Karim (Atlanta) – First Four, first round and Second round
+* [[Adam Lefkoe]] (New York City) – first round and Second round (game breaks)
+
+====Studio analysts====
+* [[Charles Barkley]] (New York City and New Orleans) – first round, second round, regionals, Final Four and national championship game
+* [[Rex Chapman]] (Atlanta) – First Four, first round, second round and regional semi-finals
+* [[Seth Davis]] (Atlanta and New Orleans) – First Four, first round, second round, regional semi-finals, Final Four and national championship game
+* [[Scott Drew]] (Atlanta) – regional semi-finals
+* [[Bob Huggins]] (Atlanta) – second round
+* [[Bobby Hurley]] (New Orleans) – Final Four
+* [[Clark Kellogg]] (New York City and New Orleans) – first round, second round, regionals, Final Four and national championship game
+* [[Frank Martin (basketball)|Frank Martin]] (Atlanta) – first round
+* [[Candace Parker]] (Atlanta and New Orleans) – First Four, first round, second round, regional semi-finals and Final Four
+* [[Kenny Smith]] (New York City and New Orleans) – first round, second round, regionals, Final Four and national championship game
+* [[Gene Steratore]] (New York City and New Orleans) (Rules Analyst) – First Four, first round, second round, regionals, Final Four and national championship game
+* [[Wally Szczerbiak]] (New York City) – second round
+
+====Commentary teams====
+* [[Jim Nantz]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – first and second rounds at Greenville, South Carolina; West Regional at San Francisco, California; Final Four and National Championship at New Orleans, Louisiana
+* [[Brian Anderson (broadcaster)|Brian Anderson]]/[[Jim Jackson (basketball)|Jim Jackson]]/[[Allie LaForce]] – first and second rounds at Fort Worth, Texas; South Regional at San Antonio, Texas
+* [[Ian Eagle]]/[[Jim Spanarkel]]/[[Jamie Erdahl]] – first and second rounds at Indianapolis, Indiana; East Regional at Philadelphia, Pennsylvania
+* [[Kevin Harlan]]/[[Reggie Miller]]/[[Dan Bonner]]/[[Dana Jacobson]] – first and second rounds at Pittsburgh, Pennsylvania; Midwest Regional at Chicago, Illinois
+* [[Brad Nessler]]/[[Brendan Haywood]]/[[Evan Washburn]] – first and second rounds at Buffalo, New York
+* [[Spero Dedes]]/[[Debbie Antonelli]]/[[AJ Ross]] – first and second rounds at Milwaukee, Wisconsin
+* [[Andrew Catalon]]/[[Steve Lappas]]/[[Andy Katz]] – first and second rounds at Portland, Oregon
+* [[Lisa Byington]]/[[Steve Smith (basketball)|Steve Smith]]/[[Avery Johnson]]/[[Lauren Shehadi]] – first and second rounds at San Diego, California
+* [[Tom McCarthy (sportscaster)|Tom McCarthy]]/[[Steve Lavin]]/[[Avery Johnson]]/[[Jon Rothstein]] – First Four at Dayton, Ohio
+
+===Radio===
+[[Westwood One]] had exclusive radio rights to the entire tournament.
+{{col-begin}}
+{{col-2}}
+
+====First Four====
+*[[Lance Medow]] (first 3 games)/[[Dan Hoard]] (last game) and [[Stephen Bardo]] – at Dayton, Ohio
+
+====First and second rounds====
+*[[Kevin Kugler]] and [[Robbie Hummel]] – Fort Worth, Texas
+*[[Brandon Gaudin]] and [[Austin Croshere]] – Indianapolis, Indiana
+*[[Scott Graham]] and [[Jon Crispin]] – Buffalo, New York
+*[[Ryan Radtke]] and [[Dan Dickau]] – Portland, Oregon
+*[[Bill Rosinski]] and [[Jordan Cornette]] – Greenville, South Carolina
+*[[Jason Benetti]] and [[Will Perdue]] – Milwaukee, Wisconsin
+*[[John Sadak]] and [[Fran Fraschilla]] – Pittsburgh, Pennsylvania
+*[[Dave Pasch]] and [[P. J. Carlesimo]] – San Diego, California
+{{col-2}}
+
+====Regionals====
+*[[Tom McCarthy (sportscaster)|Tom McCarthy]] and Will Perdue – East Regional at Philadelphia, Pennsylvania
+*Kevin Kugler and Robbie Hummel – Midwest Regional at Chicago, Illinois
+*Scott Graham and P. J. Carlesimo – South Regional at San Antonio, Texas
+*Ryan Radtke and [[Steve Lavin]] – West Regional at San Francisco, California
+
+====Final Four and National Championship====
+*Kevin Kugler, P. J. Carlesimo, [[Clark Kellogg]] and [[Andy Katz]] – New Orleans, Louisiana
+{{col-end}}
+
+===Internet===
+
+;Video
+
+Live video of games is available for streaming through the following means:<ref name="2017 TV">{{cite web |last1=Maiman |first1=Beth |title=March Madness TV schedule: How to watch and live stream every game in the NCAA men's basketball tournament |url=https://www.ncaa.com/news/basketball-men/article/march-madness-2017-tv-schedule-how-watch-and-live-stream |publisher=NCAA |access-date=March 9, 2017 |date=March 8, 2017}}</ref>
+
+* NCAA March Madness Live (website and app, no CBS games on [[digital media player]]s; access to games on WarnerMedia channels (TBS, TNT, truTV) required [[TV Everywhere]] authentication through provider)
+* [[Paramount+]] (only CBS games, service subscription required)
+* [[CBSSports.com|CBS Sports website]] and app (only CBS games)
+* Watch TBS website and app (only TBS games, required TV Everywhere authentication)
+* Watch TNT website and app (only TNT games, required TV Everywhere authentication)
+* Watch truTV website and app (only truTV games, required TV Everywhere authentication)
+* Websites and apps of cable, satellite, and OTT providers of CBS, TBS, TNT, and truTV (access required subscription)
+
+In addition, the March Madness app offered '''Fast Break''', whiparound coverage of games similar to [[NFL RedZone]].
+* [[Dave Briggs (journalist)|Dave Briggs]], [[Tony Delk]], Tim Doyle (first round), [[Josh Pastner]] (second round) (New York City)<ref>{{Cite web|url=https://06880danwoog.com/2022/03/16/roundup-ukraine-march-madness-career-guidance/|title = Roundup: Ukraine, March Madness, History Bowl …|date = March 16, 2022}}</ref>
+
+;Audio
+
+Live audio of games is available for streaming through the following means:
+* NCAA March Madness Live (website and app)
+* Westwood One Sports website
+* [[TuneIn]] (website and app, required TuneIn Premium subscription) 
+* Websites and apps of Westwood One Sports affiliates
+
+===International===
+[[ESPN International]] had international rights to the tournament. Coverage uses CBS/Turner play-by-play teams until the Final Four.<ref>{{Cite web|date=2022-03-31|title=Blue Bloods in the Bayou: ESPN to have Extensive Coverage of the Men's Final Four in New Orleans|url=https://espnpressroom.com/us/press-releases/2022/03/blue-bloods-in-the-bayou-espn-to-have-extensive-coverage-of-the-mens-final-four-in-new-orleans/|access-date=2022-04-01|website=ESPN Press Room U.S.|language=en-US|author=Ufnowski, Amy}}</ref>
+* [[Brian Custer]] and [[Jay Bilas]]
+
+==See also==
+* [[2022 NCAA Division I women's basketball tournament]]
+* [[2022 NCAA Division II men's basketball tournament]]
+* [[2022 NCAA Division III men's basketball tournament]]
+* [[2022 National Invitation Tournament]]
+* [[2022 College Basketball Invitational]]
+* [[2022 The Basketball Classic]]
+* [[Carolina–Duke rivalry]]
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+{{NCAA Division I men's basketball tournament navbox}}
+{{2021–22 NCAA Division I championships navbox}}
+{{2022 NCAA Division I men's basketball tournament navbox}}
+
+[[Category:2021–22 NCAA Division I men's basketball season|Tournament]]
+[[Category:2022 in sports in Louisiana|NCAA Division I men's basketball tournament]]
+[[Category:NCAA Division I men's basketball tournament]]
+[[Category:March 2022 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 2022 sports events in the United States|NCAA Division I men's basketball tournament]]

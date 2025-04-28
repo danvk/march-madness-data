@@ -1,0 +1,1968 @@
+{{Short description|Edition of USA college basketball tournament}}
+{{Use mdy dates|date=March 2019}}
+{{Infobox NCAA basketball tournament
+| Year=2019
+| Image= 2019 NCAA Men's Final Four logo.svg
+| ImageSize=	
+| Caption=	
+| Teams=68
+| FinalFourArena=[[U.S. Bank Stadium]]
+| FinalFourCity=[[Minneapolis, Minnesota]]
+| Champions=  [[2018–19 Virginia Cavaliers men's basketball team|Virginia Cavaliers]]
+| TitleCount= 1st
+| ChampGameCount = 1st
+| ChampFFCount = 3rd
+| RunnerUp=  [[2018–19 Texas Tech Red Raiders basketball team|Texas Tech Red Raiders]]
+| GameCount= 1st
+| RunnerFFCount = 1st
+| Semifinal1= [[2018–19 Auburn Tigers men's basketball team|Auburn Tigers]]
+| FinalFourCount= 1st
+| Semifinal2= [[2018–19 Michigan State Spartans men's basketball team|Michigan State Spartans]]
+| FinalFourCount2= 10th
+| Coach= [[Tony Bennett (basketball, born 1969)|Tony Bennett]]
+| CoachCount= 1st
+| MOP= [[Kyle Guy]]
+| MOPTeam= Virginia
+| Attendance= 
+| OneTopScorer=
+| TwoTopScorers=
+| TopScorer=
+| TopScorerTeam=
+| TopScorer2=
+| TopScorer2Team=
+| Points=
+}}
+
+The '''2019 NCAA Division I men's basketball tournament''' involved 68 teams playing in a [[single-elimination tournament]] to determine the [[National Collegiate Athletic Association]] (NCAA) [[NCAA Division I|Division I]] men's [[College basketball|basketball]] national champion for the [[2018–19 NCAA Division I men's basketball season|2018–19 season]]. The 81st annual edition of the [[NCAA Division I men's basketball tournament|tournament]] began on March 19, 2019, and concluded with the [[2019 NCAA Division I Men's Basketball Championship Game|championship game]] on April 8, at [[U.S. Bank Stadium]] in [[Minneapolis]], [[Minnesota]], between the [[2018–19 Texas Tech Red Raiders basketball team|Texas Tech Red Raiders]] and the [[2018–19 Virginia Cavaliers men's basketball team|Virginia Cavaliers]], with Virginia winning 85–77 in overtime.<ref>{{cite news |last=Prather |first=Shannon |url=http://www.startribune.com/plans-for-2019-ncaa-final-four-already-underway/462596113/ |title=Plans for 2019 NCAA Final Four are underway |work=[[Minneapolis Star Tribune]] |access-date=2017-12-08|date=December 7, 2017 |df=mdy-all}}</ref><ref>{{cite web |title=March Madness 2019 dates and schedule |url=https://www.ncaa.com/news/basketball-men/march-madness-dates-tournament-schedule |publisher=NCAA |access-date=March 10, 2019 |date=March 7, 2019 |df=mdy-all}}</ref>
+
+Two schools made their first appearances in the tournament: [[2019 Big South Conference men's basketball tournament|Big South]] champion [[2018–19 Gardner–Webb Runnin' Bulldogs men's basketball team|Gardner–Webb]] and [[2019 Southland Conference men's basketball tournament|Southland]] champion [[2018–19 Abilene Christian Wildcats men's basketball team|Abilene Christian]].
+
+For the first time since [[2001 NCAA Division I men's basketball tournament|2001]] (also hosted in Minneapolis), no #8 seed survived the first round of the tournament. This was also the first time since the [[First Four]] was established in [[2011 NCAA Division I men's basketball tournament|2011]] that no team in the First Four advanced past the first round of the tournament.{{efn|This remains the only such instance in the men's tournament. However, the [[NCAA Division I women's basketball tournament|D-I women's tournament]] added its own First Four when it expanded to 68 teams in [[2022 NCAA Division I women's basketball tournament|2022]], and no First Four winner in that tournament advanced beyond the first round.}} This was the first Final Four since 2012 that did not include at least one team seeded #7 or lower.<ref>{{Cite web|url=https://www.ncaa.com/news/basketball-men/article/2020-05-11/2013-ncaa-tournament-bracket-scores-stats-records|title=2013 NCAA tournament: Bracket, scores, stats, records &#124; NCAA.com|website=ncaa.com|access-date=June 25, 2023}}</ref>
+
+This tournament marked the first time that the [[2018–19 Auburn Tigers men's basketball team|Auburn Tigers]] of the [[Southeastern Conference]] and the [[2018–19 Texas Tech Red Raiders basketball team|Texas Tech Red Raiders]] of the [[Big 12 Conference]] made the Final Four. This also marked the third Final Four appearance for the [[2018–19 Virginia Cavaliers men's basketball team|Virginia Cavaliers]] of the [[Atlantic Coast Conference]], but their first [[1983–84 Virginia Cavaliers men's basketball team|since]] [[1984 NCAA Division I men's basketball tournament|1984]].
+
+The championship game was the first time since [[1979 NCAA Division I men's basketball tournament|1979]] to see two first-time participants playing in the championship, and the first since [[2006 NCAA Division I men's basketball tournament|2006]] to have a first-time national champion.<ref>{{cite web |title=First time finalists meet |first = Ralph D. |last = Russo|url=https://chippewa.com/first-time-finalists-meet/article_97590692-ae7e-555c-a8a9-cf6c5a635895.html |work = The Chippewa Herald |date=7 April 2019 |df=mdy-all}}</ref> As a result of a worldwide [[COVID-19 pandemic]] that started in late 2019 and subsequently forced the cancellation of the [[2020 NCAA Division I men's basketball tournament|2020 tournament]], this would be the last tournament held until [[2021 NCAA Division I men's basketball tournament|2021]], and this would be also the last tournament held across the United States until [[2022 NCAA Division I men's basketball tournament|2022]].
+
+[[Carsen Edwards]] of [[2018–19 Purdue Boilermakers men's basketball team|Purdue]] was the leading scorer, with 139 points in only 4 games—producing an average of 34.8 points per game. Edwards also set the record for most made [[Three-point field goal|three-point shots]] in a tournament, with 28. The previous record holder, [[Glen Rice]] of [[1988–89 Michigan Wolverines men's basketball team|Michigan]] in [[1989 NCAA Division I men's basketball tournament|1989]], made 27, but did so in 6 games.
+
+In the previous year's tournament, [[2017–18 Virginia Cavaliers men's basketball team|Virginia]] had [[2018 UMBC vs. Virginia men's basketball game|infamously become the first No. 1 seed to lose to a No. 16 seed.]] At the conclusion of this year's title game, CBS announcer [[Jim Nantz]] dubbed Virginia's win the "all-time turnaround title."<ref>{{cite web |last=Schuknecht |first=Cat |date=9 April 2019 |title='This Is A Great Story', Says Virginia Cavaliers' Coach On Team's NCAA Comeback |url=https://www.npr.org/2019/04/09/711302804/this-is-a-great-story-says-virginia-cavaliers-coach-on-team-s-ncaa-comeback |access-date=11 April 2019 |website=npr.org}}</ref>
+
+==Tournament procedure==
+{{further|NCAA Division I Men's Basketball Championship#Tournament format}}
+
+A total of 68 teams entered the 2019 tournament. Thirty-two automatic bids were awarded to each program that won their [[List of NCAA conferences|conference]]'s tournament. The remaining 36 bids were "at-large", with selections extended by the NCAA Selection Committee.
+
+Eight teams (the four lowest-seeded automatic qualifiers and the four lowest-seeded at-large teams) played in the First Four (the successor to what had been popularly known as "[[First Four|play-in games]]" through the 2010 tournament). The winners of these games advanced to the main draw of the tournament.
+
+The [[NCAA basketball tournament selection process|Selection Committee]] seeded the entire field from 1 to 68.
+
+The selections and seedings were completed and revealed on Sunday, March 17.
+
+==Schedule and venues==
+{{Location map+|USA|width=450|float=right|caption=2019 First Four (orange) and first and second rounds (green)|places= 
+{{Location map~|USA|mark=orange pog.svg|lat_deg=39.7404|lon_deg=-84.1792|position=left|background=#FFFFFF|label=Dayton|link=UD Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.7684|lon_deg=-72.6770|position=left|background=#FFFFFF|label=Hartford|link=XL Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=40.7683|lon_deg=-111.9011|position=bottom|background=#FFFFFF|label=Salt Lake City|link=Vivint Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=41.5926|lon_deg=-93.6211|position=left|background=#FFFFFF|label=Des Moines|link=Wells Fargo Arena (Des Moines, Iowa)}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=30.3258|lon_deg=-81.6451|position=left|background=#FFFFFF|label=Jacksonville|link=VyStar Veterans Memorial Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=36.1528|lon_deg=-95.9964|position=top|background=#FFFFFF|label=Tulsa|link=BOK Center}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=39.9693|lon_deg=-83.0060|position=right|background=#FFFFFF|label=Columbus|link=Nationwide Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=33.9946|lon_deg=-81.0367|position=left|background=#FFFFFF|label=Columbia|link=Colonial Life Arena}}
+{{Location map~|USA|mark=green pog.svg|lat_deg=37.3325|lon_deg=-121.8978|position=bottom|background=#FFFFFF|label=San Jose|link=SAP Center}}
+}}
+{{Location map+|USA|width=450|float=right|caption=2019 Regionals (blue) and Final Four (red)|places=
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.2578|lon_deg=-85.7538|position=bottom|background=#FFFFFF|label=Louisville|link=KFC Yum! Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=33.8078|lon_deg=-117.8765|position=right|background=#FFFFFF|label=Anaheim|link=Honda Center}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=38.8981|lon_deg=-77.0209|position=top|background=#FFFFFF|label=Washington, D.C.|link=Capital One Arena}}
+{{Location map~|USA|mark=blue pog.svg|lat_deg=39.0973|lon_deg=-94.5799|position=top|background=#FFFFFF|label=Kansas City|link=T-Mobile Center}}
+{{Location map~|USA|mark=red pog.svg|lat_deg=44.9736|lon_deg=-93.2573|position=top|background=#FFFFFF|label=Minneapolis|link=U.S. Bank Stadium}}
+}}
+
+The following are the sites that were selected to host each round of the 2019 tournament:<ref>{{cite web |url=https://www.ncaa.org/championships/future-division-i-mens-basketball-championship-sites |date=21 April 2017 |publisher=[[NCAA]] |title=Future Division I Men's Basketball Championship sites |df=mdy-all}}</ref>
+
+'''First Four'''
+*March 19 and 20
+**[[UD Arena|University of Dayton Arena]], [[Dayton, Ohio]] (Host: [[University of Dayton]])
+
+'''First and second rounds (Subregionals)'''
+*March 21 and 23
+** [[XL Center]], [[Hartford, Connecticut]] (Host: [[University of Connecticut]])
+** [[Wells Fargo Arena (Des Moines, Iowa)|Wells Fargo Arena]], [[Des Moines, Iowa]] (Host: [[Drake University]])
+** [[VyStar Veterans Memorial Arena]], [[Jacksonville, Florida]] (Host: [[Jacksonville University]])
+** [[Vivint Arena|Vivint Smart Home Arena]], [[Salt Lake City|Salt Lake City, Utah]] (Host: [[University of Utah]])
+*March 22 and 24
+** [[Colonial Life Arena]], [[Columbia, South Carolina]] (Host: [[University of South Carolina]])
+** [[Nationwide Arena]], [[Columbus, Ohio]] (Host: [[Ohio State University]])
+** [[BOK Center]], [[Tulsa, Oklahoma]] (Host: [[University of Tulsa]])
+** [[SAP Center]], [[San Jose, California]] (Host: [[West Coast Conference]])
+
+'''Regional semifinals and finals''' (Sweet Sixteen and Elite Eight)
+*March 28 and 30
+**'''West Regional''', [[Honda Center]], [[Anaheim, California]] (Host: [[Big West Conference]])
+**'''South Regional''', [[KFC Yum! Center]], [[Louisville, Kentucky]] (Host: [[University of Louisville]])
+*March 29 and 31
+**'''East Regional''', [[Capital One Arena]], [[Washington, D.C.]] (Host: [[Georgetown University]])
+**'''Midwest Regional''', [[T-Mobile Center|Sprint Center]], [[Kansas City, Missouri]] (Host: [[Missouri Valley Conference]])
+
+'''National semifinals and championship''' (Final Four and championship)
+*April 6 and 8
+**[[U.S. Bank Stadium]], [[Minneapolis, Minnesota]] (Host: [[University of Minnesota]])<ref>{{Cite journal |last=Cooper |first=J. A. |last2=Alderman |first2=Derek H. |name-list-style=amp |date=2020-05-26 |title=Cancelling March Madness exposes opportunities for a more sustainable sports tourism economy |journal=Tourism Geographies |volume=22 |issue=3 |pages=525–535 |doi=10.1080/14616688.2020.1759135 |issn=1461-6688 |s2cid=219462858 |doi-access=free}}</ref>
+
+U.S. Bank Stadium became the 40th venue to host the Final Four. This was the first hosting of the event at the facility, built on the former site of the [[Hubert H. Humphrey Metrodome]], a two-time host in [[1992 NCAA Division I men's basketball tournament|1992]] and [[2001 NCAA Division I men's basketball tournament|2001]]. The tournament returned to Hartford's XL Center for the first time since 1998. For the first time since 1970, the tournament returned to Columbia, South Carolina, with games played at the Colonial Life Arena.<ref>{{cite web |title=March Madness tournament could generate $9 million for Columbia |date=March 8, 2019 |url=https://www.wltx.com/article/sports/ncaa/columbia-tournament/march-madness-tournament-could-generate-9-million-for-columbia/101-b514798d-2774-44f2-a73b-3e0e65101a16 |publisher=WLTX-TV |access-date=19 March 2019 |df=mdy-all}}</ref>
+
+==Qualification and selection==
+{{further|2019 NCAA Division I men's basketball tournament qualifying teams}}
+
+Four teams, out of 353 in Division I, were ineligible to participate in the 2019 tournament; [[2018–19 Alabama A&M Bulldogs basketball team|Alabama A&M]] and  [[2018–19 Florida A&M Rattlers basketball team|Florida A&M]] failed to meet [[Academic Progress Rate|APR]] requirements, while [[2018–19 California Baptist Lancers men's basketball team|California Baptist]] and [[2018–19 North Alabama Lions men's basketball team|North Alabama]] are amidst reclassification from [[NCAA Division II|Division II]].<ref>{{Cite web |title=Penalties, lost postseason numbers decline |url=https://www.ncaa.org/about/resources/media-center/news/penalties-lost-postseason-numbers-decline |publisher=NCAA |date=May 23, 2018|first = Michelle Brutlag |last =Hosick}}</ref><ref>{{cite web |url= https://web3.ncaa.org/directory/memberList?type=5 |title= Reclassifying Members |publisher=NCAA |access-date=February 27, 2019}}</ref><ref>{{cite news |url=https://www.tallahassee.com/story/sports/college/famu/2019/02/13/famu-teams-fall-below-apr-receive-postseason-ban/2859507002/ |title=FAMU men's basketball, men's indoor/outdoor track, golf ineligible for postseason play |newspaper=[[Tallahassee Democrat]] |first=Rory |last=Sharrock |date=February 13, 2019 |access-date= March 5, 2019}}</ref>
+
+===Automatic qualifiers===
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+!scope="col"|Conference
+!scope="col"|Team
+!scope="col" data-sort-type="number"|Record
+!scope="col" data-sort-type="number"|Appearance
+!scope="col"|Last bid
+|-
+|align=left|[[2019 ACC men's basketball tournament|ACC]]
+!scope="row" style="text-align:left"|[[2018–19 Duke Blue Devils men's basketball team|Duke]]
+|29–5
+|43rd
+|2018
+|-
+|align=left|[[2019 America East men's basketball tournament|America East]]
+!scope="row" style="text-align:left"|[[2018–19 Vermont Catamounts men's basketball team|Vermont]]
+|27–6
+|7th
+|2017
+|-
+|align=left|[[2019 American Athletic Conference men's basketball tournament|American]]
+!scope="row" style="text-align:left"|[[2018–19 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|28–6
+|33rd
+|2018
+|-
+|align=left|[[2019 ASUN men's basketball tournament|ASUN]]
+!scope="row" style="text-align:left"|[[2018–19 Liberty Flames basketball team|Liberty]]
+|28–6
+|4th
+|2013
+|-
+|align=left|[[2019 Atlantic 10 men's basketball tournament|Atlantic 10]]
+!scope="row" style="text-align:left"|[[2018–19 Saint Louis Billikens men's basketball team|Saint Louis]]
+|23–12
+|10th
+|2014
+|-
+|align=left|[[2019 Big 12 men's basketball tournament|Big 12]]
+!scope="row" style="text-align:left"|[[2018–19 Iowa State Cyclones men's basketball team|Iowa State]]
+|23–11
+|20th
+|2017
+|-
+|align=left|[[2019 Big East men's basketball tournament|Big East]]
+!scope="row" style="text-align:left"|[[2018–19 Villanova Wildcats men's basketball team|Villanova]]
+|25–9
+|39th
+|2018
+|-
+|align=left|[[2019 Big Sky Conference men's basketball tournament|Big Sky]]
+!scope="row" style="text-align:left"|[[2018–19 Montana Grizzlies basketball team|Montana]]
+|26–8
+|12th
+|2018
+|-
+|align=left|[[2019 Big South Conference men's basketball tournament|Big South]]
+!scope="row" style="text-align:left"|[[2018–19 Gardner–Webb Runnin' Bulldogs men's basketball team|Gardner–Webb]]
+|23–11
+|1st
+|Never
+|-
+|align=left|[[2019 Big Ten Conference men's basketball tournament|Big Ten]]
+!scope="row" style="text-align:left"|[[2018–19 Michigan State Spartans men's basketball team|Michigan State]]
+|28–6
+|33rd
+|2018
+|-
+|align=left|[[2019 Big West Conference men's basketball tournament|Big West]]
+!scope="row" style="text-align:left"|[[2018–19 UC Irvine Anteaters men's basketball team|UC Irvine]]
+|30–5
+|2nd
+|2015
+|-
+|align=left|[[2019 CAA men's basketball tournament|Colonial]]
+!scope="row" style="text-align:left"|[[2018–19 Northeastern Huskies men's basketball team|Northeastern]]
+|23–10
+|9th
+|2015
+|-
+|align=left|[[2019 Conference USA men's basketball tournament|C-USA]]
+!scope="row" style="text-align:left"|[[2018–19 Old Dominion Monarchs basketball team|Old Dominion]]
+|26–8
+|12th
+|2011
+|-
+|align=left|[[2019 Horizon League men's basketball tournament|Horizon]]
+!scope="row" style="text-align:left"|[[2018–19 Northern Kentucky Norse men's basketball team|Northern Kentucky]]
+|26–8
+|2nd
+|2017
+|-
+|align=left|[[2019 Ivy League men's basketball tournament|Ivy League]]
+!scope="row" style="text-align:left"|[[2018–19 Yale Bulldogs men's basketball team|Yale]]
+|22–7
+|5th
+|2016
+|-
+|align=left|[[2019 MAAC men's basketball tournament|MAAC]]
+!scope="row" style="text-align:left"|[[2018–19 Iona Gaels men's basketball team|Iona]]
+|17–15
+|14th
+|2018
+|-
+|align=left|[[2019 MAC men's basketball tournament|MAC]]
+!scope="row" style="text-align:left"|[[2018–19 Buffalo Bulls men's basketball team|Buffalo]]
+|31–3
+|4th
+|2018
+|-
+|align=left|[[2019 MEAC men's basketball tournament|MEAC]]
+!scope="row" style="text-align:left"|[[2018–19 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+|18–15
+|4th
+|2018
+|-
+|align=left|[[2019 Missouri Valley Conference men's basketball tournament|Missouri Valley]]
+!scope="row" style="text-align:left"|[[2018–19 Bradley Braves men's basketball team|Bradley]]
+|20–14
+|9th
+|2006
+|-
+|align=left|[[2019 Mountain West Conference men's basketball tournament|Mountain West]]
+!scope="row" style="text-align:left"|[[2018–19 Utah State Aggies men's basketball team|Utah State]]
+|28–6
+|20th
+|2011
+|-
+|align=left|[[2019 Northeast Conference men's basketball tournament|NEC]]
+!scope="row" style="text-align:left"|[[2018–19 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
+|20–13
+|6th
+|2016
+|-
+|align=left|[[2019 Ohio Valley Conference men's basketball tournament|Ohio Valley]]
+!scope="row" style="text-align:left"|[[2018–19 Murray State Racers men's basketball team|Murray State]]
+|27–4
+|17th
+|2018
+|-
+|align=left|[[2019 Pac-12 Conference men's basketball tournament|Pac-12]]
+!scope="row" style="text-align:left"|[[2018–19 Oregon Ducks men's basketball team|Oregon]]
+|23–12
+|16th
+|2017
+|-
+|align=left|[[2019 Patriot League men's basketball tournament|Patriot]]
+!scope="row" style="text-align:left"|[[2018–19 Colgate Raiders men's basketball team|Colgate]]
+|24–10
+|3rd
+|1996
+|-
+|align=left|[[2019 SEC men's basketball tournament|SEC]]
+!scope="row" style="text-align:left"|[[2018–19 Auburn Tigers men's basketball team|Auburn]]
+|26–9
+|10th
+|2018
+|-
+|align=left|[[2019 Southern Conference men's basketball tournament|Southern]]
+!scope="row" style="text-align:left"|[[2018–19 Wofford Terriers men's basketball team|Wofford]]
+|29–4
+|5th
+|2015
+|-
+|align=left|[[2019 Southland Conference men's basketball tournament|Southland]]
+!scope="row" style="text-align:left"|[[2018–19 Abilene Christian Wildcats men's basketball team|Abilene Christian]]
+|27–6
+|1st
+|Never
+|-
+|align=left|[[2019 SWAC men's basketball tournament|SWAC]]
+!scope="row" style="text-align:left"|[[2018–19 Prairie View A&M Panthers basketball team|Prairie View A&M]]
+|22–12
+|2nd
+|1998
+|-
+|align=left|[[2019 Summit League men's basketball tournament|Summit League]]
+!scope="row" style="text-align:left"|[[2018–19 North Dakota State Bison men's basketball team|North Dakota State]]
+|18–15
+|4th
+|2015
+|-
+|align=left|[[2019 Sun Belt Conference men's basketball tournament|Sun Belt]]
+!scope="row" style="text-align:left"|[[2018–19 Georgia State Panthers men's basketball team|Georgia State]]
+|24–9
+|5th
+|2018
+|-
+|align=left|[[2019 WAC men's basketball tournament|WAC]]
+!scope="row" style="text-align:left"|[[2018–19 New Mexico State Aggies men's basketball team|New Mexico State]]
+|30–4
+|25th
+|2018
+|-
+|align=left|[[2019 West Coast Conference men's basketball tournament|West Coast]]
+!scope="row" style="text-align:left"|[[2018–19 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+|22–11
+|10th
+|2017
+|}
+
+===<span id="RegionSeeds">Tournament seeds</span>===
+<section begin="RegionSeeds"/>
+The tournament seeds and regions were determined through the [[NCAA basketball tournament selection process]].
+{|
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+East Regional – [[Capital One Arena]], [[Washington, D.C.]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Overall seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2018–19 Duke Blue Devils men's basketball team|Duke]]
+|[[2018–19 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|29–5
+|align=center|1
+|Automatic
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2018–19 Michigan State Spartans men's basketball team|Michigan State]]
+|[[2018–19 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|28–6
+|align=center|6
+|Automatic
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2018–19 LSU Tigers basketball team|LSU]]
+|[[2018–19 Southeastern Conference men's basketball season|SEC]]
+|align=center|26–6
+|align=center|11
+|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2018–19 Virginia Tech Hokies men's basketball team|Virginia Tech]]
+|[[2018–19 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|24–8
+|align=center|16
+|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2018–19 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+|[[2018–19 Southeastern Conference men's basketball season|SEC]]
+|align=center|23–10
+|align=center|20
+|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2018–19 Maryland Terrapins men's basketball team|Maryland]]
+|[[2018–19 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|22–10
+|align=center|22
+|At-Large
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2018–19 Louisville Cardinals men's basketball team|Louisville]]
+|[[2018–19 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|20–13
+|align=center|25
+|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2018–19 VCU Rams men's basketball team|VCU]]
+|[[2018–19 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|25–7
+|align=center|29
+|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2018–19 UCF Knights men's basketball team|UCF]]
+|[[2018–19 American Athletic Conference men's basketball season|American]]
+|align=center|23–8
+|align=center|34
+|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2018–19 Minnesota Golden Gophers men's basketball team|Minnesota]]
+|[[2018–19 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|21–13
+|align=center|39
+|At-Large
+|-
+|rowspan=2 align=center|11*
+!scope="row" style="text-align:left"|[[2018–19 Temple Owls men's basketball team|Temple]]
+|[[2018–19 American Athletic Conference men's basketball season|American]]
+|align=center|23–9
+|align=center|43
+|At-Large
+|-
+!scope="row" style="text-align:left"|[[2018–19 Belmont Bruins men's basketball team|Belmont]]
+|[[2018–19 Ohio Valley Conference men's basketball season|Ohio Valley]]
+|align=center|26–5
+|align=center|42
+|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2018–19 Liberty Flames basketball team|Liberty]]
+|[[2018–19 ASUN Conference men's basketball season|ASUN]]
+|align=center|28–6
+|align=center|50
+|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2018–19 Saint Louis Billikens men's basketball team|Saint Louis]]
+|[[2018–19 Atlantic 10 Conference men's basketball season|Atlantic 10]]
+|align=center|23–12
+|align=center|53
+|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2018–19 Yale Bulldogs men's basketball team|Yale]]
+|[[2019 Ivy League men's basketball tournament|Ivy]]
+|align=center|22–7
+|align=center|55
+|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2018–19 Bradley Braves men's basketball team|Bradley]]
+|[[2018–19 Missouri Valley Conference men's basketball season|Missouri Valley]]
+|align=center|20–14
+|align=center|61
+|Automatic
+|-
+|rowspan=2 align=center|16*
+!scope="row" style="text-align:left"|[[2018–19 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+|[[2019 MEAC men's basketball tournament|MEAC]]
+|align=center|18–15
+|align=center|68
+|Automatic
+|-
+!scope="row" style="text-align:left"|[[2018–19 North Dakota State Bison men's basketball team|North Dakota State]]
+|[[2018–19 Summit League men's basketball season|Summit]]
+|align=center|18–15
+|align=center|67
+|Automatic
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+West Regional – [[Honda Center]], [[Anaheim, California]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2018–19 Gonzaga Bulldogs men's basketball team|Gonzaga]]
+|[[2018–19 West Coast Conference men's basketball season|West Coast]]
+|align=center|30–3
+|align=center|4
+|At-Large
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2018–19 Michigan Wolverines men's basketball team|Michigan]]
+|[[2018–19 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|28–6
+|align=center|8
+|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2018–19 Texas Tech Red Raiders basketball team|Texas Tech]]
+|[[2018–19 Big 12 Conference men's basketball season|Big 12]]
+|align=center|26–6
+|align=center|10
+|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2018–19 Florida State Seminoles men's basketball team|Florida State]]
+|[[2018–19 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|27–7
+|align=center|14
+|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2018–19 Marquette Golden Eagles men's basketball team|Marquette]]
+|[[2018–19 Big East Conference men's basketball season|Big East]]
+|align=center|24–9
+|align=center|17
+|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2018–19 Buffalo Bulls men's basketball team|Buffalo]]
+|[[2018–19 Mid-American Conference men's basketball season|MAC]]
+|align=center|31–3
+|align=center|23
+|Automatic
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2018–19 Nevada Wolf Pack men's basketball team|Nevada]]
+|[[2018–19 Mountain West Conference men's basketball season|Mountain West]]
+|align=center|29–4
+|align=center|26
+|At-Large
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2018–19 Syracuse Orange men's basketball team|Syracuse]]
+|[[2018–19 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|20–13
+|align=center|30
+|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2018–19 Baylor Bears basketball team|Baylor]]
+|[[2018–19 Big 12 Conference men's basketball season|Big 12]]
+|align=center|19–13
+|align=center|35
+|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2018–19 Florida Gators men's basketball team|Florida]]
+|[[2018–19 Southeastern Conference men's basketball season|SEC]]
+|align=center|19–15
+|align=center|40
+|At-Large
+|-
+|rowspan=2 align=center|11*
+!scope="row" style="text-align:left"|[[2018–19 Arizona State Sun Devils men's basketball team|Arizona State]]
+|[[2018–19 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|22–10
+|align=center|45
+|At-Large
+|-
+!scope="row" style="text-align:left"|[[2018–19 St. John's Red Storm men's basketball team|St. John's]]
+|[[2018–19 Big East Conference men's basketball season|Big East]]
+|align=center|21–12
+|align=center|47
+|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2018–19 Murray State Racers men's basketball team|Murray State]]
+|[[2018–19 Ohio Valley Conference men's basketball season|Ohio Valley]]
+|align=center|27–4
+|align=center|46
+|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2018–19 Vermont Catamounts men's basketball team|Vermont]]
+|[[2018–19 America East Conference men's basketball season|America East]]
+|align=center|27–6
+|align=center|52
+|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2018–19 Northern Kentucky Norse men's basketball team|Northern Kentucky]]
+|[[2018–19 Horizon League men's basketball season|Horizon]]
+|align=center|26–8
+|align=center|58
+|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2018–19 Montana Grizzlies basketball team|Montana]]
+|[[2019 Big Sky Conference men's basketball tournament|Big Sky]]
+|align=center|26–8
+|align=center|59
+|Automatic
+|-
+|rowspan=2 align=center|16*
+!scope="row" style="text-align:left"|[[2018–19 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
+|[[2018–19 Northeast Conference men's basketball season|Northeast]]
+|align=center|20–13
+|align=center|66
+|Automatic
+|-
+!scope="row" style="text-align:left"|[[2018–19 Prairie View A&M Panthers basketball team|Prairie View A&M]]
+|[[2018–19 Southwestern Athletic Conference men's basketball season|SWAC]]
+|align=center|22–12
+|align=center|65
+|Automatic
+|}
+|-
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+South Regional – [[KFC Yum! Center]], [[Louisville, Kentucky]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2018–19 Virginia Cavaliers men's basketball team|Virginia]]
+|[[2018–19 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|29–3
+|align=center|2
+|At-Large
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2018–19 Tennessee Volunteers basketball team|Tennessee]]
+|[[2018–19 Southeastern Conference men's basketball season|SEC]]
+|align=center|29–5
+|align=center|5
+|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2018–19 Purdue Boilermakers men's basketball team|Purdue]]
+|[[2018–19 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|23–9
+|align=center|12
+|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2018–19 Kansas State Wildcats men's basketball team|Kansas State]]
+|[[2018–19 Big 12 Conference men's basketball season|Big 12]]
+|align=center|25–8
+|align=center|15
+|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2018–19 Wisconsin Badgers men's basketball team|Wisconsin]]
+|[[2018–19 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|23–10
+|align=center|19
+|At-Large
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2018–19 Villanova Wildcats men's basketball team|Villanova]]
+|[[2018–19 Big East Conference men's basketball season|Big East]]
+|align=center|25–9
+|align=center|21
+|Automatic
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2018–19 Cincinnati Bearcats men's basketball team|Cincinnati]]
+|[[2018–19 American Athletic Conference men's basketball season|American]]
+|align=center|28–6
+|align=center|27
+|Automatic
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2018–19 Ole Miss Rebels men's basketball team|Ole Miss]]
+|[[2018–19 Southeastern Conference men's basketball season|SEC]]
+|align=center|20–12
+|align=center|31
+|At-Large
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2018–19 Oklahoma Sooners men's basketball team|Oklahoma]]
+|[[2018–19 Big 12 Conference men's basketball season|Big 12]]
+|align=center|19–13
+|align=center|36
+|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2018–19 Iowa Hawkeyes men's basketball team|Iowa]]
+|[[2018–19 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|22–11
+|align=center|37
+|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2018–19 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+|[[2018–19 West Coast Conference men's basketball season|West Coast]]
+|align=center|22–11
+|align=center|44
+|Automatic
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2018–19 Oregon Ducks men's basketball team|Oregon]]
+|[[2018–19 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|23–12
+|align=center|48
+|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2018–19 UC Irvine Anteaters men's basketball team|UC Irvine]]
+|[[2018–19 Big West Conference men's basketball season|Big West]]
+|align=center|30–5
+|align=center|51
+|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2018–19 Old Dominion Monarchs basketball team|Old Dominion]]
+|[[2018–19 Conference USA men's basketball season|C-USA]]
+|align=center|26–8
+|align=center|56
+|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2018–19 Colgate Raiders men's basketball team|Colgate]]
+|[[2018–19 Patriot League men's basketball season|Patriot]]
+|align=center|24–10
+|align=center|60
+|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[2018–19 Gardner–Webb Runnin' Bulldogs men's basketball team|Gardner–Webb]]
+|[[2018–19 Big South Conference men's basketball season|Big South]]
+|align=center|23–11
+|align=center|63
+|Automatic
+|-
+|}
+| valign=top |
+{|class="wikitable sortable plainrowheaders"
+|+Midwest Regional – [[Sprint Center]], [[Kansas City, Missouri]]
+|-
+!scope="col"|Seed
+!scope="col" style="width: 130px;"|School
+!scope="col"|Conference
+!scope="col"|Record
+!scope="col"|Overall Seed
+!scope="col"|Berth type
+|-
+|align=center|1
+!scope="row" style="text-align:left"|[[2018–19 North Carolina Tar Heels men's basketball team|North Carolina]]
+|[[2018–19 Atlantic Coast Conference men's basketball season|ACC]]
+|align=center|27–6
+|align=center|3
+|At-Large
+|-
+|align=center|2
+!scope="row" style="text-align:left"|[[2018–19 Kentucky Wildcats men's basketball team|Kentucky]]
+|[[2018–19 Southeastern Conference men's basketball season|SEC]]
+|align=center|27–6
+|align=center|7
+|At-Large
+|-
+|align=center|3
+!scope="row" style="text-align:left"|[[2018–19 Houston Cougars men's basketball team|Houston]]
+|[[2018–19 American Athletic Conference men's basketball season|American]]
+|align=center|31–3
+|align=center|9
+|At-Large
+|-
+|align=center|4
+!scope="row" style="text-align:left"|[[2018–19 Kansas Jayhawks men's basketball team|Kansas]]
+|[[2018–19 Big 12 Conference men's basketball season|Big 12]]
+|align=center|25–9
+|align=center|13
+|At-Large
+|-
+|align=center|5
+!scope="row" style="text-align:left"|[[2018–19 Auburn Tigers men's basketball team|Auburn]]
+|[[2018–19 Southeastern Conference men's basketball season|SEC]]
+|align=center|26–9
+|align=center|18
+|Automatic
+|-
+|align=center|6
+!scope="row" style="text-align:left"|[[2018–19 Iowa State Cyclones men's basketball team|Iowa State]]
+|[[2018–19 Big 12 Conference men's basketball season|Big 12]]
+|align=center|23–11
+|align=center|24
+|Automatic
+|-
+|align=center|7
+!scope="row" style="text-align:left"|[[2018–19 Wofford Terriers men's basketball team|Wofford]]
+|[[2018–19 Southern Conference men's basketball season|Southern]]
+|align=center|29–4
+|align=center|28
+|Automatic
+|-
+|align=center|8
+!scope="row" style="text-align:left"|[[2018–19 Utah State Aggies men's basketball team|Utah State]]
+|[[2018–19 Mountain West Conference men's basketball season|Mountain West]]
+|align=center|28–6
+|align=center|32
+|Automatic
+|-
+|align=center|9
+!scope="row" style="text-align:left"|[[2018–19 Washington Huskies men's basketball team|Washington]]
+|[[2018–19 Pac-12 Conference men's basketball season|Pac-12]]
+|align=center|26–8
+|align=center|33
+|At-Large
+|-
+|align=center|10
+!scope="row" style="text-align:left"|[[2018–19 Seton Hall Pirates men's basketball team|Seton Hall]]
+|[[2018–19 Big East Conference men's basketball season|Big East]]
+|align=center|20–13
+|align=center|38
+|At-Large
+|-
+|align=center|11
+!scope="row" style="text-align:left"|[[2018–19 Ohio State Buckeyes men's basketball team|Ohio State]]
+|[[2018–19 Big Ten Conference men's basketball season|Big Ten]]
+|align=center|19–14
+|align=center|41
+|At-Large
+|-
+|align=center|12
+!scope="row" style="text-align:left"|[[2018–19 New Mexico State Aggies men's basketball team|New Mexico State]]
+|[[2018–19 Western Athletic Conference men's basketball season|WAC]]
+|align=center|30–4
+|align=center|49
+|Automatic
+|-
+|align=center|13
+!scope="row" style="text-align:left"|[[2018–19 Northeastern Huskies men's basketball team|Northeastern]]
+|[[2018–19 Colonial Athletic Association men's basketball season|CAA]]
+|align=center|23–10
+|align=center|54
+|Automatic
+|-
+|align=center|14
+!scope="row" style="text-align:left"|[[2018–19 Georgia State Panthers men's basketball team|Georgia State]]
+|[[2019 Sun Belt Conference men's basketball tournament|Sun Belt]]
+|align=center|24–9
+|align=center|57
+|Automatic
+|-
+|align=center|15
+!scope="row" style="text-align:left"|[[2018–19 Abilene Christian Wildcats men's basketball team|Abilene Christian]]
+|[[2018–19 Southland Conference men's basketball season|Southland]]
+|align=center|27–6
+|align=center|62
+|Automatic
+|-
+|align=center|16
+!scope="row" style="text-align:left"|[[2018–19 Iona Gaels men's basketball team|Iona]]
+|[[2018–19 Metro Atlantic Athletic Conference men's basketball season|MAAC]]
+|align=center|17–15
+|align=center|64
+|Automatic
+|-
+|}
+|}
+<nowiki>*</nowiki>See [[#First Four – Dayton, Ohio|First Four]]<section end="RegionSeeds"/>
+
+==Tournament bracket==
+===First Four – [[UD Arena|Dayton, OH]]===
+The [[First Four]] games involved eight teams: the four overall lowest-ranked teams, and the four lowest-ranked at-large teams.
+
+{{align|left|{{2TeamBracket | RD1= March 19 – West Region
+| team-width = 
+| RD1-seed1=16
+| RD1-team1=[[2018–19 Prairie View A&M Panthers basketball team|Prairie View A&M]]
+| RD1-score1=76
+| RD1-seed2=16
+| RD1-team2='''[[2018–19 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]'''
+| RD1-score2='''82'''
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 19 – East Region
+| team-width = 
+| RD1-seed1=11
+| RD1-team1='''[[2018–19 Belmont Bruins men's basketball team|Belmont]]'''
+| RD1-score1='''81'''
+| RD1-seed2=11
+| RD1-team2=[[2018–19 Temple Owls men's basketball team|Temple]]
+| RD1-score2=70
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 20 – East Region
+| team-width = 
+| RD1-seed1=16
+| RD1-team1=[[2018–19 North Carolina Central Eagles men's basketball team|North Carolina Central]]
+| RD1-score1=74
+| RD1-seed2=16
+| RD1-team2='''[[2018–19 North Dakota State Bison men's basketball team|North Dakota State]]'''
+| RD1-score2='''78'''
+}}}}
+{{align|left|{{2TeamBracket | RD1= March 20 – West Region
+| team-width = 
+| RD1-seed1=11
+| RD1-team1=[[2018–19 St. John's Red Storm men's basketball team|St. John's]]
+| RD1-score1=65
+| RD1-seed2=11
+| RD1-team2='''[[2018–19 Arizona State Sun Devils men's basketball team|Arizona State]]'''
+| RD1-score2='''74'''
+}}}}{{clear left}}
+
+===East Regional – [[Capital One Arena|Washington, D.C.]]===
+{{16TeamBracket
+| RD1=First round<br/>Round of 64<br/>March 21 and 22
+| RD2=Second round<br/>Round of 32<br/>March 23 and 24
+| RD3=Regional semifinals<br/>Sweet 16<br/>March 29
+| RD4=Regional Final<br/>Elite 8<br/>March 31
+
+| subgroup1=[[Colonial Life Arena|Columbia]] – Fri/Sun
+| subgroup2=[[SAP Center|San Jose]] – Fri/Sun
+| subgroup3=[[VyStar Veterans Memorial Arena|Jacksonville]] – Thu/Sat
+| subgroup4=[[Wells Fargo Arena (Des Moines, Iowa)|Des Moines]] – Thu/Sat
+
+| RD1-seed01=1
+| RD1-team01='''[[2018–19 Duke Blue Devils men's basketball team|Duke]]'''
+| RD1-score01='''85'''
+| RD1-seed02=16
+| RD1-team02=[[2018–19 North Dakota State Bison men's basketball team|North Dakota State]]
+| RD1-score02=62
+
+| RD1-seed03=8
+| RD1-team03=[[2018–19 VCU Rams men's basketball team|VCU]]
+| RD1-score03=58
+| RD1-seed04=9
+| RD1-team04='''[[2018–19 UCF Knights men's basketball team|UCF]]'''
+| RD1-score04='''73'''
+
+| RD1-seed05=5
+| RD1-team05=[[2018–19 Mississippi State Bulldogs men's basketball team|Mississippi State]]
+| RD1-score05=76
+| RD1-seed06=12
+| RD1-team06='''[[2018–19 Liberty Flames basketball team|Liberty]]'''
+| RD1-score06='''80'''
+
+| RD1-seed07=4
+| RD1-team07='''[[2018–19 Virginia Tech Hokies men's basketball team|Virginia Tech]]'''
+| RD1-score07='''66'''
+| RD1-seed08=13
+| RD1-team08=[[2018–19 Saint Louis Billikens men's basketball team|Saint Louis]]
+| RD1-score08=52
+
+| RD1-seed09=6
+| RD1-team09='''[[2018–19 Maryland Terrapins men's basketball team|Maryland]]'''
+| RD1-score09='''79'''
+| RD1-seed10=11
+| RD1-team10=[[2018–19 Belmont Bruins men's basketball team|Belmont]]
+| RD1-score10=77
+
+| RD1-seed11=3
+| RD1-team11='''[[2018–19 LSU Tigers basketball team|LSU]]'''
+| RD1-score11='''79'''
+| RD1-seed12=14
+| RD1-team12=[[2018–19 Yale Bulldogs men's basketball team|Yale]]
+| RD1-score12=74
+
+| RD1-seed13=7
+| RD1-team13=[[2018–19 Louisville Cardinals men's basketball team|Louisville]]
+| RD1-score13=76
+| RD1-seed14=10
+| RD1-team14='''[[2018–19 Minnesota Golden Gophers men's basketball team|Minnesota]]'''
+| RD1-score14='''86'''
+
+| RD1-seed15=2
+| RD1-team15='''[[2018–19 Michigan State Spartans men's basketball team|Michigan State]]'''
+| RD1-score15='''76'''
+| RD1-seed16=15
+| RD1-team16=[[2018–19 Bradley Braves men's basketball team|Bradley]]
+| RD1-score16=65
+
+| RD2-seed01=1
+| RD2-team01='''Duke'''
+| RD2-score01='''77'''
+| RD2-seed02=9
+| RD2-team02=UCF
+| RD2-score02=76
+
+| RD2-seed03=12
+| RD2-team03=Liberty
+| RD2-score03=58
+| RD2-seed04=4
+| RD2-team04='''Virginia Tech'''
+| RD2-score04='''67'''
+
+| RD2-seed05=6
+| RD2-team05=Maryland
+| RD2-score05=67
+| RD2-seed06=3
+| RD2-team06='''LSU'''
+| RD2-score06='''69'''
+
+| RD2-seed07=10
+| RD2-team07=Minnesota
+| RD2-score07=50
+| RD2-seed08=2
+| RD2-team08='''Michigan State'''
+| RD2-score08='''70'''
+
+| RD3-seed01=1
+| RD3-team01='''Duke'''
+| RD3-score01='''75'''
+| RD3-seed02=4
+| RD3-team02=Virginia Tech
+| RD3-score02=73
+
+| RD3-seed03=3
+| RD3-team03=LSU
+| RD3-score03=63
+| RD3-seed04=2
+| RD3-team04='''Michigan State'''
+| RD3-score04='''80'''
+
+| RD4-seed01=1
+| RD4-team01=Duke
+| RD4-score01=67
+| RD4-seed02=2
+| RD4-team02='''Michigan State'''
+| RD4-score02='''68'''
+}}
+
+====East Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 31
+ | time = 5:05 p.m. [[Eastern Daylight Time (North America)|EDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2019/03/31/michigan-st-duke Box score]
+ | team1 = '''#2 Michigan State Spartans'''
+ | score1 = '''68'''
+ | team2 = #1 Duke Blue Devils
+ | score2 = 67
+ | points1 = [[Cassius Winston|C. Winston]] – 20
+ | rebounds1 = [[Kenny Goins|K. Goins]], [[Xavier Tillman|X. Tillman]] – 9
+ | assist1 = C. Winston – 10
+ | otherstat1 = 
+ | points2 = [[Zion Williamson|Z. Williamson]] – 24
+ | rebounds2 = Z. Williamson – 14
+ | assist2 = [[RJ Barrett|R. Barrett]] – 6
+ | H1 = '''34'''–30
+ | H2 = 34–'''37'''
+ | place = Capital One Arena – Washington, D.C.
+ | attendance = 20,125
+ | referee = Doug Sirmons, Keith Kimble, John Gaffney
+ | TV = CBS
+}}
+
+====East Regional all-tournament team====
+*[[Cassius Winston]], Michigan State {{abbr|(MOP)|Region Most Outstanding Player}}
+*[[Xavier Tillman]], Michigan State
+*[[Zion Williamson]], Duke
+*[[RJ Barrett]], Duke
+*[[Kerry Blackshear Jr.]], Virginia Tech
+<ref name="allregion">{{cite web |title=2019 NCAA Tournament Summary |url=https://www.sports-reference.com/cbb/postseason/2019-ncaa.html |website=College Basketball at Sports-Reference.com |access-date=April 7, 2019 |language=en}}</ref>
+
+===West Regional – [[Honda Center|Anaheim, CA]]===
+{{16TeamBracket
+| RD1=First round<br/>Round of 64<br/>March 21 and 22
+| RD2=Second Round<br/>Round of 32<br/>March 23 and 24
+| RD3=Regional semifinals<br/>Sweet 16<br/>March 28
+| RD4=Regional Final<br/>Elite 8<br/>March 30
+
+| subgroup1=[[Vivint Smart Home Arena|Salt Lake City]] – Thu/Sat
+| subgroup2=[[XL Center|Hartford]] – Thu/Sat
+| subgroup3=[[BOK Center|Tulsa]] – Fri/Sun
+| subgroup4=[[Wells Fargo Arena (Des Moines, Iowa)|Des Moines]] – Thu/Sat
+
+| RD1-seed01=1
+| RD1-team01='''[[2018–19 Gonzaga Bulldogs men's basketball team|Gonzaga]]'''
+| RD1-score01='''87'''
+| RD1-seed02=16
+| RD1-team02=[[2018–19 Fairleigh Dickinson Knights men's basketball team|Fairleigh Dickinson]]
+| RD1-score02=49
+
+| RD1-seed03=8
+| RD1-team03=[[2018–19 Syracuse Orange men's basketball team|Syracuse]]
+| RD1-score03=69
+| RD1-seed04=9
+| RD1-team04='''[[2018–19 Baylor Bears basketball team|Baylor]]'''
+| RD1-score04='''78'''
+
+| RD1-seed05=5
+| RD1-team05=[[2018–19 Marquette Golden Eagles men's basketball team|Marquette]]
+| RD1-score05=64
+| RD1-seed06=12
+| RD1-team06='''[[2018–19 Murray State Racers men's basketball team|Murray State]]'''
+| RD1-score06='''83'''
+
+| RD1-seed07=4
+| RD1-team07='''[[2018–19 Florida State Seminoles men's basketball team|Florida State]]'''
+| RD1-score07='''76'''
+| RD1-seed08=13
+| RD1-team08=[[2018–19 Vermont Catamounts men's basketball team|Vermont]]
+| RD1-score08=69
+
+| RD1-seed09=6
+| RD1-team09='''[[2018–19 Buffalo Bulls men's basketball team|Buffalo]]'''
+| RD1-score09='''91'''
+| RD1-seed10=11
+| RD1-team10=[[2018–19 Arizona State Sun Devils men's basketball team|Arizona State]]
+| RD1-score10=74
+
+| RD1-seed11=3
+| RD1-team11='''[[2018–19 Texas Tech Red Raiders basketball team|Texas Tech]]'''
+| RD1-score11='''72'''
+| RD1-seed12=14
+| RD1-team12=[[2018–19 Northern Kentucky Norse men's basketball team|Northern Kentucky]]
+| RD1-score12=57
+
+| RD1-seed13=7
+| RD1-team13=[[2018–19 Nevada Wolf Pack men's basketball team|Nevada]]
+| RD1-score13=61
+| RD1-seed14=10
+| RD1-team14='''[[2018–19 Florida Gators men's basketball team|Florida]]'''
+| RD1-score14='''70'''
+
+| RD1-seed15=2
+| RD1-team15='''[[2018–19 Michigan Wolverines men's basketball team|Michigan]]'''
+| RD1-score15='''74'''
+| RD1-seed16=15
+| RD1-team16=[[2018–19 Montana Grizzlies basketball team|Montana]]
+| RD1-score16=55
+
+| RD2-seed01=1
+| RD2-team01='''Gonzaga'''
+| RD2-score01='''83'''
+| RD2-seed02=9
+| RD2-team02=Baylor
+| RD2-score02=71
+
+| RD2-seed03=12
+| RD2-team03=Murray State
+| RD2-score03=62
+| RD2-seed04=4
+| RD2-team04='''Florida State'''
+| RD2-score04='''90'''
+
+| RD2-seed05=6
+| RD2-team05=Buffalo
+| RD2-score05=58
+| RD2-seed06=3
+| RD2-team06='''Texas Tech'''
+| RD2-score06='''78'''
+
+| RD2-seed07=10
+| RD2-team07=Florida
+| RD2-score07=49
+| RD2-seed08=2
+| RD2-team08='''Michigan'''
+| RD2-score08='''64'''
+
+| RD3-seed01=1
+| RD3-team01='''Gonzaga'''
+| RD3-score01='''72'''
+| RD3-seed02=4
+| RD3-team02=Florida State
+| RD3-score02=58
+
+| RD3-seed03=3
+| RD3-team03='''Texas Tech'''
+| RD3-score03='''63'''
+| RD3-seed04=2
+| RD3-team04=Michigan
+| RD3-score04=44
+
+| RD4-seed01=1
+| RD4-team01=Gonzaga
+| RD4-score01=69
+| RD4-seed02=3
+| RD4-team02='''Texas Tech'''
+| RD4-score02='''75'''
+}}
+
+====West Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 30
+ | time = 3:09 p.m. [[Pacific Daylight Time|PDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2019/03/30/texas-tech-gonzaga/ Box score]
+ | team1 = '''#3 Texas Tech Red Raiders'''
+ | score1 = '''75'''
+ | team2 = #1 Gonzaga Bulldogs
+ | score2 = 69
+ | points1 = [[Jarrett Culver|J. Culver]] – 19
+ | rebounds1 = [[Tariq Owens|T. Owens]] – 7
+ | assist1 = [[Matt Mooney|M. Mooney]] – 5
+ | otherstat1 = 
+ | points2 = [[Rui Hachimura|R. Hachimura]] – 23
+ | rebounds2 = [[Brandon Clarke|B. Clarke]] – 12
+ | assist2 = [[Josh Perkins|J. Perkins]] – 6
+ | H1 = 35–'''37'''
+ | H2 = '''40'''–32
+ | place = Honda Center – Anaheim, California
+ | attendance = 15,277
+ | referee = John Higgins, Roger Ayers, Earl Walton
+ | TV = TBS
+}}
+
+====West Regional all-tournament team====
+*[[Jarrett Culver]], Texas Tech {{abbr|(MOP)|Region Most Outstanding Player}}
+*[[Matt Mooney]], Texas Tech
+*[[Rui Hachimura]], Gonzaga
+*[[Brandon Clarke]], Gonzaga
+*[[Trent Forrest]], Florida State
+<ref name="allregion"/>
+
+===South Regional – [[KFC Yum! Center|Louisville, KY]]===
+{{16TeamBracket
+| RD1=First round<br/>Round of 64<br/>March 21 and 22
+| RD2=Second Round<br/>Round of 32<br/>March 23 and 24
+| RD3=Regional semifinals<br/>Sweet 16<br/>March 28
+| RD4=Regional Final<br/>Elite 8<br/>March 30
+
+| subgroup1=[[Colonial Life Arena|Columbia]] – Fri/Sun
+| subgroup2=[[SAP Center|San Jose]] – Fri/Sun
+| subgroup3=[[XL Center|Hartford]] – Thu/Sat
+| subgroup4=[[Nationwide Arena|Columbus]] – Fri/Sun
+
+| RD1-seed01=1
+| RD1-team01='''[[2018–19 Virginia Cavaliers men's basketball team|Virginia]]'''
+| RD1-score01='''71'''
+| RD1-seed02=16
+| RD1-team02=[[2018–19 Gardner–Webb Runnin' Bulldogs men's basketball team|Gardner–Webb]]
+| RD1-score02=56
+
+| RD1-seed03=8
+| RD1-team03=[[2018–19 Ole Miss Rebels men's basketball team|Ole Miss]]
+| RD1-score03=72
+| RD1-seed04=9
+| RD1-team04='''[[2018–19 Oklahoma Sooners men's basketball team|Oklahoma]]'''
+| RD1-score04='''95'''
+
+| RD1-seed05=5
+| RD1-team05=[[2018–19 Wisconsin Badgers men's basketball team|Wisconsin]]
+| RD1-score05=54
+| RD1-seed06=12
+| RD1-team06='''[[2018–19 Oregon Ducks men's basketball team|Oregon]]'''
+| RD1-score06='''72'''
+
+| RD1-seed07=4
+| RD1-team07=[[2018–19 Kansas State Wildcats men's basketball team|Kansas State]]
+| RD1-score07=64
+| RD1-seed08=13
+| RD1-team08='''[[2018–19 UC Irvine Anteaters men's basketball team|UC Irvine]]'''
+| RD1-score08='''70'''
+
+| RD1-seed09=6
+| RD1-team09='''[[2018–19 Villanova Wildcats men's basketball team|Villanova]]'''
+| RD1-score09='''61'''
+| RD1-seed10=11
+| RD1-team10=[[2018–19 Saint Mary's Gaels men's basketball team|Saint Mary's]]
+| RD1-score10=57
+
+| RD1-seed11=3
+| RD1-team11='''[[2018–19 Purdue Boilermakers men's basketball team|Purdue]]'''
+| RD1-score11='''61'''
+| RD1-seed12=14
+| RD1-team12=[[2018–19 Old Dominion Monarchs basketball team|Old Dominion]]
+| RD1-score12=48
+
+| RD1-seed13=7
+| RD1-team13=[[2018–19 Cincinnati Bearcats men's basketball team|Cincinnati]]
+| RD1-score13=72
+| RD1-seed14=10
+| RD1-team14='''[[2018–19 Iowa Hawkeyes men's basketball team|Iowa]]'''
+| RD1-score14='''79'''
+
+| RD1-seed15=2
+| RD1-team15='''[[2018–19 Tennessee Volunteers basketball team|Tennessee]]'''
+| RD1-score15='''77'''
+| RD1-seed16=15
+| RD1-team16=[[2018–19 Colgate Raiders men's basketball team|Colgate]]
+| RD1-score16=70
+
+| RD2-seed01=1
+| RD2-team01='''Virginia'''
+| RD2-score01='''63'''
+| RD2-seed02=9
+| RD2-team02=Oklahoma
+| RD2-score02=51
+
+| RD2-seed03=12
+| RD2-team03='''Oregon'''
+| RD2-score03='''73'''
+| RD2-seed04=13
+| RD2-team04=UC Irvine
+| RD2-score04=54
+
+| RD2-seed05=6
+| RD2-team05=Villanova
+| RD2-score05=61
+| RD2-seed06=3
+| RD2-team06='''Purdue'''
+| RD2-score06='''87'''
+
+| RD2-seed07=10
+| RD2-team07=Iowa
+| RD2-score07=77
+| RD2-seed08=2
+| RD2-team08='''Tennessee'''
+| RD2-score08='''83<sup>OT</sup>'''
+
+| RD3-seed01=1
+| RD3-team01='''Virginia'''
+| RD3-score01='''53'''
+| RD3-seed02=12
+| RD3-team02=Oregon
+| RD3-score02=49
+
+| RD3-seed03=3
+| RD3-team03='''Purdue'''
+| RD3-score03='''99<sup>OT</sup>'''
+| RD3-seed04=2
+| RD3-team04=Tennessee
+| RD3-score04=94
+
+| RD4-seed01=1
+| RD4-team01='''Virginia'''
+| RD4-score01='''80<sup>OT</sup>'''
+| RD4-seed02=3
+| RD4-team02=Purdue
+| RD4-score02=75
+}}
+
+====South Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 30
+ | time = 8:49 p.m. [[Eastern Daylight Time|EDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2019/03/30/purdue-virginia Box score]
+ | team1 = #3 Purdue Boilermakers
+ | score1 = 75
+ | team2 = '''#1 Virginia Cavaliers'''
+ | score2 = '''80'''
+ | points1 = [[Carsen Edwards|C. Edwards]] – 42
+ | rebounds1 = [[Trevion Williams|T. Williams]] – 7
+ | assist1 = [[Nojel Eastern|N. Eastern]] – 3
+ | otherstat1 = 
+ | points2 = [[Kyle Guy|K. Guy]] – 25
+ | rebounds2 = K. Guy – 10
+ | assist2 = [[Ty Jerome|T. Jerome]] – 7
+ | H1 = '''30'''–29
+ | H2 = 40–'''41'''
+ | OT = 5–'''10'''
+ | place = KFC Yum! Center – Louisville, Kentucky
+ | attendance = 21,623
+ | referee = Ron Groover, Tony Padilla, Bo Boroski
+ | TV = TBS
+}}
+
+====South Regional all-tournament team====
+*[[Carsen Edwards]], Purdue {{abbr|(MOP)|Region Most Outstanding Player}}
+*[[Kyle Guy]], Virginia
+*[[Mamadi Diakite]], Virginia
+*[[Ty Jerome]], Virginia
+*Ryan Cline, Purdue
+<ref name="allregion"/>
+
+===Midwest Regional – [[Sprint Center|Kansas City, MO]]===
+{{16TeamBracket
+| RD1=First round<br/>Round of 64<br/>March 21 and 22
+| RD2=Second round<br/>Round of 32<br/>March 23 and 24
+| RD3=Regional semifinals<br/>Sweet 16<br/>March 29
+| RD4=Regional final<br/>Elite 8<br/>March 31
+
+| subgroup1=[[Nationwide Arena|Columbus]] – Fri/Sun
+| subgroup2=[[Vivint Smart Home Arena|Salt Lake City]] – Thu/Sat
+| subgroup3=[[BOK Center|Tulsa]] – Fri/Sun
+| subgroup4=[[VyStar Veterans Memorial Arena|Jacksonville]] – Thu/Sat
+
+| RD1-seed01=1
+| RD1-team01='''[[2018–19 North Carolina Tar Heels men's basketball team|North Carolina]]'''
+| RD1-score01='''88'''
+| RD1-seed02=16
+| RD1-team02=[[2018–19 Iona Gaels men's basketball team|Iona]]
+| RD1-score02=73
+
+| RD1-seed03=8
+| RD1-team03=[[2018–19 Utah State Aggies men's basketball team|Utah State]]
+| RD1-score03=61
+| RD1-seed04=9
+| RD1-team04='''[[2018–19 Washington Huskies men's basketball team|Washington]]'''
+| RD1-score04='''78'''
+
+| RD1-seed05=5
+| RD1-team05='''[[2018–19 Auburn Tigers men's basketball team|Auburn]]'''
+| RD1-score05='''78'''
+| RD1-seed06=12
+| RD1-team06=[[2018–19 New Mexico State Aggies men's basketball team|New Mexico State]]
+| RD1-score06=77
+
+| RD1-seed07=4
+| RD1-team07='''[[2018–19 Kansas Jayhawks men's basketball team|Kansas]]'''
+| RD1-score07='''87'''
+| RD1-seed08=13
+| RD1-team08=[[2018–19 Northeastern Huskies men's basketball team|Northeastern]]
+| RD1-score08=53
+
+| RD1-seed09=6
+| RD1-team09=[[2018–19 Iowa State Cyclones men's basketball team|Iowa State]]
+| RD1-score09=59
+| RD1-seed10=11
+| RD1-team10='''[[2018–19 Ohio State Buckeyes men's basketball team|Ohio State]]'''
+| RD1-score10='''62'''
+
+| RD1-seed11=3
+| RD1-team11='''[[2018–19 Houston Cougars men's basketball team|Houston]]'''
+| RD1-score11='''84'''
+| RD1-seed12=14
+| RD1-team12=[[2018–19 Georgia State Panthers men's basketball team|Georgia State]]
+| RD1-score12=55
+
+| RD1-seed13=7
+| RD1-team13='''[[2018–19 Wofford Terriers men's basketball team|Wofford]]'''
+| RD1-score13='''84'''
+| RD1-seed14=10
+| RD1-team14=[[2018–19 Seton Hall Pirates men's basketball team|Seton Hall]]
+| RD1-score14=68
+
+| RD1-seed15=2
+| RD1-team15='''[[2018–19 Kentucky Wildcats men's basketball team|Kentucky]]'''
+| RD1-score15='''79'''
+| RD1-seed16=15
+| RD1-team16=[[2018–19 Abilene Christian Wildcats men's basketball team|Abilene Christian]]
+| RD1-score16=44
+
+| RD2-seed01=1
+| RD2-team01='''North Carolina'''
+| RD2-score01='''81'''
+| RD2-seed02=9
+| RD2-team02=Washington
+| RD2-score02=59
+
+| RD2-seed03=5
+| RD2-team03='''Auburn'''
+| RD2-score03='''89'''
+| RD2-seed04=4
+| RD2-team04=Kansas
+| RD2-score04=75
+
+| RD2-seed05=11
+| RD2-team05=Ohio State
+| RD2-score05=59
+| RD2-seed06=3
+| RD2-team06='''Houston'''
+| RD2-score06='''74'''
+
+| RD2-seed07=7
+| RD2-team07= Wofford
+| RD2-score07=56
+| RD2-seed08=2
+| RD2-team08='''Kentucky'''
+| RD2-score08='''62'''
+
+| RD3-seed01=1
+| RD3-team01=North Carolina
+| RD3-score01=80
+| RD3-seed02=5
+| RD3-team02='''Auburn'''
+| RD3-score02='''97'''
+
+| RD3-seed03=3
+| RD3-team03=Houston
+| RD3-score03=58
+| RD3-seed04=2
+| RD3-team04='''Kentucky'''
+| RD3-score04='''62'''
+
+| RD4-seed01=5
+| RD4-team01='''Auburn'''
+| RD4-score01='''77<sup>OT</sup>'''
+| RD4-seed02=2
+| RD4-team02=Kentucky
+| RD4-score02=71
+}}
+
+====Midwest Regional Final====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = March 31
+ | time = 1:20 p.m. [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2019/03/31/auburn-kentucky Box score]
+ | team1 = '''#5 Auburn Tigers'''
+ | score1 = '''77'''
+ | team2 = #2 Kentucky Wildcats
+ | score2 = 71
+ | points1 = [[Jared Harper|J. Harper]] – 26
+ | rebounds1 = [[Samir Doughty|S. Doughty]], D. Purifoy – 7
+ | assist1 = J. Harper – 5
+ | otherstat1 = 
+ | points2 = [[P. J. Washington|P. Washington]] – 28
+ | rebounds2 = P. Washington – 13
+ | assist2 = [[Tyler Herro|T. Herro]] – 6
+ | H1 = 30–'''35'''
+ | H2 = '''30'''–25
+ | OT = '''17'''–11
+ | place = Sprint Center – Kansas City, Missouri
+ | attendance = 17,174
+ | referee = Terry Wymer, Mike Roberts, Brian Dorsey
+ | TV = CBS
+}}
+
+====Midwest Regional all-tournament team====
+*[[Jared Harper]], Auburn {{abbr|(MOP)|Region Most Outstanding Player}}
+*[[Bryce Brown (basketball)|Bryce Brown]], Auburn
+*[[Chuma Okeke]], Auburn
+*[[P. J. Washington]], Kentucky
+*[[Tyler Herro]], Kentucky
+<ref name="allregion"/>
+
+===Final Four – [[U.S. Bank Stadium|Minneapolis, MN]]===
+{{4TeamBracket
+| RD1=National Semifinals<br/>Final Four<br/>Saturday, April 6
+| RD2=National Championship Game<br/>Monday, April 8
+| score-width=25
+| team-width=140
+
+| RD1-seed1=E2
+| RD1-team1=[[2018–19 Michigan State Spartans men's basketball team|Michigan State]]
+| RD1-score1=51
+| RD1-seed2=W3
+| RD1-team2='''[[2018–19 Texas Tech Red Raiders basketball team|Texas Tech]]'''
+| RD1-score2='''61'''
+
+| RD1-seed3=S1
+| RD1-team3='''[[2018–19 Virginia Cavaliers men's basketball team|Virginia]]'''
+| RD1-score3='''63'''
+| RD1-seed4=MW5
+| RD1-team4=[[2018–19 Auburn Tigers men's basketball team|Auburn]]
+| RD1-score4=62
+
+| RD2-seed1=W3
+| RD2-team1=Texas Tech
+| RD2-score1=77
+| RD2-seed2=S1
+| RD2-team2='''Virginia'''
+| RD2-score2='''85<sup>OT</sup>'''
+}}
+
+====National semifinals====
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Saturday, April 6
+ | time = 5:09 p.m. [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2019/04/06/auburn-virginia Box score]
+ | team1 = #MW5 Auburn Tigers
+ | score1 = 62
+ | team2 = '''#S1 Virginia Cavaliers'''
+ | score2 = '''63'''
+ | points1 = S. Doughty – 13
+ | rebounds1 = A. McLemore – 12
+ | assist1 = [[Jared Harper|J. Harper]], [[Bryce Brown (basketball)|B. Brown]] – 3
+ | otherstat1 = 
+ | points2 = [[Ty Jerome|T. Jerome]] – 21
+ | rebounds2 = T. Jerome – 9
+ | assist2 = T. Jerome – 6
+ | H1 = '''31'''–28
+ | H2 = 31–'''35'''
+ | place = U.S. Bank Stadium – Minneapolis, Minnesota
+ | attendance = 72,711
+ | referee = Doug Sirmons, Keith Kimble, James Breeding
+ | TV = CBS
+}}
+{{basketballbox
+ | bg = #fff
+ | date = Saturday, April 6
+ | time = 7:49 p.m. [[Central Daylight Time|CDT]]
+ | report = [https://www.ncaa.com/game/basketball-men/d1/2019/04/06/texas-tech-michigan-st Box score]
+ | team1 = '''#W3 Texas Tech Red Raiders'''
+ | score1 = '''61'''
+ | team2 = #E2 Michigan State Spartans
+ | score2 = 51
+ | points1 = [[Matt Mooney|M. Mooney]] – 22
+ | rebounds1 = [[Norense Odiase|N. Odiase]] – 9
+ | assist1 = ''Three tied'' – 2
+ | otherstat1 = 
+ | points2 = [[Cassius Winston|C. Winston]] – 16
+ | rebounds2 = [[Xavier Tillman|X. Tillman]], K. Goins – 8
+ | assist2 = K. Goins, C. Winston – 2
+ | H1 = '''23'''–21
+ | H2 = '''38'''–30
+ | place = U.S. Bank Stadium – Minneapolis, Minnesota
+ | attendance = 72,711
+ | referee = Jeff Anderson, Doug Shows, Bo Boroski
+ | TV = CBS
+}}
+
+====National Championship====
+{{Main|2019 NCAA Division I Men's Basketball Championship Game}}
+{{basketballbox
+ | bg = #e3e3e3
+ | date = Monday, April 8
+ | time = 8:20 p.m. [[Central Daylight Time|CDT]]
+ | report = 
+ | team1 = #W3 Texas Tech Red Raiders
+ | score1 = 77
+ | team2 = '''#S1 Virginia Cavaliers'''
+ | score2 = '''85'''
+| points1 = [[Brandone Francis|B. Francis]] – 17
+| rebounds1 = [[Jarrett Culver|J. Culver]] – 9
+| assist1 = J. Culver – 6
+| points2 = [[De'Andre Hunter|D. Hunter]] – 27
+| rebounds2 = B. Key – 10
+| assist2 = [[Ty Jerome|T. Jerome]] – 9
+ | H1 = 29–'''32'''
+ | H2 = '''39'''–36
+ | OT = 9–'''17'''
+ | place = U.S. Bank Stadium – Minneapolis, Minnesota
+ | attendance = 72,062
+ | referee = Michael Stephens, Terry Wymer, Ron Groover
+ | TV = CBS
+}}
+
+====Final Four all-tournament team====
+* [[Kyle Guy]] (Jr, Virginia) – [[NCAA basketball tournament Most Outstanding Player|Final Four Most Outstanding Player]]<ref name=finalfouratt>{{cite web |url=https://www.cbssports.com/college-basketball/news/2019-final-four-all-tournament-team-kyle-guy-named-most-outstanding-player/ |title=2019 Final Four All-Tournament Team: Kyle Guy named Most Outstanding Player |publisher=CBSSports.com |date=April 8, 2019 |access-date=April 8, 2019|first=Chip|last=Patterson}}</ref>
+* [[Jarrett Culver]] (So, Texas Tech) <ref name=finalfouratt/>
+* [[Matt Mooney]] (Gr, Texas Tech)<ref name=finalfouratt/>
+* [[De'Andre Hunter]] (So, Virginia)<ref name=finalfouratt/>
+* [[Ty Jerome]] (Jr, Virginia)<ref name=finalfouratt/>
+
+==Game summaries and tournament notes==
+
+===Upsets===
+Per the NCAA, "Upsets are defined as when the winner of the game was seeded five or more places lower than the team it defeated." There were five upsets during the whole tournament, and all of them were in the first round.
+
+{| class="wikitable" style="text-align:left; font-size: 95%;"
+! Round !! East !! West !! South !! Midwest
+|-
+| First round
+| No. 12 [[2018–19 Liberty Flames basketball team|Liberty]] defeated No. 5 [[2018–19 Mississippi State Bulldogs men's basketball team|Mississippi State]], 80–76
+| No. 12 [[2018–19 Murray State Racers men's basketball team|Murray State]] defeated No. 5 [[2018–19 Marquette Golden Eagles men's basketball team|Marquette]], 83–64
+| {{ubl |No. 13 [[2018–19 UC Irvine Anteaters men's basketball team|UC Irvine]] defeated No. 4 [[2018–19 Kansas State Wildcats men's basketball team|Kansas State]], 70–64| No. 12 [[2018–19 Oregon Ducks men's basketball team|Oregon]] defeated No. 5 [[2018–19 Wisconsin Badgers men's basketball team|Wisconsin]], 72–54}}
+| No. 11 [[2018–19 Ohio State Buckeyes men's basketball team|Ohio State]] defeated No. 6 [[2018–19 Iowa State Cyclones men's basketball team|Iowa State]], 62–59
+|}
+
+==Record by conference==
+{|class="wikitable sortable plainrowheaders" style="text-align:center;"
+!scope="col"|Conference
+!scope="col"|Bids
+!scope="col"|Record
+!scope="col"|Win %
+!scope="col"|R64
+!scope="col"|R32
+!scope="col"|S16
+!scope="col"|E8
+!scope="col"|F4
+!scope="col"|CG
+!scope="col"|NC
+|-
+!scope="row"|[[Atlantic Coast Conference|ACC]]
+|7
+|15–6
+|{{winpct|15|6}}
+|7
+|5
+|5
+|2
+|1
+|1
+|1
+|-
+!scope="row"|[[Big 12]]
+|6
+|8–6
+|{{winpct|8|6}}
+|6
+|4
+|1
+|1
+|1
+|1
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Big Ten]]
+|8
+|13–8
+|{{winpct|13|8}}
+|8
+|7
+|3
+|2
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Southeastern Conference|SEC]]
+|7
+|12–7
+|{{winpct|12|7}}
+|7
+|5
+|4
+|2
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[West Coast Conference|WCC]]
+|2
+|3–2
+|{{winpct|3|2}}
+|2
+|1
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[American Athletic Conference|American]]
+|4
+|3–4
+|{{winpct|3|4}}
+|3
+|2
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Pac-12]]
+|3
+|4–3
+|{{winpct|4|3}}
+|3
+|2
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Big East]]
+|4
+|1–4
+|{{winpct|1|4}}
+|3
+|1
+||{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Ohio Valley Conference|Ohio Valley]]
+|2
+|2–2
+|{{winpct|2|2}}
+|2
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Atlantic Sun]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Big West]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Mid-American Conference|MAC]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+||{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Southern Conference|Southern]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Atlantic 10]]
+|2
+|0–2
+|{{winpct|0|2}}
+|2
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Mountain West]]
+|2
+|0–2
+|{{winpct|0|2}}
+|2
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Northeast Conference|NEC]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+!scope="row"|[[Summit League|Summit]]
+|1
+|1–1
+|{{winpct|1|1}}
+|1
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|{{sort|-1|–}}
+|-
+|}
+{{reflist|group=note|close}}
+*The R64, R32, S16, E8, F4, CG, and NC columns indicate how many teams from each conference were in the round of 64 (first round), round of 32 (second round), Sweet 16, Elite Eight, Final Four, championship game, and national champion, respectively.
+*The "Record" column includes wins in the First Four for the NEC, Ohio Valley, Pac-12, and Summit conferences and losses in the First Four for the American and Big East conference.
+*The SWAC and MEAC each had one representative, eliminated in the First Four with a record of 0–1.
+*The America East, Big Sky, Big South, Colonial, C-USA, Horizon, MAAC, Missouri Valley, Patriot, Southland, Sun Belt, WAC, and Ivy League each had one representative, eliminated in the Round of 64 with a record of 0–1.
+
+==Media coverage==
+
+===Television===
+[[CBS Sports]] and [[Turner Sports]] (via [[TBS (American TV channel)|TBS]], [[TNT (American TV network)|TNT]], and [[truTV]]) had U.S. television rights to the tournament.<ref>{{cite web |title=Turner Sports and CBS Sports Announce 2019 NCAA Division I Men's Basketball Championship Commentator Teams |url=https://www.turner.com/pressroom/turner-sports-and-cbs-sports-announce-2019-ncaa-division-i-men’s-basketball-championship |publisher=Turner Broadcasting |access-date=11 March 2019 |date=11 March 2019 |df=mdy-all }}{{Dead link|date=June 2022 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> As part of a cycle than began in 2016, CBS televised the 2019 Final Four and championship game.
+
+In response to criticism over TBS's handling of the selection show in 2018 (which featured an unconventional two-hour format where all the qualifying teams were first revealed in alphabetical order before the matchups were actually unveiled, and had viewership fall by 52% partly due to it also being aired on cable rather than CBS), it was announced that CBS's selection show would revert to an hour-long format, and prioritize unveiling the bracket. [[CNN]] president [[Jeff Zucker]], who had also become head of WarnerMedia's sports properties after a reorganization, explained that "it's a sign of understanding when things don't necessarily go as well as you would hope you change it. So there's no shame in that. At the end of the day, you have to give the fans what they want."<ref>{{Cite news |last=Strauss |first=Ben |date=March 12, 2019 |title=After backlash, the NCAA tournament selection show is going back to basics |url=https://www.washingtonpost.com/sports/2019/03/12/after-backlash-ncaa-tournament-selection-show-is-going-back-basics |access-date=March 12, 2019 |newspaper=The Washington Post}}</ref> The show attracted its highest viewership since 2014 and averaged a 4.0 share on Nielsen overnight ratings.<ref>{{Cite news |url=https://www.chicagotribune.com/sports/college/ct-spt-cbs-ncaa-tournament-selection-show-ratings-20190318-story.html |title=CBS' streamlined NCAA 'Selection Show' scores best overnight ratings in 5 years |last=Rosenthal |first=Phil |newspaper=Chicago Tribune |date=March 18, 2019 |access-date=2019-03-19 |df=mdy-all}}</ref>
+
+====Television channels====
+*First Four – truTV
+*First and second rounds – CBS, TBS, TNT, and truTV
+*Regional semifinals and finals (Sweet Sixteen and Elite Eight) – CBS and TBS
+*National semifinals (Final Four) and championship – CBS
+
+====Studio hosts====
+* [[Greg Gumbel]] (New York City and Minneapolis) – First round, second round, Regionals, Final Four and National Championship Game
+* [[Ernie Johnson Jr.|Ernie Johnson]] (New York City, Atlanta, and Minneapolis) – First round, second round, Regional Semi-Finals, Final Four and National Championship Game
+* [[Casey Stern]] (Atlanta) – First Four, first round and second round
+* [[Adam Zucker]] (New York) – First round and second round (game breaks)
+
+====Studio analysts====
+* [[Charles Barkley]] (New York City and Minneapolis) – First round, second round, Regionals, Final Four and National Championship Game
+* [[Mike Brey]] (Atlanta) – Regional Semi-Finals
+* [[Jeff Capel III|Jeff Capel]] (Atlanta) – First round
+* [[Seth Davis]] (Atlanta and Minneapolis) – First Four, first round, second round, Regional Semi-Finals, Final Four and National Championship Game
+* [[Brendan Haywood]] (Atlanta) – First Four, first round, second round and Regional semi-finals
+* [[Clark Kellogg]] (New York City and Minneapolis) – First round, second round, Regionals, Final Four and National Championship Game
+* [[Porter Moser]] (Atlanta) – Second round
+* [[Candace Parker]] (Atlanta and Minneapolis) – First Four, first round, second round, Regional Semi-Finals and Final Four
+* [[Kenny Smith]] (New York City and Minneapolis) – First round, second round, Regionals, Final Four and National Championship Game
+* [[Gene Steratore]] (New York City and Minneapolis) (Rules Analyst) – First Four, first round, second round, Regionals, Final Four and National Championship Game
+* [[Wally Szczerbiak]] (New York City and Minneapolis) – Second round and Final Four
+* [[Jay Wright (basketball)|Jay Wright]] (Minneapolis) – Final Four
+
+====Commentary teams====
+* [[Jim Nantz]]/[[Bill Raftery]]/[[Grant Hill]]/[[Tracy Wolfson]] – First and second rounds at Columbia, South Carolina; East Regional at Washington, D.C.; Final Four and National Championship at Minneapolis, Minnesota
+* [[Brian Anderson (broadcaster)|Brian Anderson]]/[[Chris Webber]]/[[Allie LaForce]] – First and second rounds at Columbus, Ohio; South Regional at Louisville, Kentucky
+* [[Ian Eagle]]/[[Jim Spanarkel]]/[[Jamie Erdahl]] – First and second rounds at Jacksonville, Florida; Midwest Regional at Kansas City, Missouri
+* [[Kevin Harlan]]/[[Reggie Miller]]/[[Dan Bonner]]/[[Dana Jacobson]] – First Four at Dayton, Ohio (Tuesday); first and second rounds at Des Moines, Iowa;  West Regional at Anaheim, California
+* [[Brad Nessler]]/[[Steve Lavin]]/[[Jim Jackson (basketball)|Jim Jackson]]/[[Evan Washburn]] – First and second rounds at Tulsa, Oklahoma
+* [[Spero Dedes]]/[[Steve Smith (basketball)|Steve Smith]]/[[Len Elmore]] or [[Jim Jackson (basketball)|Jim Jackson]]/[[Rosalyn Gold-Onwude]] – First Four at Dayton, Ohio (Wednesday); first and second rounds at San Jose, California
+** Jackson called the First Four (Wednesday) with Elmore doing the first and second rounds with Dedes, Smith and Gold-Onwude.
+* [[Andrew Catalon]]/[[Steve Lappas]]/[[Lisa Byington]] – First and second rounds at Salt Lake City, Utah
+* [[Carter Blackburn]]/[[Debbie Antonelli]]/[[John Schriffen]] – First and second rounds at Hartford, Connecticut
+
+ESPN International had international rights to the tournament. Coverage uses CBS/Turner play-by-play teams until the Final Four.<ref>{{Cite web |last=Negron |first=Anna |date=2021-04-05 |title=ESPN to Present Extensive Coverage from Minneapolis Throughout the Men's Final Four |url=https://espnpressroom.com/us/press-releases/2019/04/espn-to-present-extensive-coverage-from-twin-cities-throughout-the-mens-final-four/ |access-date=2024-04-27 |website=ESPN Press Room U.S. |language=en-US}}</ref>
+
+* [[Sean McDonough]], [[Jay Bilas]] (Texas Tech vs. Michigan State), [[Dick Vitale]] (Virginia vs. Auburn, National Championship Game)
+
+===Radio===
+[[Westwood One (current)|Westwood One]] had exclusive radio rights to the entire tournament.
+{{col-begin}}
+{{col-2}}
+
+====First Four====
+*[[Ted Emrich]] and [[Austin Croshere]] – at Dayton, Ohio
+
+====First and second rounds====
+*[[Scott Graham]] and [[Donny Marshall]] – Hartford, Connecticut
+*[[Kevin Kugler]] and [[Robbie Hummel]] – Des Moines, Iowa
+*[[Tom McCarthy (sportscaster)|Tom McCarthy]] and [[Jon Crispin]] – Jacksonville, Florida
+*[[John Sadak]] and [[Dan Dickau]] – Salt Lake City, Utah
+*[[Brandon Gaudin]] and [[John Thompson (basketball)|John Thompson]] – Columbia, South Carolina
+*[[Craig Way]] and [[Will Perdue]] – Columbus, Ohio
+*[[Ryan Radtke]] and [[P. J. Carlesimo]] – Tulsa, Oklahoma
+*[[Chris Carrino]] and [[Mike Montgomery (basketball)|Mike Montgomery]] – San Jose, California
+{{col-2}}
+
+====Regionals====
+*Kevin Kugler and John Thompson – East Regional at Washington, D.C.
+*Scott Graham and P. J. Carlesimo – Midwest Regional at Kansas City, Missouri
+*Brandon Gaudin and Will Perdue – South Regional at Louisville, Kentucky
+*Ryan Radtke and Jim Jackson – West Regional at Anaheim, California
+
+====Final Four====
+*Kevin Kugler, John Thompson, Clark Kellogg, and [[Jim Gray (sportscaster)|Jim Gray]] – Minneapolis, Minnesota
+{{col-end}}
+
+===Internet===
+
+====Video====
+Live video of games was available for streaming through the following means:<ref name="2017 TV">{{cite web |last=Maiman |first=Beth |title=March Madness TV schedule: How to watch and live stream every game in the NCAA men's basketball tournament |url=https://www.ncaa.com/news/basketball-men/article/march-madness-2017-tv-schedule-how-watch-and-live-stream |publisher=NCAA |access-date=March 9, 2017 |date=March 8, 2017}}</ref>
+
+* NCAA March Madness Live (website and app, no CBS games on [[digital media player]]s; access to games on WarnerMedia channels (TBS, TNT, truTV) required [[TV Everywhere]] authentication through provider)
+* [[CBS All Access]] (only CBS games, service subscription required)
+* [[CBSSports.com|CBS Sports website]] and app (only CBS games)
+* Watch TBS website and app (only TBS games, required TV Everywhere authentication)
+* Watch TNT website and app (only TNT games, required TV Everywhere authentication)
+* Watch truTV website and app (only truTV games, required TV Everywhere authentication)
+* Websites and apps of cable, satellite, and OTT providers of CBS, TBS, TNT, and truTV (access required subscription)
+
+In addition, the March Madness app offered '''Fast Break''', whiparound coverage of games similar to [[NFL RedZone]].
+* [[Adam Lefkoe]], [[Tony Delk]], [[Steve Alford]], [[Andy Katz]] – Atlanta<ref>{{Cite web |title=Catch Tony Delk Adam Lefkoe Steve Alford March Madness Live App Thursday Sunday night Thursday |url=https://www.scoopnest.com/user/TheAndyKatz/1108481619332083719-catch-me-tony-delk-adam-lefkoe-and-steve-alford-on-the-march-madness-live-app-thursdaysunday-night-w |website=scoopnest.com}}</ref>
+
+====Audio====
+Live audio of games was available for streaming through the following means:
+* NCAA March Madness Live (website and app)
+* Westwood One Sports website
+* [[TuneIn]] (website and app)
+* Websites and apps of Westwood One Sports affiliates
+
+=== Film ===
+<nowiki>#</nowiki>16 seed [[Gardner–Webb Runnin' Bulldogs men's basketball|Gardner–Webb]]'s season and appearance in the tournament became the subject of a documentary titled ''[[The Dancin' Bulldogs]]'', released on October 16, 2020.
+
+==See also==
+* [[2019 NCAA Division I women's basketball tournament]]
+* [[2019 NCAA Division II men's basketball tournament]]
+* [[2019 NCAA Division III men's basketball tournament]]
+* [[2019 NAIA Division I men's basketball tournament]]
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{NCAA Division I men's basketball tournament navbox}}
+{{2019 NCAA Division I men's basketball tournament navbox}}
+{{2018–19 NCAA Division I championships navbox}}
+
+{{DEFAULTSORT:2019 NCAA Division I men's basketball tournament}}
+[[Category:2018–19 NCAA Division I men's basketball season|Ncaa tournament]]
+[[Category:NCAA Division I men's basketball tournament]]
+[[Category:College basketball tournaments in Minnesota]]
+[[Category:2019 in sports in Minnesota|NCAA Division I Men's Basketball]]
+[[Category:2010s in Minneapolis]]
+[[Category:March 2019 sports events in the United States|NCAA Division I men's basketball tournament]]
+[[Category:April 2019 sports events in the United States|NCAA Division I men's basketball tournament]]
